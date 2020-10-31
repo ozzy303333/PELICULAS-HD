@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 PELICULAS HD  
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2019/11/mulan-2020-poster-japones.jpeg?itok=tDbo9Uja.JPG" group-title="CINE HD", mulan HD 2020
 https://archive.org/download/v1_20201031/v~1.ia.mp4  
 #EXTINF:-1 tvg-logo="https://i2.wp.com/concdecultura.com/wp-content/uploads/2020/08/banda-sonora-Enola-Holmes-Daniel-Pemberton-Cultura.jpg?w=1024&amp;ssl=1.JPG" group-title="CINE HD", enola-holmes-hd-1080p 
