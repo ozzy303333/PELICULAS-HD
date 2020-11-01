@@ -374,3 +374,5 @@ https://dl.dropboxusercontent.com/s/2pkc54ncakpumg4/SalynPM-VALFT3-18p.mp4?dl=0
 https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Zootopia (2016)
 https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",La Noche del Demonio(2016)
+https://www1642.o0-4.com/token=RoWanVsKwKkrcORO4kXCvg/1604208969/186.154.0.0/22/3/21/0df4e9df51859a21d85252923ba10213-480p.mp4
