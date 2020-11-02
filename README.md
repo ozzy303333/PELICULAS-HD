@@ -118,7 +118,7 @@ https://dl.dropboxusercontent.com/s/d4ey4ni8uy4pa7t/SalynPM-The.predator.2018.mp
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Grinch (2000)
 https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
 #EXTINF:0 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Hobbit: 1 (2012)
-https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0
+https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Hobbit: 3 (2014)
 https://dl.dropboxusercontent.com/s/7qujsxz4niz9xm5/SalynPM-E.H.L.B.D.L.5.E.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El juego del miedo 2 (2005)
