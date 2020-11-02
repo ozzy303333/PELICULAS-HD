@@ -19,6 +19,9 @@ https://archive.org/download/green-zone-distrito-protegido-hd-1080p/Green%20Zone
 https://archive.org/download/magia-del-reves-hd-1080p/Magia%20del%20Rev%C3%A9s%20HD%20%281080p%29%20.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://img.repelis.id/cover/el-ejercito-de-frankenstein-1603819509.jpg",el-ejercito-de-frankenstein-hd-1080p
 https://archive.org/download/el-ejercito-de-frankenstein-hd-1080p/El%20Ejercito%20de%20Frankenstein%20%20HD%20%281080p%29%20%20.mp4
+
+
+
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Greyhound (2020)
 https://iptvgratisdark.live/agos2020/08/516486.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",A dos metros de ti (2019)
@@ -323,6 +326,8 @@ https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
 https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 
 
+
+
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i1.wp.com/netfliteando.com/wp-content/uploads/2020/08/Crimenes-de-Familia.jpg?fit=1200%2C960&ssl=1.jpg", Crimenes de familia (2020)
 https://archive.org/download/una-noche-en-bangkok-2020/Cri%CC%81menes%20de%20familia%20%282020%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1YTllZWYtYTM5Ny00YTU1LTlmZTktNTYwY2M3ODUwYWI3XkEyXkFqcGdeQXVyOTkwMzEzNTQ@._V1_.jpg", Fuego negro
@@ -339,3 +344,127 @@ https://archive.org/download/una-noche-en-bangkok-2020/Una%20Noche%20en%20Bangko
 https://archive.org/download/una-noche-en-bangkok-2020/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
 
 
+#EXTINF:-1,------|Spain|------
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2604
+#EXTINF:-1,ES:-----|ES Entretenimiento|--------------------
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/60623
+#EXTINF:-1,ES070:TNT HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2534
+#EXTINF:-1,ES220:TNT FHD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52387
+#EXTINF:-1,ES006:AXN ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2598
+#EXTINF:-1,ES212:AXN
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52395
+#EXTINF:-1,ES007:AXN White
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2597
+#EXTINF:-1,ES211:AXN White HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52396
+#EXTINF:-1,ES043:Fox ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2561
+#EXTINF:-1,ES210:FOX HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52397
+#EXTINF:-1,ES044:Fox Life ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2560
+#EXTINF:-1,ES209:FOX Life HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52398
+#EXTINF:-1,ES066:Syfy ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2538
+#EXTINF:-1,ES208:SYFY
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52399
+#EXTINF:-1,ES111:VH1
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29281
+#EXTINF:-1,ES012:Calle 13
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2592
+#EXTINF:-1,ES213:Calle 13 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52394
+#EXTINF:-1,ES067:TCM ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2537
+#EXTINF:-1,ES222:Paramount Channel
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52385
+#EXTINF:-1,ES065:Paramount
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2539
+#EXTINF:-1,ES167:SUNDANCE FHD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29225
+#EXTINF:-1,ES047:Hollywood
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2557
+#EXTINF:-1,ES223:Hollywood HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52384
+#EXTINF:-1,ES030:Comedy Central
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2574
+#EXTINF:-1,ES221:Comedy Central
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52386
+#EXTINF:-1,ES029:Clan Tve
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2575
+#EXTINF:-1,ES130:CLAN TVE
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29262
+#EXTINF:-1,ES146:CLAN TVE
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29246
+#EXTINF:-1,ES269:CLAN TVE
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52338
+#EXTINF:-1,ES004:AMC ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2600
+#EXTINF:-1,ES255:AMC
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52352
+#EXTINF:-1,ES178:TV Galicia
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29214
+#EXTINF:-1,ES154:GALICIA TV
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29238
+#EXTINF:-1,ES236:Dark HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52371
+#EXTINF:-1,ES032:Crimen Investigation
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2572
+#EXTINF:-1,ES149:CRIMEN & INVESTIGACION
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29243
+#EXTINF:-1,ES001:#0 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2603
+#EXTINF:-1,ES003:A&E ES
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2601
+#EXTINF:-1,ES081:SOMOS
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29311
+#EXTINF:-1,ES033:Cuatro
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2571
+#EXTINF:-1,ES061:Canal DE Case
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2543
+#EXTINF:-1,ES093:40 TV
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29299
+#EXTINF:-1,ES094:#0
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29298
+#EXTINF:-1,ES124:Syfy HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29268
+#EXTINF:-1,ES141:Canal de las Estrellas
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29251
+#EXTINF:-1,ES148:TVE LA 2 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29244
+#EXTINF:-1,ES152:Esperanza TV
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29240
+#EXTINF:-1,ES155:Azteca Honduras
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29237
+#EXTINF:-1,ES159:N Cuatro HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29233
+#EXTINF:-1,ES175:TELEMADRID FHD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29217
+#EXTINF:-1,ES176:TELESUR HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29216
+#EXTINF:-1,ES179:TV3 Cat
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29213
+#EXTINF:-1,ES180:TVE 24H
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29212
+#EXTINF:-1,ES181:TVE Internacional
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29211
+#EXTINF:-1,ES194:Cuatro
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52413
+#EXTINF:-1,ES195:N Cuatro HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52412
+#EXTINF:-1,ES198:RTV Ceuta
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52409
+#EXTINF:-1,ES199:RTVA
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52408
+#EXTINF:-1,ES207:Canal Parlamento
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52400
+#EXTINF:-1,ES254:A&E
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52353
+#EXTINF:-1,ES273:DW HD 2*
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52334
+#EXTINF:-1,ES279:NON STOP PEOPLE
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52328
