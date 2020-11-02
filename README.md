@@ -327,7 +327,7 @@ https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 https://archive.org/download/una-noche-en-bangkok-2020/Cri%CC%81menes%20de%20familia%20%282020%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1YTllZWYtYTM5Ny00YTU1LTlmZTktNTYwY2M3ODUwYWI3XkEyXkFqcGdeQXVyOTkwMzEzNTQ@._V1_.jpg", Fuego negro
 https://archive.org/download/una-noche-en-bangkok-2020/Fuego%20negro%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://pics.filmaffinity.com/Mercenarios_de_lite-250028343-large.jpg", mercenarios de elite
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://images.justwatch.com/backdrop/197909502/s1440/mercenarios-de-elite.jpg", mercenarios de elite
 https://archive.org/download/una-noche-en-bangkok-2020/Mercenarios%20de%20e%CC%81lite%20%282020%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.soy-de.com/images/thumbs/origenes-secretosla-nueva-pelicula-de-netflix-con--0051968.jpeg", Origenes secretos
 https://archive.org/download/una-noche-en-bangkok-2020/Ori%CC%81genes%20secretos%20%282020%29.mp4
