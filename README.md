@@ -9,9 +9,9 @@ https://archive.org/download/el-diablo-a-todas-horas-hd-1080p/El%20Diablo%20a%20
 https://archive.org/download/bill-ted-face-the-music-hd-1080p/Bill%20%26%20Ted%20Face%20the%20Music%20HD%20%281080p%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://static.noimg.net/movie/cover/original/9261438bf13928c939782887e23d0da3.jpg",el-cadaver-1090p-latino-hd
 https://archive.org/download/el-cadaver-1090p-latino-hd/El%20Cad%C3%A1ver%201090p%20latino%20HD.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/10/Rebeca-2020-HD-720p-Latino.jpg.webp.JPG",rebeca-hd-1080p-latino
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/gQoziFizfsY/maxresdefault.jpg",rebeca-hd-1080p-latino
 https://archive.org/download/rebeca-hd-1080p-latino/Rebeca%20HD%20%281080p%29%20latino.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://files.lamega.com.co/assets/public/styles/d_img_480x870/public/media/image/image/2020-10/las%20brujas%20cua.jpg?h=c7029006&amp;itok=BTI3Gk7O.JPG",las-brujas-hd-1080p
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/UOKs3GOVMoU/maxresdefault.jpg",las-brujas-hd-1080p
 https://archive.org/download/las-brujas-hd-1080p/Las%20Brujas%20HD%20%281080p%29%20.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://pics.filmaffinity.com/the_green_zone-782729965-mmed.jpg.JPG",green-zone-distrito-protegido-hd-1080p
 https://archive.org/download/green-zone-distrito-protegido-hd-1080p/Green%20Zone_%20Distrito%20Protegido%20HD%20%281080p%29%20.mp4
