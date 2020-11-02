@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/855/public/media/image/2019/11/mulan-2020-poster-japones.jpeg?itok=tDbo9Uja.JPG",mulan HD 2020
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/Aiy0LuudlYA/maxresdefault.jpg",mulan HD 2020
 https://archive.org/download/v1_20201031/v~1.ia.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i2.wp.com/concdecultura.com/wp-content/uploads/2020/08/banda-sonora-Enola-Holmes-Daniel-Pemberton-Cultura.jpg?w=1024&amp;ssl=1.JPG",enola-holmes-hd-1080p
 https://archive.org/download/enola-holmes-hd-1080p/Enola%20Holmes%20HD%20%281080p%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://pics.filmaffinity.com/the_devil_all_the_time-216752531-mmed.jpg",el-diablo-a-todas-horas-hd-1080p
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://media.telebajocero.com/adjuntos/225/imagenes/000/640/0000640490.jpg?0000-00-00-00-00-00.jpg",el-diablo-a-todas-horas-hd-1080p
 https://archive.org/download/el-diablo-a-todas-horas-hd-1080p/El%20Diablo%20a%20Todas%20Horas%20HD%20%281080p%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1592587870979-5YB8EYNH8R48TPC7BCF7/ke17ZwdGBToddI8pDm48kO6we-oCVoA9325TJ9xGit17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXOn9Nxkp_2kfv1bYeC_2ZIZ5kCKAXAvnMnFh3KAb_twZiBzp4SJKR9WV6uRavEbCg/new-image-for-bill-ted-face-the-music-teases-the-characters-latest-adventure2?format=1500w.JPG",bill-ted-face-the-music-hd-1080p
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://image.tmdb.org/t/p/original/bdk5zCYypKSU4j9oKmvZRvyptUj.jpg",bill-ted-face-the-music-hd-1080p
 https://archive.org/download/bill-ted-face-the-music-hd-1080p/Bill%20%26%20Ted%20Face%20the%20Music%20HD%20%281080p%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://static.noimg.net/movie/cover/original/9261438bf13928c939782887e23d0da3.jpg",el-cadaver-1090p-latino-hd
 https://archive.org/download/el-cadaver-1090p-latino-hd/El%20Cad%C3%A1ver%201090p%20latino%20HD.mp4
