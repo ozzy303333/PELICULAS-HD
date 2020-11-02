@@ -13,9 +13,9 @@ https://archive.org/download/el-cadaver-1090p-latino-hd/El%20Cad%C3%A1ver%201090
 https://archive.org/download/rebeca-hd-1080p-latino/Rebeca%20HD%20%281080p%29%20latino.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/UOKs3GOVMoU/maxresdefault.jpg",las-brujas-hd-1080p
 https://archive.org/download/las-brujas-hd-1080p/Las%20Brujas%20HD%20%281080p%29%20.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://pics.filmaffinity.com/the_green_zone-782729965-mmed.jpg.JPG",green-zone-distrito-protegido-hd-1080p
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.pinimg.com/originals/9e/81/5c/9e815cf82f5885702ae5d5b5d10880f1.jpg",green-zone-distrito-protegido-hd-1080p
 https://archive.org/download/green-zone-distrito-protegido-hd-1080p/Green%20Zone_%20Distrito%20Protegido%20HD%20%281080p%29%20.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://img.repelis.id/cover/magia-del-reves-1603990807.jpg.JPG",magia-del-reves-hd-1080p
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://1.bp.blogspot.com/-zFuWN1s7HUk/X5Xk08VC2jI/AAAAAAAAVuE/cYbEl-D9fBEi_EJg9mPU7qzLqiEkFh-ywCLcBGAsYHQ/s0/Magia%2Bdel%2Brev%25C3%25A9s%2B%25282020%2529%2B1080p%2BWEB-DL%2BCastellano%2B-%2BDescargatepelis.com.mkv_snapshot_00.01.25.302.jpg",magia-del-reves-hd-1080p
 https://archive.org/download/magia-del-reves-hd-1080p/Magia%20del%20Rev%C3%A9s%20HD%20%281080p%29%20.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://img.repelis.id/cover/el-ejercito-de-frankenstein-1603819509.jpg",el-ejercito-de-frankenstein-hd-1080p
 https://archive.org/download/el-ejercito-de-frankenstein-hd-1080p/El%20Ejercito%20de%20Frankenstein%20%20HD%20%281080p%29%20%20.mp4
