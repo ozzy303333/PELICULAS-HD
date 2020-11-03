@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/fsDLAmhmg5A/maxresdefault.jpg",A Perfect Plan (2020).mp4
+https://archive.org/download/la-vieja-guardia-2020_202011/A%20Perfect%20Plan%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://lightbox-prod.imgix.net/images/uploads/1597793589838-infamous-2020-cc1.jpg",Allagash 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Allagash%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/xjHYmNaWaKI/maxresdefault.jpg",Arturo y Merlín Caballeros de Camelot 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Arturo%20y%20Merli%CC%81n%20Caballeros%20de%20Camelot%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/d0AVVmMY2_8/maxresdefault.jpg",Devoto, la invasión silenciosa 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Devoto%2C%20la%20invasio%CC%81n%20silenciosa%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.neeo.es/wp-content/uploads/2020/07/grreyhound.jpg",Greyhound enemigos bajo el mar 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/4ULOlo8gvF8/maxresdefault.jpg",Heavenquest A Pilgrim's Progress 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
+
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://theactionelite.com/wp-content/uploads/2020/01/84098548_491811158380468_1642793345400963072_n-1.jpg",Invincible 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Invincible%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/rRvokiv8gZM/hqdefault.jpg",La bala perdida 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/La%20bala%20perdida%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.locosxlosjuegos.com/wp-content/uploads/2020/07/the-old-guard-et00131143-02-06-2020-02-17-30.jpg",La vieja guardia 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/La%20vieja%20guardia%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/Aiy0LuudlYA/maxresdefault.jpg",Proyecto Power 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Proyecto%20Power%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://img.yts.mx/assets/images/movies/the_dalton_gang_2020/large-screenshot3.jpg",The Dalton Gang 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/The%20Dalton%20Gang%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/Aiy0LuudlYA/maxresdefault.jpg",The Dalton Gang 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/The%20Dalton%20Gang%20%282020%29.mp4
+
+
+
+
+
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/Aiy0LuudlYA/maxresdefault.jpg",mulan HD 2020
 https://archive.org/download/v1_20201031/v~1.ia.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i2.wp.com/concdecultura.com/wp-content/uploads/2020/08/banda-sonora-Enola-Holmes-Daniel-Pemberton-Cultura.jpg?w=1024&amp;ssl=1.JPG",enola-holmes-hd-1080p
