@@ -19,9 +19,6 @@ https://archive.org/download/green-zone-distrito-protegido-hd-1080p/Green%20Zone
 https://archive.org/download/magia-del-reves-hd-1080p/Magia%20del%20Rev%C3%A9s%20HD%20%281080p%29%20.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://img.repelis.id/cover/el-ejercito-de-frankenstein-1603819509.jpg",el-ejercito-de-frankenstein-hd-1080p
 https://archive.org/download/el-ejercito-de-frankenstein-hd-1080p/El%20Ejercito%20de%20Frankenstein%20%20HD%20%281080p%29%20%20.mp4
-
-
-
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Greyhound (2020)
 https://iptvgratisdark.live/agos2020/08/516486.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",A dos metros de ti (2019)
@@ -50,12 +47,8 @@ https://dl.dropboxusercontent.com/s/11ts5lxxiqa0uhq/SalynPM-SPM9x2w.mp4
 https://dl.dropboxusercontent.com/s/ivsoa25l6173ips/SalynPM-SPM5i5z.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Tierra de zombies 2009
 https://dl.dropboxusercontent.com/s/hx0avpivgfcguqk/SalynPM-Zombieland.mp4?dl=0
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Dora y la ciudad perdida 2019
-https://dl.dropboxusercontent.com/s/f2znzdpcfo01ues/SalynPM-SPM8y1h.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",No manches Frida 2 2019
 https://content-na.drive.amazonaws.com/cdproxy/share/xBf2JOWtOpnnhCWtWCAV3Ty3K041EDKRgblsrUqdir8/nodes/rkRLodYHTVCcDofVWbMCyg?nonce=4oyWAIeqTeWAETYsZWutoumgP5aohP_meHKgb-WR6E2uoUFegVQxWhQcucGVVSVH&download=true&ownerId=A1UL3LSS0WHJ1U
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Son como niños 1 2010
-https://content-na.drive.amazonaws.com/cdproxy/share/r0fph6863vCakGFjkkRgXeRW0P2WaFGCDBqoawZuMuU/nodes/52J0kAiLQAq_7iyfJn3BjA?nonce=YkRC4ZYkX_v9EB9yaYnl8n6bJWz8NBEgN-T-66fJm6Jh6O_2jglxH4_5w1uR--OB&download=true&ownerId=A19RVH3N6WX969
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Son como niños 2 2013
 https://content-na.drive.amazonaws.com/cdproxy/share/rcBRqzni4bQyonpjVUHsl1frCiQFFxBuA6yBMAKah7w/nodes/_7ujuEjbSouSrd-QjOFwWg?nonce=ZBDK2FOsCe_TXhAHWhJRGiBhjYhFBFmzCNbiL48o76WmogCKsXFD3wVSSW2zd5rY&download=true&ownerId=A3Q0WPO6WQYJY2
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",nada (2018)
@@ -120,7 +113,7 @@ https://dl.dropboxusercontent.com/s/3bdpwlme3gz5vj5/SalynPM-SPM3o4e.mp4?dl=0
 https://dl.dropboxusercontent.com/s/d4ey4ni8uy4pa7t/SalynPM-The.predator.2018.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Grinch (2000)
 https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
-#EXTINF:0 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Hobbit: 1 (2012)
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Hobbit: 1 (2012)
 https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Hobbit: 3 (2014)
 https://dl.dropboxusercontent.com/s/7qujsxz4niz9xm5/SalynPM-E.H.L.B.D.L.5.E.mp4?dl=0
@@ -136,8 +129,6 @@ https://dl.dropboxusercontent.com/s/vflj0k4u9su8xhw/SalynPM-SPM2m8w.mp4?dl=0
 https://dl.dropboxusercontent.com/s/3hgulftc05n8kik/SalynPM-E.L.D.D.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El paquete (2018)
 https://dl.dropboxusercontent.com/s/g2dwc5n1gvom49w/SalynPM-The.package.2018.1080p.mp4?dl=0
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El Rito (2011)
-https://dl.dropboxusercontent.com/s/ed2wtovw834sulu/SalynPM-SPM5r5a.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El señor de los anillos: 1 (2001)
 https://dl.dropboxusercontent.com/s/gqd0lh30v7gihzz/SalynPM-E.S.D.L.A.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",El señor de los anillos: 2 (2002)
@@ -180,8 +171,6 @@ https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4?dl=0
 https://dl.dropboxusercontent.com/s/34ftkx76j8sd5mk/A.Haunted.House.2.2014.bluray-latino-e-ingles-subt.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Ingrid cambia de rumbo (2017)
 https://dl.dropboxusercontent.com/s/r51rmkp2gfg7zmn/SalynPM-Ingrid.mp4?dl=0
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Inquilinos (2018)
-https://dl.dropboxusercontent.com/s/icz7sika1qgx67h/SalynPM-L.I.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",John Wick 1 Otro Día Para Matar (2014)
 https://dl.dropboxusercontent.com/s/sam04mfl774yk05/SalynPM-J.W.1.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Kingsman: El círculo dorado (2017)
@@ -248,8 +237,6 @@ https://dl.dropboxusercontent.com/s/i2dnitld1ys6q8b/SalynPM-SPM4d1n.mp4?dl=0
 https://dl.dropboxusercontent.com/s/7vpro8lqhhqbik0/SalynPM-G.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Pixels (2015)
 https://dl.dropboxusercontent.com/s/47dw19fbbittdrj/SalynPM-Pix3ls.mp4?dl=0
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Pokémon la película: ¡Yo te elijo!  (2017)
-https://dl.dropboxusercontent.com/s/r7wqpio7wicyjot/SalynPM-Poke.movie.i.choose.you.2017.1080p.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Resident Evil 1: El huésped maldito (2002)
 https://dl.dropboxusercontent.com/s/u6cvi51sg11y7ue/SalynPM-R.E.1.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Resident Evil 2: Apocalipsis (2004)
@@ -324,28 +311,20 @@ https://dl.dropboxusercontent.com/s/2pkc54ncakpumg4/SalynPM-VALFT3-18p.mp4?dl=0
 https://dl.dropboxusercontent.com/s/n8r4p0vk12q2p7v/SalynPM-Wall.E.mp4?dl=0
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Zootopia (2016)
 https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
-
-
-
-
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i1.wp.com/netfliteando.com/wp-content/uploads/2020/08/Crimenes-de-Familia.jpg?fit=1200%2C960&ssl=1.jpg", Crimenes de familia (2020)
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i1.wp.com/netfliteando.com/wp-content/uploads/2020/08/Crimenes-de-Familia.jpg?fit=1200%2C960&ssl=1.jpg",Crimenes de familia (2020)
 https://archive.org/download/una-noche-en-bangkok-2020/Cri%CC%81menes%20de%20familia%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1YTllZWYtYTM5Ny00YTU1LTlmZTktNTYwY2M3ODUwYWI3XkEyXkFqcGdeQXVyOTkwMzEzNTQ@._V1_.jpg", Fuego negro
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1YTllZWYtYTM5Ny00YTU1LTlmZTktNTYwY2M3ODUwYWI3XkEyXkFqcGdeQXVyOTkwMzEzNTQ@._V1_.jpg",Fuego negro
 https://archive.org/download/una-noche-en-bangkok-2020/Fuego%20negro%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://images.justwatch.com/backdrop/197909502/s1440/mercenarios-de-elite.jpg", mercenarios de elite
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://images.justwatch.com/backdrop/197909502/s1440/mercenarios-de-elite.jpg",mercenarios de elite
 https://archive.org/download/una-noche-en-bangkok-2020/Mercenarios%20de%20e%CC%81lite%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.soy-de.com/images/thumbs/origenes-secretosla-nueva-pelicula-de-netflix-con--0051968.jpeg", Origenes secretos
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.soy-de.com/images/thumbs/origenes-secretosla-nueva-pelicula-de-netflix-con--0051968.jpeg",Origenes secretos
 https://archive.org/download/una-noche-en-bangkok-2020/Ori%CC%81genes%20secretos%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/rYbeOlBhhWc/maxresdefault.jpg", los hermanos santana
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/rYbeOlBhhWc/maxresdefault.jpg",los hermanos santana
 https://archive.org/download/una-noche-en-bangkok-2020/Santana%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/62PoSIIzWPw/maxresdefault.jpg", una-noche-en-bangkok-2020
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/62PoSIIzWPw/maxresdefault.jpg",una-noche-en-bangkok-2020
 https://archive.org/download/una-noche-en-bangkok-2020/Una%20Noche%20en%20Bangkok%20%282020%29.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfYWOzl7lnmeBGTvO61r0fP0bIWCcRzf5n_pR1JMUf4ILEdJ-LUy0AN5OpvAJbKJOYXSaE-DJH2T5eIcn56eQR_LMSK8.jpg?r=6ad.jpg", welcome to sudden death
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABfYWOzl7lnmeBGTvO61r0fP0bIWCcRzf5n_pR1JMUf4ILEdJ-LUy0AN5OpvAJbKJOYXSaE-DJH2T5eIcn56eQR_LMSK8.jpg?r=6ad.jpg",welcome to sudden death
 https://archive.org/download/una-noche-en-bangkok-2020/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
-
-
-
-#EXTM3U
 #EXTINF:-1 ,LA:Appaloosa (DUAL AUDIO)
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/34211.mkv
 #EXTINF:-1 ,LA:Apuesta Maestra
@@ -3858,24 +3837,6 @@ http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36731.mp4
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36734.mp4
 #EXTINF:-1 ,LA:Soldado Universal  El Retorno
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36732.mp4
-#EXTINF:-1 ,LA:Soldado Universal 4: El Juicio Final
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36733.mp4
-#EXTINF:-1 ,LA:Soldado Universal: Regeneración
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36735.mp4
-#EXTINF:-1 ,LA:Sombras Tenebrosas
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36737.mp4
-#EXTINF:-1 ,LA:Somnia  Dentro De Tus Sueños
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36738.mp4
-#EXTINF:-1 ,LA:Somos Los Miller
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36739.mp4
-#EXTINF:-1 ,LA:Soy El Número Cuatro
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36740.mp4
-#EXTINF:-1 ,LA:Space Chimps  Misión Espacial
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36741.mp4
-#EXTINF:-1 ,LA:Species
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36747.mp4
-#EXTINF:-1 ,LA:Species II
-http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36744.mp4
 #EXTINF:-1 ,LA:Species III
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/36745.mp4
 #EXTINF:-1 ,LA:Species IV
@@ -4434,5 +4395,3 @@ http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/37144.mp4
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/37145.mp4
 #EXTINF:-1 ,LA:Zootopia
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/37146.mp4
-
-
