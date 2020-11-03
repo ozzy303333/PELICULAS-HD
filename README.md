@@ -24,6 +24,14 @@ https://archive.org/download/la-vieja-guardia-2020_202011/Proyecto%20Power%20%28
 https://archive.org/download/la-vieja-guardia-2020_202011/The%20Dalton%20Gang%20%282020%29.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/Aiy0LuudlYA/maxresdefault.jpg",The Dalton Gang 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/The%20Dalton%20Gang%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/f4LM9a02q9Q/maxresdefault.jpg",The Outpost 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/The%20Outpost%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://www.mondosonoro.com/wp-content/uploads/2020/06/the-vast-of-night.jpg",TThe Vast of Night 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/The%20Vast%20of%20Night%20%282020%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="https://i.ytimg.com/vi/f4LM9a02q9Q/maxresdefault.jpg",Tyler Rake 2020
+https://archive.org/download/la-vieja-guardia-2020_202011/Tyler%20Rake%20%282020%29.mp4
+
+
 
 
 
