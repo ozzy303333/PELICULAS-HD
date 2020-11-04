@@ -12,7 +12,7 @@ https://archive.org/download/la-vieja-guardia-2020_202011/Arturo%20y%20Merli%CC%
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/d0AVVmMY2_8/maxresdefault.jpg" tvg-name="la invasión silenciosa 2020"  group-title="CINE HD",la invasión silenciosa 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/Devoto%2C%20la%20invasio%CC%81n%20silenciosa%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.neeo.es/wp-content/uploads/2020/07/grreyhound.jpg" tvg-name="Greyhound enemigos bajo el smar 2020"  group-title="CINE HD",Greyhound enemigos bajo el mar 2020
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.neeo.es/wp-content/uploads/2020/07/grreyhound.jpg" tvg-name="Greyhound enemigos bajo el mar 2020"  group-title="CINE HD",Greyhound enemigos bajo el mar 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/4ULOlo8gvF8/maxresdefault.jpg" tvg-name="Heavenquest A Pilgrim's Progress 2020"  group-title="CINE HD",Heavenquest A Pilgrim's Progress 2020
@@ -6635,4 +6635,31 @@ http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/37145.mp4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA:Zootopia"  group-title="Unsorted",LA:Zootopia
 http://mu02.cularu.com:8880/movie/yg6m024/2LCFYd5jbW/37146.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i1.wp.com/ossom.cl/wp-content/uploads/2020/02/aves_de_presa.jpg?resize=910%2C564&ssl=1" tvg-name="Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)"  group-title="CINE HD",Aves de presa (y la fantabulosa emancipación de Harley Quinn) (2020)
+https://archive.org/download/tiempo-de-caza-2020/Aves%20de%20presa%20%28y%20la%20fantabulosa%20emancipacio%CC%81n%20de%20Harley%20Quinn%29%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://1.bp.blogspot.com/-C4GvwwFTTGU/XmsEGp08yOI/AAAAAAAAGkk/Icr2DullWkAXEDzB8zF71EdEl52PvBp9QCLcBGAsYHQ/s1600/bloodshot-review.jpg" tvg-name="Bloodshot (2020).mp4"  group-title="CINE HD",Bloodshot (2020).mp4
+https://archive.org/download/tiempo-de-caza-2020/Bloodshot%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.heavenofhorror.com/wp-content/uploads/2020/02/Dragonheart-Vengeance-Netflix-Review.jpg" tvg-name="Dragonheart Vengeance (2020).mp4"  group-title="CINE HD",Dragonheart Vengeance (2020).mp4
+https://archive.org/download/tiempo-de-caza-2020/Dragonheart%20Vengeance%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ytimg.com/vi/kqN9QVTMAv4/maxresdefault.jpg" tvg-name="El ritmo de la venganza (2020).mp4"  group-title="CINE HD",El ritmo de la venganza (2020).mp4
+https://archive.org/download/tiempo-de-caza-2020/El%20ritmo%20de%20la%20venganza%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://occ-0-3281-358.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABU8p9YQIU8SsibwJVuOyxCuC3EqhNQiaBK7gv-gJVto91Z1cjcR0gAaO1T8eDAOoAsFaw499AcBGSdRyuaENhZsL-jIUzxM0xukdT_cdsovx9W_5r_ywCH8EvTCM0Q.jpg?r=e5e" tvg-name="La Tierra y la Sangre (2020).mp4"  group-title="CINE HD",La Tierra y la Sangre (2020).mp4
+https://archive.org/download/tiempo-de-caza-2020/La%20Tierra%20y%20la%20Sangre%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/Mij37FqIlOSpmx7gsV8mCtLD9omQ6GLJd8HDtWalwFt-dyOcoS-mDUerGpg_l_4VReDSBUiJ-4LiZkVqy1BIp0FF9cPyU6VCqOwbz7KCfzwL4Oey3OVbZLB32YHqVhBgASlcmMs20TDUqDDgtIamZq0ypFzaLHNXMDoNB1vHwnwzKshrlzax5ekCuNP03wXh9ktln2Gxd0cVFUQ65IXWaGqh8HUeAGj66ro2" tvg-name="Mortal Kombat Legends La venganza de Scorpion 2020)"  group-title="CINE HD",Mortal Kombat Legends La venganza de Scorpion 2020)
+https://archive.org/download/tiempo-de-caza-2020/Mortal%20Kombat%20Legends%20La%20venganza%20de%20Scorpion%20%282020%29-1.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://bazarshowmag.com/wp-content/uploads/2020/04/Spenser-Confidential-una-nuova-commedia-dazione-su-Netflix-960x640-1.jpg" tvg-name="Spenser confidencial (2020)"  group-title="CINE HD",Spenser confidencial (2020)
+https://archive.org/download/tiempo-de-caza-2020/Spenser%20confidencial%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABQFDUyZBWTBdiVBucjnPGIIbomec6U5qgMc3kZ4eJTVoWpSkV3c1bcvSWnUReguvnngyCpZdpVwrPprJp8pravgXhMmcsTkmmekoov2DXheR6K9B03KraARXf3Y1QA.jpg?r=07d" tvg-name="Tiempo de caza (2020)"  group-title="CINE HD",Tiempo de caza (2020)
+https://archive.org/download/tiempo-de-caza-2020/Tiempo%20de%20caza%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.ytimg.com/vi/P8r5ybXzXXA/maxresdefault.jpg" tvg-name="Tóxico (2020)"  group-title="CINE HD",Tóxico (2020)
+https://archive.org/download/tiempo-de-caza-2020/To%CC%81xico%20%282020%29.mp4
 
