@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://bloggera.in/wp-content/uploads/2020/07/wrlxe-GY0124HJX10-Full-Image_GalleryCover-en-US-1587407024636._UR19201080_RI_.jpg" tvg-name="A Perfect Plan (2020).mp4"  group-title="CINE HD",A Perfect Plan (2020).mp4
 https://archive.org/download/la-vieja-guardia-2020_202011/A%20Perfect%20Plan%20%282020%29.mp4
 
@@ -11,7 +12,7 @@ https://archive.org/download/la-vieja-guardia-2020_202011/Arturo%20y%20Merli%CC%
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/d0AVVmMY2_8/maxresdefault.jpg" tvg-name="la invasión silenciosa 2020"  group-title="CINE HD",la invasión silenciosa 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/Devoto%2C%20la%20invasio%CC%81n%20silenciosa%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.neeo.es/wp-content/uploads/2020/07/grreyhound.jpg" tvg-name="Greyhound enemigos bajo el mar 2020"  group-title="CINE HD",Greyhound enemigos bajo el mar 2020
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.neeo.es/wp-content/uploads/2020/07/grreyhound.jpg" tvg-name="Greyhound enemigos bajo el smar 2020"  group-title="CINE HD",Greyhound enemigos bajo el mar 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/4ULOlo8gvF8/maxresdefault.jpg" tvg-name="Heavenquest A Pilgrim's Progress 2020"  group-title="CINE HD",Heavenquest A Pilgrim's Progress 2020
