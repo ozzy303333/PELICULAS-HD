@@ -214,7 +214,7 @@ https://dl.dropboxusercontent.com/s/d4ey4ni8uy4pa7t/SalynPM-The.predator.2018.mp
 https://dl.dropboxusercontent.com/s/vk2qc7jbnmzkcp8/SalynPM-Grinch.2000.mp4?dl=0
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="El Hobbit: 1 (2012)"  group-title="CINE HD",El Hobbit: 1 (2012)
-https://dl.dropboxusercontent.com/s/kedrgbzms1gbq0j/SalynPM-E.H.U.V.I.mp4?dl=0.mp4
+https://archive.org/download/el-hobbit-1-2012-720i/El%20Hobbit_%201%20%282012%29%20720i.mp4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="El Hobbit: 3 (2014)"  group-title="CINE HD",El Hobbit: 3 (2014)
 https://dl.dropboxusercontent.com/s/7qujsxz4niz9xm5/SalynPM-E.H.L.B.D.L.5.E.mp4?dl=0
