@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.ecestaticos.com/image/clipping/79776773aab795837282c7d4947abaf7/opening.jpg" tvg-name="prueba"  group-title="CINE HD",pepito perez
-https://m60.uqload.com/3rfkklqcdvw3yldrdjfpbnvbdqbauntmn65yyypv7vwfoiwg7bgpg4saaj4a/v.mp4
-
+https://uqload.com/4ax4sg4pfyle.html
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w500/migoeK0dyDkbyY7dxMWGFY7NxAS.jpg" tvg-name="Allagash 2020"  group-title="CINE HD",Allagash 2020
