@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.ecestaticos.com/image/clipping/79776773aab795837282c7d4947abaf7/opening.jpg" tvg-name="prueba"  group-title="CINE HD",pepito perez
-http://localhost:54321/streaming?t=1
-
+https://vimeo.com/476070515
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w500/migoeK0dyDkbyY7dxMWGFY7NxAS.jpg" tvg-name="Allagash 2020"  group-title="CINE HD",Allagash 2020
 https://archive.org/download/la-vieja-guardia-2020_202011/Allagash%20%282020%29.mp4
