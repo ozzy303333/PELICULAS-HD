@@ -1,5 +1,7 @@
 #EXTM3U
 
+https://cdn-z948.movcloud.net/hls/e7b3e88ae13d28285d5668da26420c024aedcee511a021f2aaecbd02458f3696170095a42061cf0e64b279b048669678a354cd01cb227bbbd301356b506efb6d93f500979a5d369aec0fcd25298fa0152a6933c363de66b41dce321f85548db69223052c3cb7012e76786ca10c205ff0/000.ts
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://bloggera.in/wp-content/uploads/2020/07/wrlxe-GY0124HJX10-Full-Image_GalleryCover-en-US-1587407024636._UR19201080_RI_.jpg" tvg-name="A Perfect Plan (2020).mp4"  group-title="CINE HD",A Perfect Plan (2020).mp4
 https://archive.org/download/la-vieja-guardia-2020_202011/A%20Perfect%20Plan%20%282020%29.mp4
 
