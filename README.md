@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w500/migoeK0dyDkbyY7dxMWGFY7NxAS.jpg" tvg-name="prueba"  group-title="CINE HD",Allagash 2020
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.ecestaticos.com/image/clipping/79776773aab795837282c7d4947abaf7/opening.jpg" tvg-name="prueba"  group-title="CINE HD",Allagash 2020
 https://cdn-z948.movcloud.net/hls/e7b3e88ae13d28285d5668da26420c024aedcee511a021f2aaecbd02458f3696170095a42061cf0e64b279b048669678a354cd01cb227bbbd301356b506efb6d93f500979a5d369aec0fcd25298fa0152a6933c363de66b41dce321f85548db69223052c3cb7012e76786ca10c205ff0/000.ts
 
 
