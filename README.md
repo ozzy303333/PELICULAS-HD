@@ -3,6 +3,9 @@ www.cinecalidad.is/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/11/a-babysitters-guide-to-monster-hunting.jpg" tvg-name="Guía de una niñera para cazar monstruos (2020)"  group-title="CINE HD",pelicula
 https://bs1.hlssrv.com/hls_serve_mp4/Bt3L2FQ7cqN1G5UTPG5W.mp4?md5=usxxwlmxOq9RmbomNxSRbA&expires=1604644085
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://occ-0-116-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZRRK2WxIpCr_E8HF46e5uLMQ3WwznvC7Nez4aU3R-g7gqcelHdRV2pQP7Tfzl4Dz1QhjFLnEmK-w0yzJ2dXINHqlHpf.jpg?r=dcc" tvg-name="300"  group-title="CINE HD",300
+http://www.deadlyblogger.com/NewRelease/300rise.webm
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.ecestaticos.com/image/clipping/79776773aab795837282c7d4947abaf7/opening.jpg" tvg-name="prueba"  group-title="CINE HD",pepito perez
 https://www.dropbox.com/s/vinn3ogscowt7iw/Gameplay%20de%20Rambo%20-%20Mortal%20Kombat%20Mobile%20Latino.mp4?dl=0
 
