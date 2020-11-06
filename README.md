@@ -1,4 +1,5 @@
 #EXTM3U
+www.cinecalidad.is/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.cinecalidad.is/wp-content/uploads/2020/11/a-babysitters-guide-to-monster-hunting.jpg" tvg-name="Guía de una niñera para cazar monstruos (2020)"  group-title="CINE HD",pelicula
 https://bs1.hlssrv.com/hls_serve_mp4/Bt3L2FQ7cqN1G5UTPG5W.mp4?md5=usxxwlmxOq9RmbomNxSRbA&expires=1604644085
 
