@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CINE HD" tvg-logo="https://occ-0-116-114.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZRRK2WxIpCr_E8HF46e5uLMQ3WwznvC7Nez4aU3R-g7gqcelHdRV2pQP7Tfzl4Dz1QhjFLnEmK-w0yzJ2dXINHqlHpf.jpg?r=dcc",300
-https://drive.google.com/file/d/14ctKAHMTWAWW8kuWKktRw0DunVUDweas/view?usp=sharing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",BATMAN INICIA
+https://archive.org/download/batman-1-inicia-2005-1_202011/A%20dos%20metros%20de%20ti%20%282019%29~1.ia.mp4
+
 
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",LEGO DC: Batman - Asuntos familiares (2019)
 https://dl.dropboxusercontent.com/s/uo4u686vb17xe11/SalynPM-SPM9a5o.mp4?dl=0
