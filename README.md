@@ -142,4 +142,161 @@ https://archive.org/download/el-senor-de-los-anillos-3-2003-1/LEGO%20DC_%20Batma
 
 
 
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igXVSRZsNX3TZsKrQqSyEJvzHRF.jpg",Todo incluido (2009)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/189.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg",Enredados (2010)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/191.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg",Milagro en la celda 7 (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/192.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUAsEgeeJjZk01kmQazbJmYhORx.jpg",Hermano oso (2003)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/193.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8aCmglbG3MmXLUA2bmdqO9NjxL.jpg",Hermano oso 2 (2006)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/194.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHYIu9LdmGE9wvbvsRv4uL5GTU6.jpg",Despierto (2007)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/195.mp4
+#EXTINF:-1 group-title="SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/U1yqjQnFO3Lk8n5dUrzCAonDBs.jpg",Into the Arms of Danger (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/198.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lflUtjYKjufnnrQbhQx9lSv2IHQ.jpg",The Day Will Come (2016)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/199.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmS0nA7EFQwwHYOeIfukgTnFz39.jpg",Redirected (2014)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/200.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8r8UFAmb5qAfz4W7wEXCJoCEBr.jpg",El secreto de Adaline (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/201.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpC0bIYYfAY0wLa8sjlzIspMQr4.jpg",divorciada y fantástica (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/202.mp4
+#EXTINF:-1 group-title="SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg",Patients of a Saint (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/203.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwrPvCGIDX5JWmxVNtLF67SeaXG.jpg",Ejecutivos agresivos (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/204.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLjDOHZ56VBYLg5m3ohx4hMcTtO.jpg",Veneno en la piel (1993)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/205.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us6f635Lq7k9oIBAosl1hx87jgr.jpg",Think like a dog (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/206.mp4
+#EXTINF:-1 group-title="SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suORidtGKPO6tWwNqiwGvNo85z3.jpg",The Vast of Night (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/207.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg",Mentes peligrosas (1995)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/208.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FSvYd6SZBYcqPqn010XXbaXy2j.jpg",La Dama y el Vagabundo (1955)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/209.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAzG8J0M5qNF8EQhzYqNZaJUqcs.jpg",Sobrevive esta noche (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/211.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfRQ4X9z5eOXD1NbYR0JqlOlidJ.jpg",La vida es bella (1997)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/212.mp4
+#EXTINF:-1 group-title="ESTRENOS INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xywrlinKKOhdEHeaOkLNE38Vetw.jpg",Hannah Montana: La Película (2009)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/214.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZiUwgdXMUMY8vEpMylOahUIDzL.jpg",Dark City (1998)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/215.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQkYieCKVzRglLvJADSEHMm12Fm.jpg",Rompiendo las reglas 2 (2011)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/216.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9v66AdqXSmphnKPEcHqlKqxhA8.jpg",La ruta hacia El Dorado (2000)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/217.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xy5tWhdcy2cba5w8bQfCJsYdmpQ.jpg",Lecciones inolvidables (1988)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/218.mp4
+#EXTINF:-1 group-title="ESTRENOS INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tL7lmAIA6jOf43XNDIdgKGKUfaI.jpg",Scooby-Doo alcon man
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/219.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGou0H0Xe3VoRisKgcMbka57CGu.jpg",Niño rico (1994)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/220.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jngNKSF4NlRB7LnOgnq1tnvKfu.jpg",La llamada de lo salvaje (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/225.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtLB9IRTC9GwbktR3EBFu2Pux8z.jpg",Insidious: La última llave (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/226.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fDgLcc35A0IpxhMyJMP33bSDXj.jpg",El leñador (2004)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/227.mp4
+#EXTINF:-1 group-title="ROMANCE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gReRqOnhWEKOrRj6dW7wE1qfbzd.jpg",Conquista a medias (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/228.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6jSpfFY9jclbl9pE0vf00XHXrh.jpg",Lego DC: ¡Shazam!: Magia y monstruos (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/229.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",Liga de la Justicia Oscura - Guerra Apokolips (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/230.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHqgeCXnPOcVpaU56AZZwJNHZt4.jpg",Dino King 3D: Journey to Fire Mountain (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/231.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLZQv7cN8ckBEa7HvjYkm2wx7F9.jpg",Take Shelter (2011)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/232.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6p1ngaeYCDW25sBaSmb1HKoQEHq.jpg",Promesa sangrienta (2009)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/233.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZq3c8rJEfctZof4VY6JCrvRost.jpg",Ciudadano X (1995)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/235.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtmCckiI4fsYZkjmHJc1CZmVqH.jpg",Paranormal Activity: Dimensión fantasma (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/236.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LB4oRyWWwv08C2xxmbx1wTj7CU.jpg",Gretel y Hansel: Un oscuro cuento de hadas (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/237.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJsIn1YJw4fVnxD19vP43MJWYW5.jpg",Tyler Rake (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/238.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHLraZnPPAchPFQqbdZcNcNudKz.jpg",Enemigo público (1998)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/239.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vz4biYDRFWlWn7aAdOzpQzmVkA.jpg",Cuestión de justicia (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/245.mp4
+#EXTINF:-1 group-title="SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7Lr066W3wC7ksYnJDgN5Hhc6S.jpg",madre problemática
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/246.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zh7Lr066W3wC7ksYnJDgN5Hhc6S.jpg",el despertar del diablo
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/247.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKevdQnQxn6Z9qHVSiCxhMdmO9J.jpg",El imperio del fuego (2002)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/249.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkiYPIuh314llJOHJokvjCPztRb.jpg",Trolls 2 Gira mundial (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/253.mp4
+#EXTINF:-1 group-title="ESTRENOS INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg",Sonic: La película (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/254.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG8ZMvXbR595Y21YCeUwbcori73.jpg",La liga de los 5 (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/255.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg",Alicia en el País de las Maravillas (1951)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/256.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Io6R7kDqO8nkj7VE0DSbbVNWuK.jpg",La morada del miedo (2005)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/258.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg",El hombre invisible (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/259.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXYARspjKpwN9vAOp2F9MF3NWa1.jpg",Bad Boys for Life (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/260.mp4
+#EXTINF:-1 group-title="ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdwpe2rk2xJ0MwO64ouVTNOyTzD.jpg",Bloodshot (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/263.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dicP4RZkcgJi9udelg6QuYxf4K7.jpg",Aves de Presa (y la Fantabulosa Emancipación de Harley Quinn) (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/264.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKt6sDEGVGbQWkaBuVZxJcLmQXj.jpg",Stargirl (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/265.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6eTFck3BufqgomtO4lfBqnfSa2.jpg",All Cars Go To Heaven - Volume 2: Better Than A Horse (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/266.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RcauukLfwBtB7bAKzFhxAnlSKb.jpg",La marca del demonio (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/267.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioh4pSEaXWof5P9tLbkUivYpVlK.jpg",Pokémon: Mewtwo contraataca - Evolución (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/269.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/560YqKXG0eyRGXh2rI3ve9uovb9.jpg",El escándalo (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/270.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN7aRB5wrxKklCZZKSJKeb6LCFo.jpg",DeSastre & Total. Agencia de detectives nº 1 (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/271.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg",Jojo Rabbit (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/273.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvd6UqDqoYv0gMSqzFyiZkC8eny.jpg",Manhattan sin salida (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/274.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMNiuu6Qcx7YdCRIdmia164AmV1.jpg",Jugando con fuego (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/278.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg",La boda de la abuela (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/279.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deiJ0Z1Jzu0octbBp07y8Ku7cSx.jpg",Placa de Acero (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/280.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7PuHoj2oE7nEHExwliF2FSXFnr.jpg",Terminator: Destino oscuro (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/282.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg",Maléfica: Dueña del Mal (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/283.mp4
+#EXTINF:-1 group-title="TERROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuTwPYFoEGQG3EntpdZA8LlBBdx.jpg",Historias de fantasmas (2020)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/284.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSZ3S6mCN4gsTQoJztBdHEbDSuD.jpg",Downton Abbey (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/285.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg",La familia Addams (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/287.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg",Como caído del cielo (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/288.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",Joker (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/289.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z88ri8gToqfVodW3GYQJCDmPx.jpg",6 en la sombra (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/291.mp4
+#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg",Los Picapiedra (1994)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/224.mp4
+
+
+
+
+
+
+
+
+
 
