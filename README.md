@@ -18,7 +18,7 @@ https://archive.org/download/batman-1-inicia-2005-1_202011/Calles%20de%20fuego%2
 https://archive.org/download/batman-1-inicia-2005-1_202011/Camino%20hacia%20el%20terror%20%282004%29~1.ia.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Camino hacia el terror 2 (2007)
 https://archive.org/download/batman-1-inicia-2005-1_202011/Camino%20hacia%20el%20terror%202%20%282007%29~1.ia.mp4
-#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Camino hacia el terror 4 (2011)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://127.0.0.1/" group-title="CINE HD",Camino hacia el terror 4 (2011)
 https://archive.org/download/batman-1-inicia-2005-1_202011/Camino%20hacia%20el%20terror%204%20%282011%29~1.ia.mp4
 #EXTINF:-0 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Camino hacia el terror 5 (2013)
 https://archive.org/download/batman-1-inicia-2005-1_202011/Camino%20hacia%20el%20terror%205%20%282013%29~1.ia.mp4
