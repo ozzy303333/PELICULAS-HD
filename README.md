@@ -2,11 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",BATMAN INICIA
 https://archive.org/download/batman-1-inicia-2005-1_202011/A%20dos%20metros%20de%20ti%20%282019%29~1.ia.mp4
-
-
-
-
-
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Apóstol (2018)
 https://archive.org/download/batman-1-inicia-2005-1_202011/Ap%C3%B3stol%20%282018%29~1.ia.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Arrástrame al infierno (2009)
