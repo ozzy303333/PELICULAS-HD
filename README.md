@@ -980,3 +980,81 @@ http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/857.mp4
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://pngriver.com/wp-content/uploads/2018/03/Download-The-Simpsons-PNG-Photos-396.png",LOS SIMPSONS TEM 27-30
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/353
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AShAnuRCjCvSAXQWtcWUJviz37.jpg",CJ7 (2008)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/354.mkv
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",Ad astra (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/357.mkv
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC8HSq4xWsPgPDjgmlFix4VMtaD.jpg",Objetivo: Washington D.C. (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/359.mkv
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLBq1ANzAHgVfQSK6urU0HaTGPS.jpg",Anna (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/360.mkv
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YYH5i78lNNlllz7mlj6tEjWaSZ.jpg",Hotel Transilvania (2012)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/535.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg",Hotel Transilvania 2 (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/536.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpLy93Lej2kfc4lmW74APllXcpS.jpg",Manou (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/538.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg",El rey león (1994)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/539.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdD5VcvTD43p048ueswYdgLJZh.jpg",El rey león 2: El tesoro de Simba (1998)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/540.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNUZs6vS4EG8IHjAIm8ne5lpodG.jpg",La princesa encantada (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/541.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vh5QyyFgWCVNipA6C70BT3cRt0.jpg",Carlitos y Snoopy: La película de Peanuts (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/542.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEC1hwyG7pJaUazMtiroc31e3gK.jpg",Los Picapiedra & WWE: Stone Age Smackdown! (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/543.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5DH1GFuDtTNRaqmPIYmznQ4mtp.jpg",Paddington 2 (2017)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/544.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XG0xupSju8QS4KBnM8181Ebt0B.jpg",Noche en el museo (2006)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/545.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOeZoII7dEQ16DMkXXHnBMTgiVI.jpg",El hijo de Batman (2014)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/635.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drXj3JQfrRcPgQT3XfLmf8JQCYY.jpg",Papá Cadillac (1988)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/636.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkgeL1ExTN16uEfwsrrjMM0A6IV.jpg",Respira (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/640.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toaCpRKDAhtUiKSnnlBLDTpcYyx.jpg",Un golpe sobrenatural (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/769.mp4
+#EXTINF:-1 group-title="ACCION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg",Proyecto Rampage (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/770.mp4
+#EXTINF:-1 group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmFElZPuqbHcxkOCuLcQSWQbAVV.jpg",Surviving The Wild (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/771.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ5tsHp3YitCI0AMx0KFhETyDrG.jpg",la pasión de un rebelde (1995)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/772.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h18blchYYeoAfQHsEMGYUNbht0C.jpg",Power Rangers: La Película (1995)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/773.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKuuSKUTw5SZ11ANfamPbCzkvS8.jpg",PLOEY: Nunca Volarás Solo (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/774.mp4
+#EXTINF:-1 group-title="PELICULAS RETRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgLSFfBfQVHmy8CrU3nGxb7ZLzm.jpg",el apóstol de Cristo (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/775.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDgMEikWMK3AJUJw0qqSJsWRAd.jpg",Peter Rabbit (2018)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/776.mp4
+#EXTINF:-1 group-title="ROMANCE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTBdkDqPVzC59XQatysx1fEpo0.jpg",Jem y los hologramas (2015)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/777.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37Xa74GFO1R3kebocqSV4hFrPO.jpg",Kim Possible (2019)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/778.mp4
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j53P9LEPTkfJhYVSpq69UCV1koT.jpg",Las crónicas de Narnia: El príncipe Caspian (2008)
+http://experiencetv.zapto.org:25468/movie/expertvsinxxx1/expersinxx/779.mp4
+#EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neKkHgfX7dgi4E47GKT7bYciq93.jpg",Juego de tronos S02 E02
+http://experiencetv.zapto.org:25468/series/expertvsinxxx1/expersinxx/390.mkv
+#EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j2j97GFao2NX4uAtMbr0Qhx2K2.jpg",Juego de tronos S02 E03
+http://experiencetv.zapto.org:25468/series/expertvsinxxx1/expersinxx/391.mkv
+#EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNGiYtGMALX8I6ceSjCBjlBzc49.jpg",Juego de tronos S02 E04
+http://experiencetv.zapto.org:25468/series/expertvsinxxx1/expersinxx/392.mkv
+#EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxToPOtlk77Wkxsas0mMgtjvzXS.jpg",Juego de tronos S02 E05
+http://experiencetv.zapto.org:25468/series/expertvsinxxx1/expersinxx/393.mkv
+#EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7hTn2ltWb9RMXLycP1TSQTIPG8.jpg",Juego de tronos S02 E06
+http://experiencetv.zapto.org:25468/series/expertvsinxxx1/expersinxx/394.mkv
+
+
+
+
+
+
+
+
+
