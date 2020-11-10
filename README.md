@@ -132,6 +132,31 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/el-senor-de-los-anillos-3-2003-1/Shrek%203%20%282007%29~1.mp4
 #EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",LEGO DC: Batman - Asuntos familiares (2019)
 https://archive.org/download/el-senor-de-los-anillos-3-2003-1/LEGO%20DC_%20Batman%20-%20Asuntos%20familiares%20%282019%29~1.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Steven Universe_ La película 2019
+https://archive.org/download/velvet-buzzsaw-2019/Steven%20Universe_%20La%20pel%C3%ADcula%20%282019%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",The Domestics (2018)
+https://archive.org/download/velvet-buzzsaw-2019/The%20Domestics%20%282018%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Unplanned (2019)
+https://archive.org/download/velvet-buzzsaw-2019/Unplanned%20%282019%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Velvet Buzzsaw (2019)
+https://archive.org/download/velvet-buzzsaw-2019/Velvet%20Buzzsaw%20%282019%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Venom (2018)
+https://archive.org/download/velvet-buzzsaw-2019/Venom%20%282018%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Verano del 84 (1995)
+https://archive.org/download/velvet-buzzsaw-2019/Verano%20del%2084%20%281995%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Verdad o Reto (2018)
+https://archive.org/download/velvet-buzzsaw-2019/Verdad%20o%20Reto%20%282018%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Victor Frankenstein 2015
+https://archive.org/download/velvet-buzzsaw-2019/Victor%20Frankenstein%20%282015%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Volver al futuro 3 (1990)
+https://archive.org/download/velvet-buzzsaw-2019/Volver%20al%20futuro%203%20%281990%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",WALL·E (2008)
+https://archive.org/download/velvet-buzzsaw-2019/WALL%C2%B7E%20%282008%29.mp4
+#EXTINF:-1 group-title="CINE HD" tvg-logo="http://127.0.0.1/",Zootopia (2016)
+https://archive.org/download/velvet-buzzsaw-2019/Zootopia%20%282016%29.mp4
+
+
+
 
 
 
