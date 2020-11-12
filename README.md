@@ -1,4 +1,52 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Welcome to Sudden Death (2020)
+https://archive.org/download/bronx-2020_202011/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Una Noche en Bangkok (2020)
+https://archive.org/download/bronx-2020_202011/Una%20Noche%20en%20Bangkok%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Tiempo de caza (2020)
+https://archive.org/download/bronx-2020_202011/Tiempo%20de%20caza%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",The Outpost (2020)
+https://archive.org/download/bronx-2020_202011/The%20Outpost%20%282020%29-1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",The Dalton Gang (2020)
+https://archive.org/download/bronx-2020_202011/The%20Dalton%20Gang%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Spenser confidencial (2020)
+https://archive.org/download/bronx-2020_202011/Spenser%20confidencial%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Santana (2020)
+https://archive.org/download/bronx-2020_202011/Santana%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Proyecto Power (2020)
+https://archive.org/download/bronx-2020_202011/Proyecto%20Power%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Mortal (2020)
+https://archive.org/download/bronx-2020_202011/Mortal%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",La vieja guardia (2020)
+https://archive.org/download/bronx-2020_202011/La%20vieja%20guardia%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",La bala perdida (2020)
+https://archive.org/download/bronx-2020_202011/La%20bala%20perdida%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Invincible (2020)
+https://archive.org/download/bronx-2020_202011/Invincible%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Infamous (2020)
+https://archive.org/download/bronx-2020_202011/Infamous%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Heavenquest A Pilgrim's Progress (2020)
+https://archive.org/download/bronx-2020_202011/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Greyhound enemigos bajo el mar (2020)
+https://archive.org/download/bronx-2020_202011/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Fuego negro (2020)
+https://archive.org/download/bronx-2020_202011/Fuego%20negro%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Enola Holmes (2020)
+https://archive.org/download/bronx-2020_202011/Enola%20Holmes%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",El ritmo de la venganza (2020)
+https://archive.org/download/bronx-2020_202011/El%20ritmo%20de%20la%20venganza%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Bad Boys for Life (2020)
+https://archive.org/download/bronx-2020_202011/Bad%20Boys%20for%20Life%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Bloodshot (2020)
+https://archive.org/download/bronx-2020_202011/Bloodshot%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Assassin 33 AD (2020)
+https://archive.org/download/bronx-2020_202011/Assassin%2033%20AD%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Allagash (2020)
+https://archive.org/download/bronx-2020_202011/Allagash%20%282020%29.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",A prueba de balas 2 2020
+https://archive.org/download/bronx-2020_202011/A%20prueba%20de%20balas%202%20%282020%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",WALL·E (2008)
 https://archive.org/download/velvet-buzzsaw-2019/WALL%C2%B7E%20%282008%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",BATMAN INICIA
