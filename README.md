@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Altered Carbon Reenfundados (2020)
+https://archive.org/download/amor-de-gata-2020/Altered%20Carbon%20Reenfundados%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Amor de gata (2020)
+https://archive.org/download/amor-de-gata-2020/Amor%20de%20gata%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Deathstroke caballeros y dragones
+https://archive.org/download/amor-de-gata-2020/Deathstroke%20caballeros%20y%20dragones%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Dragones al rescate El secreto del
+https://archive.org/download/amor-de-gata-2020/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",En brazos de un asesino (2019)
+https://archive.org/download/amor-de-gata-2020/En%20brazos%20de%20un%20asesino%20%282019%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Escuela de miedo (2020)
+https://archive.org/download/amor-de-gata-2020/Escuela%20de%20miedo%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Jungle Beat The Movie (2020)
+https://archive.org/download/amor-de-gata-2020/Jungle%20Beat%20The%20Movie%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",La princesa Cisne una boda real
+https://archive.org/download/amor-de-gata-2020/La%20princesa%20Cisne%20una%20boda%20real%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Los hermanos Willoughby
+https://archive.org/download/amor-de-gata-2020/Los%20hermanos%20Willoughby%20%282020%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="INFANTILES",Mi primer gran combate (2020)
+https://archive.org/download/amor-de-gata-2020/Mi%20primer%20gran%20combate%20%282020%29.mp4
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.ytimg.com/vi/YIuFGN3eMb4/maxresdefault.jpg" group-title="CINE HD",Welcome to Sudden Death (2020)
 https://archive.org/download/bronx-2020_202011/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
