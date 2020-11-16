@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD2NXsAGvqL8&psig=AOvVaw3Z95zLvvQcdOHaoUha49er&ust=1605648164837000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND5g9v_h-0CFQAAAAAdAAAAABAD.JPG" group-title="TERROR",RAMBO
-https://drive.google.com/uc?id=14ctKAHMTWAWW8kuWKktRw0DunVUDweas&export=download
+https://drive.google.com/uc?id=1JivFOEmRoeaW-WjQ2ivx1uoYCDz3w8jg&export=download
 
 #EXTINF:-1 group-title="CINEMA",CINEMA:  DINAMITA SD*
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
