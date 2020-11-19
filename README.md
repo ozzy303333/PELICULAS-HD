@@ -1,4 +1,119 @@
 #EXTM3U
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pulpfictioncine.com/download/multimedia.normal.970e7424cc462181.626c6f6f6473686f742d313230333839345f6e6f726d616c2e6a706567.jpeg",Bloodshot  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Bloodshot.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://storage.googleapis.com/revista-instinto-media/2019/10/8f87b6f8-362420id2c_terminatordarkfate_intl_campb_27x40_1sheet_spn.jpg",Terminator Destino Oculto  | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Terminator.dark.fate.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://echosrecordbar.co.za/storage/106172/conversions/106323-large.jpg",Terra Willy Un Planeta Inexplorado | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Terra.willy.unexplored.planet.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg",Jugando Con Fuego | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Jugando.con.fuego.SrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/10/44/0186539.jpg",Geminis | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/g3m1mn1.m4n.2019.SrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/01/08/16/54/5502811.jpg",Diamantes En Bruto | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Diamantes.en.bruto.SrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71xvPKq5FgL._SY450_.jpg",Bohemmian Rapsody | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/b0h3m14nr4ps0dySrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/99/Zombieland_2_Poster_La.png/revision/latest?cb=20190909163524&path-prefix=es",Zombilandia 2 Tiro de Gracia | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ZombilandiaTiroDeGraciaSrRegio.mkv
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/EAR5XXoXUAcZfts.jpg",Teen Titans Go vs Teen Titans | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/t33n.t1t4ns.g0.vs.t33n.t1t4ns.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/C90UIBXUwAA5lsR.jpg",Mexico Barbaro 2018 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/m3x1c0.b4rb4r0.2018.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.movienco.co.uk/carteles/14800/14865/004.jpg",Una Foto Antes de Morir | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/f0t0.n4.p4my4t.2018.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/03/spiderman-lejos-casa.jpg?itok=5Pggz3yG",Spider Man Lejos de Casa | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/sp1d3r.m4n.f4r.fr0m.h0m3.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/emi8atu3/anna-french-movie-poster.jpg?v=1560522294",Anna | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4nn4.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/19/05/08/16/59/2526525.jpg",Aladino | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/aladin2019SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video113/v4/dc/5c/d8/dc5cd867-e794-0386-6f76-0a4e580a2cfe/pr_source.lsr/268x0w.jpg",Anabelle 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4nn4b3ll3.3.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg",Childs Play 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ch1lds.pl4y.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.adnradio.cl/images/2019050933969640.jpg",X-MEN Dark Phoenix | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/x.m3n.d4rk.ph03n1x.2019.brrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg",Godzilla El Rey de los Monstruos | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/g0dz1ll4.k1ng.0f.m0nst3r.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg",Jhon Wick 3 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://prensaescenario.files.wordpress.com/2018/11/la-vida-secreta-de-tus-mascotas-2-poster.jpg?w=505",La Vida Secreta de tus Mascotas 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.s3cr3t.l1f3.0f.p3ts.2.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/uglydolls-187959511-large.jpg",Uglydolls: Extraordinariamente feos | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/uglyd0lls.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/05/a0/6d/05a06df19eb5a96d5d2442c3b2d0d766.jpg",Maestras del Engaño | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.hustl3.2019.brrs.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/04/Rocketman-poster-2.jpg",Rocketman SUB | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/r0k3tm4n.2019.hdrip.720p.subesp.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg",La Razon de Estar con Tigo: Un Nuevo Viaje | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4.d0gs.j0urn3y.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-original-de-cine-avengers-endgame-vengadores-end-game-D_NQ_NP_971781-MLM29887883019_042019-F.jpg",Avengers End Game | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/4v3ng3rs.3ndg4m3.2019.brrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViZWEwOGItMGZlMC00YzE1LTk5ZWItMGYxYjhhMjBmNDMwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",Nada Es Privado | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3.gr34t.h4ck.2019.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://www.revistabrooke.com/wp-content/uploads/2019/06/ni-en-tus-sue%C3%B1os-peli-2019-poster.jpg",Ni En Tus Sueños | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NiEnSusSue%C3%B1osSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/04/02/13/08/3361614.jpg",Shazam | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/shazam720pSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*",La Llorona | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/lalloronaSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/el_gran_asalto_211.jpg",El Gran Asalto | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElGranAsalto.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/01/27/16/40/3850432.jpg",El Ritual | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/ElRitual.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://elfinalde.com/wp-content/uploads/2016/09/k9quViLJvizFReyZAwjqXz7MD2C-683x1024.jpg",Como entrenar a tu Dragon | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/comoentrenaratudragon.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/a8/d7/f3/a8d7f32bc734d20e82bcd909dea54bcc.jpg",I Love Dogs Una Comedia Sin Malas Pulgas | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dogdaysSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://flxt.tmsimg.com/assets/p15952868_b_v9_aa.jpg",Zombie a los 17 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/zombieat17SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg",Misterio a Bordo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/misterioabordoSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41P8CcVmx0L.jpg",Ong Bak | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/OngBakSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jOztWX9YL._SL1259_.jpg",Dumbo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dumb02019SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710M3Z0kIqL._SL1197_.jpg",Detective Picachu | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/DetectivePicachuSRREGIOHDS.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/18/11/15/10/52/3730528.jpg",Parque Magico | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/w0nd3rp4rk2019hdsSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/S_834710-MLA29510175011_022019-O.jpg",A dos Metros de ti | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/f1v3f33t4p4rt2019hdripSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/mi_mascota_es_un_leon.jpg",Mi Mascota Es Un Leon | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/m143tl3l10nbl4nc2018SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/zf2ztida/la-boda-de-mi-mejor-amigo-mexican-movie-poster.jpg",La Boda De Mi Mejor Amigo | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/l4b0d4d3m1m3j0r4m1g02019SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/F3QAAOSwF5tbbjWl/s-l300.jpg",Dragon Ball Super Broly | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/dr4g0nb4llsup3rbr0ly2019brrip720platinoV2SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg",Batman vs Tortujas Ninja | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cholilaonline.com/wp-content/uploads/2019/04/Poster_Cementerio_De_Animales.jpg",Cementerio Maldito 2019 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/p3t.s3m3nt3ry.2019.hc.hdrip.720p.latinoSRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/14200/14204/003.jpg",Felix Dia De Tu Muerte 2 | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/h4ppyd34thd4ytw02019SRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-XZblfz92hrE/XDUaih8_-II/AAAAAAAAqQA/M17NCYefJ24NkSk4r4zMByWpvpckfHagwCLcBGAs/s00/Maligno_Poster_2_JPosters.jpg",Maligno | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/th3pr0d1gySRREGIO.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.shopify.com/s/files/1/0747/3829/products/mL1886_1024x1024.jpg?v=1535993102",Unfriended Dark Web | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Unfriend.DarkWeb.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-zbz7Esih6WI/W-3mA7q7HnI/AAAAAAAAqI8/WvmQO8T2qMcA_cH79dfElxa0jFLOgM0FgCLcBGAs/s00/No_Mires_Look_Away_Poster_JPosters.jpg",No Mires | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/NoMiresSrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg",Lego Movie 2da Parte | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/LegoMovie2019SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/thvlphez/rendel-finnish-movie-poster.jpg",Rendel | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/rendel.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg",Coco | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/coco.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/yugiohenespanol/images/8/81/Yugioh_Pelicula_Poster_2.png/revision/latest?cb=20151212010332&path-prefix=es",Yu Gi Oh El Lado Oscuro De Las Dimensiones | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Yu-Gi-Oh.El.Lado.Oscuro.de.las.Dimensiones.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/09/37/f1/0937f1747dc79bc6ddc44ff39c4a3043.jpg",Mis Huellas A Casa | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Mis.Huellas.A.Casa.SrRegio.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-cine-bumblebee-transformers-john-cena-D_NQ_NP_780296-MLM28802122657_112018-F.jpg",Bumblebee | REGIOFLIX
+http://regioflix.club/REGIO2020/151120nov/Bumblebee.SrRegio.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TERROR",RAMBO
 https://cdn4.telesco.pe/file/1da7e120bd.mp4?token=eA8B6Y30dMkwJ0pi1Gx-2KH6A0XERN8j-c4o6pvtyidcne6fAEQp0Hbq0AOwSgHLy7w52tHgR2MlqDqXvi_OcIRWmY-Nc15uyOrEt1DCbmMXqB9PNa_fc18Zgtc1mzSL-6wl-nnzGoM0Y-oWRYV2P6lc_gYqFqIZq1aYRisezikfcVgKVMtMZhJT8tcLjhCcvbsdAEijrN_TPkk79cLcSOP3xXyn8vr-QCNsrAuaPdjC-4Lwe1LcW9QLMnSiMMVL1kAt-cGMGkPQXtk8afuOzIV6fkRjA2yWVaUjYbjj0k9sNwg7TQLrvchDD7oxLr9wxSGZQvaqISPhNoO4Y5fXdg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TERROR",ciber punk
