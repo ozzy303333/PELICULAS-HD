@@ -1,5 +1,204 @@
 #EXTM3U
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",ASYLUM Twisted Horror and Fantasy Tales (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/ASYLUM%20Twisted%20Horror%20and%20Fantasy%20Tales%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Apóstol (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ap%C3%B3stol%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Arctic Dogs (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Arctic%20Dogs%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Arrástrame al infierno (2009)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Arr%C3%A1strame%20al%20infierno%20%282009%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Assassin 33 AD 2020
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Assassin%2033%20AD%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Baba Yaga El regreso del demonio (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Bad Boys for Life (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bad%20Boys%20for%20Life%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Bajo la misma estrella (2014)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bajo%20la%20misma%20estrella%20%282014%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Batman Hush (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman%20Hush%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Batman vs las Tortugas Ninja (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman%20vs%20las%20Tortugas%20Ninja%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",ASYLUM Twisted Horror and Fantasy Tales (2020)
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yADcc2D0uaIwP2BHCaKPz0daAAI.jpg",Una noche de locos
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Batman_1 inicia 2005
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman_1%20inicia%20%282005%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Bird Box_ A ciegas (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bird%20Box_%20A%20ciegas%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Bloodshot (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bloodshot%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Bu y Bu, una aventura interdimensional (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bu%20y%20Bu%2C%20una%20aventura%20interdimensional%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Cadáver (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cad%C3%A1ver%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Calles de fuego (1984)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Calles%20de%20fuego%20%281984%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Camino hacia el terror (2004)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%20%282004%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Camino hacia el terror 2 (2007)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%202%20%282007%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Camino hacia el terror 4 (2011)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%204%20%282011%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Camino hacia el terror 5 (2013)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%205%20%282013%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Capitana Marvel (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Capitana%20Marvel%20%282019%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Cara Sucia (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cara%20Sucia%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Casa ajena (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Casa%20ajena%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Cementerio de mascotas (1989)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cementerio%20de%20mascotas%20%281989%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Corgi, las mascotas de la reina (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Corgi%2C%20las%20mascotas%20de%20la%20reina%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Curious George Royal Monkey (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Curious%20George%20Royal%20Monkey%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dark Places (2015)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dark%20Places%20%282015%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",De patitas a la calle (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/De%20patitas%20a%20la%20calle%20%282020%29-1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",De patitas a la calle (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/De%20patitas%20a%20la%20calle%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Deathstroke caballeros y dragones (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Deathstroke%20caballeros%20y%20dragones%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dino King 3D Journey to Fire Mountain (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dino%20King%203D%20Journey%20to%20Fire%20Mountain%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dora y la ciudad perdida (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dora%20y%20la%20ciudad%20perdida%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dragon Quest Your Story (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dragon%20Quest%20Your%20Story%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dragones al rescate El secreto del Ala Cantarina 2020
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Dumbo (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dumbo%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",El caballero de la Navidad (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20caballero%20de%20la%20Navidad%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",El ritmo de la venganza (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20ritmo%20de%20la%20venganza%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Ella Bella Bingo (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ella%20Bella%20Bingo%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",En brazos de un asesino (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/En%20brazos%20de%20un%20asesino%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Enola Holmes (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Enola%20Holmes%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Escuela de miedo (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Escuela%20de%20miedo%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Fuego negro (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Fuego%20negro%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Greyhound enemigos bajo el mar (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Heavenquest A Pilgrim's Progress (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Homeless (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Homeless%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Infamous (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Infamous%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Invincible (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Invincible%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Juegos salvajes (1998)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Juegos%20salvajes%20%281998%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Jungle Beat The Movie (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Jungle%20Beat%20The%20Movie%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Justice League vs the Fatal Five (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Justice%20League%20vs%20the%20Fatal%20Five%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Kim Possible (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Kim%20Possible%20%282019%29.mp4
+#EXTINF:-1 group-title="ANIMACIONS" tvg-logo="",LEGO DC Batman - La Bat-familia importa (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/LEGO%20DC%20Batman%20-%20La%20Bat-familia%20importa%20%282019%29.mp4
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="",LEGO DC_ Batman - Asuntos familiares (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/LEGO%20DC_%20Batman%20-%20Asuntos%20familiares%20%282019%29~1.mp4
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="",La Gallina Turuleca (2019).mp4
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Gallina%20Turuleca%20%282019%29.mp4
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="",La Muerte y El Regreso de Superman (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Muerte%20y%20El%20Regreso%20de%20Superman%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La Pandilla Una noche de terror (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Pandilla%20Una%20noche%20de%20terror%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La bala perdida (2020).mp4
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20bala%20perdida%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La familia Addams (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20familia%20Addams%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La leyenda de Klaus (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20leyenda%20de%20Klaus%20%282019%29-1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La leyenda de Klaus (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20leyenda%20de%20Klaus%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La liga de los 5 (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20liga%20de%20los%205%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La llamada de lo salvaje (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20llamada%20de%20lo%20salvaje%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La posesion de deborah logan (2004)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20posesion%20de%20deborah%20logan%20%282004%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La princesa Cisne una boda real (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20princesa%20Cisne%20una%20boda%20real%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La razón de estar contigo  (2006)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20raz%C3%B3n%20de%20estar%20contigo%20%20%282006%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La teoría del todo 2014
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20teor%C3%ADa%20del%20todo%202014~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La vida moderna de Rocko Cambio de chip (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20moderna%20de%20Rocko%20Cambio%20de%20chip%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La vida secreta de tus mascotas (2016)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20secreta%20de%20tus%20mascotas%20%282016%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",La vieja guardia (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vieja%20guardia%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Las Aventuras de Bo Peep (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20Aventuras%20de%20Bo%20Peep%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Las aventuras del Doctor Dolittle (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20aventuras%20del%20Doctor%20Dolittle%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Lazos malditos (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Lazos%20malditos%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Liga de la Justicia Oscura - Guerra Apokolips (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Liga%20de%20la%20Justicia%20Oscura%20-%20Guerra%20Apokolips%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Loca por el trabajo (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Loca%20por%20el%20trabajo%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Los Descendientes 3 (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20Descendientes%203%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Los colegas del barrio (1996)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20colegas%20del%20barrio%20%281996%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Los descendientes (2015)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20descendientes%20%282015%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Los hermanos Willoughby (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20hermanos%20Willoughby%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Los nuevos mutantes (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20nuevos%20mutantes%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Maggie Simpson Jugando con el destino (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Maggie%20Simpson%20Jugando%20con%20el%20destino%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mal de ojo (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mal%20de%20ojo%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Malicious_ En el vientre del diablo (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Malicious_%20En%20el%20vientre%20del%20diablo%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mandy (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mandy%20%282019%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Manou (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Manou%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Marvel Rising Heart of Iron (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Marvel%20Rising%20Heart%20of%20Iron%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mi papá es un gato (2016)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20pap%C3%A1%20es%20un%20gato%20%282016%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mi primer gran combate (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20primer%20gran%20combate%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mi semana extraordinaria con Tess (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20semana%20extraordinaria%20con%20Tess%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Monos (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monos%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Monster House_ La casa de los sustos
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monster%20House_%20La%20casa%20de%20los%20sustos%20%20%282006%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Mortal (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mortal%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Máquinas Mortales (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/M%C3%A1quinas%20Mortales%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Nacido para ser rey (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nacido%20para%20ser%20rey%20%282019%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Nación asesina (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Naci%C3%B3n%20asesina%20%282018%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Nadie duerme en el bosque esta noche (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Nancy Drew y la Escalera Escondida (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nancy%20Drew%20y%20la%20Escalera%20Escondida%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",Ni no Kuni (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ni%20no%20Kuni%20%282019%29.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",No dejes de mirar (2017)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/No%20dejes%20de%20mirar%20%282017%29~1.mp4
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="",nada (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/nada%20%282018%29~1.mp4
 http://thex.tv:57999/movie/juanlopez/juanlopez/6493.mkv
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",Rogue
 http://thex.tv:57999/movie/juanlopez/juanlopez/6494.mkv
