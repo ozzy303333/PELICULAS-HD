@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Domestics (2018)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Outpost (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Outpost%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Owners (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Owners%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Scientist (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Scientist%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Spooky Tale of Captain Underpants Hack-a-ween (2019
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Sputnik (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Sputnik%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Wonderland (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tiempo de caza (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempo%20de%20caza%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tiempos violentos 1994
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tom y Jerry_ El cuento de Cascanueces (2007)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tom%20y%20Jerry_%20El%20cuento%20de%20Cascanueces%20%282007%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 1 (1995)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 2 (1999)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 4 (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%204%20%282019%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tóxico (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/To%CC%81xico%20%282020%29~1.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Transilvania, el imperio prohibido (2014)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Trolls 2 Gira mundial (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",UglyDolls Extraordinariamente Feos (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Una Noche en Bangkok (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20Noche%20en%20Bangkok%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Una noche en el museo (2006)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
 #EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil 5_ Venganza (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%205_%20Venganza%20%282012%29~1.mp4
 #EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil 6_ Capítulo final (2016)
