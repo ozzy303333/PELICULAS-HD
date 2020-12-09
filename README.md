@@ -2001,7 +2001,7 @@ http://regioflix.club/REGIO2020/151120nov/NacidoParaSerReySrRegio.mp4
 http://regioflix.club/REGIO2020/151120nov/GlassSrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._SL1500_.jpg",Infinity War | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/InfinityWarSrRegio.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="http://elinformanteperu.com/wp-content/uploads/2019/02/Afiche-mani.jpg",El Manicomio La Cuna Del Terror | REGIOFLIX
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="http://elinformanteperu.com/wp-content/uploads/2019/02/Afiche-mani.jpg",El Manicomio La Cuna Del Terror
 http://regioflix.club/REGIO2020/151120nov/ElManicomioLaCunaDelTerrorSrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg",Coco | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/coco.mp4
