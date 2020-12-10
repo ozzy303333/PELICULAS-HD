@@ -1,312 +1,299 @@
 #EXTM3U
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Domestics (2018)
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="https://pics.filmaffinity.com/The_Domestics-956087918-large.jpg",The Domestics (2018)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Outpost (2020)
+#EXTINF:-1 group-title="MR ROBOT" tvg-logo="data:image/jpeg;base64,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",The Outpost (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Outpost%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Owners (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Owners (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Owners%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Scientist (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Scientist (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Scientist%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Spooky Tale of Captain Underpants Hack-a-ween (2019
+#EXTINF:-1 group-title="MR ROBOT",The Spooky Tale of Captain Underpants Hack-a-ween (2019
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Sputnik (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Sputnik (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Sputnik%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Wonderland (2019)
+#EXTINF:-1 group-title="MR ROBOT",The Wonderland (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tiempo de caza (2020)
+#EXTINF:-1 group-title="MR ROBOT",Tiempo de caza (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempo%20de%20caza%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tiempos violentos 1994
+#EXTINF:-1 group-title="MR ROBOT",Tiempos violentos 1994
 https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tom y Jerry_ El cuento de Cascanueces (2007)
+#EXTINF:-1 group-title="MR ROBOT",Tom y Jerry_ El cuento de Cascanueces (2007)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Tom%20y%20Jerry_%20El%20cuento%20de%20Cascanueces%20%282007%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 1 (1995)
+#EXTINF:-1 group-title="MR ROBOT",Toy Story 1 (1995)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 2 (1999)
+#EXTINF:-1 group-title="MR ROBOT",Toy Story 2 (1999)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Toy Story 4 (2019)
+#EXTINF:-1 group-title="MR ROBOT",Toy Story 4 (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%204%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Tóxico (2020)
+#EXTINF:-1 group-title="MR ROBOT",Tóxico (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/To%CC%81xico%20%282020%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Transilvania, el imperio prohibido (2014)
+#EXTINF:-1 group-title="MR ROBOT",Transilvania
 https://archive.org/download/velvet-buzzsaw-2019_202012/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Trolls 2 Gira mundial (2020)
+#EXTINF:-1 group-title="MR ROBOT",Trolls 2 Gira mundial (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",UglyDolls Extraordinariamente Feos (2019)
+#EXTINF:-1 group-title="MR ROBOT",UglyDolls Extraordinariamente Feos (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Una Noche en Bangkok (2020)
+#EXTINF:-1 group-title="MR ROBOT",Una Noche en Bangkok (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20Noche%20en%20Bangkok%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Una noche en el museo (2006)
+#EXTINF:-1 group-title="MR ROBOT",Una noche en el museo (2006)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil 5_ Venganza (2012)
+#EXTINF:-1 group-title="MR ROBOT",Resident Evil 5_ Venganza (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%205_%20Venganza%20%282012%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil 6_ Capítulo final (2016)
+#EXTINF:-1 group-title="MR ROBOT",Resident Evil 6_ Capítulo final (2016)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%206_%20Cap%C3%ADtulo%20final%20%282016%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil_ Degeneración (2008)
+#EXTINF:-1 group-title="MR ROBOT",Resident Evil_ Degeneración (2008)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Degeneraci%C3%B3n%20%282008%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil_ Infierno (2012)
+#EXTINF:-1 group-title="MR ROBOT",Resident Evil_ Infierno (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Infierno%20%282012%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Resident Evil_ Vendetta (2017)
+#EXTINF:-1 group-title="MR ROBOT",Resident Evil_ Vendetta (2017)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Vendetta%20%282017%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",SalynPM-Angry.birds
+#EXTINF:-1 group-title="MR ROBOT",SalynPM-Angry.birds
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/SalynPM-Angry.birds~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Santana (2020)
+#EXTINF:-1 group-title="MR ROBOT",Santana (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Santana%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Scooby-Doo! Regreso a la Isla Zombie (2019)
+#EXTINF:-1 group-title="MR ROBOT",Scooby-Doo! Regreso a la Isla Zombie (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scooby-Doo%21%20Regreso%20a%20la%20Isla%20Zombie%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Scre4m 4 (2001)
+#EXTINF:-1 group-title="MR ROBOT",Scre4m 4 (2001)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scre4m%204%20%282001%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Scream 2 (1997)
+#EXTINF:-1 group-title="MR ROBOT",Scream 2 (1997)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scream%202%20%281997%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Scream at the Devil (2015)
+#EXTINF:-1 group-title="MR ROBOT",Scream at the Devil (2015)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scream%20at%20the%20Devil%20%282015%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Serpiente de cascabel  (2019)
+#EXTINF:-1 group-title="MR ROBOT",Serpiente de cascabel  (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Serpiente%20de%20cascabel%20%20%282019%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Shrek 3 (2007)
+#EXTINF:-1 group-title="MR ROBOT",Shrek 3 (2007)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Shrek%203%20%282007%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Son como niños 2 2013
+#EXTINF:-1 group-title="MR ROBOT",Son como niños 2 2013
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Son%20como%20ni%C3%B1os%202%202013~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Spenser confidencial (2020)
+#EXTINF:-1 group-title="MR ROBOT",Spenser confidencial (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spenser%20confidencial%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Spirit Riding Free Spirit of Christmas (2019)
+#EXTINF:-1 group-title="MR ROBOT",Spirit Riding Free Spirit of Christmas (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spirit%20Riding%20Free%20Spirit%20of%20Christmas%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Spycies (2020)
+#EXTINF:-1 group-title="MR ROBOT",Spycies (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spycies%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Star Wars_ Episodio II - El ataque de los clones (2002)
+#EXTINF:-1 group-title="MR ROBOT",Star Wars_ Episodio II - El ataque de los clones (2002)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20Wars_%20Episodio%20II%20-%20El%20ataque%20de%20los%20clones%20%282002%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Star wars_ Episodio III - La venganza de los sith (2005)
+#EXTINF:-1 group-title="MR ROBOT",Star wars_ Episodio III - La venganza de los sith (2005)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20wars_%20Episodio%20III%20-%20La%20venganza%20de%20los%20sith%20%282005%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",StarDog and TurboCat (2019)
+#EXTINF:-1 group-title="MR ROBOT",StarDog and TurboCat (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/StarDog%20and%20TurboCat%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Stargirl (2020)
+#EXTINF:-1 group-title="MR ROBOT",Stargirl (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Stargirl%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Steven Universe_ La película (2019)
+#EXTINF:-1 group-title="MR ROBOT",Steven Universe_ La película (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Steven%20Universe_%20La%20pel%C3%ADcula%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Superman Hijo Rojo (2020)
+#EXTINF:-1 group-title="MR ROBOT",Superman Hijo Rojo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Superman%20Hijo%20Rojo%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Supermonstruos Una amistad con mucha garra (2019)
+#EXTINF:-1 group-title="MR ROBOT",Supermonstruos Una amistad con mucha garra (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Supermonstruos%20Una%20amistad%20con%20mucha%20garra%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Teen Titans Go! La película (2018)
+#EXTINF:-1 group-title="MR ROBOT",Teen Titans Go! La película (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20La%20pel%C3%ADcula%20%282018%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Teen Titans Go! vs Teen Titans (2019)
+#EXTINF:-1 group-title="MR ROBOT",Teen Titans Go! vs Teen Titans (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20vs%20Teen%20Titans%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Temblores 7 La Isla Shrieker (2020).mp4
+#EXTINF:-1 group-title="MR ROBOT",Temblores 7 La Isla Shrieker (2020).mp4
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Temblores%207%20La%20Isla%20Shrieker%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Terminator 1_ El exterminador (1983
+#EXTINF:-1 group-title="MR ROBOT",Terminator 1_ El exterminador (1983
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terminator%201_%20El%20exterminador%20%281983%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Terror en Silent Hill (2006)
+#EXTINF:-1 group-title="MR ROBOT",Terror en Silent Hill (2006)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%20%282006%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Terror en Silent Hill 2_ La revelación (2012)
+#EXTINF:-1 group-title="MR ROBOT",Terror en Silent Hill 2_ La revelación (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%202_%20La%20revelaci%C3%B3n%20%282012%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Babysitter Killer Queen (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Babysitter Killer Queen (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Babysitter%20Killer%20Queen%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Current Occupant (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Current Occupant (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Current%20Occupant%20%282020%29.mp4
-
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Dalton Gang (2020)
+#EXTINF:-1 group-title="MR ROBOT",The Dalton Gang (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Dalton%20Gang%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Domestics (2018)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Domestics%20%282018%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Outpost (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Outpost%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",The Babysitter Killer Queen (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/ASYLUM%20Twisted%20Horror%20and%20Fantasy%20Tales%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Apóstol (2018)
+#EXTINF:-1 group-title="MR ROBOT",Apóstol (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ap%C3%B3stol%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Arctic Dogs (2019)
+#EXTINF:-1 group-title="MR ROBOT",Arctic Dogs (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Arctic%20Dogs%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Arrástrame al infierno (2009)
+#EXTINF:-1 group-title="MR ROBOT",Arrástrame al infierno (2009)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Arr%C3%A1strame%20al%20infierno%20%282009%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Assassin 33 AD 2020
+#EXTINF:-1 group-title="MR ROBOT",Assassin 33 AD 2020
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Assassin%2033%20AD%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Baba Yaga El regreso del demonio (2020)
+#EXTINF:-1 group-title="MR ROBOT",Baba Yaga El regreso del demonio (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Bad Boys for Life (2020)
+#EXTINF:-1 group-title="MR ROBOT",Bad Boys for Life (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bad%20Boys%20for%20Life%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Bajo la misma estrella (2014)
+#EXTINF:-1 group-title="MR ROBOT",Bajo la misma estrella (2014)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bajo%20la%20misma%20estrella%20%282014%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Batman Hush (2019)
+#EXTINF:-1 group-title="MR ROBOT",Batman Hush (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman%20Hush%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Batman vs las Tortugas Ninja (2019)
+#EXTINF:-1 group-title="MR ROBOT",Batman vs las Tortugas Ninja (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman%20vs%20las%20Tortugas%20Ninja%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",ASYLUM Twisted Horror and Fantasy Tales (2020)
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yADcc2D0uaIwP2BHCaKPz0daAAI.jpg",Una noche de locos
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Batman_1 inicia 2005
+#EXTINF:-1 group-title="MR ROBOT",Batman_1 inicia 2005
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Batman_1%20inicia%20%282005%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Bird Box_ A ciegas (2018)
+#EXTINF:-1 group-title="MR ROBOT",Bird Box_ A ciegas (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bird%20Box_%20A%20ciegas%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Bloodshot (2020)
+#EXTINF:-1 group-title="MR ROBOT",Bloodshot (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bloodshot%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Bu y Bu, una aventura interdimensional (2019)
+#EXTINF:-1 group-title="MR ROBOT",Bu y Bu
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bu%20y%20Bu%2C%20una%20aventura%20interdimensional%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Cadáver (2018)
+#EXTINF:-1 group-title="MR ROBOT",Cadáver (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cad%C3%A1ver%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Calles de fuego (1984)
+#EXTINF:-1 group-title="MR ROBOT",Calles de fuego (1984)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Calles%20de%20fuego%20%281984%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Camino hacia el terror (2004)
+#EXTINF:-1 group-title="MR ROBOT",Camino hacia el terror (2004)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%20%282004%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Camino hacia el terror 2 (2007)
+#EXTINF:-1 group-title="MR ROBOT",Camino hacia el terror 2 (2007)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%202%20%282007%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Camino hacia el terror 4 (2011)
+#EXTINF:-1 group-title="MR ROBOT",Camino hacia el terror 4 (2011)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%204%20%282011%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Camino hacia el terror 5 (2013)
+#EXTINF:-1 group-title="MR ROBOT",Camino hacia el terror 5 (2013)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Camino%20hacia%20el%20terror%205%20%282013%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Capitana Marvel (2019)
+#EXTINF:-1 group-title="MR ROBOT",Capitana Marvel (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Capitana%20Marvel%20%282019%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Cara Sucia (2019)
+#EXTINF:-1 group-title="MR ROBOT",Cara Sucia (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cara%20Sucia%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Casa ajena (2020)
+#EXTINF:-1 group-title="MR ROBOT",Casa ajena (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Casa%20ajena%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Cementerio de mascotas (1989)
+#EXTINF:-1 group-title="MR ROBOT",Cementerio de mascotas (1989)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Cementerio%20de%20mascotas%20%281989%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Corgi, las mascotas de la reina (2019)
+#EXTINF:-1 group-title="MR ROBOT",Corgi
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Corgi%2C%20las%20mascotas%20de%20la%20reina%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Curious George Royal Monkey (2019)
+#EXTINF:-1 group-title="MR ROBOT",Curious George Royal Monkey (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Curious%20George%20Royal%20Monkey%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dark Places (2015)
+#EXTINF:-1 group-title="MR ROBOT",Dark Places (2015)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dark%20Places%20%282015%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",De patitas a la calle (2020)
+#EXTINF:-1 group-title="MR ROBOT",De patitas a la calle (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/De%20patitas%20a%20la%20calle%20%282020%29-1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",De patitas a la calle (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/De%20patitas%20a%20la%20calle%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Deathstroke caballeros y dragones (2020)
+#EXTINF:-1 group-title="MR ROBOT",Deathstroke caballeros y dragones (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Deathstroke%20caballeros%20y%20dragones%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dino King 3D Journey to Fire Mountain (2019)
+#EXTINF:-1 group-title="MR ROBOT",Dino King 3D Journey to Fire Mountain (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dino%20King%203D%20Journey%20to%20Fire%20Mountain%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dora y la ciudad perdida (2019)
+#EXTINF:-1 group-title="MR ROBOT",Dora y la ciudad perdida (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dora%20y%20la%20ciudad%20perdida%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dragon Quest Your Story (2019)
+#EXTINF:-1 group-title="MR ROBOT",Dragon Quest Your Story (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dragon%20Quest%20Your%20Story%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dragones al rescate El secreto del Ala Cantarina 2020
+#EXTINF:-1 group-title="MR ROBOT",Dragones al rescate El secreto del Ala Cantarina 2020
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Dumbo (2019)
+#EXTINF:-1 group-title="MR ROBOT",Dumbo (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Dumbo%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",El caballero de la Navidad (2019)
+#EXTINF:-1 group-title="MR ROBOT",El caballero de la Navidad (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20caballero%20de%20la%20Navidad%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",El ritmo de la venganza (2020)
+#EXTINF:-1 group-title="MR ROBOT",El ritmo de la venganza (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20ritmo%20de%20la%20venganza%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Ella Bella Bingo (2020)
+#EXTINF:-1 group-title="MR ROBOT",Ella Bella Bingo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ella%20Bella%20Bingo%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",En brazos de un asesino (2019)
+#EXTINF:-1 group-title="MR ROBOT",En brazos de un asesino (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/En%20brazos%20de%20un%20asesino%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Enola Holmes (2020)
+#EXTINF:-1 group-title="MR ROBOT",Enola Holmes (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Enola%20Holmes%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Escuela de miedo (2020)
+#EXTINF:-1 group-title="MR ROBOT",Escuela de miedo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Escuela%20de%20miedo%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Fuego negro (2020)
+#EXTINF:-1 group-title="MR ROBOT",Fuego negro (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Fuego%20negro%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Greyhound enemigos bajo el mar (2020)
+#EXTINF:-1 group-title="MR ROBOT",Greyhound enemigos bajo el mar (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Heavenquest A Pilgrim's Progress (2020)
+#EXTINF:-1 group-title="MR ROBOT",Heavenquest A Pilgrim's Progress (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Homeless (2019)
+#EXTINF:-1 group-title="MR ROBOT",Homeless (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Homeless%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Infamous (2020)
+#EXTINF:-1 group-title="MR ROBOT",Infamous (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Infamous%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Invincible (2020)
+#EXTINF:-1 group-title="MR ROBOT",Invincible (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Invincible%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Juegos salvajes (1998)
+#EXTINF:-1 group-title="MR ROBOT",Juegos salvajes (1998)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Juegos%20salvajes%20%281998%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Jungle Beat The Movie (2020)
+#EXTINF:-1 group-title="MR ROBOT",Jungle Beat The Movie (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Jungle%20Beat%20The%20Movie%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Justice League vs the Fatal Five (2019)
+#EXTINF:-1 group-title="MR ROBOT",Justice League vs the Fatal Five (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Justice%20League%20vs%20the%20Fatal%20Five%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Kim Possible (2019)
+#EXTINF:-1 group-title="MR ROBOT",Kim Possible (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Kim%20Possible%20%282019%29.mp4
-#EXTINF:-1 group-title="ANIMACIONS" tvg-logo="",LEGO DC Batman - La Bat-familia importa (2019)
+#EXTINF:-1 group-title="ANIMACIONS",LEGO DC Batman - La Bat-familia importa (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/LEGO%20DC%20Batman%20-%20La%20Bat-familia%20importa%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT ANIMACION" tvg-logo="",LEGO DC_ Batman - Asuntos familiares (2019)
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",LEGO DC_ Batman - Asuntos familiares (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/LEGO%20DC_%20Batman%20-%20Asuntos%20familiares%20%282019%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT ANIMACION" tvg-logo="",La Gallina Turuleca (2019).mp4
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",La Gallina Turuleca (2019).mp4
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Gallina%20Turuleca%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT ANIMACION" tvg-logo="",La Muerte y El Regreso de Superman (2019)
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",La Muerte y El Regreso de Superman (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Muerte%20y%20El%20Regreso%20de%20Superman%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La Pandilla Una noche de terror (2020)
+#EXTINF:-1 group-title="MR ROBOT",La Pandilla Una noche de terror (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Pandilla%20Una%20noche%20de%20terror%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La bala perdida (2020).mp4
+#EXTINF:-1 group-title="MR ROBOT",La bala perdida (2020).mp4
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20bala%20perdida%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La familia Addams (2019)
+#EXTINF:-1 group-title="MR ROBOT",La familia Addams (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20familia%20Addams%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La leyenda de Klaus (2019)
+#EXTINF:-1 group-title="MR ROBOT",La leyenda de Klaus (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20leyenda%20de%20Klaus%20%282019%29-1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La leyenda de Klaus (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20leyenda%20de%20Klaus%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La liga de los 5 (2020)
+#EXTINF:-1 group-title="MR ROBOT",La liga de los 5 (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20liga%20de%20los%205%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La llamada de lo salvaje (2020)
+#EXTINF:-1 group-title="MR ROBOT",La llamada de lo salvaje (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20llamada%20de%20lo%20salvaje%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La posesion de deborah logan (2004)
+#EXTINF:-1 group-title="MR ROBOT",La posesion de deborah logan (2004)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20posesion%20de%20deborah%20logan%20%282004%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La princesa Cisne una boda real (2020)
+#EXTINF:-1 group-title="MR ROBOT",La princesa Cisne una boda real (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20princesa%20Cisne%20una%20boda%20real%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La razón de estar contigo  (2006)
+#EXTINF:-1 group-title="MR ROBOT",La razón de estar contigo  (2006)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20raz%C3%B3n%20de%20estar%20contigo%20%20%282006%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La teoría del todo 2014
+#EXTINF:-1 group-title="MR ROBOT",La teoría del todo 2014
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20teor%C3%ADa%20del%20todo%202014~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La vida moderna de Rocko Cambio de chip (2019)
+#EXTINF:-1 group-title="MR ROBOT",La vida moderna de Rocko Cambio de chip (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20moderna%20de%20Rocko%20Cambio%20de%20chip%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La vida secreta de tus mascotas (2016)
+#EXTINF:-1 group-title="MR ROBOT",La vida secreta de tus mascotas (2016)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20secreta%20de%20tus%20mascotas%20%282016%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",La vieja guardia (2020)
+#EXTINF:-1 group-title="MR ROBOT",La vieja guardia (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vieja%20guardia%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Las Aventuras de Bo Peep (2020)
+#EXTINF:-1 group-title="MR ROBOT",Las Aventuras de Bo Peep (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20Aventuras%20de%20Bo%20Peep%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Las aventuras del Doctor Dolittle (2020)
+#EXTINF:-1 group-title="MR ROBOT",Las aventuras del Doctor Dolittle (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20aventuras%20del%20Doctor%20Dolittle%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Lazos malditos (2020)
+#EXTINF:-1 group-title="MR ROBOT",Lazos malditos (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Lazos%20malditos%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Liga de la Justicia Oscura - Guerra Apokolips (2020)
+#EXTINF:-1 group-title="MR ROBOT",Liga de la Justicia Oscura - Guerra Apokolips (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Liga%20de%20la%20Justicia%20Oscura%20-%20Guerra%20Apokolips%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Loca por el trabajo (2018)
+#EXTINF:-1 group-title="MR ROBOT",Loca por el trabajo (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Loca%20por%20el%20trabajo%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Los Descendientes 3 (2019)
+#EXTINF:-1 group-title="MR ROBOT",Los Descendientes 3 (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20Descendientes%203%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Los colegas del barrio (1996)
+#EXTINF:-1 group-title="MR ROBOT",Los colegas del barrio (1996)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20colegas%20del%20barrio%20%281996%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Los descendientes (2015)
+#EXTINF:-1 group-title="MR ROBOT",Los descendientes (2015)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20descendientes%20%282015%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Los hermanos Willoughby (2020)
+#EXTINF:-1 group-title="MR ROBOT",Los hermanos Willoughby (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20hermanos%20Willoughby%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Los nuevos mutantes (2020)
+#EXTINF:-1 group-title="MR ROBOT",Los nuevos mutantes (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20nuevos%20mutantes%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Maggie Simpson Jugando con el destino (2020)
+#EXTINF:-1 group-title="MR ROBOT",Maggie Simpson Jugando con el destino (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Maggie%20Simpson%20Jugando%20con%20el%20destino%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mal de ojo (2020)
+#EXTINF:-1 group-title="MR ROBOT",Mal de ojo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mal%20de%20ojo%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Malicious_ En el vientre del diablo (2018)
+#EXTINF:-1 group-title="MR ROBOT",Malicious_ En el vientre del diablo (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Malicious_%20En%20el%20vientre%20del%20diablo%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mandy (2019)
+#EXTINF:-1 group-title="MR ROBOT",Mandy (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mandy%20%282019%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Manou (2019)
+#EXTINF:-1 group-title="MR ROBOT",Manou (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Manou%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Marvel Rising Heart of Iron (2019)
+#EXTINF:-1 group-title="MR ROBOT",Marvel Rising Heart of Iron (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Marvel%20Rising%20Heart%20of%20Iron%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mi papá es un gato (2016)
+#EXTINF:-1 group-title="MR ROBOT",Mi papá es un gato (2016)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20pap%C3%A1%20es%20un%20gato%20%282016%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mi primer gran combate (2020)
+#EXTINF:-1 group-title="MR ROBOT",Mi primer gran combate (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20primer%20gran%20combate%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mi semana extraordinaria con Tess (2019)
+#EXTINF:-1 group-title="MR ROBOT",Mi semana extraordinaria con Tess (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20semana%20extraordinaria%20con%20Tess%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Monos (2019)
+#EXTINF:-1 group-title="MR ROBOT",Monos (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monos%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Monster House_ La casa de los sustos
+#EXTINF:-1 group-title="MR ROBOT",Monster House_ La casa de los sustos
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monster%20House_%20La%20casa%20de%20los%20sustos%20%20%282006%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Mortal (2020)
+#EXTINF:-1 group-title="MR ROBOT",Mortal (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mortal%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Máquinas Mortales (2018)
+#EXTINF:-1 group-title="MR ROBOT",Máquinas Mortales (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/M%C3%A1quinas%20Mortales%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Nacido para ser rey (2019)
+#EXTINF:-1 group-title="MR ROBOT",Nacido para ser rey (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nacido%20para%20ser%20rey%20%282019%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Nación asesina (2018)
+#EXTINF:-1 group-title="MR ROBOT",Nación asesina (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Naci%C3%B3n%20asesina%20%282018%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Nadie duerme en el bosque esta noche (2020)
+#EXTINF:-1 group-title="MR ROBOT",Nadie duerme en el bosque esta noche (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Nancy Drew y la Escalera Escondida (2019)
+#EXTINF:-1 group-title="MR ROBOT",Nancy Drew y la Escalera Escondida (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nancy%20Drew%20y%20la%20Escalera%20Escondida%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",Ni no Kuni (2019)
+#EXTINF:-1 group-title="MR ROBOT",Ni no Kuni (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ni%20no%20Kuni%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",No dejes de mirar (2017)
+#EXTINF:-1 group-title="MR ROBOT",No dejes de mirar (2017)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/No%20dejes%20de%20mirar%20%282017%29~1.mp4
-#EXTINF:-1 group-title="MR ROBOT" tvg-logo="",nada (2018)
+#EXTINF:-1 group-title="MR ROBOT",nada (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/nada%20%282018%29~1.mp4
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg",Volver al Futuro | REGIOFLIX
 https://archive.org/download/qwerty_202001/qwerty.mkv
@@ -318,8 +305,6 @@ https://archive.org/download/qwerty3/qwerty3.mkv
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg",Jhonny English 3.0 | REGIOFLIX
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",Volver al Futuro | REGIOFLIX
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg",Next Gen | SRREGIO.NET
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg",Tragedy Girls | SRREGIO.NET
@@ -328,7 +313,7 @@ https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",Cuando nos Conocimos | REGIOFLIX
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles | REGIOFLIX
+#EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",0
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox | REGIOFLIX
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
@@ -342,8 +327,6 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 group-title="PELICULAS MR ROBOT" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO | REGIOFLIX
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
-http://thex.tv:57999/movie/juanlopez/juanlopez/6493.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOw5JD8IlD546feZ6oxbIjvN66P.jpg",Rogue
 http://thex.tv:57999/movie/juanlopez/juanlopez/6494.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wT5SQXWGfgSiDwf9Y6vefBWSoqX.jpg",Seberg: Más allá del cine
@@ -1368,7 +1351,7 @@ http://thex.tv:57999/movie/juanlopez/juanlopez/3541.mkv
 http://thex.tv:57999/movie/juanlopez/juanlopez/3542.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km0ta4N96yjoZPVy5A3gbcE3Ne8.jpg",Midsommar
 http://thex.tv:57999/movie/juanlopez/juanlopez/3543.mkv
-#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51fhiOEbGnL._SX331_BO1,204,203,200_.jpg",Spirit Riding Free: Spirit of Christmas
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51fhiOEbGnL._SX331_BO1,204,203,200_.jpg",204
 http://thex.tv:57999/movie/juanlopez/juanlopez/3544.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AS33BLNEBcp1CO4FvdRltTxr.jpg",Stockholm
 http://thex.tv:57999/movie/juanlopez/juanlopez/3545.mkv
@@ -1840,11 +1823,6 @@ http://thex.tv:57999/movie/juanlopez/juanlopez/2276.mkv
 http://thex.tv:57999/movie/juanlopez/juanlopez/2277.mkv
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="http://195.154.172.190:57999/images/Z6jkyEfHJxUVOrOgrsr3BgNbOe3K90qr.jpg",Chicuarotes
 http://thex.tv:57999/movie/juanlopez/juanlopez/2278.mkv
-
-
-
-
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/bob-esponja-un-he-roe-al-rescate-poster-1573676315.jpg",Bob Esponja Un Heroe al Rescate | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/BobEsponjaUnHeroeAlRescateSRREGIO.NET.mkv
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://larryfire.files.wordpress.com/2020/09/hubiehalloween_vertical_alt_rgb_en-us20200924-6692-k4dpmi.jpg?w=580&h=859",Hubbie Halloween | REGIOFLIX
@@ -1975,7 +1953,7 @@ http://regioflix.club/REGIO2020/151120nov/th3.gr34t.h4ck.2019.hdrip.720p.latino.
 http://regioflix.club/REGIO2020/151120nov/NiEnSusSue%C3%B1osSRREGIO.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/04/02/13/08/3361614.jpg",Shazam | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/shazam720pSRREGIO.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*",La Llorona | REGIOFLIX
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*",top&resize=480:*"
 http://regioflix.club/REGIO2020/151120nov/lalloronaSRREGIO.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/el_gran_asalto_211.jpg",El Gran Asalto | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/ElGranAsalto.mp4
@@ -2041,12 +2019,9 @@ http://regioflix.club/REGIO2020/151120nov/GlassSrRegio.mp4
 http://regioflix.club/REGIO2020/151120nov/InfinityWarSrRegio.mp4
 #EXTINF:-1 group-title="MR ROBOT" tvg-logo="http://elinformanteperu.com/wp-content/uploads/2019/02/Afiche-mani.jpg",El Manicomio La Cuna Del Terror
 http://regioflix.club/REGIO2020/151120nov/ElManicomioLaCunaDelTerrorSrRegio.mp4
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg",Coco | REGIOFLIX
-http://regioflix.club/REGIO2020/151120nov/coco.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/yugiohenespanol/images/8/81/Yugioh_Pelicula_Poster_2.png/revision/latest?cb=20151212010332&path-prefix=es",Yu Gi Oh El Lado Oscuro De Las Dimensiones | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/Yu-Gi-Oh.El.Lado.Oscuro.de.las.Dimensiones.SrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/09/37/f1/0937f1747dc79bc6ddc44ff39c4a3043.jpg",Mis Huellas A Casa | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/Mis.Huellas.A.Casa.SrRegio.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-cine-bumblebee-transformers-john-cena-D_NQ_NP_780296-MLM28802122657_112018-F.jpg",Bumblebee | REGIOFLIX
 http://regioflix.club/REGIO2020/151120nov/Bumblebee.SrRegio.mp4
-
