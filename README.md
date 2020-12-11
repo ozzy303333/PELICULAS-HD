@@ -31,7 +31,7 @@ https://archive.org/download/velvet-buzzsaw-2019_202012/To%CC%81xico%20%282020%2
 https://archive.org/download/velvet-buzzsaw-2019_202012/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
 #EXTINF:-1 group-title="MR ROBOT",Trolls 2 Gira mundial (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT",UglyDolls Extraordinariamente Feos (2019)
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",UglyDolls Extraordinariamente Feos (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
 #EXTINF:-1 group-title="MR ROBOT",Una Noche en Bangkok (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20Noche%20en%20Bangkok%20%282020%29.mp4
