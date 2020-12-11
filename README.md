@@ -74,7 +74,7 @@ https://archive.org/download/velvet-buzzsaw-2019_202012/Transilvania%2C%20el%20i
 https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
 #EXTINF:-1 group-title="MR ROBOT ANIMACION",UglyDolls Extraordinariamente Feos (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT",Resident Evil_ Degeneración (2008)
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",Resident Evil_ Degeneración (2008)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Degeneraci%C3%B3n%20%282008%29~1.mp4
 #EXTINF:-1 group-title="MR ROBOT ANIMACION",Resident Evil_ Infierno (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Infierno%20%282012%29~1.mp4
@@ -84,7 +84,7 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/SalynPM-Angry.birds~1.mp4
 #EXTINF:-1 group-title="MR ROBOT ANIMACION",Scooby-Doo! Regreso a la Isla Zombie (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scooby-Doo%21%20Regreso%20a%20la%20Isla%20Zombie%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT animacion",Shrek 3 (2007)
+#EXTINF:-1 group-title="MR ROBOT ANIMACION",Shrek 3 (2007)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Shrek%203%20%282007%29~1.mp4
 #EXTINF:-1 group-title="MR ROBOT ANIMACION",The Spooky Tale of Captain Underpants Hack-a-ween (2019
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
