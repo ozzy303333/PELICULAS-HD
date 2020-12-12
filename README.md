@@ -77,21 +77,21 @@ https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinar
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Degeneraci%C3%B3n%20%282008%29~1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://4.bp.blogspot.com/-E3QDjkxcVI8/Vz02rHBMpeI/AAAAAAAACuo/qeSZ9sbu5BwSyseu4N040SVh9-W8xEHxQCK4B/s1600/Resident%2BEvil_Damnation%2B%25282012%2529%2BPoster.jpg" group-title="MR ROBOT ANIMACION",Resident Evil_ Infierno (2012)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Infierno%20%282012%29~1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Resident Evil_ Vendetta (2017)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.dvdsreleasedates.com/posters/800/R/Resident-Evil-Vendetta-2017-movie-poster.jpg" group-title="MR ROBOT ANIMACION",Resident Evil_ Vendetta (2017)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Vendetta%20%282017%29~1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",SalynPM-Angry.birds
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" group-title="MR ROBOT ANIMACION",angry bird la pelicula
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/SalynPM-Angry.birds~1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Scooby-Doo! Regreso a la Isla Zombie (2019)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/2JZWaMMDr61Lkwt6FuP1KNd2828.jpg" group-title="MR ROBOT ANIMACION",Scooby-Doo! Regreso a la Isla Zombie (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scooby-Doo%21%20Regreso%20a%20la%20Isla%20Zombie%20%282019%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Shrek 3 (2007)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://lh5.googleusercontent.com/-GLq36ewWTIY/TYGmCukZneI/AAAAAAAAArM/25MKS0L1HUU/s1600/shrek-the-third-oriddginal.jpg" group-title="MR ROBOT ANIMACION",Shrek 3 (2007)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Shrek%203%20%282007%29~1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",The Spooky Tale of Captain Underpants Hack-a-ween (2019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/09/Captain-Underpants-Halloween-1.jpg" group-title="MR ROBOT ANIMACION",The Spooky Tale of Captain Underpants Hack-a-ween (2019
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Spirit Riding Free Spirit of Christmas (2019)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://occ-0-999-1001.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABRfQpD8lcFx5U-hneA5FQb1a0ALL5s47-WsXQirlS7JC2tiRmqRW_DxFf_1RoxxPEh7bwPj39BFA9b2-pdIsUOXPUjX0b3jOovnQA0dG-njPYyZZRN7cOTfGP4Ba4A.jpg" group-title="MR ROBOT ANIMACION",Spirit Riding Free Spirit of Christmas (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spirit%20Riding%20Free%20Spirit%20of%20Christmas%20%282019%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Spycies (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://storage.waploaded.com/images/31902d68a3e1068d138a17217ada5c18.jpg" group-title="MR ROBOT ANIMACION",Spycies (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spycies%20%282020%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",StarDog and TurboCat (2019)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2NmMWU0YzUtNzU5MC00N2YwLThhMDktNmI0N2U1Mzc2YjAxXkEyXkFqcGdeQXVyODc5MDM3MDY@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="MR ROBOT ANIMACION",StarDog and TurboCat (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/StarDog%20and%20TurboCat%20%282019%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT ANIMACION",Stargirl (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Stargirl%20%282020%29.mp4
