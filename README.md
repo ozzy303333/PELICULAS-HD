@@ -534,3 +534,63 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 #EXTINF:-1, tvg-id="" tvg-logo="https://i0.wp.com/o2tvseriesz.com/wp-content/uploads/2020/09/A-Feral-World-2020.jpg?fit=350%2C525&ssl=1" tvg-name="A Feral World (2020)"  group-title="MR ROBOT terror",A Feral World (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
 
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg" tvg-name="Aztech (2020)"  group-title="MR ROBOT terror",Aztech (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Aztech%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91TtuCLApRL._AC_SL1500_.jpg" tvg-name="Baba Yaga El regreso del demonio (2020)"  group-title="New Group",Baba Yaga El regreso del demonio (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" tvg-name="Casa ajena (2020)"  group-title="MR ROBOT terror",Casa ajena (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Come_Play-300572787-large.jpg" tvg-name="Come Play (2020)"  group-title="MR ROBOT terror",Come Play (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Come%20Play%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg" tvg-name="Cuidado con lo que deseas (2020)"  group-title="MR ROBOT terror",Cuidado con lo que deseas (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Cuidado%20con%20lo%20que%20deseas%20%282020%29-1.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/1Jq7Ra5DBueK98zPf1fMmqdbITc.jpg" tvg-name="De patitas a la calle (2020)"  group-title="MR ROBOT",De patitas a la calle (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/De%20patitas%20a%20la%20calle%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://es.web.img3.acsta.net/pictures/20/09/15/09/36/3945598.jpg" tvg-name="Este cuerpo me sienta de muerte (2020)"  group-title="MR ROBOT terror",Este cuerpo me sienta de muerte (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Este%20cuerpo%20me%20sienta%20de%20muerte%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg" tvg-name="Jóvenes y Brujas (2020)"  group-title="MR ROBOT",Jóvenes y Brujas (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Jo%CC%81venes%20y%20Brujas%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/Juegos-salvajes-1998-Latino.jpg" tvg-name="Juegos salvajes (1998)"  group-title="MR ROBOT terror",Juegos salvajes (1998)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Juegos%20salvajes%20%281998%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://img.repelis.id/cover/juguetes-del-terror-1607790306.jpg" tvg-name="Juguetes del Terror (2020)"  group-title="MR ROBOT terror",Juguetes del Terror (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Juguetes%20del%20Terror%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.descargatelocorp.com/wp-content/uploads/2020/11/Lego-Star-Wars-Especial-Felices-Fiestas-2020-HD-1080p-Latino.jpg" tvg-name="LEGO Star Wars Especial Felices Fiestas (2020)"  group-title="MR ROBOT ANIMACION",LEGO Star Wars Especial Felices Fiestas (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/LEGO%20Star%20Wars%20Especial%20Felices%20Fiestas%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/La_Navidad_m_gica_de_los_Jangle-820302797-large.jpg" tvg-name="La Navidad mágica de los Jangle (2020)"  group-title="MR ROBOT terror",La Navidad mágica de los Jangle (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/La%20Navidad%20ma%CC%81gica%20de%20los%20Jangle%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" tvg-name="Lazos malditos (2020)"  group-title="MR ROBOT terror",Lazos malditos (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Lazos%20malditos%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/lego_dc_shazam_magic_and_monsters-386498050-large.jpg" tvg-name="Lego DC ¡Shazam! Magia y monstruos (2020)"  group-title="MR ROBOT ANIMACION",Lego DC ¡Shazam! Magia y monstruos (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Lego%20DC%20%C2%A1Shazam%21%20Magia%20y%20monstruos%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)"  group-title="MR ROBOT ANIMACION",Liga de la Justicia Oscura - Guerra Apokolips (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Liga%20de%20la%20Justicia%20Oscura%20-%20Guerra%20Apokolips%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/27/18/52/1084797.jpg" tvg-name="Los nuevos mutantes (2020)"  group-title="MR ROBOT",Los nuevos mutantes (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Los%20nuevos%20mutantes%20%282020%29-1.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/8221521/MV5BYmNkZTMwZTAtOGQ1My00MDczLWJjYWUtODE4NDMyYTc4MDk1XkEyXkFqcGdeQXVyODc0OTEyNDU___V1_SY1000_SX700_AL_.jpg" tvg-name="Mulán (2020)"  group-title="MR ROBOT terror",Mulán (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Mula%CC%81n%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" tvg-name="Nadie duerme en el bosque esta noche (2020)"  group-title="MR ROBOT terror",Nadie duerme en el bosque esta noche (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-11-20-6093098755.jpg" tvg-name="Navidad Xtraterrestre (2020)"  group-title="MR ROBOT terror",Navidad Xtraterrestre (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Navidad%20Xtraterrestre%20%282020%29.mp4
+
+#EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Onward-464150296-large.jpg" tvg-name="Onward (2020)"  group-title="MR ROBOT terror",Onward (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Onward%20%282020%29.mp4
+
