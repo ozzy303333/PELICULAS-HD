@@ -360,177 +360,174 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/El_caballero_de_la_navidad-972136948-large.jpg" tvg-name="El caballero de la Navidad (2019)"  group-title="MR ROBOT",El caballero de la Navidad (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20caballero%20de%20la%20Navidad%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El ritmo de la venganza (2020)"  group-title="MR ROBOT",El ritmo de la venganza (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/El_ritmo_de_la_venganza-213658773-large.jpg" tvg-name="El ritmo de la venganza (2020)"  group-title="MR ROBOT",El ritmo de la venganza (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/El%20ritmo%20de%20la%20venganza%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ella Bella Bingo (2020)"  group-title="MR ROBOT",Ella Bella Bingo (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Ella_Bella_Bingo-153406038-large.jpg" tvg-name="Ella Bella Bingo (2020)"  group-title="MR ROBOT",Ella Bella Bingo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ella%20Bella%20Bingo%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="En brazos de un asesino (2019)"  group-title="MR ROBOT",En brazos de un asesino (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.tmdb.org/t/p/w1280/iqRUOtbDunNq7gTux3zXz25Krwp.jpg" tvg-name="En brazos de un asesino (2019)"  group-title="MR ROBOT",En brazos de un asesino (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/En%20brazos%20de%20un%20asesino%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Enola Holmes (2020)"  group-title="MR ROBOT",Enola Holmes (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/sherlockholmes/images/2/25/Enola_Holmes_movie_poster.png/revision/latest?cb=20200819183336&path-prefix=es" tvg-name="Enola Holmes (2020)"  group-title="MR ROBOT",Enola Holmes (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Enola%20Holmes%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Escuela de miedo (2020)"  group-title="MR ROBOT",Escuela de miedo (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Escuela_de_miedo-177433002-large.jpg" tvg-name="Escuela de miedo (2020)"  group-title="MR ROBOT",Escuela de miedo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Escuela%20de%20miedo%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fuego negro (2020)"  group-title="MR ROBOT",Fuego negro (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Fuego_negro-616588726-large.jpg" tvg-name="Fuego negro (2020)"  group-title="MR ROBOT",Fuego negro (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Fuego%20negro%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Greyhound enemigos bajo el mar (2020)"  group-title="MR ROBOT",Greyhound enemigos bajo el mar (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Greyhound_Enemigos_bajo_el_mar-142654194-large.jpg" tvg-name="Greyhound enemigos bajo el mar (2020)"  group-title="MR ROBOT",Greyhound enemigos bajo el mar (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Greyhound%20enemigos%20bajo%20el%20mar%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Heavenquest A Pilgrim's Progress (2020)"  group-title="MR ROBOT",Heavenquest A Pilgrim's Progress (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk5MGYxZmUtNmJjNC00Y2JjLWJiMTEtMDY4M2QzNzAxNjJiXkEyXkFqcGdeQXVyNDczODQwOTQ@._V1_.jpg" tvg-name="Heavenquest A Pilgrim's Progress (2020)"  group-title="MR ROBOT",Heavenquest A Pilgrim's Progress (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Homeless (2019)"  group-title="MR ROBOT",Homeless (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Homeless_2019.jpg/revision/latest?cb=20200204051422&path-prefix=es" tvg-name="Homeless (2019)"  group-title="MR ROBOT ANIMACION",Homeless (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Homeless%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Infamous (2020)"  group-title="MR ROBOT",Infamous (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Infamous-374220657-large.jpg" tvg-name="Infamous (2020)"  group-title="MR ROBOT",Infamous (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Infamous%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Invincible (2020)"  group-title="MR ROBOT",Invincible (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRhMjQyZjQtOTQzYy00ZjVhLTlhOTUtNzQwN2RmNTNiOWYxXkEyXkFqcGdeQXVyMTg5ODY4NDM@._V1_.jpg" tvg-name="Invincible (2020)"  group-title="MR ROBOT",Invincible (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Invincible%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Juegos salvajes (1998)"  group-title="MR ROBOT",Juegos salvajes (1998)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/91/35/05/20141085.jpg" tvg-name="Juegos salvajes (1998)"  group-title="MR ROBOT",Juegos salvajes (1998)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Juegos%20salvajes%20%281998%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jungle Beat The Movie (2020)"  group-title="MR ROBOT",Jungle Beat The Movie (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTc5OGUxYzktZGZkYy00ODBlLThhYTQtNDExMGE5YTFhNDk2XkEyXkFqcGdeQXVyMTAyNjY3OTM@._V1_.jpg" tvg-name="Jungle Beat The Movie (2020)"  group-title="MR ROBOT",Jungle Beat The Movie (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Jungle%20Beat%20The%20Movie%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Justice League vs the Fatal Five (2019)"  group-title="MR ROBOT",Justice League vs the Fatal Five (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5ODdkYzQtMDFjYS00YjgwLWI2N2EtZmU1MWRmMzFiNzdjXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg" tvg-name="Justice League vs the Fatal Five (2019)"  group-title="MR ROBOT",Justice League vs the Fatal Five (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Justice%20League%20vs%20the%20Fatal%20Five%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kim Possible (2019)"  group-title="MR ROBOT",Kim Possible (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/22/14/31/2608091.jpg" tvg-name="Kim Possible (2019)"  group-title="MR ROBOT",Kim Possible (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Kim%20Possible%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Pandilla Una noche de terror (2020)"  group-title="MR ROBOT",La Pandilla Una noche de terror (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.justwatch.com/poster/207236864/s592" tvg-name="La Pandilla Una noche de terror (2020)"  group-title="MR ROBOT",La Pandilla Una noche de terror (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20Pandilla%20Una%20noche%20de%20terror%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La bala perdida (2020).mp4"  group-title="MR ROBOT",La bala perdida (2020).mp4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-06-20-5107485140.jpg" tvg-name="La bala perdida (2020)"  group-title="MR ROBOT",La bala perdida (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20bala%20perdida%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La familia Addams (2019)"  group-title="MR ROBOT",La familia Addams (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/19/04/17/09/37/4990262.jpg" tvg-name="La familia Addams (2019)"  group-title="MR ROBOT",La familia Addams (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20familia%20Addams%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La leyenda de Klaus (2019)"  group-title="MR ROBOT",La leyenda de Klaus (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2019/10/klaus.jpg?itok=tWqDXH8k" tvg-name="La leyenda de Klaus (2019)"  group-title="MR ROBOT",La leyenda de Klaus (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20leyenda%20de%20Klaus%20%282019%29-1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La liga de los 5 (2020)"  group-title="MR ROBOT",La liga de los 5 (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/La_Liga_de_los_5-367742789-large.jpg" tvg-name="La liga de los 5 (2020)"  group-title="MR ROBOT",La liga de los 5 (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20liga%20de%20los%205%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La llamada de lo salvaje (2020)"  group-title="MR ROBOT",La llamada de lo salvaje (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/La_llamada_de_lo_salvaje-262975265-large.jpg" tvg-name="La llamada de lo salvaje (2020)"  group-title="MR ROBOT",La llamada de lo salvaje (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20llamada%20de%20lo%20salvaje%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La posesion de deborah logan (2004)"  group-title="MR ROBOT",La posesion de deborah logan (2004)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/proxy/Sdf0jvW3XT3P1ImXlX-WEHc5uy5RLwbJ80kPqvDskX6LKZjfKVHzhN4FPYXJFq3irXSX9w8hM40LVWhE3YO9YKENqUwNJbEbmObss-S3YXx_Ct0u5xYWw4Ff8T39YGE9DrlLEX5lt2TjLJaaMsaBA0cQErFM2QdEJS4h2CEdoJqsq1rgZjL5od9cq3d1JrxWLHErzUEFPw" tvg-name="La posesion de deborah logan (2004)"  group-title="MR ROBOT",La posesion de deborah logan (2004)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20posesion%20de%20deborah%20logan%20%282004%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La princesa Cisne una boda real (2020)"  group-title="MR ROBOT",La princesa Cisne una boda real (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN6T4M/image?locale=es-es&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" tvg-name="La princesa Cisne una boda real (2020)"  group-title="MR ROBOT",La princesa Cisne una boda real (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20princesa%20Cisne%20una%20boda%20real%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La razón de estar contigo  (2006)"  group-title="MR ROBOT",La razón de estar contigo  (2006)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cineenlinea.net/wp-content/uploads/2017/01/POSTER-LA-RAZON-DE-ESTAR-CONTIGO-2-1-212x300.jpg" tvg-name="La razón de estar contigo  (2006)"  group-title="MR ROBOT",La razón de estar contigo  (2006)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20raz%C3%B3n%20de%20estar%20contigo%20%20%282006%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La teoría del todo 2014"  group-title="MR ROBOT",La teoría del todo 2014
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/La_teor_a_del_todo-801537932-large.jpg" tvg-name="La teoría del todo 2014"  group-title="MR ROBOT",La teoría del todo 2014
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20teor%C3%ADa%20del%20todo%202014~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La vida moderna de Rocko Cambio de chip (2019)"  group-title="MR ROBOT",La vida moderna de Rocko Cambio de chip (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/rocko_s_modern_life_static_cling_tv-676114096-large.jpg" tvg-name="La vida moderna de Rocko Cambio de chip (2019)"  group-title="MR ROBOT",La vida moderna de Rocko Cambio de chip (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20moderna%20de%20Rocko%20Cambio%20de%20chip%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La vida secreta de tus mascotas (2016)"  group-title="MR ROBOT",La vida secreta de tus mascotas (2016)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/La_vida_secreta_de_tus_mascotas-650197167-large.jpg" tvg-name="La vida secreta de tus mascotas (2016)"  group-title="MR ROBOT",La vida secreta de tus mascotas (2016)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vida%20secreta%20de%20tus%20mascotas%20%282016%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La vieja guardia (2020)"  group-title="MR ROBOT",La vieja guardia (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/the_old_guard-768938280-large.jpg" tvg-name="La vieja guardia (2020)"  group-title="MR ROBOT",La vieja guardia (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/La%20vieja%20guardia%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Las Aventuras de Bo Peep (2020)"  group-title="MR ROBOT",Las Aventuras de Bo Peep (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Las_aventuras_de_Bo_Peep_C-734127939-large.jpg" tvg-name="Las Aventuras de Bo Peep (2020)"  group-title="MR ROBOT",Las Aventuras de Bo Peep (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20Aventuras%20de%20Bo%20Peep%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Las aventuras del Doctor Dolittle (2020)"  group-title="MR ROBOT",Las aventuras del Doctor Dolittle (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/21/18/17/2984901.jpg" tvg-name="Las aventuras del Doctor Dolittle (2020)"  group-title="MR ROBOT",Las aventuras del Doctor Dolittle (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Las%20aventuras%20del%20Doctor%20Dolittle%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lazos malditos (2020)"  group-title="MR ROBOT",Lazos malditos (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" tvg-name="Lazos malditos (2020)"  group-title="MR ROBOT",Lazos malditos (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Lazos%20malditos%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)"  group-title="MR ROBOT",Liga de la Justicia Oscura - Guerra Apokolips (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Liga_de_la_Justicia_Oscura_Guerra_Apokolips-192985226-large.jpg" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)"  group-title="MR ROBOT ANIMACION",Liga de la Justicia Oscura - Guerra Apokolips (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Liga%20de%20la%20Justicia%20Oscura%20-%20Guerra%20Apokolips%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Loca por el trabajo (2018)"  group-title="MR ROBOT",Loca por el trabajo (2018)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Loca_por_el_trabajo-658758598-large.jpg" tvg-name="Loca por el trabajo (2018)"  group-title="MR ROBOT",Loca por el trabajo (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Loca%20por%20el%20trabajo%20%282018%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Los Descendientes 3 (2019)"  group-title="MR ROBOT",Los Descendientes 3 (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Los_Descendientes_3_TV-168332569-large.jpg" tvg-name="Los Descendientes 3 (2019)"  group-title="MR ROBOT",Los Descendientes 3 (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20Descendientes%203%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Los colegas del barrio (1996)"  group-title="MR ROBOT",Los colegas del barrio (1996)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/92/94/88/20226785.jpg" tvg-name="Los colegas del barrio (1996)"  group-title="MR ROBOT",Los colegas del barrio (1996)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20colegas%20del%20barrio%20%281996%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Los descendientes (2015)"  group-title="MR ROBOT",Los descendientes (2015)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/24/12/53/2131045.jpg" tvg-name="Los descendientes (2015)"  group-title="MR ROBOT",Los descendientes (2015)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20descendientes%20%282015%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Los hermanos Willoughby (2020)"  group-title="MR ROBOT",Los hermanos Willoughby (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/the_willoughbys-277085338-large.jpg" tvg-name="Los hermanos Willoughby (2020)"  group-title="MR ROBOT",Los hermanos Willoughby (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20hermanos%20Willoughby%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Los nuevos mutantes (2020)"  group-title="MR ROBOT",Los nuevos mutantes (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/20/01/27/18/52/1084797.jpg" tvg-name="Los nuevos mutantes (2020)"  group-title="MR ROBOT",Los nuevos mutantes (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Los%20nuevos%20mutantes%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Maggie Simpson Jugando con el destino (2020)"  group-title="MR ROBOT",Maggie Simpson Jugando con el destino (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vertele.eldiario.es/2020/04/10/noticias/Cartel-Maggie-Simpson-Jugando-destino_2221287882_14497390_1024x1024.png" tvg-name="Maggie Simpson Jugando con el destino (2020)"  group-title="MR ROBOT",Maggie Simpson Jugando con el destino (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Maggie%20Simpson%20Jugando%20con%20el%20destino%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mal de ojo (2020)"  group-title="MR ROBOT",Mal de ojo (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Mal_de_ojo-443238560-large.jpg" tvg-name="Mal de ojo (2020)"  group-title="MR ROBOT",Mal de ojo (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mal%20de%20ojo%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Malicious_ En el vientre del diablo (2018)"  group-title="MR ROBOT",Malicious_ En el vientre del diablo (2018)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Malicious_En_el_vientre_del_diablo-601033605-large.jpg" tvg-name="Malicious_ En el vientre del diablo (2018)"  group-title="MR ROBOT",Malicious_ En el vientre del diablo (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Malicious_%20En%20el%20vientre%20del%20diablo%20%282018%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mandy (2019)"  group-title="MR ROBOT",Mandy (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Mandy-202165874-large.jpg" tvg-name="Mandy (2019)"  group-title="MR ROBOT",Mandy (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mandy%20%282019%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Manou (2019)"  group-title="MR ROBOT",Manou (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Manou%20%282019%29.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Marvel Rising Heart of Iron (2019)"  group-title="MR ROBOT",Marvel Rising Heart of Iron (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BODIxZmExNDEtMDk1ZC00MjJhLTg0ZjItMWU4NGQ3MmEyNGUzXkEyXkFqcGdeQXVyODc5MDgxNzE@._V1_.jpg" tvg-name="Marvel Rising Heart of Iron (2019)"  group-title="MR ROBOT",Marvel Rising Heart of Iron (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Marvel%20Rising%20Heart%20of%20Iron%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mi papá es un gato (2016)"  group-title="MR ROBOT",Mi papá es un gato (2016)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://diamondfilms.com/img/poster/5c6eab22773cd12df7811d038.jpg" tvg-name="Mi papá es un gato (2016)"  group-title="MR ROBOT",Mi papá es un gato (2016)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20pap%C3%A1%20es%20un%20gato%20%282016%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mi primer gran combate (2020)"  group-title="MR ROBOT",Mi primer gran combate (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/the_main_event-541450433-large.jpg" tvg-name="Mi primer gran combate (2020)"  group-title="MR ROBOT",Mi primer gran combate (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20primer%20gran%20combate%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mi semana extraordinaria con Tess (2019)"  group-title="MR ROBOT",Mi semana extraordinaria con Tess (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img2.acsta.net/pictures/20/07/21/14/09/3349412.jpg" tvg-name="Mi semana extraordinaria con Tess (2019)"  group-title="MR ROBOT",Mi semana extraordinaria con Tess (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mi%20semana%20extraordinaria%20con%20Tess%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Monos (2019)"  group-title="MR ROBOT",Monos (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Monos-435856908-large.jpg" tvg-name="Monos (2019)"  group-title="MR ROBOT",Monos (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monos%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Monster House_ La casa de los sustos"  group-title="MR ROBOT",Monster House_ La casa de los sustos
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/8d/Monster_House.jpg/revision/latest?cb=20200730002725&path-prefix=es" tvg-name="Monster House_ La casa de los sustos"  group-title="MR ROBOT ANIMACION",Monster House_ La casa de los sustos
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Monster%20House_%20La%20casa%20de%20los%20sustos%20%20%282006%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mortal (2020)"  group-title="MR ROBOT",Mortal (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Mortal-463237462-large.jpg" tvg-name="Mortal (2020)"  group-title="MR ROBOT",Mortal (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Mortal%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Máquinas Mortales (2018)"  group-title="MR ROBOT",Máquinas Mortales (2018)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/M_quinas_mortales-396624126-large.jpg" tvg-name="Máquinas Mortales (2018)"  group-title="MR ROBOT",Máquinas Mortales (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/M%C3%A1quinas%20Mortales%20%282018%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nacido para ser rey (2019)"  group-title="MR ROBOT",Nacido para ser rey (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/14/18/09/5749412.jpg" tvg-name="Nacido para ser rey (2019)"  group-title="MR ROBOT",Nacido para ser rey (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nacido%20para%20ser%20rey%20%282019%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nación asesina (2018)"  group-title="MR ROBOT",Nación asesina (2018)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/07/Nacion-asesina-poster-704x1024.jpg" tvg-name="Nación asesina (2018)"  group-title="MR ROBOT",Nación asesina (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Naci%C3%B3n%20asesina%20%282018%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nadie duerme en el bosque esta noche (2020)"  group-title="MR ROBOT",Nadie duerme en el bosque esta noche (2020)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" tvg-name="Nadie duerme en el bosque esta noche (2020)"  group-title="MR ROBOT terror",Nadie duerme en el bosque esta noche (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nancy Drew y la Escalera Escondida (2019)"  group-title="MR ROBOT",Nancy Drew y la Escalera Escondida (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Nancy_Drew_y_la_escalera_escondida-586454755-large.jpg" tvg-name="Nancy Drew y la Escalera Escondida (2019)"  group-title="MR ROBOT",Nancy Drew y la Escalera Escondida (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Nancy%20Drew%20y%20la%20Escalera%20Escondida%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ni no Kuni (2019)"  group-title="MR ROBOT",Ni no Kuni (2019)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/NiNoKuni-616847858-large.jpg" tvg-name="Ni no Kuni (2019)"  group-title="MR ROBOT",Ni no Kuni (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Ni%20no%20Kuni%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="No dejes de mirar (2017)"  group-title="MR ROBOT",No dejes de mirar (2017)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://magnetpelis.com/wp-content/uploads/2020/03/65UjzcdXlLcDzZQEidMN58BsFzg.jpg" tvg-name="No dejes de mirar (2017)"  group-title="MR ROBOT",No dejes de mirar (2017)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/No%20dejes%20de%20mirar%20%282017%29~1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="nada (2018)"  group-title="MR ROBOT",nada (2018)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.ecartelera.com/carteles/13500/13549/001_p.jpg" tvg-name="nada (2018)"  group-title="MR ROBOT",nada (2018)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/nada%20%282018%29~1.mp4
 
