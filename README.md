@@ -121,15 +121,15 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Owners%20%282020%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",The Scientist (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Scientist%20%282020%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",The Owners (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="MR ROBOT terror",The Owners (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",A Feral World (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg" group-title="MR ROBOT terror",A Feral World (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",Antebellum (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Antebellum%20%282020%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",Asylum Twisted Horror & Fantasy Tales (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg" group-title="MR ROBOT terror",Asylum Twisted Horror & Fantasy Tales (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Asylum%20Twisted%20Horror%20%26%20Fantasy%20Tales%20%282020%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MR ROBOT terror",Asylum Twisted Horror & Fantasy Tales (2020)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg" group-title="MR ROBOT terror",Asylum Twisted Horror & Fantasy Tales (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Asylum%20Twisted%20Horror%20%26%20Fantasy%20Tales%20%282020%29.mp4
 
 
