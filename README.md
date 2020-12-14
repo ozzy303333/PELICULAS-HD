@@ -15,7 +15,7 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 #EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Scream_2-316203164-mmed.jpg" tvg-name="Scream 2 (1997)"  group-title="MR ROBOT terror",Scream 2 (1997)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scream%202%20%281997%29~1.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://newpelis.cc/wp-content/uploads/2020/08/Santana.jpg" tvg-name="Santana (2020)"  group-title="MR ROBOT Acción",Santana (2020)
+#EXTINF:-1, tvg-id="" tvg-logo="https://newpelis.cc/wp-content/uploads/2020/08/Santana.jpg" tvg-name="Santana (2020)"  group-title="MR ROBOT accion",Santana (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Santana%20%282020%29.mp4
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://img.repelis.id/cover/resident-evil-5-la-venganza.jpg" tvg-name="Resident Evil 5_ Venganza (2012)"  group-title="MR ROBOT terror",Resident Evil 5_ Venganza (2012)
@@ -81,7 +81,7 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 #EXTINF:-1, tvg-id="" tvg-logo="https://pics.filmaffinity.com/Assassin_33_A_D-209369972-large.jpg" tvg-name="Assassin 33 AD 2020"  group-title="MR ROBOT ciencia ficción",Assassin 33 AD 2020
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Assassin%2033%20AD%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" tvg-name="Bad Boys for Life (2020)"  group-title="MR ROBOT Acción",Bad Boys for Life (2020)
+#EXTINF:-1, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" tvg-name="Bad Boys for Life (2020)"  group-title="MR ROBOT accion",Bad Boys for Life (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201124_1641/Bad%20Boys%20for%20Life%20%282020%29.mp4
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F026%2F402%2Falgunas-veces-ellos-vuelven-1.jpg&nuevoancho=690&medio=abc" tvg-name="Algunas veces ellos vuelven (1991)"  group-title="MR ROBOT terror",Algunas veces ellos vuelven (1991)
@@ -147,7 +147,7 @@ https://archive.org/download/wendy-2020/Fat%20Ass%20Zombies%20%282020%29.mp4
 #EXTINF:-1, tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" tvg-name="Glass Houses (2020)"  group-title="MR ROBOT Documental",Glass Houses (2020)
 https://archive.org/download/wendy-2020/Glass%20Houses%20%282020%29.mp4
 
-#EXTINF:-1, tvg-id="" tvg-logo="https://www.montelent.com/wp-content/uploads/2020/08/deep-blue-sea-3-2020.jpg" tvg-name="Deep Blue Sea 3 (2020)"  group-title="MR ROBOT ACCION",Deep Blue Sea 3 (2020)
+#EXTINF:-1, tvg-id="" tvg-logo="https://www.montelent.com/wp-content/uploads/2020/08/deep-blue-sea-3-2020.jpg" tvg-name="Deep Blue Sea 3 (2020)"  group-title="MR ROBOT accion",Deep Blue Sea 3 (2020)
 https://archive.org/download/wendy-2020/Deep%20Blue%20Sea%203%20%282020%29.mp4
 
 #EXTINF:-1, tvg-id="" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-11-20-6093098755.jpg" tvg-name="Navidad Xtraterrestre (2020)"  group-title="MR ROBOT ANIMACION",Navidad Xtraterrestre (2020)
