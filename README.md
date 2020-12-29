@@ -263,7 +263,7 @@ https://archive.org/download/train-to-busan-2-peninsula/CORRUPCION%20EN%20MIAMI.
 https://archive.org/download/train-to-busan-2-peninsula/CRIMENES%20DEFAMILIA.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://bloghorror.com/wp-content/uploads/2020/12/Cielo-de-medianoche-2020_3.jpg" ,Cielo de medianoche (2020)
 https://archive.org/download/train-to-busan-2-peninsula/Cielo%20de%20medianoche%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://lh3.googleusercontent.com/proxy/ZIMMr6QmR7I5hM6bD4TSVA_GCKD02XRdFUQDxEtp75kgZ239CkXJC7oDJ8L2XL54IsxApfsswgQPYp3GDQsbtU7o0zzE0Wq2sSK7nrr_kYM11mK73MWI9k8mQlnnmXG--OU8=w1200-h630-p-k-no-nu.jpg" ,DE PROFESION DURO 1984
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w500/3aQS9dePdvESnx0ifCst78Z2KQh.jpg" ,DE PROFESION DURO 1984
 https://archive.org/download/train-to-busan-2-peninsula/DE%20PROFESION%20DURO%201984.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w1280/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg" ,DEEP impact
 https://archive.org/download/train-to-busan-2-peninsula/DEEP%20impact.mp4
@@ -273,7 +273,7 @@ https://archive.org/download/train-to-busan-2-peninsula/EL%20APRENDIS%20DE%20KUN
 https://archive.org/download/train-to-busan-2-peninsula/El%20gran%20Lebowski%20%281998%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://2.bp.blogspot.com/-U9oxpZaV9cw/T54ecofRIYI/AAAAAAAAAPo/_gerTgvdTPU/s1600/front.jpg" ,Espía por accidente (2001)
 https://archive.org/download/train-to-busan-2-peninsula/Espi%CC%81a%20por%20accidente%20%282001%29.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/pictures/20/07/17/09/41/2275432.jpg" ,HARD KILL
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://musicart.xboxlive.com/7/94695100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" ,HARD KILL
 https://archive.org/download/train-to-busan-2-peninsula/HARD%20KILL.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ5MDY2YWItOWYzMi00NGFhLWFlNDAtNmNiNjg2NWM1NjcyXkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_.jpg" ,KING ARTHUR
 https://archive.org/download/train-to-busan-2-peninsula/KING%20ARTHUR.mp4
