@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://image.tmdb.org/t/p/original//rrX1ojdd068aHlrGq5Khd92a3ba.jpg" ,Domino (2019)
@@ -251,3 +251,61 @@ https://archive.org/download/wonder-woman-1984-2020_202012/Vengadores%20Infinity
 https://archive.org/download/wonder-woman-1984-2020_202012/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://i.pinimg.com/originals/18/e6/1e/18e61e299d5b505fb947716f8a1e9ac3.png" ,Wonder Woman 1984 (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/Wonder%20Woman%201984%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://images.hungama.com/c/1/f07/9eb/49236649/49236649_180x255.jpg" ,Battleship (2012)
+https://archive.org/download/train-to-busan-2-peninsula/Battleship%20%282012%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F097%2Fhurkus-heroe-en-el-cielo-1.jpg&nuevoancho=690&medio=abc.jpg" ,hurkus heroe en el cielo
+https://archive.org/download/train-to-busan-2-peninsula/7c522f172e6e32af60429121a4f12f42-480p.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://4.bp.blogspot.com/_0DkrZEykZFk/TKnijAPcDJI/AAAAAAAADs0/VEoECO02jEk/s1600/cop_out_rock_out_glock_out_poster.jpg" ,COP OUT
+https://archive.org/download/train-to-busan-2-peninsula/COP%20OUT.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4MDQ5MTkxMV5BMl5BanBnXkFtZTcwMTU4MzUzMQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" ,CORRUPCION EN MIAMI.mp4
+https://archive.org/download/train-to-busan-2-peninsula/CORRUPCION%20EN%20MIAMI.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Cr_menes_de_familia-549018936-large.jpg" ,CRIMENES DEFAMILIA
+https://archive.org/download/train-to-busan-2-peninsula/CRIMENES%20DEFAMILIA.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://bloghorror.com/wp-content/uploads/2020/12/Cielo-de-medianoche-2020_3.jpg" ,Cielo de medianoche (2020)
+https://archive.org/download/train-to-busan-2-peninsula/Cielo%20de%20medianoche%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://lh3.googleusercontent.com/proxy/ZIMMr6QmR7I5hM6bD4TSVA_GCKD02XRdFUQDxEtp75kgZ239CkXJC7oDJ8L2XL54IsxApfsswgQPYp3GDQsbtU7o0zzE0Wq2sSK7nrr_kYM11mK73MWI9k8mQlnnmXG--OU8=w1200-h630-p-k-no-nu.jpg" ,DE PROFESION DURO 1984
+https://archive.org/download/train-to-busan-2-peninsula/DE%20PROFESION%20DURO%201984.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w1280/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg" ,DEEP impact
+https://archive.org/download/train-to-busan-2-peninsula/DEEP%20impact.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://img.milanuncios.com/fg/2998/68/299868674_1.jpg?VersionId=b1t.94CttrFh68E97aR.3ckx5M8Q4.jpg" ,EL APRENDIS DE KUN-FU
+https://archive.org/download/train-to-busan-2-peninsula/EL%20APRENDIS%20DE%20KUN-FU.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://1.bp.blogspot.com/-ih5Y9qM9338/WSOABP4T_LI/AAAAAAAARs8/DC4zGcgP_K86QKZFhI3w3ATw03fsHzcjACKgB/s1600/El%2Bgran%2Blebowski%2B1080p%2Blatino.png" ,El gran Lebowski (1998)
+https://archive.org/download/train-to-busan-2-peninsula/El%20gran%20Lebowski%20%281998%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://2.bp.blogspot.com/-U9oxpZaV9cw/T54ecofRIYI/AAAAAAAAAPo/_gerTgvdTPU/s1600/front.jpg" ,Espía por accidente (2001)
+https://archive.org/download/train-to-busan-2-peninsula/Espi%CC%81a%20por%20accidente%20%282001%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/pictures/20/07/17/09/41/2275432.jpg" ,HARD KILL
+https://archive.org/download/train-to-busan-2-peninsula/HARD%20KILL.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ5MDY2YWItOWYzMi00NGFhLWFlNDAtNmNiNjg2NWM1NjcyXkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_.jpg" ,KING ARTHUR
+https://archive.org/download/train-to-busan-2-peninsula/KING%20ARTHUR.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/los-tres-mosqueteros.jpg?itok=Xhzzeb4v.jpg" ,LOS TRES MOSQUETEROS
+https://archive.org/download/train-to-busan-2-peninsula/LOS%20TRES%20MOSQUETEROS.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://miro.medium.com/max/800/1*ZgzwCWKOwmcwyy0TK27otA.jpeg" ,MONSTERS OF MAN
+https://archive.org/download/train-to-busan-2-peninsula/MONSTERS%20OF%20MAN.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d8475841d76923ca21a408033078620ec605e11e1a6af0fe4c4afa85c72dab3._V_SX300_.jpg" ,Payback (1999)
+https://archive.org/download/train-to-busan-2-peninsula/Payback%20%281999%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Repo_Men-118853632-large.jpg" ,REPO MEN
+https://archive.org/download/train-to-busan-2-peninsula/REPO%20MEN.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyY2M2M2UtMGI1NC00ZjBmLWI5NDItYjQ1MThjNzgwMjhmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR91,0,630,1200_AL_.jpg" ,ROGUE
+https://archive.org/download/train-to-busan-2-peninsula/ROGUE.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Rogue_Warfare-843908847-large.jpg" ,ROGUEWARFARE
+https://pics.filmaffinity.com/Rogue_Warfare-843908847-large.jpg
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" ,SAFE
+https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Stalingrado-347822371-large.jpg" ,STALINGRADO.mp4
+https://archive.org/download/train-to-busan-2-peninsula/STALINGRADO.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Soldado_universal_2_Hermanos_de_armas_TV-116505580-large.jpg" ,Soldado universal 2 Hermanos de armas (1998)
+https://archive.org/download/train-to-busan-2-peninsula/Soldado%20universal%202%20Hermanos%20de%20armas%20%281998%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9439058/Peninsula_Movie_Poster8ei25.jpg" ,Train to Busan 2 Peninsula
+https://archive.org/download/train-to-busan-2-peninsula/Train%20to%20Busan%202%20Peninsula.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://1.bp.blogspot.com/-dozCcdoFS-g/X1j2q7JA9bI/AAAAAAAAC9g/AvmNZHDwO_I8-HZbI1utCWeieTEuPwjvQCLcBGAsYHQ/s16000/Una%2BNoche%2Ben%2BBangkok%2BHD.jpg" ,Una noche en Bangkok 2020
+https://archive.org/download/train-to-busan-2-peninsula/Una%20noche%20en%20Bangkok.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://www.montelent.com/wp-content/uploads/2020/10/vanguard-2020-1200x1678.jpg" ,VANGUARD 2020
+https://archive.org/download/train-to-busan-2-peninsula/VANGUARD%202020.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://www.elseptimoarte.net/carteles/442/universal_soldier_4_14450.jpg" ,soladado universal 4
+https://archive.org/download/train-to-busan-2-peninsula/f5ad905f3e92199606f68ff927b4e2e1-480p.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyMjUwNjYxNl5BMl5BanBnXkFtZTgwOTU0NjczMzI@._V1_.jpg" ,killing gunther
+https://archive.org/download/train-to-busan-2-peninsula/killing%20gunther.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DadAkgXzL.jpg" ,miraculus
+https://archive.org/download/train-to-busan-2-peninsula/miraculus.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/riot-607721150-large.jpg" ,vENGANZA EN LA PRICION
+https://archive.org/download/train-to-busan-2-peninsula/vENGANZA%20EN%20LA%20PRICION.mp4
