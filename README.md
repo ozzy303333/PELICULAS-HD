@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://image.tmdb.org/t/p/original//rrX1ojdd068aHlrGq5Khd92a3ba.jpg" ,Domino (2019)
