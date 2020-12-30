@@ -309,3 +309,107 @@ https://archive.org/download/train-to-busan-2-peninsula/killing%20gunther.mp4
 https://archive.org/download/train-to-busan-2-peninsula/miraculus.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/riot-607721150-large.jpg" ,vENGANZA EN LA PRICION
 https://archive.org/download/train-to-busan-2-peninsula/vENGANZA%20EN%20LA%20PRICION.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" ,Amadrinadas
+https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" ,Amor de gata (2020)
+https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-8426381362.jpg" ,Barbie Aventura de Princesa (2020).mp4
+https://archive.org/download/Amadrinadas/Barbie%20Aventura%20de%20Princesa%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9340823/ewfwefwef.jpg" ,Bob Esponja Un héroe al rescate (2020)
+https://archive.org/download/Amadrinadas/Bob%20Esponja%20Un%20he%CC%81roe%20al%20rescate%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" ,Bobbleheads The Movie (2020)
+https://archive.org/download/Amadrinadas/Bobbleheads%20The%20Movie%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://dyncdn.me/mimages/354056/poster_opt.jpg" ,Captain Underpants Mega Blissmas
+https://archive.org/download/Amadrinadas/Captain%20Underpants%20Mega%20Blissmas.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://dyncdn.me/mimages/354062/poster_opt.jpg" ,Chico Bon Bon and the Very Berry Holiday (2020)
+https://archive.org/download/Amadrinadas/Chico%20Bon%20Bon%20and%20the%20Very%20Berry%20Holiday%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyN2Y5YWUtMDI5Zi00YjkwLWFlN2QtMjZlNjVhODZhYWI3XkEyXkFqcGdeQXVyMTIyNDUxNDU5._V1_UY1200_CR117,0,630,1200_AL_.jpg" ,Combat Womba
+https://archive.org/download/Amadrinadas/Combat%20Womba.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Como_perros_y_gatos_La_patrulla_unida-518934043-large.jpg" ,Como perros y gatos La patrulla unida (2020)
+https://archive.org/download/Amadrinadas/Como%20perros%20y%20gatos%20La%20patrulla%20unida%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/a_babysitter_s_guide_to_monster_hunting-494501314-large.jpg" ,Consejos de una canguro para cazar monstruos (2020)
+https://archive.org/download/Amadrinadas/Consejos%20de%20una%20canguro%20para%20cazar%20monstruos%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Cr_nicas_de_Navidad_2-348045723-large.jpg" ,Crónicas de Navidad 2 (2020)
+https://archive.org/download/Amadrinadas/Cro%CC%81nicas%20de%20Navidad%202%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NWJmNzMtMWIyYi00NGUwLTg2NTUtMzA5ZDZkZDZkOTVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" ,Dragons Rescue Riders Huttsgalor Holiday (2020)
+https://archive.org/download/Amadrinadas/Dragons%20Rescue%20Riders%20Huttsgalor%20Holiday%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://img.repelis.id/cover/dorys-reef-cam-2-1609215723.jpg" ,EL  ARECIBE DE DORY
+https://archive.org/download/Amadrinadas/EL%20%20ARECIBE%20DE%20DORY.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://d12swbtw719y4s.cloudfront.net/images/vcbVkwlu/1PWvy1BWC5iQTdVdbY6o/3KnAjT6rlQ.jpeg" ,EL CAMINO DE XICO
+https://archive.org/download/Amadrinadas/EL%20CAMINO%20DE%20XICO.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://4.bp.blogspot.com/-ib1FnuIjEi8/WK2UlLCwXfI/AAAAAAAAL5U/AUNGk8kLwUAums6cM8qOzFW2y-FMpouSgCEw/s320/The_Little-Mermaid_Ariels_Beginning_poster_usa.jpg" ,El Origen de la Sirenita (2008)
+https://archive.org/download/Amadrinadas/El%20Origen%20de%20la%20Sirenita%20%282008%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/El_club_secreto_de_los_no_herederos_al_trono-729745864-large.jpg" ,El club secreto de los no herederos al trono (2020)
+https://archive.org/download/Amadrinadas/El%20club%20secreto%20de%20los%20no%20herederos%20al%20trono%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/4a/MV5BNjY0YTJlOWMtY2E1Yi00MWQ5LTk0NzYtMjQ1ZmRlYTQ4NDJhXkEyXkFqcGdeQXVyNjEwNTM2Mzc%40._V1_.jpg/revision/latest/top-crop/width/360/height/450?cb=20201201143339&path-prefix=es" ,El deseo de Navidad de Ángela (2020)
+https://archive.org/download/Amadrinadas/El%20deseo%20de%20Navidad%20de%20A%CC%81ngela%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-10-25-6405168544.jpg" ,Escuela de miedo (2020)
+https://archive.org/download/Amadrinadas/Escuela%20de%20miedo%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://1.bp.blogspot.com/-bXDL-7dI1y8/WvDuCcpcgPI/AAAAAAAABkU/I9wMiJTPD1wlINv_D8E2q2Wa3lrvHN8LwCKgBGAs/s1600/Hook%2B1080p%2BLatino.png" ,Hook (El capitán Garfio) (1991)
+https://archive.org/download/Amadrinadas/Hook%20%28El%20capita%CC%81n%20Garfio%29%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://dyncdn.me/mimages/4669/poster_opt.jpg" ,Igor (2008)
+https://archive.org/download/Amadrinadas/Igor%20%282008%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/36/Curious_George_%28TV_Series%29.jpg/revision/latest?cb=20200915230429&path-prefix=es" ,JORGE EL CURIOSO
+https://archive.org/download/Amadrinadas/JORGE%20EL%20CURIOSO.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://telegra.ph/file/f6582d76a7e84a3411988.jpg" ,Kubo y las dos cuerdas mágicas (2016)
+https://archive.org/download/Amadrinadas/Kubo%20y%20las%20dos%20cuerdas%20ma%CC%81gicas%20%282016%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/11/lego-star-wars-holiday-special-2127233.jpg?itok=UgZHAVqV" ,LEGO Star Wars Especial Felices Fiestas (2020)
+https://archive.org/download/Amadrinadas/LEGO%20Star%20Wars%20Especial%20Felices%20Fiestas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ea/Justice_League_The_New_Frontier-fro.jpg/revision/latest?cb=20171107013530&path-prefix=es" ,La Liga de la Justicia La nueva frontera (2008)
+https://archive.org/download/Amadrinadas/La%20Liga%20de%20la%20Justicia%20La%20nueva%20frontera%20%282008%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/La_Liga_de_la_Justicia_Perdici_n-947066019-mmed.jpg" ,La Liga de la Justicia Perdición (2012)
+https://archive.org/download/Amadrinadas/La%20Liga%20de%20la%20Justicia%20Perdicio%CC%81n%20%282012%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://decine21.com/img/upload/obras/la-navidad-magica-de-los-jangle-42698/src/la-navidad-magica-de-los-jangle-42698-c.jpg" ,La Navidad mágica de los Jangle (2020)
+https://archive.org/download/Amadrinadas/La%20Navidad%20ma%CC%81gica%20de%20los%20Jangle%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://4.bp.blogspot.com/-2PEGcoIiTfE/VbpdFDIv6jI/AAAAAAAAmt4/WNijmyYxqhY/s1600/m4gic4.jpg" ,La llave mágica (1995)
+https://archive.org/download/Amadrinadas/La%20llave%20ma%CC%81gica%20%281995%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://megabithd.files.wordpress.com/2017/04/98658-pokemon2bpelicula2b182bhoopa2bsubtitulos2bespa25c325b1ol.png" ,La película Pokémon Hoopa y un duelo histórico (2015)
+https://archive.org/download/Amadrinadas/La%20peli%CC%81cula%20Poke%CC%81mon%20Hoopa%20y%20un%20duelo%20histo%CC%81rico%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_50605.jpg" ,Las brujas (2020)
+https://archive.org/download/Amadrinadas/Las%20brujas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://sonpelishd.net/wp-content/uploads/2018/09/Green-Lantern-Emerald-Knights.jpg" ,Linterna Verde Caballeros Esmeralda (2011)
+https://archive.org/download/Amadrinadas/Linterna%20Verde%20Caballeros%20Esmeralda%20%282011%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/green_lantern_first_flight-634510742-large.jpg" ,Linterna Verde Primer vuelo (2009)
+https://archive.org/download/Amadrinadas/Linterna%20Verde%20Primer%20vuelo%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Los_Caballeros_del_Zodiaco_Inicio_de_la_saga_del_cielo_Obertura-360928067-mmed.jpg" ,Los Caballeros del Zodiaco Inicio de la saga del cielo - Obertura (2004)
+https://archive.org/download/Amadrinadas/Los%20Caballeros%20del%20Zodiaco%20Inicio%20de%20la%20saga%20del%20cielo%20-%20Obertura%20%282004%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Los_Croods_Una_nueva_era-762432589-large.jpg" ,Los Croods Una nueva era (2020)
+https://archive.org/download/Amadrinadas/Los%20Croods%20Una%20nueva%20era%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/miraculousladybug/images/e/e4/Sim%C3%B3n_Dice_portada.jpg/revision/latest?cb=20170203172956&path-prefix=es" ,MUNDO MIRACULOUS
+https://archive.org/download/Amadrinadas/MUNDO%20MIRACULOUS.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-10-28-2173656790.jpg" ,Magia del revés (2020)
+https://archive.org/download/Amadrinadas/Magia%20del%20reve%CC%81s%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Mascotas_unidas-423137626-mmed.jpg" ,Mascotas unidas (2019)
+https://archive.org/download/Amadrinadas/Mascotas%20unidas%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Mascotas_unidas-423137626-mmed.jpg" ,Más allá de la Luna (2020)
+https://archive.org/download/Amadrinadas/Ma%CC%81s%20alla%CC%81%20de%20la%20Luna%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://1.bp.blogspot.com/-ShjJh_8nAI4/X1UlKodLkOI/AAAAAAAAC6I/FJES35I9-XYglGAwDa91fatu_YKsjaVWwCLcBGAsYHQ/s16000/Mul%25C3%25A1n%2B2020%2BHD.jpg" ,Mulán (2020)
+https://archive.org/download/Amadrinadas/Mula%CC%81n%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://gnula.nu/wp-content/uploads/2020/11/Alien_Xmas_poster_usa.jpg" ,Navidad Xtraterrestre (2020)
+https://archive.org/download/Amadrinadas/Navidad%20Xtraterrestre%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Navidades_con_Basurete_TV-984009647-mmed.jpg" ,Navidades con Basurete (2020)
+https://archive.org/download/Amadrinadas/Navidades%20con%20Basurete%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Navidades_con_Basurete_TV-984009647-mmed.jpg" ,PAW Patrol Jet to the Rescue (2020)
+https://archive.org/download/Amadrinadas/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://es.web.img2.acsta.net/pictures/210/438/21043830_20130925135532486.jpg" ,Pocahontas 2 Viaje a un nuevo mundo (1998)
+https://archive.org/download/Amadrinadas/Pocahontas%202%20Viaje%20a%20un%20nuevo%20mundo%20%281998%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.ecartelera.com/carteles/13200/13251/003_m.jpg" ,Pokémon ¡Te elijo a ti! (2017)
+https://archive.org/download/Amadrinadas/Poke%CC%81mon%20%C2%A1Te%20elijo%20a%20ti%21%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.miaminews24.com/wp-content/uploads/2020/10/disney-pixar-soul-miaminews24.jpg" ,SOULD
+https://archive.org/download/Amadrinadas/SOULD.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Superni_os-653724827-mmed.jpg" ,SUPER NIÑOS 2020
+https://archive.org/download/Amadrinadas/SUPER%20NI%C3%91OS%202020.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/scooby_doo_and_the_reluctant_werewolf_tv-971331310-large.jpg" ,Scooby-Doo y la carrera de los monstruos (1988)
+https://archive.org/download/Amadrinadas/Scooby-Doo%20y%20la%20carrera%20de%20los%20monstruos%20%281988%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://2.bp.blogspot.com/-AqrTghd5K3g/T_oF-Lvx0lI/AAAAAAAAOQc/yD-oHAz6ECI/s1600/Superman_Batman_Enemigos_Publicos_%28Edicion_Especial%29-Caratula.jpg" ,SupermanBatman Enemigos públicos (2009)
+https://archive.org/download/Amadrinadas/SupermanBatman%20Enemigos%20pu%CC%81blicos%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Tut_Tut_Cory_B_lidos_Navidad-388417538-mmed.jpg" ,Tut Tut Cory Bólidos Navidad (2020)
+https://archive.org/download/Amadrinadas/Tut%20Tut%20Cory%20Bo%CC%81lidos%20Navidad%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/un-chihuahua-en-beverly-hills-3-que-viva-la-fiesta.png" ,Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
+https://archive.org/download/Amadrinadas/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/webp/2020-12-06-6051711562.webp" ,lassie
+https://archive.org/download/Amadrinadas/lassie.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://i1.wp.com/img.netnaija.com/q5KKHK.jpg?resize=584%2C876&ssl=1" ,the croods a new age
+https://archive.org/download/Amadrinadas/the%20croods%20a%20new%20age.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/webp/2020-10-10-2887896001.webp" ,¡Feliz Halloween, Scooby-Doo! (2020)
+https://archive.org/download/Amadrinadas/%C2%A1Feliz%20Halloween%2C%20Scooby-Doo%21%20%282020%29.mp4
