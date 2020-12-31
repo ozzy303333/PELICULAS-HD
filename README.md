@@ -413,3 +413,41 @@ https://archive.org/download/Amadrinadas/lassie.mp4
 https://archive.org/download/Amadrinadas/the%20croods%20a%20new%20age.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/webp/2020-10-10-2887896001.webp" ,¡Feliz Halloween, Scooby-Doo! (2020)
 https://archive.org/download/Amadrinadas/%C2%A1Feliz%20Halloween%2C%20Scooby-Doo%21%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg" ,After Aquí empieza todo (2019)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20Aqui%CC%81%20empieza%20todo%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/After_En_mil_pedazos-608965132-large.jpg" ,After En mil pedazos
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20En%20mil%20pedazos.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg" ,Aztech (2020)
+Aztech (2020).mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU2OTdmZTQtZTcwMC00NzI3LThhMGYtMzNhMTYxNTdkOTJiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg" ,Bobbleheads The Movie (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Bobbleheads%20The%20Movie%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg" ,Call Me by Your Name (2017)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Call%20Me%20by%20Your%20Name%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg" ,Cuidado con lo que deseas
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Cuidado%20con%20lo%20que%20deseas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.openpelis.com/imagenes/pelis/minis/2020-12-23-4871425663.jpg" ,El amor de Sylvie (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/El%20amor%20de%20Sylvie%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Este_cuerpo_me_sienta_de_muerte-347088392-large.jpg" ,Este cuerpo me sienta de muerte (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Este%20cuerpo%20me%20sienta%20de%20muerte%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://lh4.googleusercontent.com/proxy/fCQrfar8ch2rvUK1Dteya3dWrEVYwJ13IfFT789e_s-zKtMcmul6O_DtGZQW4Y4aQZSU0bBpAn02VASGu2rWv7HtIxs_sHuhstlIE1-K6OKIjEM=w1200-h630-p-k-no-nu.JPG" ,Fievel va al Oeste (1991)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Fievel%20va%20al%20Oeste%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg" ,Jóvenes y brujas (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Jo%CC%81venes%20y%20brujas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg" ,Jóvenes y brujas (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Jo%CC%81venes%20y%20brujas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/La%20muerte%20de%20Superman%20%282007%29.mp4" ,La muerte de Superman (2007)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/La%20muerte%20de%20Superman%20%282007%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Los_Octonautas_y_las_cuevas_de_Sac_Actun_TV-140023116-large.jpg" ,Los Octonautas y las cuevas de Sac Actun (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Los%20Octonautas%20y%20las%20cuevas%20de%20Sac%20Actun%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Ponyo_en_el_acantilado-965564845-large.jpg" ,Ponyo en el acantilado (2008)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Ponyo%20en%20el%20acantilado%20%282008%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F033%2F144%2Fun-chihuahua-en-beverly-hills-3-que-viva-la-fiesta-1.jpg&nuevoancho=690&medio=abc" ,Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29-1.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://omegacenter.es/blog/wp-content/uploads/2017/04/portada_your-name-novela_makoto-shinkai_201703091007.jpg" ,Your Name
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Your%20Name.mp4
+#EXTINF:0 group-title="MR ROBOT OTROS" ,NOSE 1
+3316c37e0c1225379cce86cfaa6f77bb-480p.mp4
+#EXTINF:0 group-title="MR ROBOT OTROS" ,NOSE 2
+48386bfcf9002b870c90cdf73ba0e10f-360p.mp4
+#EXTINF:0 group-title="MR ROBOT OTROS" ,NOSE 3
+d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
