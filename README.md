@@ -451,3 +451,27 @@ https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wii
 48386bfcf9002b870c90cdf73ba0e10f-360p.mp4
 #EXTINF:0 group-title="MR ROBOT OTROS" ,NOSE 3
 d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://images.squarespace-cdn.com/content/v1/511eea22e4b06642027a9a99/1600835095406-J2SG1OJCLCXVMVBB4CSH/ke17ZwdGBToddI8pDm48kObW5L834DLeOoedDyYNM0VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE0HBlqxyJ0FKkj7k-nCdscI18NqvNAsmDs0Oklw-0igruvPknf91-IP_XxpMjX9og/image-asset.jpeg" ,Antebellum (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Antebellum%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg" ,Asylum Twisted Horror & Fantasy Tales (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Asylum%20Twisted%20Horror%20%26%20Fantasy%20Tales%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://i1.wp.com/www.soloplay.ng/wp-content/uploads/2020/11/Movie-come-play.jpeg?resize=720%2C1080&ssl=1" ,Come Play (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Come%20Play%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg" ,Fantasmas a Mogollón 2 Mi amiga fantasmagórica (2014)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fantasmas%20a%20Mogollo%CC%81n%202%20Mi%20amiga%20fantasmago%CC%81rica%20%282014%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F018%2F724%2Ffievel-va-al-oeste-1.jpg&nuevoancho=690&medio=abc" ,An American Tail Fievel Goes West
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fievel%20va%20al%20Oeste%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/54/12/19548830.jpg" ,La muerte de Superman (2007)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/La%20muerte%20de%20Superman%20%282007%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZWQ1NjctMTY0Ny00MGViLWFjNDQtODJmMDE1MzY0NTAzXkEyXkFqcGdeQXVyNTc0NTE3NDc@._V1_UY1200_CR85,0,630,1200_AL_.jpg" ,TKG The Kids of Grove (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/TKG%20The%20Kids%20of%20Grove%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/viy_3d-656915198-large.jpg" ,Transilvania, el imperio prohibido (2014)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i2.wp.com/pitakwa360.com/wp-content/uploads/2020/10/Tremors-Shrieker-Island-2020-movie-poster.jpg?resize=344%2C487&ssl=1" ,Tremors Shrieker Island (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Tremors%20Shrieker%20Island%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F033%2F144%2Fun-chihuahua-en-beverly-hills-3-que-viva-la-fiesta-1.jpg&nuevoancho=690&medio=abc" ,Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29-1.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://numax.org/storage/cache/images/43d/1490095040-460_d10bc056-name-cartel.jpg" ,Your Name
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Your%20Name.mp4
+#EXTINF:0 group-title="MR ROBOT OTROS" tvg-logo="https://lh3.googleusercontent.com/proxy/lFZD8U2ujX3htYHOe2X9d-urMnQAsQfoWUE3aAYCrWriRD92gnfB-CYSuSjfVqN25KDm3zViYWphSMtIWvOnD8-11zmxAGF4vmLFDGHGQ73gffPxrtTzm_9W4l8jZPuf8K_uOlNzGpIaqmQDE3iq1HPDML6d" ,NO SE
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
