@@ -29,10 +29,10 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167371345
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031006
 #EXTINF: group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031010
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Lazos malditos (2020)" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" ,Lazos malditos (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031011
-#EXTINF: group-title="MR ROBOT terror" tvg-name="The Sputnik (2020)" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" ,The Sputnik (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031015
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Lazos malditos (2020)" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" ,Lazos malditos (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Sputnik (2020)" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" ,The Sputnik (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT terror" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" ,Nadie duerme en el bosque esta noche (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031024
 #EXTINF: group-title="MR ROBOT terror" tvg-name="Juegos salvajes (1998)" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/Juegos-salvajes-1998-Latino.jpg" ,Juegos salvajes (1998)
@@ -143,8 +143,8 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214685
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://cienpelis.net/wp-content/uploads/2019/10/No-manches-Frida-2.jpg" ,No manches Frida 2 2019
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214687
-#EXTINF: group-title="MR ROBOT accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LUQo41dJeikT04nuEySGBU42oph93DRk9A&usqp=CAU" ,Nocturno (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214688
+#EXTINF:-1 group-title="MR ROBOT accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LUQo41dJeikT04nuEySGBU42oph93DRk9A&usqp=CAU" ,Nocturno (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Nocturno%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://i2.wp.com/subtitlesdorm.com/wp-content/uploads/2019/11/534014_m1566589912.jpg?fit=600%2C888&ssl=1" ,Noelle (2019)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214689
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://i1.wp.com/o2tvseriesz.com/wp-content/uploads/2020/04/Onward-2020-Movie-Download.jpg?fit=400%2C600&ssl=1" ,Onward (2020)
@@ -418,7 +418,7 @@ https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wii
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/After_En_mil_pedazos-608965132-large.jpg" ,After En mil pedazos
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20En%20mil%20pedazos.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg" ,Aztech (2020)
-Aztech (2020).mp4
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Aztech%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU2OTdmZTQtZTcwMC00NzI3LThhMGYtMzNhMTYxNTdkOTJiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg" ,Bobbleheads The Movie (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Bobbleheads%20The%20Movie%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg" ,Call Me by Your Name (2017)
@@ -475,3 +475,97 @@ https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wii
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Your%20Name.mp4
 #EXTINF:0 group-title="MR ROBOT OTROS" tvg-logo="https://lh3.googleusercontent.com/proxy/lFZD8U2ujX3htYHOe2X9d-urMnQAsQfoWUE3aAYCrWriRD92gnfB-CYSuSjfVqN25KDm3zViYWphSMtIWvOnD8-11zmxAGF4vmLFDGHGQ73gffPxrtTzm_9W4l8jZPuf8K_uOlNzGpIaqmQDE3iq1HPDML6d" ,NO SE
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/pictures/17/02/20/09/49/235199.jpg" ,ZONA HOSTIL
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/3316c37e0c1225379cce86cfaa6f77bb-480p.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91sDhux1KLL._AC_SL1500_.jpg" ,die drei musketiere
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/48386bfcf9002b870c90cdf73ba0e10f-360p.mp4
+#EXTINF:0 group-title="MR ROBOT accion" ,EN BRAZOS DE UN ASESINO
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
+#EXTINF:0 group-title="MR ROBOT terror" ,The Domestics (2018)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://media-cache.cinematerial.com/p/500x/qldym3hg/the-outpost-canadian-dvd-movie-cover.jpg?v=1592364435,JPG" ,The Outpost (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Outpost%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" ,The Scientist (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Scientist%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyZjBjYWUtMmUwNi00NWNkLTkxYWEtOGMyYmI4YTQzNzIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg" ,The Spooky Tale of Captain Underpants Hack-a-ween (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" ,The Wonderland (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Tiempo_de_caza-624991569-large.jpg" ,Tiempo de caza (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempo%20de%20caza%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/1526/1526_173x256.jpg" ,Tiempos violentos 1994
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" ,Tom y Jerry_ El cuento de Cascanueces (2007)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tom%20y%20Jerry_%20El%20cuento%20de%20Cascanueces%20%282007%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/04/toy_story.jpg" ,Toy Story 1 (1995)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Toy_Story_2-636362526-large.jpg" ,Toy Story 2 (1999)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F053%2F431%2Ftoy-story-4-1.jpg&nuevoancho=690&medio=abc" ,Toy Story 4 (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%204%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.laguiago.com/wp-content/uploads/2020/02/Kin%C3%A9polis-Granada-estrena-Trolls2-dentro-de-su-programa-Kin%C3%A9polis-Family-1.jpg" ,Trolls 2 Gira mundial (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/uglydolls-818923983-large.jpg" ,UglyDolls Extraordinariamente Feos (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg" ,Una noche en el museo (2006)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/resident-evil-5-la-venganza.jpg" ,Resident Evil 5_ Venganza (2012)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%205_%20Venganza%20%282012%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/16/10/53/216614.jpg" ,Resident Evil 6_ Capítulo final (2016)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%206_%20Cap%C3%ADtulo%20final%20%282016%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Degeneraci_n-545421345-mmed.jpg" ,Resident Evil_ Degeneración (2008)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Degeneraci%C3%B3n%20%282008%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/resident-evil-damnation.jpg" ,Resident Evil_ Infierno (2012)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Infierno%20%282012%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://lh3.googleusercontent.com/proxy/fBT2PnfUYkaK68UUaNoD-t6-CVZ3VIu5G68xxmNAHqd5iTETFvix0izK1mw7Uqawd-GfDXW9dCEVvVC2y9xQJUmrGzgJvqfPzC6ff57lIgill0UOoNKSPoBovoNjCQg7S27ilw" ,Resident Evil_ Vendetta (2017)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Vendetta%20%282017%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" ,SalynPM-Angry.birds
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/SalynPM-Angry.birds~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqDGQXMEkc7KROMzzKd8KnqpS4x.jpg" ,Santana (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Santana%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Scooby_Doo_Regreso_a_la_Isla_de_los_Zombis-107180794-large.jpg" ,Scooby-Doo! Regreso a la Isla Zombie (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scooby-Doo%21%20Regreso%20a%20la%20Isla%20Zombie%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://parecidas.com/img_es/movie/thumb/a8/15073.jpg" ,Scre4m 4 (2001)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scre4m%204%20%282001%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://i.pinimg.com/originals/6d/8b/1f/6d8b1f91f810edcfacb8b2b9fd55d350.jpg" ,Scream 2 (1997)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scream%202%20%281997%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://yestorrent.net/wp-content/uploads/2020/02/aQwgS2L5qNNhEyjc7NkEcaFdQIy-1.jpg" ,Serpiente de cascabel  (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Serpiente%20de%20cascabel%20%20%282019%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg" ,Shrek 3 (2007)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Shrek%203%20%282007%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://www.openpelis.com/imagenes/pelis/2019-07-01-0427549787.jpg" ,Son como niños 2 2013
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Son%20como%20ni%C3%B1os%202%202013~1.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://1.bp.blogspot.com/-AxA2Fp267NQ/X0Pvus7wliI/AAAAAAAABII/7h7k_ola320-XmfyaAyW2aRJJWNNIEzCgCLcBGAsYHQ/s640/spenser-confidential-movie-HD-Poster-.jpg" ,Spenser confidencial (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spenser%20confidencial%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E4YjQ1N2YtODRmOS00YTUwLWJjNDYtYWI2YjE4MDMxZTIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" ,Spirit Riding Free Spirit of Christmas (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spirit%20Riding%20Free%20Spirit%20of%20Christmas%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.montelent.com/wp-content/uploads/2020/02/mv5bzdkxzdizotgtmmm3zc00nwrjlwjlnwytngvlmjzkodriytgwxkeyxkfqcgdeqxvymta3mzq4mtc0._v1_sy1000_sx675_al.jpg" ,Spycies (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spycies%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://i1.whakoom.com/large/2f/25/c46b8fb559dc4fdfaa5fe1cf3a5c15a3.jpg" ,Star Wars_ Episodio II - El ataque de los clones (2002)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20Wars_%20Episodio%20II%20-%20El%20ataque%20de%20los%20clones%20%282002%29~1.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://static.wikia.nocookie.net/cine/images/2/23/Star-Wars-Episode-III-Revenge-of-the-Sith.jpg/revision/latest/top-crop/width/360/height/450?cb=20120930201011" ,Star wars_ Episodio III - La venganza de los sith (2005)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20wars_%20Episodio%20III%20-%20La%20venganza%20de%20los%20sith%20%282005%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/StarDog_y_TurboCat-916752052-large.jpg" ,StarDog and TurboCat (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/StarDog%20and%20TurboCat%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Stargirl-248777771-large.jpg" ,Stargirl (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Stargirl%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/10/09/26/1158975.jpg" ,Steven Universe_ La película (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Steven%20Universe_%20La%20pel%C3%ADcula%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.latinus.us/wp-content/uploads/2020/02/01214746/poster_opt.jpg" ,Superman Hijo Rojo (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Superman%20Hijo%20Rojo%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Supermonstruos_Una_amistad_con_mucha_garra-698720120-large.jpg" ,Supermonstruos Una amistad con mucha garra (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Supermonstruos%20Una%20amistad%20con%20mucha%20garra%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKAELGerS7BQ8LmLUpZiwfxxcOZgSd6rOdg&usqp=CAU" ,Teen Titans Go! La película (2018)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20La%20pel%C3%ADcula%20%282018%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Teen_Titans_Go_Vs_Teen_Titans-727959702-large.jpg" ,Teen Titans Go! vs Teen Titans (2019)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20vs%20Teen%20Titans%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w500/46qwaON7l11M407rqh8lD4vXcAR.jpg" ,Temblores 7 La Isla Shrieker (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Temblores%207%20La%20Isla%20Shrieker%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Terminator_El_exterminador-778052251-large.jpg" ,Terminator 1_ El exterminador (1983)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terminator%201_%20El%20exterminador%20%281983%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://rincondeldirector.files.wordpress.com/2015/10/sh_the_movie_poster_10.jpg?w=810" ,Terror en Silent Hill (2006)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%20%282006%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36783/36783_800x1187.jpg" ,Terror en Silent Hill 2_ La revelación (2012)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%202_%20La%20revelaci%C3%B3n%20%282012%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://i.pinimg.com/originals/27/1d/e2/271de2dbb64ab9e6a692a1708ec7984f.jpg" ,The Babysitter Killer Queen (2020)
+https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Babysitter%20Killer%20Queen%20%282020%29.mp4
