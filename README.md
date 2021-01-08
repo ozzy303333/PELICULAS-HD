@@ -275,7 +275,7 @@ https://archive.org/download/train-to-busan-2-peninsula/El%20gran%20Lebowski%20%
 https://archive.org/download/train-to-busan-2-peninsula/Espi%CC%81a%20por%20accidente%20%282001%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://musicart.xboxlive.com/7/94695100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" ,HARD KILL
 https://archive.org/download/train-to-busan-2-peninsula/HARD%20KILL.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ5MDY2YWItOWYzMi00NGFhLWFlNDAtNmNiNjg2NWM1NjcyXkEyXkFqcGdeQXVyNjU2NDIxOTM@._V1_.jpg" ,KING ARTHUR
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i.pinimg.com/originals/b4/b4/da/b4b4da3027c146f57d99631a70216605.jpg" ,KING ARTHUR
 https://archive.org/download/train-to-busan-2-peninsula/KING%20ARTHUR.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/los-tres-mosqueteros.jpg?itok=Xhzzeb4v.jpg" ,LOS TRES MOSQUETEROS
 https://archive.org/download/train-to-busan-2-peninsula/LOS%20TRES%20MOSQUETEROS.mp4
@@ -569,3 +569,5 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%202_%20La%20revelaci%C3%B3n%20%282012%29.mp4
 #EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://i.pinimg.com/originals/27/1d/e2/271de2dbb64ab9e6a692a1708ec7984f.jpg" ,The Babysitter Killer Queen (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Babysitter%20Killer%20Queen%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg" ,Algunas veces ellos vuelven (1991)
+https://archive.org/download/wendy-2020/Algunas%20veces%20ellos%20vuelven%20%281991%29.mp4
