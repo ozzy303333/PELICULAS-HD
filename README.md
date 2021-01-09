@@ -25,30 +25,30 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361221
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361343
 #EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/08/15/00/3542246.jpg" ,Welcome Home (2018)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167371345
-#EXTINF: group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" ,The Current Occupant (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031006
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031010
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" ,The Current Occupant (2020)
+https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
+https://archive.org/download/wendy-2020_202012/Scream%20at%20the%20Devil%20%282015%29.mp4
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Lazos malditos (2020)" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" ,Lazos malditos (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Sputnik (2020)" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" ,The Sputnik (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" ,Nadie duerme en el bosque esta noche (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031024
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" ,Nadie duerme en el bosque esta noche (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT terror" tvg-name="Juegos salvajes (1998)" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/Juegos-salvajes-1998-Latino.jpg" ,Juegos salvajes (1998)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031043
 #EXTINF: group-title="MR ROBOT terror" tvg-name="The Owners (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" ,The Owners (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031044
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Baba Yaga El regreso del demonio (2020)" tvg-logo="https://entrepeliculasyseries.com/Archivos/2020/11/baba-yaga.jpg" ,Baba Yaga El regreso del demonio (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031051
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Casa ajena (2020)" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" ,Casa ajena (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031063
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Baba Yaga El regreso del demonio (2020)" tvg-logo="https://entrepeliculasyseries.com/Archivos/2020/11/baba-yaga.jpg" ,Baba Yaga El regreso del demonio (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Casa ajena (2020)" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" ,Casa ajena (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT terror" tvg-name="Tóxico (2020)" tvg-logo="https://imagenes.subadictos.net/afiche/74547.jpg" ,Tóxico (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031170
 #EXTINF: group-title="MR ROBOT terror" tvg-id="EPG N/A" tvg-name="En el vientre del diablo (2018)" tvg-logo="https://pics.filmaffinity.com/Malicious_En_el_vientre_del_diablo-601033605-large.jpg" ,En el vientre del diablo (2018)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Voces-119178429-large.jpg" ,Voces (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163065196
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Voces-119178429-large.jpg" ,Voces (2020)
+https://archive.org/download/wendy-2020_202012/Voces%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT terror" tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2013/07/Cementerio-General-poster1.jpg" ,Cementerio General (2013)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316745
 #EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Curse_of_the_Blair_Witch_TV-960024835-mmed.jpg" ,Curse of the Blair Witch (1999)
@@ -75,50 +75,48 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167351450
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358847
 #EXTINF: group-title="MR ROBOT suspenso" tvg-logo="https://pics.filmaffinity.com/Traffik-381374087-large.jpg" ,Traffik (2018)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361222
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://i2.wp.com/www.lamansiondelterror.net/wp-content/uploads/2019/04/Algunas-veces-ellos-vuelven-1991.jpg?fit=678%2C965&ssl=1" ,Algunas veces ellos vuelven (1991)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163035462
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg" ,American Pie Las chicas mandan (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163035463
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg" ,American Pie Las chicas mandan (2020)
+https://archive.org/download/wendy-2020_202012/American%20Pie%20Las%20chicas%20mandan%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2020/10/Borat-Subsequent-Moviefilm-2020.jpg" ,Borat, película film secuela (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039898
 #EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE4ZTZmYjAtNGU2OS00NDFlLWI2OWYtMjYwZmVjOWJlOWE1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" ,Buddy Games (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039899
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg" ,Corazón loco (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039900
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg" ,Cómo sobrevivir en un mundo material (Kajillionaire) (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040055
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_idealistas-767632998-large.jpg" ,El Club de los Idealistas (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040056
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/09/magnifico-ivan-2062829.jpg?itok=Z8AB4vYg" ,El magnífico Iván (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040057
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODVjNzctOWEwYS00YWQ3LWJlZjAtZDQyMTQ0NTQ0ZWUzXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UY1200_CR135,0,630,1200_AL_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,El testamento de la abuela (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040058
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Glass Houses (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040059
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Harpoon (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040882
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-0806610199.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La Casa de Huéspedes (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040883
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c3/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg/revision/latest/top-crop/width/360/height/450?cb=20201209180404&path-prefix=es" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La increíble historia de la Isla de las Rosas (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163040999
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La nochebuena es mi condena (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163041001
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Ludo-813248419-mmed.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Ludo (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163041002
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg" ,Corazón loco (2020)
+https://archive.org/download/wendy-2020_202012/Corazo%CC%81n%20loco%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg" ,Cómo sobrevivir en un mundo material (Kajillionaire) (2020)
+https://archive.org/download/wendy-2020_202012/Co%CC%81mo%20sobrevivir%20en%20un%20mundo%20material%20%28Kajillionaire%29%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_idealistas-767632998-large.jpg" ,El Club de los Idealistas (2020)
+https://archive.org/download/wendy-2020_202012/El%20Club%20de%20los%20Idealistas%20%282020%29-1.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/09/magnifico-ivan-2062829.jpg?itok=Z8AB4vYg" ,El magnífico Iván (2020)
+https://archive.org/download/wendy-2020_202012/El%20magni%CC%81fico%20Iva%CC%81n%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODVjNzctOWEwYS00YWQ3LWJlZjAtZDQyMTQ0NTQ0ZWUzXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UY1200_CR135,0,630,1200_AL_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,El testamento de la abuela (2020)
+https://archive.org/download/wendy-2020_202012/El%20testamento%20de%20la%20abuela%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Glass Houses (2020)
+https://archive.org/download/wendy-2020_202012/Glass%20Houses%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Harpoon (2019)
+https://archive.org/download/wendy-2020_202012/Harpoon%20%282019%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-0806610199.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La Casa de Huéspedes (2020)
+https://archive.org/download/wendy-2020_202012/La%20Casa%20de%20Hue%CC%81spedes%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c3/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg/revision/latest/top-crop/width/360/height/450?cb=20201209180404&path-prefix=es" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La increíble historia de la Isla de las Rosas (2020)
+https://archive.org/download/wendy-2020_202012/La%20increi%CC%81ble%20historia%20de%20la%20Isla%20de%20las%20Rosas%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La nochebuena es mi condena (2020)
+https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20condena%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Ludo-813248419-mmed.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Ludo (2020)
+https://archive.org/download/wendy-2020_202012/Ludo%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Nochevieja_en_el_Magnolia-299160585-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Nochevieja en el Magnolia (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163044437
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Operación Feliz Navidad (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163044593
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Os Espetaculares (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163044594
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGY1YTUtZjhkZS00NGU4LWE5NjAtNTZjNjg5ZjUzNzcxXkEyXkFqcGdeQXVyOTgwMjk0NjI@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,PAW Patrol Jet to the Rescue (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163048650
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Sentadas_en_el_umbral-275093174-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Sentadas en el umbral (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163054596
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0YzI3NTktNjEyNC00MGVhLTlmZjEtN2NkZTcyNmQwYmQ1XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Spontaneous (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163054599
-#EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" ,Think Like a Dog (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163065194
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Operación Feliz Navidad (2020)
+https://archive.org/download/wendy-2020_202012/Operacio%CC%81n%20Feliz%20Navidad%20%282020%29-1.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Os Espetaculares (2020)
+https://archive.org/download/wendy-2020_202012/Os%20Espetaculares%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGY1YTUtZjhkZS00NGU4LWE5NjAtNTZjNjg5ZjUzNzcxXkEyXkFqcGdeQXVyOTgwMjk0NjI@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,PAW Patrol Jet to the Rescue (2020)
+https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Sentadas_en_el_umbral-275093174-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Sentadas en el umbral (2020)
+https://archive.org/download/wendy-2020_202012/Sentadas%20en%20el%20umbral%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0YzI3NTktNjEyNC00MGVhLTlmZjEtN2NkZTcyNmQwYmQ1XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Spontaneous (2020)
+https://archive.org/download/wendy-2020_202012/Spontaneous%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" ,Think Like a Dog (2020)
+https://archive.org/download/wendy-2020_202012/Think%20Like%20a%20Dog%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT ANIMACION" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)" tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg" ,Liga de la Justicia Oscura - Guerra Apokolips (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031121
 #EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" ,Bad Boys for Life (2020)
@@ -559,6 +557,8 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20La%20pel%C3%ADcula%20%282018%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Teen_Titans_Go_Vs_Teen_Titans-727959702-large.jpg" ,Teen Titans Go! vs Teen Titans (2019)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20vs%20Teen%20Titans%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Deep_Blue_Sea_3-680442315-large.jpg" ,Deep Blue Sea 3 (2020)
+https://archive.org/download/wendy-2020_202012/Deep%20Blue%20Sea%203%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w500/46qwaON7l11M407rqh8lD4vXcAR.jpg" ,Temblores 7 La Isla Shrieker (2020)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Temblores%207%20La%20Isla%20Shrieker%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Terminator_El_exterminador-778052251-large.jpg" ,Terminator 1_ El exterminador (1983)
@@ -571,3 +571,67 @@ https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Babysitter%20Killer%20Queen%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg" ,Algunas veces ellos vuelven (1991)
 https://archive.org/download/wendy-2020/Algunas%20veces%20ellos%20vuelven%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg" ,A Feral World (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/De_patitas_a_la_calle-155443970-mmed.jpg" ,De patitas a la calle (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/De%20patitas%20a%20la%20calle%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-12-02-4346296129.jpg" ,Juguetes del Terror (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Juguetes%20del%20Terror%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/lego_dc_shazam_magic_and_monsters-386498050-large.jpg" ,Lego DC ¡Shazam! Magia y monstruos (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Lego%20DC%20%C2%A1Shazam%21%20Magia%20y%20monstruos%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Los_nuevos_mutantes-737308298-large.jpg" ,Los nuevos mutantes (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Los%20nuevos%20mutantes%20%282020%29-1.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Anatom_a-910433213-large.jpg" ,Anatomía (2000)
+https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%20%282000%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://mascine.org/images/fichas/full/a/Anatomia_23_chu5735_2003.jpg" ,Anatomía 2 (2003)
+https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%202%20%282003%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://3.bp.blogspot.com/-pgY7PgWpN-k/UtdwNdkKBnI/AAAAAAAAFxM/TSeSNy9hbTs/s1600/front.jpg" ,Carrie (2002)
+https://archive.org/download/wendy-2020_202012/Carrie%20%282002%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://www1.naijgreen.com/wp-content/uploads/2020/06/Coherence-2013-BluRay-480p720p.jpg" ,Coherence (2013)
+https://archive.org/download/wendy-2020_202012/Coherence%20%282013%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/910mNotUgIL._SY445_.jpg" ,Dark Places (2015)
+https://archive.org/download/wendy-2020_202012/Dark%20Places%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Fat_Ass_Zombies-343334670-large.jpg" ,Fat Ass Zombies (2020)
+https://archive.org/download/wendy-2020_202012/Fat%20Ass%20Zombies%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/16/22/57/1180405.jpg" ,La Llorona (2020)
+https://archive.org/download/wendy-2020_202012/La%20Llorona%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/57/73/20056052.jpg" ,La cosecha (2007)
+https://archive.org/download/wendy-2020_202012/La%20cosecha%20%282007%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/La_noche_de_los_muertos_vivientes-404634659-large.jpg" ,La noche de los muertos vivientes (1990)
+https://archive.org/download/wendy-2020_202012/La%20noche%20de%20los%20muertos%20vivientes%20%281990%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F007%2F403%2Flos-chicos-del-maiz-1.jpg&nuevoancho=690&medio=abc" ,Los chicos del maíz (1984)
+https://archive.org/download/wendy-2020_202012/Los%20chicos%20del%20mai%CC%81z%20%281984%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Magic_Camp-668595567-large.jpg" ,Magic Camp (2020)
+https://archive.org/download/wendy-2020_202012/Magic%20Camp%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXYOGnUPM6wUezGA49JUIlpS3uQ.jpg" ,Mi Padrastro Malvado (2019)
+https://archive.org/download/wendy-2020_202012/Mi%20Padrastro%20Malvado%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://play-lh.googleusercontent.com/ivRhcnmwgfsjXeDZbbOhYEU0MA0JFEdmJtl0pBjYc8KlG40YFzSH4fkyozH5v7RLtPDI" ,Paranormal Activity (2009)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://es.web.img3.acsta.net/pictures/13/12/13/10/53/157876.jpg" ,Paranormal Activity Los señalados (2014)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWViZWNmMGMtZmQzMS00MzEwLWI5ODAtNjUxY2ZjODBkNzlhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" ,Paranormal Activity Tokyo Night (2010)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Tokyo%20Night%20%282010%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://static1.opensubtitles.org/gfx/thumbs/4/8/3/0/0390384.jpg" ,Primer (2004)
+https://archive.org/download/wendy-2020_202012/Primer%20%282004%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Rocambola-814798788-large.jpg" ,Rocambola (2019)
+https://archive.org/download/wendy-2020_202012/Rocambola%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSr_55I5amQytKvjTjt-jeFdGao_aGBiShA&usqp=CAU.JPG" ,Se busca papá (2020)
+https://archive.org/download/wendy-2020_202012/Se%20busca%20papa%CC%81%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Sin_origen-984633558-large.jpg" ,Sin Origen (2020)
+https://archive.org/download/wendy-2020_202012/Sin%20Origen%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.sinpeli.com/wp-content/uploads/2020/08/superman-hombre-del-manana-2020-11376-og.jpg" ,Superman - Hombre del Mañana (2020)
+https://archive.org/download/wendy-2020_202012/Superman%20-%20Hombre%20del%20Man%CC%83ana%20%282020%29%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/The_Wrong_Mommy_TV-727134167-large.jpg" ,The Wrong Mommy (2019)
+https://archive.org/download/wendy-2020_202012/The%20Wrong%20Mommy%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Vampiros_contra_el_Bronx-665936619-large.jpg" ,Vampiros contra el Bronx (2020)
+https://archive.org/download/wendy-2020_202012/Vampiros%20contra%20el%20Bronx%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Wendy-985872075-mmed.jpg" ,Wendy (2020)
+https://archive.org/download/wendy-2020_202012/Wendy%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Whiteout_poster.jpg" ,Whiteout (2009)
+https://archive.org/download/wendy-2020_202012/Whiteout%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM0M2YxMWQtOTY2MS00NTQyLWJjMGYtYjBiYzgxMDk0NWQ5XkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" ,Wish Upon a Unicorn (2020)
+https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/work_it-145219942-large.jpg" ,Work It Al ritmo de los sueños (2020)
+https://archive.org/download/wendy-2020_202012/Work%20It%20Al%20ritmo%20de%20los%20suen%CC%83os%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Zombi_Child-180737258-large.jpg" ,Zombi Child (2019)
+https://archive.org/download/wendy-2020_202012/Zombi%20Child%20%282019%29.mp4
