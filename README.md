@@ -1,30 +1,30 @@
 #EXTM3U 
 #EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://image.tmdb.org/t/p/original//rrX1ojdd068aHlrGq5Khd92a3ba.jpg" ,Domino (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317042
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_asesino_del_nudo-444826921-large.jpg" ,El asesino del nudo (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317046
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_final_de_la_verdad-978228470-large.jpg" ,El final de la verdad (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167329068
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F894%2Fel-hombre-del-laberinto-1.jpg&nuevoancho=690&medio=abc" ,El hombre del laberinto (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330927
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_lado_siniestro_de_la_luna-990874996-large.jpg" ,El lado siniestro de la Luna (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330928
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_ocupante-121902967-large.jpg" ,El ocupante (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330929
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Fracture-551335752-large.jpg" ,Fracture (2007)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330946
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/17/10/40/5908071.jpg" ,La viuda (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167349514
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://www.ecartelera.com/carteles/14600/14654/001_m.jpg" ,Ofrenda a la tormenta (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167351443
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/The_Fanatic-897653290-large.jpg" ,The Fanatic (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361221
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://64.media.tumblr.com/1d0cc8421c92c7fd4da94dc6b60e476e/8e2655e827b0567c-9b/s500x750/29d84f1275ade208e6635f719ca90bb3bc814841.jpg" ,Un desliz fatal (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361343
-#EXTINF: group-title="MR ROBOT Thriller" tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/08/15/00/3542246.jpg" ,Welcome Home (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167371345
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://image.tmdb.org/t/p/original//rrX1ojdd068aHlrGq5Khd92a3ba.jpg" ,Domino (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Domino%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_asesino_del_nudo-444826921-large.jpg" ,El asesino del nudo (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20asesino%20del%20nudo%20%282018%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_final_de_la_verdad-978228470-large.jpg" ,El final de la verdad (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20final%20de%20la%20verdad%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F894%2Fel-hombre-del-laberinto-1.jpg&nuevoancho=690&medio=abc" ,El hombre del laberinto (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20hombre%20del%20laberinto%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_lado_siniestro_de_la_luna-990874996-large.jpg" ,El lado siniestro de la Luna (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20lado%20siniestro%20de%20la%20Luna%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/El_ocupante-121902967-large.jpg" ,El ocupante (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20ocupante%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Fracture-551335752-large.jpg" ,Fracture (2007)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Fracture%20%282007%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/17/10/40/5908071.jpg" ,La viuda (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/La%20viuda%20%282018%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://www.ecartelera.com/carteles/14600/14654/001_m.jpg" ,Ofrenda a la tormenta (2020)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ofrenda%20a%20la%20tormenta%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/The_Fanatic-897653290-large.jpg" ,The Fanatic (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/The%20Fanatic%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://64.media.tumblr.com/1d0cc8421c92c7fd4da94dc6b60e476e/8e2655e827b0567c-9b/s500x750/29d84f1275ade208e6635f719ca90bb3bc814841.jpg" ,Un desliz fatal (2020)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Un%20desliz%20fatal%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/08/15/00/3542246.jpg" ,Welcome Home (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Welcome%20Home%20%282018%29.mp4
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" ,The Current Occupant (2020)
 https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
@@ -49,32 +49,32 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031170
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Voces-119178429-large.jpg" ,Voces (2020)
 https://archive.org/download/wendy-2020_202012/Voces%20%282020%29.mp4
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2013/07/Cementerio-General-poster1.jpg" ,Cementerio General (2013)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316745
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Curse_of_the_Blair_Witch_TV-960024835-mmed.jpg" ,Curse of the Blair Witch (1999)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316750
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-03-11-5138787451.jpg" ,DeadTectives (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316751
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_vampiros-589423850-mmed.jpg" ,El club de los vampiros (1996)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167327049
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Framed-193211957-large.jpg" ,Framed (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167337114
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/La_maldici_n_de_la_sirena-579165386-large.jpg" ,La Maldición de la Sirena (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167339050
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiZTRjODctNWMzYi00ZGFiLTkyYjgtNGI3NjcwNmM1YWRkXkEyXkFqcGdeQXVyMzE3NjQ5NA@@._V1_.jpg" ,Robert Reborn (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167357598
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://bzfilm.com/wp-content/uploads/2019/06/silhouette-2019.jpg" ,Silhouette (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167357600
-#EXTINF: group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Tempus_Tormentum-667759425-large.jpg" ,Tempus Tormentum (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358846
-#EXTINF: group-title="MR ROBOT suspenso" tvg-logo="https://image.tmdb.org/t/p/w300/bsPIybp4inkbw8T9BmYuc6ZGjo0.jpg" ,Deadly Excursion (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317040
-#EXTINF: group-title="MR ROBOT suspenso" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6229_imagen__.jpg" ,Perseguida (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167351450
-#EXTINF: group-title="MR ROBOT suspenso" tvg-logo="https://pics.filmaffinity.com/The_Black_String-994647462-mmed.jpg" ,The Black String (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358847
-#EXTINF: group-title="MR ROBOT suspenso" tvg-logo="https://pics.filmaffinity.com/Traffik-381374087-large.jpg" ,Traffik (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361222
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2013/07/Cementerio-General-poster1.jpg" ,Cementerio General (2013)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cementerio%20General%20%282013%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Curse_of_the_Blair_Witch_TV-960024835-mmed.jpg" ,Curse of the Blair Witch (1999)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Curse%20of%20the%20Blair%20Witch%20%281999%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-03-11-5138787451.jpg" ,DeadTectives (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/DeadTectives%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_vampiros-589423850-mmed.jpg" ,El club de los vampiros (1996)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20club%20de%20los%20vampiros%20%281996%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Framed-193211957-large.jpg" ,Framed (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Framed%20%282017%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/La_maldici_n_de_la_sirena-579165386-large.jpg" ,La Maldición de la Sirena (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/La%20Maldicio%CC%81n%20de%20la%20Sirena%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiZTRjODctNWMzYi00ZGFiLTkyYjgtNGI3NjcwNmM1YWRkXkEyXkFqcGdeQXVyMzE3NjQ5NA@@._V1_.jpg" ,Robert Reborn (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Robert%20Reborn%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://bzfilm.com/wp-content/uploads/2019/06/silhouette-2019.jpg" ,Silhouette (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Silhouette%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Tempus_Tormentum-667759425-large.jpg" ,Tempus Tormentum (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Tempus%20Tormentum%20%282018%29.mp4
+#EXTINF:-0 group-title="MR ROBOT suspenso" tvg-logo="https://image.tmdb.org/t/p/w300/bsPIybp4inkbw8T9BmYuc6ZGjo0.jpg" ,Deadly Excursion (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Deadly%20Excursion%20%282019%29.mp4
+#EXTINF:-0 group-title="MR ROBOT suspenso" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6229_imagen__.jpg" ,Perseguida (2020)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Perseguida%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT suspenso" tvg-logo="https://pics.filmaffinity.com/The_Black_String-994647462-mmed.jpg" ,The Black String (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/The%20Black%20String%20%282018%29.mp4
+#EXTINF:-0 group-title="MR ROBOT suspenso" tvg-logo="https://pics.filmaffinity.com/Traffik-381374087-large.jpg" ,Traffik (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Traffik%20%282018%29-1.mp4
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg" ,American Pie Las chicas mandan (2020)
 https://archive.org/download/wendy-2020_202012/American%20Pie%20Las%20chicas%20mandan%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2020/10/Borat-Subsequent-Moviefilm-2020.jpg" ,Borat, película film secuela (2020)
@@ -167,58 +167,58 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216523
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216524
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://i2.wp.com/www.verepeliculas.com/wp-content/uploads/2018/01/Resident-Evil-4-La-resurreccion-HD-1080p.jpg?fit=719%2C1024&ssl=1" ,Resident Evil 4_ La resurrección (2010)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216525
-#EXTINF: group-title="ANIME" tvg-logo="https://lh3.googleusercontent.com/proxy/q03iZbawT0FDWYAzOmmI74G05NotWsAopnpwsOYmw4Ioc9pHX_Ve324F71HlihMgNGHwvm-Y7xyJ_yqIOcr0Sv8SSHo2iZ4bxQE8mb-UOQ8CnjMODngEgITc2ejJGmABcXqk4c7h95ezqfK4ePD501K7SoquiZl-" ,Ao Oni The Animation (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316744
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" ,Cencoroll Connect (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167316746
-#EXTINF: group-title="ANIME" tvg-logo="https://media.redadn.es/series/p/detective-conan-22-el-caso-zero_3609.jpg" ,Detective Conan 22 El caso Zero (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317041
-#EXTINF: group-title="ANIME" tvg-logo="https://i.imgur.com/FgZD52X.jpg" ,Dragon Ball Super Broly (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317043
-#EXTINF: group-title="ANIME" tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" ,Dragon Ball Z La resurrección de Freezer (2015)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317044
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" ,El Himno del Corazón (2015)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167317045
-#EXTINF: group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/16/02/08/12/58/542941.jpg" ,El recuerdo de Marnie (2014)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330939
-#EXTINF: group-title="ANIME" tvg-logo="https://www.elespectadorimaginario.com/assets/cartel-kono-sekai.jpg" ,En este rincón del mundo (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330940
-#EXTINF: group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/evangelion/images/c/ca/Rebuild_Of_Evangelion_peli_Final.jpg/revision/latest?cb=20190712062312&path-prefix=es" ,Evangelion 30+10 (2021)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330944
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Final_Fantasy_XV_La_pel_cula-570069523-large.jpg" ,Final Fantasy XV La película (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167330945
-#EXTINF: group-title="ANIME" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_30580_90.jpg" ,Ghost in the Shell The Rising (2015)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167337299
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes-464138472-large.jpg" ,Héroes humildes (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167337300
-#EXTINF: group-title="ANIME" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlMGY3OTUtZTljNS00MDAxLWE2YzYtMjc0ZjhlNzUwMDBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" ,Kakurenbo (2005)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167337301
-#EXTINF: group-title="ANIME" tvg-logo="https://ramenparados.com/wp-content/uploads/2017/03/Magical-Girl-Lyrical-Nanoha-Reflection-key.png" ,Magical Girl Lyrical Nanoha Reflection (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167349515
-#EXTINF: group-title="ANIME" tvg-logo="https://i.pinimg.com/originals/73/bc/d0/73bcd021614be76919facd961eaceb40.jpg" ,Nanatsu no Taizai Movie Tenkuu no Torawarebito (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167349516
-#EXTINF: group-title="ANIME" tvg-logo="https://www.ecartelera.com/carteles/13500/13514/001_m.jpg" ,No Game No Life Zero (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167350864
-#EXTINF: group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/28/17/02/4637907.jpg" ,One Piece Estampida (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167351444
-#EXTINF: group-title="ANIME" tvg-logo="https://legiondescargas.com/wp-content/uploads/2019/08/ssssssssd65das.jpg" ,One Piece Gold (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167351445
-#EXTINF: group-title="ANIME" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/08/Flavors_of_youth_netflix-723x1024.jpg" ,Shikioriori (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167357599
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Strait_Jacket-213091204-large.jpg" ,Strait Jacket (2007)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358843
-#EXTINF: group-title="ANIME" tvg-logo="https://3.bp.blogspot.com/-xEk0xCoPjfE/W3hZ2moXanI/AAAAAAAABOY/cn9JMvwRSYM84e1SoaXexRRlPK-kbZmKgCPcBGAYYCw/s1600/c59bbc06b7493ea9b43fe3f2aca1d2ca7808b63e_hq.jpg" ,Suki ni Naru Sono Shunkan wo Kokuhaku Jikkou Iinkai (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358844
-#EXTINF: group-title="ANIME" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F051%2F413%2Fsword-art-online-ordinal-scale-1.jpg&nuevoancho=690&medio=abc" ,Sword Art Online La película Ordinal scale (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167358845
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/FireWorks-929306530-large.jpg" ,Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167361296
-#EXTINF: group-title="ANIME" tvg-logo="https://i.imgur.com/DptBn5l.jpg" ,Una voz silenciosa (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167371344
-#EXTINF: group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" ,Your name (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167381346
-#EXTINF: group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" ,Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/167381347
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://lh3.googleusercontent.com/proxy/q03iZbawT0FDWYAzOmmI74G05NotWsAopnpwsOYmw4Ioc9pHX_Ve324F71HlihMgNGHwvm-Y7xyJ_yqIOcr0Sv8SSHo2iZ4bxQE8mb-UOQ8CnjMODngEgITc2ejJGmABcXqk4c7h95ezqfK4ePD501K7SoquiZl-" ,Ao Oni The Animation (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" ,Cencoroll Connect (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://media.redadn.es/series/p/detective-conan-22-el-caso-zero_3609.jpg" ,Detective Conan 22 El caso Zero (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Detective%20Conan%2022%20El%20caso%20Zero%20%282018%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3O71Sjyh6mz5HRAhF26NWyG30Q9Hgu7TgZ0GryI41SyNo9U0Y" ,Dragon Ball Super Broly (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Super%20Broly%20%282018%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" ,Dragon Ball Z La resurrección de Freezer (2015)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" ,El Himno del Corazón (2015)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20Himno%20del%20Corazo%CC%81n%20%282015%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/16/02/08/12/58/542941.jpg" ,El recuerdo de Marnie (2014)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20recuerdo%20de%20Marnie%20%282014%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://www.elespectadorimaginario.com/assets/cartel-kono-sekai.jpg" ,En este rincón del mundo (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://static.wikia.nocookie.net/evangelion/images/c/ca/Rebuild_Of_Evangelion_peli_Final.jpg/revision/latest?cb=20190712062312&path-prefix=es" ,Evangelion 30+10 (2021)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Evangelion%2030%2B10%20%282021%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Final_Fantasy_XV_La_pel_cula-570069523-large.jpg" ,Final Fantasy XV La película (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Final%20Fantasy%20XV%20La%20peli%CC%81cula%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_30580_90.jpg" ,Ghost in the Shell The Rising (2015)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ghost%20in%20the%20Shell%20The%20Rising%20%282015%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes-464138472-large.jpg" ,Héroes humildes (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/He%CC%81roes%20humildes%20%282018%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlMGY3OTUtZTljNS00MDAxLWE2YzYtMjc0ZjhlNzUwMDBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" ,Kakurenbo (2005)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Kakurenbo%20%282005%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://ramenparados.com/wp-content/uploads/2017/03/Magical-Girl-Lyrical-Nanoha-Reflection-key.png" ,Magical Girl Lyrical Nanoha Reflection (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Magical%20Girl%20Lyrical%20Nanoha%20Reflection%20%282017%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://i.pinimg.com/originals/73/bc/d0/73bcd021614be76919facd961eaceb40.jpg" ,Nanatsu no Taizai Movie Tenkuu no Torawarebito (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Nanatsu%20no%20Taizai%20Movie%20Tenkuu%20no%20Torawarebito%20%282018%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://www.ecartelera.com/carteles/13500/13514/001_m.jpg" ,No Game No Life Zero (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/No%20Game%20No%20Life%20Zero%20%282017%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/28/17/02/4637907.jpg" ,One Piece Estampida (2019)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Estampida%20%282019%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://legiondescargas.com/wp-content/uploads/2019/08/ssssssssd65das.jpg" ,One Piece Gold (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Gold%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/08/Flavors_of_youth_netflix-723x1024.jpg" ,Shikioriori (2018)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Shikioriori%20%282018%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Strait_Jacket-213091204-large.jpg" ,Strait Jacket (2007)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Strait%20Jacket%20%282007%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://3.bp.blogspot.com/-xEk0xCoPjfE/W3hZ2moXanI/AAAAAAAABOY/cn9JMvwRSYM84e1SoaXexRRlPK-kbZmKgCPcBGAYYCw/s1600/c59bbc06b7493ea9b43fe3f2aca1d2ca7808b63e_hq.jpg" ,Suki ni Naru Sono Shunkan wo Kokuhaku Jikkou Iinkai (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Suki%20ni%20Naru%20Sono%20Shunkan%20wo%20Kokuhaku%20Jikkou%20Iinkai%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F051%2F413%2Fsword-art-online-ordinal-scale-1.jpg&nuevoancho=690&medio=abc" ,Sword Art Online La película Ordinal scale (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Sword%20Art%20Online%20La%20peli%CC%81cula%20Ordinal%20scale%20%282017%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/FireWorks-929306530-large.jpg" ,Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka (2017)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Uchiage%20Hanabi%2C%20Shita%20kara%20Miru%20ka%20Yoko%20kara%20Miru%20ka%20%282017%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHdlTOyawCA2ldD6ocWGJd-XsIajsQdLJHjufFATHmmegFDKIb.JPG" ,Una voz silenciosa (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" ,Your name (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Your%20name%20%282016%29.mp4
+#EXTINF:-0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" ,Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Yu-Gi-Oh%21%20El%20Lado%20Oscuro%20de%20las%20Dimensiones%20%282016%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwMGNhNTItYjFlYS00MjQ4LWE1ZDItNWIwZjM3ZGNmYmIzXkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_.jpg" ,Abducted (2018)
 https://archive.org/download/wonder-woman-1984-2020_202012/Abducted%20%282018%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Arturo_y_Merlin_Caballeros_de_Camelot-751340737-large.jpg" ,Arturo y Merlín Caballeros de Camelot (2020)
@@ -239,11 +239,11 @@ https://archive.org/download/wonder-woman-1984-2020_202012/Greenland%20el%20u%CC
 https://archive.org/download/wonder-woman-1984-2020_202012/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI1MTdlYzctMTQ0Yi00NTdmLTk2MjctMTMyZDdiNDYyMzQ3XkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" ,No Good Deed (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/No%20Good%20Deed%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT terror" ,Saw VII (2010)
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/74/47/19634612.jpg" ,Saw VII (2010)
 https://archive.org/download/wonder-woman-1984-2020_202012/Saw%20VII%20%282010%29.mp4
 #EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ5ZmRjMTAtNjJjZS00MzQ2LWE5MGYtMjJjNjgwMzU2OWY2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" ,Sleeping with Danger (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/Sleeping%20with%20Danger%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" ,Vengadores Infinity War (2018)
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Vengadores_Infinity_War-181539353-large.jpg" ,Vengadores Infinity War (2018)
 https://archive.org/download/wonder-woman-1984-2020_202012/Vengadores%20Infinity%20War%20%282018%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU4MDdlMTUtOTAyMC00YzQ3LWFhYWQtNDUxNjhiNzM4NzIwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" ,Welcome to Sudden Death (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
@@ -286,9 +286,9 @@ https://archive.org/download/train-to-busan-2-peninsula/REPO%20MEN.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyY2M2M2UtMGI1NC00ZjBmLWI5NDItYjQ1MThjNzgwMjhmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR91,0,630,1200_AL_.jpg" ,ROGUE
 https://archive.org/download/train-to-busan-2-peninsula/ROGUE.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Rogue_Warfare-843908847-large.jpg" ,ROGUEWARFARE
-https://pics.filmaffinity.com/Rogue_Warfare-843908847-large.jpg
+https://archive.org/download/train-to-busan-2-peninsula/ROGUEWARFARE.mp4
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" ,SAFE
-https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png
+https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Stalingrado-347822371-large.jpg" ,STALINGRADO.mp4
 https://archive.org/download/train-to-busan-2-peninsula/STALINGRADO.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Soldado_universal_2_Hermanos_de_armas_TV-116505580-large.jpg" ,Soldado universal 2 Hermanos de armas (1998)
@@ -421,7 +421,7 @@ https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wii
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Bobbleheads%20The%20Movie%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg" ,Call Me by Your Name (2017)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Call%20Me%20by%20Your%20Name%20%282017%29.mp4
-#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg" ,Cuidado con lo que deseas
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg" ,Cuidado con lo que deseas 2020
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Cuidado%20con%20lo%20que%20deseas%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.openpelis.com/imagenes/pelis/minis/2020-12-23-4871425663.jpg" ,El amor de Sylvie (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/El%20amor%20de%20Sylvie%20%282020%29.mp4
