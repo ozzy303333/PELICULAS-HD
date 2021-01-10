@@ -635,3 +635,61 @@ https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%2820
 https://archive.org/download/wendy-2020_202012/Work%20It%20Al%20ritmo%20de%20los%20suen%CC%83os%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Zombi_Child-180737258-large.jpg" ,Zombi Child (2019)
 https://archive.org/download/wendy-2020_202012/Zombi%20Child%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/41/00/20062894.jpg" ,16 calles (2006)
+https://archive.org/download/the-immortal-wars-resurgence-2019/16%20calles%20%282006%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-mmed.jpg" ,Afro Samurai Resurrection (2009)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg" ,Agatha y la verdad del crimen (2018)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://descargasinads.com/wp-content/uploads/2020/07/archive-poster-ver-online-descargar-WWW.DESCARGASINADS.jpg" ,Archive (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Archive%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Attraction-612163369-mmed.jpg" ,Attraction (2017)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Attraction%20%282017%29-1.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/earthfall_tv-909168957-large.jpg" ,Catástrofe inminente (2015)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Cata%CC%81strofe%20inminente%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F005%2F961%2Fcaza-al-asesino-1.jpg&nuevoancho=690&medio=abc" ,Caza al asesino (2013)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Caza%20al%20asesino%20%282013%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/elcriticonfotos/collateralcartel.jpg" ,Collateral (2004)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Collateral%20%282004%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJlOTQxNjUtMDIxNC00ODI5LWE2ZmUtYzViZDY2Y2VjY2ExXkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_.jpg" ,Copper Bill (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Copper%20Bill%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqBirm9NLTb37jT36W4YZUEDjdf.jpg" ,Diablo (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Diablo%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://funkyimg.com/i/38ASp.jpg" ,El legado de las mentiras (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/El%20legado%20de%20las%20mentiras%20%282020%29-1.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg" ,Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i0.wp.com/www.filmlinks4u.net/wp-content/uploads/2010/03/GoldenEye-1995-Hindi-Dubbed-Movie-Watch-Online1.jpg" ,GoldenEye (1995)
+https://archive.org/download/the-immortal-wars-resurgence-2019/GoldenEye%20%281995%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/H_rcules_El_origen_de_la_leyenda-194423889-large.jpg" ,Hércules El origen de la leyenda (2014)
+https://archive.org/download/the-immortal-wars-resurgence-2019/He%CC%81rcules%20El%20origen%20de%20la%20leyenda%20%282014%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" ,Redline (2009)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/66/70/13/20147182.jpg" ,Rompiendo las reglas (2008)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%20%282008%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5VX8/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" ,Rompiendo las reglas 2 (2011)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%202%20%282011%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://repelis.io/_images/posters/F7SSTogCRA8ETD7XZq4d9NL/280x420.jpg" ,SWAT (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/SWAT%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/06/10/46/072132.jpg" ,Serpientes en el avión (2006)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Serpientes%20en%20el%20avio%CC%81n%20%282006%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://media.redadn.es/series/p/tengen-toppa-gurren-lagann-movie-1-gurren-hen_1147.jpg" ,Tengen Toppa Gurren Lagann Movie 1 Gurren-hen (2008)
+Tengen Toppa Gurren Lagann Movie 1 Gurren-hen (2008).mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Doorman_teaser_poster.jpg/220px-Doorman_teaser_poster.jpg" ,The Doorman (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Doorman%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pbs.twimg.com/media/EJRzf4MU0AEiHVP.png" ,The Fanatic (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Fanatic%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/The_Immortal_Wars_Resurgence-139783082-large.jpg" ,The Immortal Wars Resurgence (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Immortal%20Wars%20Resurgence%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFmZTdhYmItNjIyZS00ZjVlLWFjZjgtMjMyMDA5ZmVjNzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" ,The Tax Collector (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Tax%20Collector%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/00/54/20076452.jpg" ,Tras la línea enemiga (2001)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Tras%20la%20li%CC%81nea%20enemiga%20%282001%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/trust-no-1-1597343713.jpg" ,Trust No 1 (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Trust%20No%201%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/honest_thief-988558041-large.jpg" ,Un ladrón honesto (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Un%20ladro%CC%81n%20honesto%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fes%2Ffilm172843.html&psig=AOvVaw2PR2QvmUfhhanBc7Yt3T8a&ust=1610345438518000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDklLHakO4CFQAAAAAdAAAAABAI" ,Yo, el halcón (1987)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Yo%2C%20el%20halco%CC%81n%20%281987%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://blog-imgs-49.fc2.com/s/f/q/sfqrk275take/blog_import_508928e950d3f.jpg" ,マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ (1995)
+https://archive.org/download/the-immortal-wars-resurgence-2019/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%B9%E3%80%80%EF%BC%AD%EF%BC%AF%EF%BC%B6%EF%BC%A9%EF%BC%A5%E3%80%80%EF%BC%A5%EF%BC%A4%EF%BC%A9%EF%BC%B4%EF%BC%A9%EF%BC%AF%EF%BC%AE%20%281995%29.mp4
