@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdlMokXQdmzOQl01Vrf7MCe6BnsIwBlyhnelNpetKSozokGF8-" ,no te ,etas con zohan
@@ -696,3 +695,107 @@ https://archive.org/download/the-immortal-wars-resurgence-2019/Un%20ladro%CC%81n
 https://archive.org/download/the-immortal-wars-resurgence-2019/Yo%2C%20el%20halco%CC%81n%20%281987%29.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://blog-imgs-49.fc2.com/s/f/q/sfqrk275take/blog_import_508928e950d3f.jpg" ,マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ (1995)
 https://archive.org/download/the-immortal-wars-resurgence-2019/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%B9%E3%80%80%EF%BC%AD%EF%BC%AF%EF%BC%B6%EF%BC%A9%EF%BC%A5%E3%80%80%EF%BC%A5%EF%BC%A4%EF%BC%A9%EF%BC%B4%EF%BC%A9%EF%BC%AF%EF%BC%AE%20%281995%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Re_cambio_de_princesa-598509233-large.jpg" ,cambio de princesa (2020)
+https://archive.org/download/i-hate-summer-2020/%28Re%29cambio%20de%20princesa%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://www.tododvdfull.com/wp-content/uploads/2015/09/Another-48-Hrs..jpg" ,48 horas más (1990)
+https://archive.org/download/i-hate-summer-2020/48%20horas%20ma%CC%81s%20%281990%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY268_CR1,0,182,268_AL_.jpg" ,AK vs AK (2020)
+https://archive.org/download/i-hate-summer-2020/AK%20vs%20AK%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Al_acecho-132033556-large.jpg" ,Al acecho (2020)
+https://archive.org/download/i-hate-summer-2020/Al%20acecho%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Alta_tensi_n-258012416-large.jpg" ,Alta tensión (2003)
+https://archive.org/download/i-hate-summer-2020/Alta%20tensio%CC%81n%20%282003%29-1.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Ammonite-340737043-large.jpg" ,Ammonite (2020)
+https://archive.org/download/i-hate-summer-2020/Ammonite%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Anacleto_Agente_secreto-863043600-large.jpg" ,Anacleto agente secreto (2015)
+https://archive.org/download/i-hate-summer-2020/Anacleto%20agente%20secreto%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Aversi_n-211916385-large.jpg" ,Aversión (2019)
+https://archive.org/download/i-hate-summer-2020/Aversio%CC%81n%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Borning_Asfalto_en_llamas-518088537-large.jpg" ,Borning Asfalto en llamas (2020)
+https://archive.org/download/i-hate-summer-2020/Borning%20Asfalto%20en%20llamas%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://mega1link.com/wp-content/uploads/2020/11/8oiMFMarbRpcusASIX4cjVXoZKI-200x300.jpg" ,Charm City Kings (2020)
+https://mega1link.com/wp-content/uploads/2020/11/8oiMFMarbRpcusASIX4cjVXoZKI-200x300.jpg
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://i.imgur.com/NJjrOcC.png" ,Chichipatos ¡qué chimba de Navidad! (2020)
+https://archive.org/download/i-hate-summer-2020/Chichipatos%20%C2%A1que%CC%81%20chimba%20de%20Navidad%21%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Clouds-101144232-large.jpg" ,Clouds (2020)
+https://archive.org/download/i-hate-summer-2020/Clouds%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://3.bp.blogspot.com/-b9h9Y-hCI7A/VibOUwATz2I/AAAAAAAAq7o/WVL5WsrDDWg/s1600/698021515.jpg" ,Containment (2015)
+https://archive.org/download/i-hate-summer-2020/Containment%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Cr_nica_de_una_tormenta-611491491-large.jpg" ,Crónica de una tormenta (2020)
+https://archive.org/download/i-hate-summer-2020/Cro%CC%81nica%20de%20una%20tormenta%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://mega1link.com/wp-content/uploads/2020/10/dbhC6qRydXyRmpUdcl9bL9rARya-200x300.jpg" ,El Halloween de Hubie (2020)
+https://archive.org/download/i-hate-summer-2020/El%20Halloween%20de%20Hubie%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/El_cuaderno_de_Tomy-471893905-large.jpg" ,El cuaderno de Tomy (2020)
+https://archive.org/download/i-hate-summer-2020/El%20cuaderno%20de%20Tomy%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/El_juicio_de_los_7_de_Chicago-241324585-large.jpg" ,El juicio de los 7 de Chicago (2020)
+https://archive.org/download/i-hate-summer-2020/El%20juicio%20de%20los%207%20de%20Chicago%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://images.moviefit.me/t/b/255905-the-christmas-gift.webp" ,El regalo de Navidad (2020)
+https://archive.org/download/i-hate-summer-2020/El%20regalo%20de%20Navidad%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6183_imagen__.jpg" ,El rey del sapo (2019)
+https://archive.org/download/i-hate-summer-2020/El%20rey%20del%20sapo%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Emperor-190871922-large.jpg" ,Emperor (2020)
+https://archive.org/download/i-hate-summer-2020/Emperor%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Forever_First_Love-102990274-mmed.jpg" ,Forever First Love (2020)
+https://archive.org/download/i-hate-summer-2020/Forever%20First%20Love%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5OGU5YmYtZjVlYy00YmUxLTk5YWItYjRjMGVmZTI3YjM4XkEyXkFqcGdeQXVyNDM5NDkyODg@._V1_.jpg" ,Hailey Dean Mysteries A Prescription for Murder (2019)
+https://archive.org/download/i-hate-summer-2020/Hailey%20Dean%20Mysteries%20A%20Prescription%20for%20Murder%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://archive.org/download/i-hate-summer-2020/Harpoon%20%282019%29.mp4" ,Harpoon (2019)
+https://archive.org/download/i-hate-summer-2020/Harpoon%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Hillbilly_una_eleg_a_rural-757589160-large.jpg" ,Hillbilly, una elegía rural (2020)
+https://archive.org/download/i-hate-summer-2020/Hillbilly%2C%20una%20elegi%CC%81a%20rural%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q5ZDdmZWItMmNiYi00MjU5LThmOTAtZDU5N2ZhYmM1NDAzXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UY268_CR3,0,182,268_AL_.jpg" ,I Hate Summer (2020)
+https://archive.org/download/i-hate-summer-2020/I%20Hate%20Summer%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://www.elseptimoarte.net/carteles/207/la_chaqueta_de_piel_de_ciervo_83509.jpg" ,La chaqueta de piel de ciervo (2019)
+https://archive.org/download/i-hate-summer-2020/La%20chaqueta%20de%20piel%20de%20ciervo%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/citation-235387619-large.jpg" ,La citación (2020)
+https://archive.org/download/i-hate-summer-2020/La%20citacio%CC%81n%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/La_dosis-802241086-large.jpg" ,La dosis (2020)
+https://archive.org/download/i-hate-summer-2020/La%20dosis%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="http://blue-subtitle.com/wp-content/uploads/2020/11/Happiest-Season-2020-185x268.jpg" ,La estación de la felicidad (2020)
+https://archive.org/download/i-hate-summer-2020/La%20estacio%CC%81n%20de%20la%20felicidad%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/the_broken_hearts_gallery-972949574-large.jpg" ,La galería de los corazones rotos (2020)
+https://archive.org/download/i-hate-summer-2020/La%20galeri%CC%81a%20de%20los%20corazones%20rotos%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.ecartelera.com/carteles/15900/15932/001_m.jpg" ,La lista de los deseos (2020)
+https://www.ecartelera.com/carteles/15900/15932/001_m.jpg
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/La_madre_del_blues-906078080-large.jpg" ,La madre del blues (2020)
+https://archive.org/download/i-hate-summer-2020/La%20madre%20del%20blues%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6366_imagen__.png" ,La pachanga (2019)
+https://archive.org/download/i-hate-summer-2020/La%20pachanga%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/La_sombra_de_los_otros-421691505-large.jpg" ,La sombra de los otros (2010)
+https://archive.org/download/i-hate-summer-2020/La%20sombra%20de%20los%20otros%20%282010%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/La_vida_ante_s-916636073-large.jpg" ,La vida por delante (2020)
+https://archive.org/download/i-hate-summer-2020/La%20vida%20por%20delante%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/L_mite_48_horas-717276934-mmed.jpg" ,Límite 48 horas (1982)
+https://archive.org/download/i-hate-summer-2020/Li%CC%81mite%2048%20horas%20%281982%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://mega1link.com/wp-content/uploads/2020/12/Atd7UaGgwOhcyHggqchYLqSJ6VO-202x300.jpg" ,Mank (2020)
+https://archive.org/download/i-hate-summer-2020/Mank%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/03/04/15/09/2075899.jpg" ,Mano de obra (2020)
+https://archive.org/download/i-hate-summer-2020/Mano%20de%20obra%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg" ,Medio hermanos (2020)
+https://archive.org/download/i-hate-summer-2020/Medio%20hermanos%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/uncle_frank-285264269-large.jpg" ,Mi tío Frank (2020)
+https://archive.org/download/i-hate-summer-2020/Mi%20ti%CC%81o%20Frank%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://www.ecartelera.com/carteles/6800/6873/002_m.jpg" ,Paranormal Activity Los señalados (2014)
+https://archive.org/download/i-hate-summer-2020/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://img.repelis.id/cover/pasion-del-corazon-1582402204.jpg" ,Pasión del corazón (2015)
+https://archive.org/download/i-hate-summer-2020/Pasio%CC%81n%20del%20corazo%CC%81n%20%282015%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Riding_with_Sugar-415283834-large.jpg" ,Riding with Sugar (2020)
+https://archive.org/download/i-hate-summer-2020/Riding%20with%20Sugar%20%282020%29-1.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F960%2Fsolia-ir-alli-1.jpg&nuevoancho=150&medio=abc" ,Solía ir allí (2020)
+https://archive.org/download/i-hate-summer-2020/Soli%CC%81a%20ir%20alli%CC%81%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Soy_tu_mujer-752233198-mmed.jpg" ,Soy tu mujer (2020)
+https://archive.org/download/i-hate-summer-2020/Soy%20tu%20mujer%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://img.netnaija.com/l2bHHK.jpg" ,Sputnik (2020)
+https://archive.org/download/i-hate-summer-2020/Sputnik%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://i0.wp.com/o2tvseriesz.com/wp-content/uploads/2020/04/The-Haunting-of-Alcatraz-2020-Full-Movie-Download.jpg?fit=400%2C600&ssl=1" ,The Haunting of Alcatraz (2020)
+https://archive.org/download/i-hate-summer-2020/The%20Haunting%20of%20Alcatraz%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/The_Stand_In-828252343-large.jpg" ,The Stand In (2020)
+https://archive.org/download/i-hate-summer-2020/The%20Stand%20In%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://pics.filmaffinity.com/Un_mundo_normal-293948077-large.jpg" ,Un mundo normal (2020)
+https://archive.org/download/i-hate-summer-2020/Un%20mundo%20normal%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Uno_de_nosotros-769765138-large.jpg" ,Uno de nosotros (2020)
+https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Unpregnant-443503049-large.jpg" ,Unpregnant (2020)
+https://archive.org/download/i-hate-summer-2020/Unpregnant%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" ,Wild Mountain Thyme (2020)
+https://archive.org/download/i-hate-summer-2020/Wild%20Mountain%20Thyme%20%282020%29.mp4
