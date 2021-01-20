@@ -799,3 +799,11 @@ https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29
 https://archive.org/download/i-hate-summer-2020/Unpregnant%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" ,Wild Mountain Thyme (2020)
 https://archive.org/download/i-hate-summer-2020/Wild%20Mountain%20Thyme%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Arma_letal_4-149791840-large.jpg" ,Arma letal 4 (1998)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Arma%20letal%204%20%281998%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/35/08/20141090.jpg" ,Asalto al tren del dinero (1995)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Asalto%20al%20tren%20del%20dinero%20%281995%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/27/11/31/078119.jpg" ,Con Air (Convictos en el aire) (1997)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Con%20Air%20%28Convictos%20en%20el%20aire%29%20%281997%29.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Corre_Lola_corre-927408419-mmed.jpg" ,Corre Lola, corre (1998)
+https://archive.org/download/desaparecido-en-combate-1984_202101/Corre%20Lola%2C%20corre%20%281998%29.mp4
