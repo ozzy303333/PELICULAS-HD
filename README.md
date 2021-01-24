@@ -927,3 +927,67 @@ https://archive.org/download/desaparecido-en-combate-1984_202101/la%20verdad%20d
 https://archive.org/download/desaparecido-en-combate-1984_202101/spotlight%202015.mp4
 #EXTINF:0 group-title="MR ROBOT DRAMA" tvg-logo="https://2.bp.blogspot.com/-LE358Oio7Uc/VkoLg9_uK5I/AAAAAAAAsdc/gNcYDb1avuY/s1600/Victor_-Frankenstein-.jpg" ,victor frankenstein 2015
 https://archive.org/download/desaparecido-en-combate-1984_202101/victor%20frankenstein%202015.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" ,101 dálmatas 2 (2003)
+https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://www.ecartelera.com/carteles/12500/12585/004_m.jpg" ,A Silent Voice (2016)
+https://archive.org/download/animal-crackers-2017_202101/A%20Silent%20Voice%20%282016%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg" ,Animal Crackers (2017)
+https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg" ,Astro Boy (2009)
+https://archive.org/download/animal-crackers-2017_202101/Astro%20Boy%20%282009%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.cineytele.com/wp-content/uploads/2019/11/BAYALA.jpg" ,Bayala, una aventura mágica (2019)
+https://archive.org/download/animal-crackers-2017_202101/Bayala%2C%20una%20aventura%20ma%CC%81gica%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/viuBC3WzeDH10DNtNYFeCtudaDv.jpg" ,Bunyan and Babe (2017)
+https://archive.org/download/animal-crackers-2017_202101/Bunyan%20and%20Babe%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://www.covercaratulas.com/ode/mini_mini/carteles-31034.jpg" ,Como pez fuera del agua (2017)
+https://archive.org/download/animal-crackers-2017_202101/Como%20pez%20fuera%20del%20agua%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_.jpg" ,Deathstroke Knights & Dragons - The Movie (2020)
+https://archive.org/download/animal-crackers-2017_202101/Deathstroke%20Knights%20%26%20Dragons%20-%20The%20Movie%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Doraemon_y_la_gran_aventura_en_la_Ant_rtida-630171136-large.jpg" ,Doraemon y la gran aventura en la Antártida (2017)
+https://archive.org/download/animal-crackers-2017_202101/Doraemon%20y%20la%20gran%20aventura%20en%20la%20Anta%CC%81rtida%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_combate_definitivo-939157224-mmed.jpg" ,Dragon Ball Z El combate definitivo (1994)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20combate%20definitivo%20%281994%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://static.wikia.nocookie.net/dragonball/images/d/d0/DBZ_Pel%C3%ADcula_2_p%C3%B3ster.png/revision/latest?cb=20180805032321&path-prefix=es" ,Dragon Ball Z El más fuerte del mundo (1990)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20ma%CC%81s%20fuerte%20del%20mundo%20%281990%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg" ,Dragon Ball Z El regreso de Broly (1994)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20regreso%20de%20Broly%20%281994%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg" ,Dragon Ball Z El super guerrero Son Goku (1991)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20super%20guerrero%20Son%20Goku%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d" ,Dragon Ball Z Estalla el duelo (1993)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Estalla%20el%20duelo%20%281993%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg" ,Dragon Ball Z Guerreros de fuerza ilimitada (1992)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Guerreros%20de%20fuerza%20ilimitada%20%281992%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg" ,Dragon Ball Z La super batalla (1990)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20La%20super%20batalla%20%281990%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg" ,Dragon Ball Z Los guerreros de plata (1993)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20guerreros%20de%20plata%20%281993%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/dragon-ball-z-los-mejores-rivales.png" ,Dragon Ball Z Los mejores rivales (1991)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20mejores%20rivales%20%281991%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_tres_grandes_Super_Saiyans-979204179-large.jpg" ,Dragon Ball Z Los tres grandes Super Saiyans (1992)
+Dragon Ball Z Los tres grandes Super Saiyans (1992).mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragones_al_rescate_el_secreto_del_ala_cantarina_TV-578983547-large.jpg" ,Dragones al rescate El secreto del Ala Cantarina (2020)
+https://archive.org/download/animal-crackers-2017_202101/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://mega1link.com/wp-content/uploads/2020/12/90eStEGcL7tb65UU6ptMaG2PtIp-200x300.jpg" ,El árbol de los deseos (2020)
+https://archive.org/download/animal-crackers-2017_202101/El%20a%CC%81rbol%20de%20los%20deseos%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/le_prince_oublie-172739671-large.jpg" ,El príncipe olvidado (2020)
+https://archive.org/download/animal-crackers-2017_202101/El%20pri%CC%81ncipe%20olvidado%20%282020%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc" ,El rey espino (2009)
+https://archive.org/download/animal-crackers-2017_202101/El%20rey%20espino%20%282009%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)" ,Fairy Tail Dragon Cry (2017)
+https://archive.org/download/animal-crackers-2017_202101/Fairy%20Tail%20Dragon%20Cry%20%282017%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://cdn.animaifu.com/5be0af1288b1d6fcbf2987e9d5d7c67fbedeb2e5.original.jpg?1590111728" ,Fatekaleid liner Prisma☆Illya Movie Sekka no Chikai (2017)
+https://archive.org/download/animal-crackers-2017_202101/Fatekaleid%20liner%20Prisma%E2%98%86Illya%20Movie%20Sekka%20no%20Chikai%20%282017%29.mp4
+#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg" ,Héroes humildes (2018)
+https://archive.org/download/animal-crackers-2017_202101/He%CC%81roes%20humildes%20%282018%29.mp4
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/i_believe-800864213-mmed.jpg" ,I Believe (2017)
+https://archive.org/download/animal-crackers-2017_202101/I%20Believe%20%282017%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Nivel_intr_pido-409953632-large.jpg" ,Intrépido (2020)
+https://archive.org/download/animal-crackers-2017_202101/Intre%CC%81pido%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/jungle_beat_the_movie-437586745-large.jpg" ,Jungle Beat la película (2020)
+https://archive.org/download/animal-crackers-2017_202101/Jungle%20Beat%20la%20peli%CC%81cula%20%282020%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/La_famosa_invasi_n_de_los_osos_en_Sicilia-367882695-large.jpg" ,La famosa invasión de los osos en Sicilia (2019)
+https://archive.org/download/animal-crackers-2017_202101/La%20famosa%20invasio%CC%81n%20de%20los%20osos%20en%20Sicilia%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/bai_she_yuan_qi-197151309-large.jpg" ,La serpiente blanca (2019)
+https://archive.org/download/animal-crackers-2017_202101/La%20serpiente%20blanca%20%282019%29.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg" ,Latte y la piedra mágica (2019)
+https://archive.org/download/animal-crackers-2017_202101/Latte%20y%20la%20piedra%20ma%CC%81gica%20%282019%29.mp4
