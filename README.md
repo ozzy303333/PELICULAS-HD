@@ -131,7 +131,7 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
 #EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Wheelman (2017) 720p.mp4" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" ,Wheelman (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" ,Calles de fuego (1984)
+#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://4.bp.blogspot.com/-DzyrDkV_YCU/W6KIlTqap3I/AAAAAAAAHpY/HqeXvwNWGAkN33IApWWUCzu_WVIWUByZwCLcBGAs/s320/Calles%2Bde%2Bfuego%252C%2Buna%2Bf%25C3%25A1bula%2Bde%2BRock%2B%2526%2BRoll.jpg" ,Calles de fuego (1984)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031219
 #EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Batman_1 inicia 2005" tvg-logo="https://pelispanda.com/wp-content/uploads/2019/12/mYsoCOq82b08juHGxd3WnotiCAh.jpg" ,Batman_1 inicia 2005
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031220
