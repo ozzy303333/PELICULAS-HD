@@ -127,7 +127,11 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031213
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031216
 #EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Bloodshot (2020)" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg" ,Bloodshot (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://pics.filmaffinity.com/Calles_de_fuego-403171158-large.jpg" ,Calles de fuego (1984)
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="El Santo (2017) 720p.mp4" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg" ,El Santo (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Wheelman (2017) 720p.mp4" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg" ,Wheelman (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" ,Calles de fuego (1984)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031219
 #EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Batman_1 inicia 2005" tvg-logo="https://pelispanda.com/wp-content/uploads/2019/12/mYsoCOq82b08juHGxd3WnotiCAh.jpg" ,Batman_1 inicia 2005
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031220
