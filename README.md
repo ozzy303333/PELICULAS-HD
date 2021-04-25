@@ -59,7 +59,7 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Yu-Gi-O
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Your%20Name.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" ,The Wonderland (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
-#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-mmed.jpg" ,Afro Samurai Resurrection (2009)
+#EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg" ,Afro Samurai Resurrection (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg" ,Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
