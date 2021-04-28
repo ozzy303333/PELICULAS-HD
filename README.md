@@ -79,32 +79,6 @@ https://archive.org/download/animal-crackers-2017_202101/Fairy%20Tail%20Dragon%2
 https://archive.org/download/animal-crackers-2017_202101/Fatekaleid%20liner%20Prisma%E2%98%86Illya%20Movie%20Sekka%20no%20Chikai%20%282017%29.mp4
 #EXTINF:0 group-title="ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg" ,He´roes humildes (2018)
 https://archive.org/download/animal-crackers-2017_202101/He%CC%81roes%20humildes%20%282018%29.mp4
-#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sin%20piedad.jpg" ,Sin piedad 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sin%20piedad%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Headshot.jpg" ,Headshot (2016) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Headshot%20%282016%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" ,Furia de titanes (2010) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Furia%20de%20titanes%20%282010%29%20720p.mp4
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" ,Bad Boys for Life (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031213
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Fuego negro (2020)" tvg-logo="https://pics.filmaffinity.com/Fuego_negro-616588726-large.jpg" ,Fuego negro (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031216
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Bloodshot (2020)" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg" ,Bloodshot (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
-#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="El Santo (2017) 720p.mp4" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg" ,El Santo (2017) 720p.mp4
-https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
-#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Wheelman (2017) 720p.mp4" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" ,Wheelman (2017) 720p.mp4
-https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
-#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://4.bp.blogspot.com/-DzyrDkV_YCU/W6KIlTqap3I/AAAAAAAAHpY/HqeXvwNWGAkN33IApWWUCzu_WVIWUByZwCLcBGAs/s320/Calles%2Bde%2Bfuego%252C%2Buna%2Bf%25C3%25A1bula%2Bde%2BRock%2B%2526%2BRoll.jpg" ,Calles de fuego (1984)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031219
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Batman_1 inicia 2005" tvg-logo="https://pelispanda.com/wp-content/uploads/2019/12/mYsoCOq82b08juHGxd3WnotiCAh.jpg" ,Batman_1 inicia 2005
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031220
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Greyhound enemigos bajo el mar (2020)" tvg-logo="https://pics.filmaffinity.com/Greyhound_Enemigos_bajo_el_mar-142654194-large.jpg" ,Greyhound enemigos bajo el mar (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031221
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Mortal (2020)" tvg-logo="https://pics.filmaffinity.com/Mortal-463237462-large.jpg" ,Mortal (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031222
-#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="La vieja guardia (2020)" tvg-logo="https://pics.filmaffinity.com/the_old_guard-768938280-large.jpg" ,La vieja guardia (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031223
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" ,Ni no Kuni (2019
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/no-dejes-de-mirar.jpg" ,No dejes de mirar (2017)
@@ -355,14 +329,6 @@ https://archive.org/download/desaparecido-en-combate-1984_202101/Salvar%20al%20s
 https://archive.org/download/desaparecido-en-combate-1984_202101/Speed%202%20%281997%29.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://i.imgur.com/uv9u9rz.jpg" ,The Game (1997)
 https://archive.org/download/desaparecido-en-combate-1984_202101/The%20Game%20%281997%29.mp4
-#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story 3" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Samurai%20X%2C%20la%20pel%C3%ADcula.jpg" ,Shaun,_el_cordero_La_película_Granjagedón_2019_1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Shaun_el_cordero_2015_Richard_Starzak.mp4
-#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story 3 (1995)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story%203.jpg" ,Toy Story 3 (2010) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%203%20%282010%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story (1995)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story.jpg" ,Toy Story (1995) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%20%281995%29%20720p.mp4
-#EXTINF: group-title="MR ROBOT ANIMACION" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)" tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg" ,Liga de la Justicia Oscura - Guerra Apokolips (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031121
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" ,Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" ,Amor de gata (2020)
@@ -537,8 +503,6 @@ https://archive.org/download/wendy-2020_202012/Magic%20Camp%20%282020%29.mp4
 https://archive.org/download/wendy-2020_202012/Superman%20-%20Hombre%20del%20Man%CC%83ana%20%282020%29%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM0M2YxMWQtOTY2MS00NTQyLWJjMGYtYjBiYzgxMDk0NWQ5XkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" ,Wish Upon a Unicorn (2020)
 https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-name="101 Dálmatas 2" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" ,101 perros manchados 2
-https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg" ,Animal Crackers (2017)
 https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg" ,Astro Boy (2009)
@@ -585,10 +549,6 @@ https://archive.org/download/animal-crackers-2017_202101/La%20famosa%20invasio%C
 https://archive.org/download/animal-crackers-2017_202101/La%20serpiente%20blanca%20%282019%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg" ,Latte y la piedra ma´gica (2019)
 https://archive.org/download/animal-crackers-2017_202101/Latte%20y%20la%20piedra%20ma%CC%81gica%20%282019%29.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-name="Guardianes de la galaxia 2" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia%202.jpg" ,Guardianes de la galaxia Vol. 2 - 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20Vol.%202%20-%20720p.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-name="Guardianes de la galaxia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia.jpg" ,Guardianes de la galaxia (2014) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20%282014%29%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" ,El espacio entre nosotros (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" ,Cosmoball (2020)
@@ -905,56 +865,6 @@ https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Los%20sen
 https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Tokyo%20Night%20%282010%29.mp4
 #EXTINF:0 group-title="MR ROBOT suspenso" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg" ,Agatha y la verdad del crimen (2018)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
-#EXTINF:-1 group-title="MR ROBOT TRILLER" tvg-name="The Current Occupant (2020)" tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg" ,Encuéntrame (2016) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Sobreviviendo en el desierto (2016)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sobreviviendo%20en%20el%20desierto.jpg" ,Sobreviviendo en el desierto (2016) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sobreviviendo%20en%20el%20desierto%20%282016%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 8 (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%208.jpg" ,Pesadilla en la calle del infierno 8 (2010) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%208%20%282010%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 7 (1994)" tvg-logo="https://img.repelis.id/cover/la-nueva-pesadilla-de-wes-craven.jpg" ,Pesadilla en la calle del infierno 7 (1994) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%207%20%281994%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 6 (1991)" tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_la_calle_del_infierno_6_La_muerte_de_Freddy-934501006-large.jpg" ,Pesadilla en la calle del infierno 6 (1991) 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%206%20%281991%29%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 5 (1989)" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F020%2F043%2Fpesadilla-en-elm-street-5-1.jpg&nuevoancho=620&medio=abc" ,Pesadilla en la calle del infierno 5 (1989) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%205%20%281989%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 4 (1988)" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/46/60/20531061.jpg" ,Pesadilla en la calle del infierno 4 (1988) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%204%20-%20El%20amo%20de%20los%20sue%C3%B1os.jpg
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 3 (1987)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%203%20-%20Los%20guerreros%20del%20sue%C3%B1o.jpg" ,Pesadilla en la calle del infierno 3 (1987) 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 2 (1985)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%202%20-%20La%20venganza%20de%20Freddy.jpg" ,Pesadilla en la calle del infierno 2 (1985) 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Freddy contra Jason" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno.jpg" ,Pesadilla en la calle del infierno (1984) 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Freddy contra Jason" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Freddy%20contra%20Jason.jpg" ,Freddy contra Jason (2003) 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Freddy%20contra%20Jason%20%282003%29%201080p.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg" ,Sinister 2 (2015) 720p.mp4
-https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%202%20%282015%29%20720p.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg" ,Sinister (2012) 720p.mp4
-https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%20%282012%29%20720p.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" ,The Current Occupant (2020)
-https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
-https://archive.org/download/wendy-2020_202012/Scream%20at%20the%20Devil%20%282015%29.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Lazos malditos (2020)" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" ,Lazos malditos (2020)
-https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Sputnik (2020)" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" ,The Sputnik (2020)
-https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" ,Nadie duerme en el bosque esta noche (2020)
-https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
-#EXTINF: group-title="MR ROBOT terror" tvg-name="Juegos salvajes (1998)" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/Juegos-salvajes-1998-Latino.jpg" ,Juegos salvajes (1998)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031043
-#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="The Owners (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-59-26.jpg" ,Super Dark Times (2017) 720p.mp4
-https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Super%20Dark%20Times%20%282017%29%20720p.mp4
-#EXTINF: group-title="MR ROBOT terror" tvg-name="The Owners (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" ,The Owners (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031044
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Baba Yaga El regreso del demonio (2020)" tvg-logo="https://entrepeliculasyseries.com/Archivos/2020/11/baba-yaga.jpg" ,Baba Yaga El regreso del demonio (2020)
-https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Casa ajena (2020)" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" ,Casa ajena (2020)
-https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
-#EXTINF: group-title="MR ROBOT terror" tvg-name="To´xico (2020)" tvg-logo="https://imagenes.subadictos.net/afiche/74547.jpg" ,To´xico (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031170
-#EXTINF: group-title="MR ROBOT terror" tvg-id="EPG N/A" tvg-name="En el vientre del diablo (2018)" tvg-logo="https://pics.filmaffinity.com/Malicious_En_el_vientre_del_diablo-601033605-large.jpg" ,En el vientre del diablo (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
 #EXTINF:-1 group-title="MR ROBOT terror" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Voces-119178429-large.jpg" ,Voces (2020)
 https://archive.org/download/wendy-2020_202012/Voces%20%282020%29.mp4
 #EXTINF:-0 group-title="MR ROBOT terror" tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2013/07/Cementerio-General-poster1.jpg" ,Cementerio General (2013)
@@ -1043,10 +953,6 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20It
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Eso%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT terror" tvg-logo="https://i0.wp.com/o2tvseriesz.com/wp-content/uploads/2020/04/The-Haunting-of-Alcatraz-2020-Full-Movie-Download.jpg?fit=400%2C600&ssl=1" ,The Haunting of Alcatraz (2020)
 https://archive.org/download/i-hate-summer-2020/The%20Haunting%20of%20Alcatraz%20%282020%29.mp4
-#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-name="Plan de vuelo" tvg-logo="https://3.bp.blogspot.com/-TSbAzwQD9lU/XMcrP36YrvI/AAAAAAAAK38/XTb6XSqVaj42ei3dw8KWMm-XVkAdrvVEQCKgBGAs/s1600/Plan%2Bde%2BVuelo%2B1080p%2BLatino.png" ,Plan de vuelo 1080p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Plan%20de%20vuelo%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-name="The Young Cannibals" tvg-logo="https://static.noimg.net/movie/cover/original/314174b77b61aaccf444fff4f85d79ca.jpg" ,The Young Cannibals
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20J%C3%B3venes%20can%C3%ADbales%20720p.mp4
 #EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" ,El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
 #EXTINF:-0 group-title="MR ROBOT Thriller" tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg" ,Death Note (2017) 720p
@@ -1113,7 +1019,101 @@ https://archive.org/download/i-hate-summer-2020/La%20sombra%20de%20los%20otros%2
 https://archive.org/download/i-hate-summer-2020/Soy%20tu%20mujer%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT Thriller" tvg-logo="https://pics.filmaffinity.com/Uno_de_nosotros-769765138-large.jpg" ,Uno de nosotros (2020)
 https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29.mp4
-#EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF:0 group-title="MR ROBOT AVENTURA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" ,Alejandro Magno 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-name="101 Dálmatas 2" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" ,101 Dálmatas 2
+https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Baba Yaga El regreso del demonio (2020)" tvg-logo="https://entrepeliculasyseries.com/Archivos/2020/11/baba-yaga.jpg" ,Baba Yaga El regreso del demonio (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT accion" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" ,Bad Boys for Life (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031213
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Batman_1 inicia 2005" tvg-logo="https://pelispanda.com/wp-content/uploads/2019/12/mYsoCOq82b08juHGxd3WnotiCAh.jpg" ,Batman_1 inicia 2005
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031220
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Bloodshot (2020)" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg" ,Bloodshot (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
+#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Calles de fuego (1984)" tvg-logo="https://4.bp.blogspot.com/-DzyrDkV_YCU/W6KIlTqap3I/AAAAAAAAHpY/HqeXvwNWGAkN33IApWWUCzu_WVIWUByZwCLcBGAs/s320/Calles%2Bde%2Bfuego%252C%2Buna%2Bf%25C3%25A1bula%2Bde%2BRock%2B%2526%2BRoll.jpg" ,Calles de fuego (1984)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031219
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Casa ajena (2020)" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" ,Casa ajena (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
+#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="El Santo (2017) 720p.mp4" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg" ,El Santo (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT terror" tvg-id="EPG N/A" tvg-name="En el vientre del diablo (2018)" tvg-logo="https://pics.filmaffinity.com/Malicious_En_el_vientre_del_diablo-601033605-large.jpg" ,En el vientre del diablo (2018)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Freddy contra Jason" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno.jpg" ,Pesadilla en la calle del infierno (1984) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Freddy contra Jason" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Freddy%20contra%20Jason.jpg" ,Freddy contra Jason (2003) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Freddy%20contra%20Jason%20%282003%29%201080p.mp4
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Fuego negro (2020)" tvg-logo="https://pics.filmaffinity.com/Fuego_negro-616588726-large.jpg" ,Fuego negro (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031216
+#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sin%20piedad.jpg" ,Sin piedad 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sin%20piedad%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Headshot.jpg" ,Headshot (2016) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Headshot%20%282016%29%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Furia de titanes (2010)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" ,Furia de titanes (2010) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Furia%20de%20titanes%20%282010%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Greyhound enemigos bajo el mar (2020)" tvg-logo="https://pics.filmaffinity.com/Greyhound_Enemigos_bajo_el_mar-142654194-large.jpg" ,Greyhound enemigos bajo el mar (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031221
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-name="Guardianes de la galaxia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia.jpg" ,Guardianes de la galaxia (2014) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20%282014%29%20720p.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-name="Guardianes de la galaxia 2" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia%202.jpg" ,Guardianes de la galaxia Vol. 2 - 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20Vol.%202%20-%20720p.mp4
+#EXTINF: group-title="MR ROBOT terror" tvg-name="Juegos salvajes (1998)" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/Juegos-salvajes-1998-Latino.jpg" ,Juegos salvajes (1998)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031043
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="La vieja guardia (2020)" tvg-logo="https://pics.filmaffinity.com/the_old_guard-768938280-large.jpg" ,La vieja guardia (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031223
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Lazos malditos (2020)" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" ,Lazos malditos (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
+#EXTINF: group-title="MR ROBOT ANIMACION" tvg-name="Liga de la Justicia Oscura - Guerra Apokolips (2020)" tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg" ,Liga de la Justicia Oscura - Guerra Apokolips (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031121
+#EXTINF: group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Mortal (2020)" tvg-logo="https://pics.filmaffinity.com/Mortal-463237462-large.jpg" ,Mortal (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031222
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" ,Nadie duerme en el bosque esta noche (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 2 (1985)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%202%20-%20La%20venganza%20de%20Freddy.jpg" ,Pesadilla en la calle del infierno 2 (1985) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 3 (1987)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%203%20-%20Los%20guerreros%20del%20sue%C3%B1o.jpg" ,Pesadilla en la calle del infierno 3 (1987) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 4 (1988)" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/97/46/60/20531061.jpg" ,Pesadilla en la calle del infierno 4 (1988) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%204%20-%20El%20amo%20de%20los%20sue%C3%B1os.jpg
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 5 (1989)" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F020%2F043%2Fpesadilla-en-elm-street-5-1.jpg&nuevoancho=620&medio=abc" ,Pesadilla en la calle del infierno 5 (1989) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%205%20%281989%29%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 6 (1991)" tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_la_calle_del_infierno_6_La_muerte_de_Freddy-934501006-large.jpg" ,Pesadilla en la calle del infierno 6 (1991) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%206%20%281991%29%201080p.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 7 (1994)" tvg-logo="https://img.repelis.id/cover/la-nueva-pesadilla-de-wes-craven.jpg" ,Pesadilla en la calle del infierno 7 (1994) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%207%20%281994%29%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Pesadilla en la calle del infierno 8 (2010)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%208.jpg" ,Pesadilla en la calle del infierno 8 (2010) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%208%20%282010%29%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-name="Plan de vuelo" tvg-logo="https://3.bp.blogspot.com/-TSbAzwQD9lU/XMcrP36YrvI/AAAAAAAAK38/XTb6XSqVaj42ei3dw8KWMm-XVkAdrvVEQCKgBGAs/s1600/Plan%2Bde%2BVuelo%2B1080p%2BLatino.png" ,Plan de vuelo 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Plan%20de%20vuelo%201080p.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="Scream at the Devil (2015)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" ,Scream at the Devil (2015)
+https://archive.org/download/wendy-2020_202012/Scream%20at%20the%20Devil%20%282015%29.mp4
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="Sobreviviendo en el desierto (2016)" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sobreviviendo%20en%20el%20desierto.jpg" ,Sobreviviendo en el desierto (2016) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sobreviviendo%20en%20el%20desierto%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="MR ROBOT TRILLER" tvg-name="The Current Occupant (2020)" tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg" ,Encuéntrame (2016) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg" ,Sinister 2 (2015) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%202%20%282015%29%20720p.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg" ,Sinister (2012) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%20%282012%29%20720p.mp4
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Current Occupant (2020)" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" ,The Current Occupant (2020)
+https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
+#EXTINF: group-title="MR ROBOT Western" tvg-name="The Dalton Gang (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" ,The Dalton Gang (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
+#EXTINF:-0 group-title="MR ROBOT terror" tvg-name="The Owners (2020)" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-59-26.jpg" ,Super Dark Times (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Super%20Dark%20Times%20%282017%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT terror" tvg-name="The Owners (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" ,The Owners (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031044
+#EXTINF:-1 group-title="MR ROBOT terror" tvg-name="The Sputnik (2020)" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" ,The Sputnik (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
+#EXTINF:-0 group-title="MR ROBOT Thriller" tvg-name="The Young Cannibals" tvg-logo="https://static.noimg.net/movie/cover/original/314174b77b61aaccf444fff4f85d79ca.jpg" ,The Young Cannibals
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20J%C3%B3venes%20can%C3%ADbales%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story (1995)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story.jpg" ,Toy Story (1995) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%20%281995%29%20720p.mp4
+#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story 3" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Samurai%20X%2C%20la%20pel%C3%ADcula.jpg" ,Shaun,_el_cordero_La_película_Granjagedón_2019_1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Shaun_el_cordero_2015_Richard_Starzak.mp4
+#EXTINF:-0 group-title="MR ROBOT ANIMACION" tvg-name="Toy Story 3 (1995)" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story%203.jpg" ,Toy Story 3 (2010) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%203%20%282010%29%20720p.mp4
+#EXTINF: group-title="MR ROBOT terror" tvg-name="To´xico (2020)" tvg-logo="https://imagenes.subadictos.net/afiche/74547.jpg" ,To´xico (2020)
+https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031170
+#EXTINF:-1 group-title="MR ROBOT accion" tvg-id="EPG N/A" tvg-name="Wheelman (2017) 720p.mp4" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" ,Wheelman (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
