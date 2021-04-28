@@ -107,7 +107,7 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216521
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216522
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://i.pinimg.com/736x/40/3a/59/403a593154bfc88f4ed7713d2c48359b.jpg" ,Resident Evil 2_ Apocalipsis (2004)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216523
-#EXTINF: group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/resident-evil-3-extincion.jpg" ,Resident Evil 3_ La extinción (1994)~1
+#EXTINF:-0 group-title="MR ROBOT accion" tvg-logo="https://img.repelis.id/cover/resident-evil-3-extincion.jpg" ,Resident Evil 3_ La extinción (1994)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216524
 #EXTINF: group-title="MR ROBOT accion" tvg-logo="https://i2.wp.com/www.verepeliculas.com/wp-content/uploads/2018/01/Resident-Evil-4-La-resurreccion-HD-1080p.jpg?fit=719%2C1024&ssl=1" ,Resident Evil 4_ La resurrección (2010)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216525
@@ -135,7 +135,7 @@ https://archive.org/download/train-to-busan-2-peninsula/Battleship%20%282012%29.
 https://archive.org/download/train-to-busan-2-peninsula/7c522f172e6e32af60429121a4f12f42-480p.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://4.bp.blogspot.com/_0DkrZEykZFk/TKnijAPcDJI/AAAAAAAADs0/VEoECO02jEk/s1600/cop_out_rock_out_glock_out_poster.jpg" ,COP OUT
 https://archive.org/download/train-to-busan-2-peninsula/COP%20OUT.mp4
-#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4MDQ5MTkxMV5BMl5BanBnXkFtZTcwMTU4MzUzMQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" ,CORRUPCION EN MIAMI.mp4
+#EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4MDQ5MTkxMV5BMl5BanBnXkFtZTcwMTU4MzUzMQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" ,CORRUPCION EN MIAMI
 https://archive.org/download/train-to-busan-2-peninsula/CORRUPCION%20EN%20MIAMI.mp4
 #EXTINF:0 group-title="MR ROBOT accion" tvg-logo="https://pics.filmaffinity.com/Cr_menes_de_familia-549018936-large.jpg" ,CRIMENES DEFAMILIA
 https://archive.org/download/train-to-busan-2-peninsula/CRIMENES%20DEFAMILIA.mp4
@@ -333,9 +333,9 @@ https://archive.org/download/desaparecido-en-combate-1984_202101/The%20Game%20%2
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" ,Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-8426381362.jpg" ,Barbie Aventura de Princesa (2020).mp4
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-8426381362.jpg" ,Barbie Aventura de Princesa (2020)
 https://archive.org/download/Amadrinadas/Barbie%20Aventura%20de%20Princesa%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9340823/ewfwefwef.jpg" ,Bob Esponja Un he´roe al rescate (2020)
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9340823/ewfwefwef.jpg" ,Bob Esponja Un heroe al rescate (2020)
 https://archive.org/download/Amadrinadas/Bob%20Esponja%20Un%20he%CC%81roe%20al%20rescate%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" ,Bobbleheads The Movie (2020)
 https://archive.org/download/Amadrinadas/Bobbleheads%20The%20Movie%20%282020%29.mp4
@@ -549,13 +549,13 @@ https://archive.org/download/animal-crackers-2017_202101/La%20famosa%20invasio%C
 https://archive.org/download/animal-crackers-2017_202101/La%20serpiente%20blanca%20%282019%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg" ,Latte y la piedra ma´gica (2019)
 https://archive.org/download/animal-crackers-2017_202101/Latte%20y%20la%20piedra%20ma%CC%81gica%20%282019%29.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" ,El espacio entre nosotros (2017) 720p.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" ,El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" ,Cosmoball (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/Cosmoball%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/Vengadores_Infinity_War-181539353-large.jpg" ,Vengadores Infinity War (2018)
 https://archive.org/download/wonder-woman-1984-2020_202012/Vengadores%20Infinity%20War%20%282018%29.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg" ,Amores caníbales (2016) 720p.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg" ,Amores caníbales (2016)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Amores%20can%C3%ADbales%20%282016%29%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://i.pinimg.com/originals/18/e6/1e/18e61e299d5b505fb947716f8a1e9ac3.png" ,Wonder Woman 1984 (2020)
 https://archive.org/download/wonder-woman-1984-2020_202012/Wonder%20Woman%201984%20%282020%29.mp4
@@ -599,25 +599,25 @@ https://archive.org/download/desaparecido-en-combate-1984_202101/Starship%20Troo
 https://archive.org/download/desaparecido-en-combate-1984_202101/TRON%20%281982%29.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://4.bp.blogspot.com/-ajiyet4pTlo/XGs6fiRp5AI/AAAAAAAA0nA/pq3S9gJ7ELEFhBASfhTBIzjNCGULyOoAwCLcBGAs/s1600/Terminator%2B2%2BEl%2Bjuicio%2Bfinal.jpg" ,Terminator 2 el juicio final (1991)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Terminator%202%20el%20juicio%20final%20%281991%29.MP4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/the_recall-294838770-large.jpg" ,Los Invasores (2017) 720p.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://pics.filmaffinity.com/the_recall-294838770-large.jpg" ,Los Invasores (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Los%20Invasores%20%282017%29%20720p.mp4
-#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Liga%20de%20la%20Justicia.jpg" ,Liga de la justicia 720p.mp4
+#EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Liga%20de%20la%20Justicia.jpg" ,Liga de la justicia
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Liga%20de%20la%20justicia%20720p.mp4
 #EXTINF:0 group-title="MR ROBOT Ciencia ficción" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Volcano_%281997_film%29.jpg" ,Volcano (1997)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Volcano%20%281997%29.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" ,Todos Queremos a Alguien Online (2017) 1080p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" ,Todos Queremos a Alguien Online (2017) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" ,Siete psicópatas y un perro 1080p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" ,Siete psicópatas y un perro 108
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Siete%20psic%C3%B3patas%20y%20un%20perro%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://magnetpelis.com/wp-content/uploads/2020/02/dirty_grandpa-234383407-large.jpg" ,Mi Abuelo es un Peligro (2016) 1080p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://magnetpelis.com/wp-content/uploads/2020/02/dirty_grandpa-234383407-large.jpg" ,Mi Abuelo es un Peligro (2016) 108
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Mi%20Abuelo%20es%20un%20Peligro%20%282016%29%201080p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg" ,La Luz de la Luna en Vermont [2017] 720p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg" ,La Luz de la Luna en Vermont [2017] 72
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20La%20Luz%20de%20la%20Luna%20en%20Vermont%20%5B2017%5D%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20El%20d%C3%ADa%20de%20la%20novia.jpg" ,El día de la novia (2017( 720p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20El%20d%C3%ADa%20de%20la%20novia.jpg" ,El día de la novia (2017
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20d%C3%ADa%20de%20la%20novia%20%282017%28%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://openpelis.net/imagenes/pelis/2019-08-25-5428700081.jpg" ,Desnudo (2017) 720p.mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://openpelis.net/imagenes/pelis/2019-08-25-5428700081.jpg" ,Desnudo (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Desnudo%20%282017%29%20720p.mp4
-#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg" ,All You Need Is Love (2009).mp4
+#EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg" ,All You Need Is Love (2009)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20All%20You%20Need%20Is%20Love%20%282009%29.mp4
 #EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdlMokXQdmzOQl01Vrf7MCe6BnsIwBlyhnelNpetKSozokGF8-" ,no te ,etas con zohan
 https://femax20.com/v/p2dedamxm-jjqnm
@@ -629,7 +629,7 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039898
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039899
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg" ,Corazo´n loco (2020)
 https://archive.org/download/wendy-2020_202012/Corazo%CC%81n%20loco%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_15-37-40.jpg" ,Juerga de mamis (2017) 1080p.mp4
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_15-37-40.jpg" ,Juerga de mamis (2017)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Juerga%20de%20mamis%20%282017%29%201080p.mp4
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg" ,Co´mo sobrevivir en un mundo material (Kajillionaire) (2020)
 https://archive.org/download/wendy-2020_202012/Co%CC%81mo%20sobrevivir%20en%20un%20mundo%20material%20%28Kajillionaire%29%20%282020%29.mp4
@@ -643,9 +643,9 @@ https://archive.org/download/wendy-2020_202012/El%20testamento%20de%20la%20abuel
 https://archive.org/download/wendy-2020_202012/Glass%20Houses%20%282020%29.mp4
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Harpoon (2019)
 https://archive.org/download/wendy-2020_202012/Harpoon%20%282019%29.mp4
-#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-0806610199.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La Casa de Hue´spedes (2020)
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-0806610199.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La Casa de Huespedes (2020)
 https://archive.org/download/wendy-2020_202012/La%20Casa%20de%20Hue%CC%81spedes%20%282020%29.mp4
-#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c3/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg/revision/latest/top-crop/width/360/height/450?cb=20201209180404&path-prefix=es" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La increi´ble historia de la Isla de las Rosas (2020)
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c3/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg/revision/latest/top-crop/width/360/height/450?cb=20201209180404&path-prefix=es" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La increible historia de la Isla de las Rosas (2020)
 https://archive.org/download/wendy-2020_202012/La%20increi%CC%81ble%20historia%20de%20la%20Isla%20de%20las%20Rosas%20%282020%29.mp4
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,La nochebuena es mi condena (2020)
 https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20condena%20%282020%29.mp4
@@ -653,7 +653,7 @@ https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20conde
 https://archive.org/download/wendy-2020_202012/Ludo%20%282020%29.mp4
 #EXTINF: group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Nochevieja_en_el_Magnolia-299160585-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Nochevieja en el Magnolia (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163044437
-#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Operacio´n Feliz Navidad (2020)
+#EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Operacion Feliz Navidad (2020)
 https://archive.org/download/wendy-2020_202012/Operacio%CC%81n%20Feliz%20Navidad%20%282020%29-1.mp4
 #EXTINF:-1 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg" tvg-logo-small="https://1.bp.blogspot.com/-kcHfbyJAOFc/X7ueoTzCGpI/AAAAAAAAIto/RnOBt3Xj2mM8PhqozuHf1FFmfhk9Ve4bwCLcBGAsYHQ/s320/POSTER%2B1.jpg" ,Os Espetaculares (2020)
 https://archive.org/download/wendy-2020_202012/Os%20Espetaculares%20%282020%29.mp4
@@ -665,7 +665,7 @@ https://archive.org/download/wendy-2020_202012/Sentadas%20en%20el%20umbral%20%28
 https://archive.org/download/wendy-2020_202012/Spontaneous%20%282020%29.mp4
 #EXTINF:-0 group-title="MR ROBOT comedia" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" ,Think Like a Dog (2020)
 https://archive.org/download/wendy-2020_202012/Think%20Like%20a%20Dog%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg" ,Fantasmas a Mogollo´n 2 Mi amiga fantasmago´rica (2014)
+#EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg" ,Fantasmas a Mogollon 2 Mi amiga fantasmago rica (2014)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fantasmas%20a%20Mogollo%CC%81n%202%20Mi%20amiga%20fantasmago%CC%81rica%20%282014%29.mp4
 #EXTINF:0 group-title="MR ROBOT comedia" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg" ,Una noche en el museo (2006)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
