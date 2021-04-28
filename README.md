@@ -537,7 +537,7 @@ https://archive.org/download/wendy-2020_202012/Magic%20Camp%20%282020%29.mp4
 https://archive.org/download/wendy-2020_202012/Superman%20-%20Hombre%20del%20Man%CC%83ana%20%282020%29%20%282020%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM0M2YxMWQtOTY2MS00NTQyLWJjMGYtYjBiYzgxMDk0NWQ5XkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" ,Wish Upon a Unicorn (2020)
 https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%282020%29.mp4
-#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-name="101 Dálmatas 2" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" ,101 Dálmatas 2
+#EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" ,101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
 #EXTINF:0 group-title="MR ROBOT ANIMACION" tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg" ,Animal Crackers (2017)
 https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
