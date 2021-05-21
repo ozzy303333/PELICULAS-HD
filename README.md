@@ -359,6 +359,16 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031223
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031222
 #EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" group-title="MR ROBOT accion", Wheelman (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg" group-title="MR ROBOT accion", Riesgo en el aire
+https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Comando%20-%20Commando%20%281985%29.jpg" group-title="MR ROBOT accion", Comando - Commando (1985)
+https://archive.org/download/2-comando-commando-1985/2Comando%20-%20Commando%20%281985%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg" group-title="MR ROBOT accion", Cross el ascenso de los villanos
+https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg" group-title="MR ROBOT accion", Depredador - Predator (1987)
+https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.jpg" group-title="MR ROBOT accion", Jinetes de la justicia
+https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="MR ROBOT ANIMACION", Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="MR ROBOT ANIMACION", Amor de gata (2020)
@@ -595,10 +605,14 @@ https://archive.org/download/yummy_202105/-%20Peter%20Rabbit%202.mp4
 https://archive.org/download/yummy_202105/Los%20Elfkins.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg" group-title="MR ROBOT ANIMACION", Los tres cerditos
 https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.jpg" group-title="MR ROBOT ANIMACION", Maggie Simpson en, El Despertar de la Siesta
+#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.jpg" group-title="MR ROBOT ANIMACION", El Despertar de la Siesta
 https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.jpg" group-title="MR ROBOT ANIMACION", Otra película de huevos y un pollo
 https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.jpg" group-title="MR ROBOT ANIMACION", Zapatos Rojos y los siete enanos
+https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.jpg" group-title="MR ROBOT ANIMACION", Navidades con Garfield
+https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.mp4
 #EXTINF: -1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" group-title="MR ROBOT Ciencia ficción", El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" group-title="MR ROBOT Ciencia ficción", Cosmoball (2020)
@@ -661,7 +675,7 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Gu
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20Vol.%202%20-%20720p.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="MR ROBOT Ciencia ficción", Mortal Kombat (2021)
 https://archive.org/download/cesser-16-acrimony-1080p/Ver%20Mortal%20Kombat%20%282021%29%20480%20%40JuAnChO1304.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/terminator-4-la-salvacion.jpg" group-title="MR ROBOT Ciencia ficción", Terminator 4, La salvación
+#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/terminator-4-la-salvacion.jpg" group-title="MR ROBOT Ciencia ficción", La salvación
 https://archive.org/download/yummy_202105/Terminator%204%2C%20La%20salvaci%C3%B3n.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Terminator_3_La_rebeli_n_de_las_m_quinas-788040850-large.jpg" group-title="MR ROBOT Ciencia ficción", terminator 3
 https://archive.org/download/yummy_202105/El%20exterminador%203.mp4
@@ -1109,6 +1123,8 @@ https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.mp4
 https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.jpg" group-title="MR ROBOT terror", Smiley Face Killers
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT terror", Wrong Place Wrong Time
+https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
 #EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" group-title="MR ROBOT Thriller", El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg" group-title="MR ROBOT Thriller", Death Note (2017) 720p
@@ -1201,3 +1217,5 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Al
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="MR ROBOT Western", The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
