@@ -1067,6 +1067,8 @@ https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Los%20sen
 https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Tokyo%20Night%20%282010%29.mp4
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg" group-title="MR ROBOT suspenso", Agatha y la verdad del crimen (2018)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.jpg" group-title="MR ROBOT suspenso", Doble de cuerpo
+https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.mp4
 #EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F022%2F701%2Ftemblores-2-la-respuesta-1.jpg&nuevoancho=150&medio=abc" group-title="MR ROBOT terror", Temblores 2 La respuesta (1996)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Temblores%202%20La%20respuesta%20%281996%29.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" group-title="MR ROBOT terror", Voces (2020)
@@ -1209,8 +1211,26 @@ https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT terror", Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT terror", Wrong Place Wrong Time
-https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg" group-title="MR ROBOT terror", Jovenes y brujas
+https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg" group-title="MR ROBOT terror", El exorcismo de Carmen Farías
+https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg" group-title="MR ROBOT terror", Escape to the Cove
+https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.jpg" group-title="MR ROBOT terror", Espiral El juego del miedo continua 2021
+https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.jpg" group-title="MR ROBOT terror", In The Earth
+https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Pipeline.jpg" group-title="MR ROBOT terror", Pipeline
+https://archive.org/download/2-comando-commando-1985/Pipeline.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/ReVisitant.jpg" group-title="MR ROBOT terror", ReVisitant
+https://archive.org/download/2-comando-commando-1985/ReVisitant.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Separation.jpg" group-title="MR ROBOT terror", Separation
+https://archive.org/download/2-comando-commando-1985/Separation.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Darkness.jpg" group-title="MR ROBOT terror", The Darkness
+https://archive.org/download/2-comando-commando-1985/The%20Darkness.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg" group-title="MR ROBOT terror", Vigilados
+https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
 #EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" group-title="MR ROBOT Thriller", El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg" group-title="MR ROBOT Thriller", Death Note (2017) 720p
@@ -1297,6 +1317,22 @@ https://archive.org/download/yummy_202105/Bodyguard.mp4
 https://archive.org/download/yummy_202105/Bodyguard.mp4
 #EXTINF: -1 tvg-name="https://archive.org/download/yummy_202105/El%20asesino%20de%20las%20postales.mp4" tvg-logo="https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.jpg" group-title="MR ROBOT Thriller", La mujer en la ventana
 https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg" group-title="MR ROBOT Thriller", El protector
+https://archive.org/download/2-comando-commando-1985/-%20El%20protector.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.jpg" group-title="MR ROBOT Thriller", 60 Segundos  Gone in 60 Seconds 2000 Latino
+https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Captive.jpg" group-title="MR ROBOT Thriller", Captive
+https://archive.org/download/2-comando-commando-1985/Captive.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.jpg" group-title="MR ROBOT Thriller", Death Saved My Life
+https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Ranch.jpg" group-title="MR ROBOT Thriller", Death Ranch
+https://archive.org/download/2-comando-commando-1985/Death%20Ranch.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.jpg" group-title="MR ROBOT Thriller", Despierta la furia
+https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.jpg" group-title="MR ROBOT Thriller", La mujer ilegal
+https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.jpg" group-title="MR ROBOT Thriller", The Prestige 2006
+https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" group-title="MR ROBOT AVENTURA", Alejandro Magno 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg" group-title="MR ROBOT TRILLER", Encuéntrame (2016) 720p.mp4
@@ -1305,5 +1341,5 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20En
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
-https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="MR ROBOT Western", Muerte en Tombstone 2
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
