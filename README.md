@@ -359,16 +359,22 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031223
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031222
 #EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" group-title="MR ROBOT accion", Wheelman (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg" group-title="MR ROBOT accion", Riesgo en el aire
-https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Comando%20-%20Commando%20%281985%29.jpg" group-title="MR ROBOT accion", Comando - Commando (1985)
 https://archive.org/download/2-comando-commando-1985/2Comando%20-%20Commando%20%281985%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg" group-title="MR ROBOT accion", Cross el ascenso de los villanos
 https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg" group-title="MR ROBOT accion", Depredador - Predator (1987)
-https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.jpg" group-title="MR ROBOT accion", Jinetes de la justicia
 https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg" group-title="MR ROBOT accion", Riesgo en el aire
+https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg" group-title="MR ROBOT accion", Cross el ascenso de los villanos
+https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg" group-title="MR ROBOT accion", Depredador - Predator (1987)
+https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="MR ROBOT accion", Muerte en Tombstone 2
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT accion", Wrong Place Wrong Time
+https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="MR ROBOT ANIMACION", Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="MR ROBOT ANIMACION", Amor de gata (2020)
@@ -613,6 +619,10 @@ https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y
 https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.jpg" group-title="MR ROBOT ANIMACION", Navidades con Garfield
 https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Super%20Bear.jpg" group-title="MR ROBOT ANIMACION", Super Bear
+https://archive.org/download/2-comando-commando-1985/Super%20Bear.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg" group-title="MR ROBOT ANIMACION", Una película de huevos
+https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
 #EXTINF: -1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" group-title="MR ROBOT Ciencia ficción", El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" group-title="MR ROBOT Ciencia ficción", Cosmoball (2020)
@@ -691,6 +701,24 @@ https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alo
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ox%C3%ADgeno.jpg" group-title="MR ROBOT Ciencia ficción", Oxígeno
 https://archive.org/download/yummy_202105/Ox%C3%ADgeno.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.jpg" group-title="MR ROBOT Ciencia ficción", Avengers Endgame
+https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg" group-title="MR ROBOT Ciencia ficción", Cherry 2000
+https://archive.org/download/2-comando-commando-1985/Cherry%202000.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.jpg" group-title="MR ROBOT Ciencia ficción", Critters 1986
+https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral.jpg" group-title="MR ROBOT Ciencia ficción", Espiral
+https://archive.org/download/2-comando-commando-1985/Espiral.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Expiry.jpg" group-title="MR ROBOT Ciencia ficción", Expiry
+https://archive.org/download/2-comando-commando-1985/Expiry.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.jpg" group-title="MR ROBOT Ciencia ficción", Jumanji 1995
+https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg" group-title="MR ROBOT Ciencia ficción", Star wars Episodio I La amenaza fantasma
+https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg" group-title="MR ROBOT Ciencia ficción", Time Trap
+https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg" group-title="MR ROBOT Ciencia ficción", Ultra Galaxy
+https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" group-title="MR ROBOT comedia", Todos Queremos a Alguien Online (2017) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" group-title="MR ROBOT comedia", Siete psicópatas y un perro 108
@@ -815,6 +843,24 @@ https://archive.org/download/yummy_202105/Mr.%20Bean%202.mp4
 https://archive.org/download/yummy_202105/Stay%20Hungry.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg" group-title="MR ROBOT comedia", Los fantasmas de mis exnovias
 https://archive.org/download/yummy_202105/Los%20fantasmas%20de%20mis%20exnovias.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg" group-title="MR ROBOT comedia", Después la Loca soy Yo
+https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg" group-title="MR ROBOT comedia", Como perder a un hombre en 10 días 2003
+https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.jpg" group-title="MR ROBOT comedia", Despues de ti 2021
+https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg" group-title="MR ROBOT comedia", Dos sinverguenzas
+https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg" group-title="MR ROBOT comedia", Funny People 2009
+https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg" group-title="MR ROBOT comedia", Funny People 2009
+https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.jpg" group-title="MR ROBOT comedia", Jojo Rabbit
+https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.jpg" group-title="MR ROBOT comedia", Tonto y Retonto
+https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg" group-title="MR ROBOT comedia", Un papá genial
+https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg" group-title="MR ROBOT DRAMA", Powder 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Powder%20720p.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20La%20inspiradora%20historia%20de%20Vinny%20Pazienza.jpg" group-title="MR ROBOT DRAMA", La_inspiradora_historia_de_Vinny_Pazienza_2016_720p.mp4
@@ -957,6 +1003,44 @@ https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.mp4
 https://archive.org/download/yummy_202105/Ferry%20%282021%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Mainstream.jpg" group-title="MR ROBOT DRAMA", Mainstream
 https://archive.org/download/yummy_202105/Mainstream.jpg
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg" group-title="MR ROBOT DRAMA", Alucinaciones del pasado
+https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg" group-title="MR ROBOT DRAMA", El padre
+https://archive.org/download/2-comando-commando-1985/-%20El%20padre.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.jpg" group-title="MR ROBOT DRAMA", Chernobyl Abyss
+https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.jpg" group-title="MR ROBOT DRAMA", El maquinista  The Machinist
+https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg" group-title="MR ROBOT DRAMA", Erna i krig
+https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Estanislao-219509656-large.jpg" group-title="MR ROBOT DRAMA", Estanislao
+https://archive.org/download/2-comando-commando-1985/Estanislao.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Si_hubiera_espinas_TV-370227173-mmed.jpg" group-title="MR ROBOT DRAMA", Flores en el atico 2 Petalos al viento TV 2014
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%202%20P%C3%A9talos%20al%20viento%20%28TV%29%20%282014%29.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Flores_en_el_tico_2_P_talos_al_viento_TV-780070215-large.jpg" group-title="MR ROBOT DRAMA", Flores en el atico  Petalos al viento TV 2014
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%20%28TV%29%20%282014%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%203%20Si%20hubiera%20espinas%20TV%202015.jpg" group-title="MR ROBOT DRAMA", Flores en el atico 3 Si hubiera espinas TV 2015
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%203%20Si%20hubiera%20espinas%20TV%202015.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.jpg" group-title="MR ROBOT DRAMA", Flores en el atico 4 Semillas del ayer TV 2015
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/French%20Exit.jpg" group-title="MR ROBOT DRAMA", French Exit
+https://archive.org/download/2-comando-commando-1985/French%20Exit.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.jpg" group-title="MR ROBOT DRAMA", Historia americana X
+https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.jpg" group-title="MR ROBOT DRAMA", Hooligans  Green street hooligans 2005
+https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.jpg" group-title="MR ROBOT DRAMA", Jacqueline Sauvage víctima o culpable
+https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.jpg" group-title="MR ROBOT DRAMA", La teniente O Neil  1997
+https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ricochet.jpg" group-title="MR ROBOT DRAMA", Ricochet
+https://archive.org/download/2-comando-commando-1985/Ricochet.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg" group-title="MR ROBOT DRAMA", Sitting in Limbo
+https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg" group-title="MR ROBOT DRAMA", The Maid
+https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg" group-title="MR ROBOT DRAMA", Una vida sin amor
+https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
 #EXTINF: -1 group-title="MR ROBOT OTROS", NOSE 1
 3316c37e0c1225379cce86cfaa6f77bb-480p.mp4
 #EXTINF: -1 group-title="MR ROBOT OTROS", NOSE 2
@@ -1125,6 +1209,8 @@ https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT terror", Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT terror", Wrong Place Wrong Time
+https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
 #EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" group-title="MR ROBOT Thriller", El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg" group-title="MR ROBOT Thriller", Death Note (2017) 720p
@@ -1217,5 +1303,7 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Al
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="MR ROBOT Western", The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
+#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
