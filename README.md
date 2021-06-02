@@ -375,6 +375,28 @@ https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="MR ROBOT accion", Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20m%C3%A1s%20valiente.jpg" group-title="MR ROBOT accion", El más valiente
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20m%C3%A1s%20valiente.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.jpg" group-title="MR ROBOT accion", Ape vs Monster
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%203%2C%20Salvaci%C3%B3n.jpg" group-title="MR ROBOT accion", El cuervo 3 Salvación
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.jpg" group-title="MR ROBOT accion", El cuervo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20ej%C3%A9rcito%20de%20los%20muertos%20%282021%29.jpg" group-title="MR ROBOT accion", El ejército de los muertos 2021
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20Ej%C3%A9rcito%20De%20los%20Muertos%202021%20%40Girohens.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.jpg" group-title="MR ROBOT accion", La batalla de Leningrado
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.jpg" group-title="MR ROBOT accion", Pearl Harbor
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Top%20Gun.jpg" group-title="MR ROBOT accion", Top Gun
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Top%20Gun.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violento%20y%20furioso.jpg" group-title="MR ROBOT accion", Violento y furioso
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violento%20y%20furioso.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/War%20Path.jpg" group-title="MR ROBOT accion", War Path
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/War%20Path.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.jpg" group-title="MR ROBOT accion", Wolf Warrior 2
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="MR ROBOT ANIMACION", Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="MR ROBOT ANIMACION", Amor de gata (2020)
@@ -627,6 +649,26 @@ https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20
 https://archive.org/download/2-comando-commando-1985/Super%20Bear.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg" group-title="MR ROBOT ANIMACION", Una película de huevos
 https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.jpg" group-title="MR ROBOT ANIMACION", Surcadores del cielo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.jpg" group-title="MR ROBOT ANIMACION", Barbie Una aventura de sirenas
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Demon%20Slayer%20Mugen%20Train%20la%20pel%C3%ADcula%202020.jpg" group-title="MR ROBOT ANIMACION", Demon Slayer Mugen Train la película 2020
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Demon%20Slayer%20Mugen%20Train%20la%20pel%C3%ADcula%202020.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20autob%C3%BAs%20m%C3%A1gico%20vuelve%20a%20despegar%20Clase%20espacial.jpg" group-title="MR ROBOT ANIMACION", El autobús mágico vuelve a despegar Clase espacial
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20autob%C3%BAs%20m%C3%A1gico%20vuelve%20a%20despegar%20Clase%20espacial.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuento%20de%20la%20princesa%20Kaguya.jpg" group-title="MR ROBOT ANIMACION", El cuento de la princesa Kaguya
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Kikoriki%2C%20Deja%20Vu.jpg" group-title="MR ROBOT ANIMACION", Kikoriki Deja Vu
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Kikoriki%2C%20Deja%20Vu.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20leyenda%20de%20Hei.jpg" group-title="MR ROBOT ANIMACION", La leyenda de Hei
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20leyenda%20de%20Hei.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Lu%20Over%20the%20Wall.jpg" group-title="MR ROBOT ANIMACION", Lu Over the Wall
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Lu%20Over%20the%20Wall.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.jpg" group-title="MR ROBOT ANIMACION", Space Jam
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.jpg" group-title="MR ROBOT ANIMACION", Violet Evergarden the Movie
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.mp4
 #EXTINF: -1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" group-title="MR ROBOT Ciencia ficción", El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" group-title="MR ROBOT Ciencia ficción", Cosmoball (2020)
@@ -718,7 +760,7 @@ https://archive.org/download/2-comando-commando-1985/Expiry.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.jpg" group-title="MR ROBOT Ciencia ficción", Jumanji 1995
 https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg" group-title="MR ROBOT Ciencia ficción", Star wars Episodio I La amenaza fantasma
-https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg" group-title="MR ROBOT Ciencia ficción", Time Trap
 https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg" group-title="MR ROBOT Ciencia ficción", Ultra Galaxy
@@ -741,6 +783,16 @@ https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%
 https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg" group-title="MR ROBOT Ciencia ficción", Ultra Galaxy
 https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20%C3%BAltima%20vida%20de%20Sim%C3%B3n.jpg" group-title="MR ROBOT Ciencia ficción", La última vida de Simón
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20%C3%BAltima%20vida%20de%20Sim%C3%B3n.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cosmoball%20%282020%29.jpg" group-title="MR ROBOT Ciencia ficción", Cosmoball 2020
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cosmoball%20%282020%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vidas%20posibles%20de%20Mr.%20Nobody.jpg" group-title="MR ROBOT Ciencia ficción", Las vidas posibles de Mr Nobody
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vidas%20posibles%20de%20Mr.%20Nobody.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.jpg" group-title="MR ROBOT Ciencia ficción", Viaje al fondo del mar
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.jpg" group-title="MR ROBOT Ciencia ficción", Parásitos
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" group-title="MR ROBOT comedia", Todos Queremos a Alguien Online (2017) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" group-title="MR ROBOT comedia", Siete psicópatas y un perro 108
@@ -899,6 +951,50 @@ https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.mp4
 https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg" group-title="MR ROBOT comedia", Un papá genial
 https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20tontos%20en%20fuga.jpg" group-title="MR ROBOT comedia", Dos tontos en fuga
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20tontos%20en%20fuga.avi
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Clonando%20a%20Adam.jpg" group-title="MR ROBOT comedia", Clonando a Adam
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Clonando%20a%20Adam.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.jpg" group-title="MR ROBOT comedia", Ni idea
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.jpg" group-title="MR ROBOT comedia", Ace Ventura, cuando la naturaleza llama
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.jpg" group-title="MR ROBOT comedia", Amigos con beneficios
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bad%20Witch.jpg" group-title="MR ROBOT comedia", Bad Witch
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bad%20Witch.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.jpg" group-title="MR ROBOT comedia", Bola de fuego
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cambio%20de%20h%C3%A1bito.jpg" group-title="MR ROBOT comedia", Cambio de hábito
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cambio%20de%20h%C3%A1bito.mp4https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/C%C3%B3mo%20casarse%20con%20un%20millonario.jpg" group-title="MR ROBOT comedia", Cómo casarse con un millonario
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/C%C3%B3mo%20casarse%20con%20un%20millonario.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Dos%20tontos%20todav%C3%ADa%20m%C3%A1s%20tontos.jpg" group-title="MR ROBOT comedia", Dos tontos todavía más tontos
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Dos%20tontos%20todav%C3%ADa%20m%C3%A1s%20tontos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.jpg" group-title="MR ROBOT comedia", El nieto de Sardar
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20pr%C3%ADncipe%20y%20la%20corista.jpg" group-title="MR ROBOT comedia", El príncipe y la corista
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro%202.jpg" group-title="MR ROBOT comedia", Esta abuela es un peligro 2
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro%202.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro.jpg" group-title="MR ROBOT comedia", Esta abuela es un peligro
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20mujer%20de%20mis%20pesadillas.jpg" group-title="MR ROBOT comedia", La mujer de mis pesadillas
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20mujer%20de%20mis%20pesadillas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20terminal.jpg" group-title="MR ROBOT comedia", La terminal
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20terminal.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/No%20estamos%20casados.jpg" group-title="MR ROBOT comedia", No estamos casado
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/No%20estamos%20casados.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruby%2C%20la%20chica%20de%20mis%20sue%C3%B1os.jpg" group-title="MR ROBOT comedia", Ruby la chica de mis sueños
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruby%2C%20la%20chica%20de%20mis%20sue%C3%B1os.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Son%20como%20ni%C3%B1os.jpg" group-title="MR ROBOT comedia", Son como niños
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Son%20como%20ni%C3%B1os.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.jpg" group-title="MR ROBOT comedia", Una Eva y dos Adanes
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Unpregnant.jpg" group-title="MR ROBOT comedia", Unpregnant
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Unpregnant.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.jpg" group-title="MR ROBOT comedia", Y dónde está la nonna
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg" group-title="MR ROBOT DRAMA", Powder 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Powder%20720p.mp4
 #EXTINF: -1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWX96FC5/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="MR ROBOT DRAMA", La inspiradora historia de Vinny Pazienza
@@ -1117,6 +1213,76 @@ https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
 https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg" group-title="MR ROBOT DRAMA", Una vida sin amor
 https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.jpg" group-title="MR ROBOT DRAMA", Dos caminos a casa
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.jpg" group-title="MR ROBOT DRAMA", Érase Una Vez en Queens
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Infierno%20de%20Hielo.jpg" group-title="MR ROBOT DRAMA", Infierno de Hielo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Infierno%20de%20Hielo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.jpg" group-title="MR ROBOT DRAMA", La batalla de Leningrado
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Super%20Me.jpg" group-title="MR ROBOT DRAMA", Super Me
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Super%20Me.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Un%20zool%C3%B3gico%20en%20casa.jpg" group-title="MR ROBOT DRAMA", Un zoológico en casa
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Un%20zool%C3%B3gico%20en%20casa.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20en%20las%20alturas.jpg" group-title="MR ROBOT DRAMA", Amor en las alturas
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20en%20las%20alturas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20sin%20ciudad.jpg" group-title="MR ROBOT DRAMA", Amor sin ciudad
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20sin%20ciudad.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Apolo%2013.jpg" group-title="MR ROBOT DRAMA", Apolo 13
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Apolo%2013.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Burden.jpg" group-title="MR ROBOT DRAMA", Burden
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Burden.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cabros%20de%20mierda.jpg" group-title="MR ROBOT DRAMA", Cabros de mierda
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cabros%20de%20mierda.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Despierta%20la%20Furia%202021.jpg" group-title="MR ROBOT DRAMA", Despierta la Furia 2021
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Despierta%20la%20Furia%202021.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%A1ngel%20culpable.jpg" group-title="MR ROBOT DRAMA", El ángel culpable
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%A1ngel%20culpable.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20baile%20de%20los%2041.jpg" group-title="MR ROBOT DRAMA", El baile de los 41
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20baile%20de%20los%2041.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%BAltimo%20beso.jpg" group-title="MR ROBOT DRAMA", El último beso
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%BAltimo%20beso.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.jpg" group-title="MR ROBOT DRAMA", En busca de la felicidad
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Enemigo%20al%20acecho.jpg" group-title="MR ROBOT DRAMA", Enemigo al acecho
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Enemigo%20al%20acecho.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Eva%20al%20desnudo.jpg" group-title="MR ROBOT DRAMA", Eva al desnudo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Greed.jpg" group-title="MR ROBOT DRAMA", Greed
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Greed.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/I%20Am%20Woman.jpg" group-title="MR ROBOT DRAMA", I Am Woman
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/I%20Am%20Woman.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Infierno%20de%20hielo.jpg" group-title="MR ROBOT DRAMA", Infierno de hielo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Infierno%20de%20hielo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20gran%20apuesta.jpg" group-title="MR ROBOT DRAMA", La gran apuesta
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20gran%20apuesta.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Los%20idus%20de%20marzo.jpg" group-title="MR ROBOT DRAMA", Los idus de marzo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Los%20idus%20de%20marzo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Orqu%C3%ADdea%20salvaje.jpg" group-title="MR ROBOT DRAMA", Orquídea salvaje
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Orqu%C3%ADdea%20salvaje.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Parada%20de%20autob%C3%BAs.jpg" group-title="MR ROBOT DRAMA", Parada de autobús
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Parada%20de%20autob%C3%BAs.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Psic%C3%B3pata%20americano.jpg" group-title="MR ROBOT DRAMA", Psicópata americano
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Psic%C3%B3pata%20americano.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.jpg" group-title="MR ROBOT DRAMA", Quién te cantará
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Romance%20X.jpg" group-title="MR ROBOT DRAMA", Romance X
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Romance%20X.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.jpg" group-title="MR ROBOT DRAMA", Sólo un sueño
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Territorio.jpg" group-title="MR ROBOT DRAMA", Territorio
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Territorio.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/TRUMBO%20LA%20LISTA%20NEGRA%20DE%20HOLLYWOOD%202015.jpg" group-title="MR ROBOT DRAMA", TRUMBO LA LISTA NEGRA DE HOLLYWOOD 2015
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/TRUMBO%20LA%20LISTA%20NEGRA%20DE%20HOLLYWOOD%202015.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20hombre%20de%20familia.jpg" group-title="MR ROBOT DRAMA", Un hombre de familia
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20hombre%20de%20familia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20mundo%20implacable.jpg" group-title="MR ROBOT DRAMA", Un mundo implacable
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20mundo%20implacable.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Vidas%20rebeldes.jpg" group-title="MR ROBOT DRAMA", Vidas rebeldes
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Vidas%20rebeldes.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.jpg" group-title="MR ROBOT DRAMA", Waiting for Anya
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.mp4
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w300/bsPIybp4inkbw8T9BmYuc6ZGjo0.jpg" group-title="MR ROBOT suspenso", Deadly Excursion (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Deadly%20Excursion%20%282019%29.mp4
 #EXTINF: -1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6229_imagen__.jpg" group-title="MR ROBOT suspenso", Perseguida (2020)
@@ -1319,6 +1485,16 @@ https://archive.org/download/2-comando-commando-1985/Separation.mp4
 https://archive.org/download/2-comando-commando-1985/The%20Darkness.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg" group-title="MR ROBOT terror", Vigilados
 https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tibur%C3%B3n%20Blanco.jpg" group-title="MR ROBOT terror", Tiburón Blanco
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tibur%C3%B3n%20Blanco.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.jpg" group-title="MR ROBOT terror", El cuervo 2 ciudad de ángeles
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Entrevista%20con%20el%20vampiro.jpg" group-title="MR ROBOT terror", Entrevista con el vampiro
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Entrevista%20con%20el%20vampiro.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.jpg" group-title="MR ROBOT terror", Ruega por nosotros
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Djinn.jpg" group-title="MR ROBOT terror", The Djinn
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Djinn.mp4
 #EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" group-title="MR ROBOT Thriller", El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg" group-title="MR ROBOT Thriller", Death Note (2017) 720p
@@ -1437,6 +1613,38 @@ https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.mp4
 https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.jpg" group-title="MR ROBOT Thriller", The Prestige 2006
 https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20gran%20truco.jpg" group-title="MR ROBOT Thriller", El gran truco
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20gran%20truco.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20umbral.jpg" group-title="MR ROBOT Thriller", El umbral
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20umbral.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tentaciones%20oscuras.jpg" group-title="MR ROBOT Thriller", Tentaciones oscuras
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tentaciones%20oscuras.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.jpg" group-title="MR ROBOT Thriller", 200 Degrees
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20silencio%20de%20los%20inocentes.jpg" group-title="MR ROBOT Thriller", El silencio de los inocentes
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20silencio%20de%20los%20inocentes.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.jpg" group-title="MR ROBOT Thriller", El sotano de Ma
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.jpg" group-title="MR ROBOT Thriller", El truco final
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20v%C3%ADnculo.jpg" group-title="MR ROBOT Thriller", El vínculo
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20v%C3%ADnculo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Herencia%20maldita.jpg" group-title="MR ROBOT Thriller", Herencia maldita
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Herencia%20maldita.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20jungla%20de%20asfalto.jpg" group-title="MR ROBOT Thriller", La jungla de asfalto
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20jungla%20de%20asfalto.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ni%C3%A1gara.jpg" group-title="MR ROBOT Thriller", Niagara
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ni%C3%A1gara.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.jpg" group-title="MR ROBOT Thriller", Proud Mary
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.jpg" group-title="MR ROBOT Thriller", The Wrong Cheerleader Coach
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Undergods.jpg" group-title="MR ROBOT Thriller", Undergods
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Undergods.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20ma%C3%B1ana%20el%20mundo%20entero.jpg" group-title="MR ROBOT Thriller", Y mañana el mundo entero
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20ma%C3%B1ana%20el%20mundo%20entero.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.jpg" group-title="MR ROBOT Thriller", Zodiaco
+https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" group-title="MR ROBOT AVENTURA", Alejandro Magno 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="MR ROBOT Western", The Dalton Gang (2020)
