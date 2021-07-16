@@ -397,6 +397,10 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violento%2
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/War%20Path.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.jpg" group-title="MR ROBOT accion", Wolf Warrior 2
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.jpg" group-title="MR ROBOT accion", Viuda negra
+https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.jpg" group-title="MR ROBOT accion", Cómo me convertí en superhéroe
+https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="MR ROBOT ANIMACION", Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="MR ROBOT ANIMACION", Amor de gata (2020)
@@ -669,6 +673,24 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Lu%20Over%
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.jpg" group-title="MR ROBOT ANIMACION", Violet Evergarden the Movie
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="MR ROBOT ANIMACION", Ainbo La guerrera del Amazonas 2021
+https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg" group-title="MR ROBOT ANIMACION", Atlantis 2, el regreso de Milo
+https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg" group-title="MR ROBOT ANIMACION", Atlantis, El imperio perdido
+https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.jpg" group-title="MR ROBOT ANIMACION", El arco mágico
+https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Emoji.jpg" group-title="MR ROBOT ANIMACION", Emoji
+https://archive.org/download/como-me-converti-en-superheroe/Emoji.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Kitbull.jpg" group-title="MR ROBOT ANIMACION", Kitbull
+https://archive.org/download/como-me-converti-en-superheroe/Kitbull.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg" group-title="MR ROBOT ANIMACION", Los Simpson El bueno, el Bart y el Loki
+https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.jpg" group-title="MR ROBOT ANIMACION", Miraculous World Shanghai  The Legend of Ladydragon
+https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.jpg" group-title="MR ROBOT ANIMACION", Un lugar tranquilo 2
+https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.mp4
 #EXTINF: -1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" group-title="MR ROBOT Ciencia ficción", El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" group-title="MR ROBOT Ciencia ficción", Cosmoball (2020)
@@ -793,6 +815,24 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vida
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.jpg" group-title="MR ROBOT Ciencia ficción", Parásitos
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg" group-title="MR ROBOT Ciencia ficción", 2001, Una odisea del espacio
+https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.jpg" group-title="MR ROBOT Ciencia ficción", Beyond Skyline
+https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.mp4
+#EXTINF: -1 tvg-logo="https://ia601508.us.archive.org/34/items/como-me-converti-en-superheroe/Divergente%202.jpg" group-title="MR ROBOT Ciencia ficción", Divergente 2
+https://archive.org/download/como-me-converti-en-superheroe/Divergente%202.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.jpg" group-title="MR ROBOT Ciencia ficción", Divergente 3
+https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente.jpg" group-title="MR ROBOT Ciencia ficción", Divergente
+https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.jpg" group-title="MR ROBOT Ciencia ficción", Inteligencia Artificial
+https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20all%C3%A1%20del%20horizonte.jpg" group-title="MR ROBOT Ciencia ficción", Más allá del horizonte
+https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20all%C3%A1%20del%20horizonte.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.jpg" group-title="MR ROBOT Ciencia ficción", Policía en el tiempo
+https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Settlers.jpg" group-title="MR ROBOT Ciencia ficción", Settlers
+https://archive.org/download/como-me-converti-en-superheroe/Settlers.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" group-title="MR ROBOT comedia", Todos Queremos a Alguien Online (2017) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" group-title="MR ROBOT comedia", Siete psicópatas y un perro 108
@@ -957,7 +997,7 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Clonando%20a%20Adam.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.jpg" group-title="MR ROBOT comedia", Ni idea
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.jpg" group-title="MR ROBOT comedia", Ace Ventura, cuando la naturaleza llama
+#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.jpg" group-title="MR ROBOT comedia", cuando la naturaleza llama
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.jpg" group-title="MR ROBOT comedia", Amigos con beneficios
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.mp4
@@ -995,6 +1035,30 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Unpregnant.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.jpg" group-title="MR ROBOT comedia", Y dónde está la nonna
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.jpg" group-title="MR ROBOT comedia", Soltera 39
+https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.jpg" group-title="MR ROBOT comedia", Al diablo con el diablo
+https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.jpg" group-title="MR ROBOT comedia", Bia Un mundo al revés
+https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.jpg" group-title="MR ROBOT comedia", Jack y las habichuelas mágicas
+https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg" group-title="MR ROBOT comedia", La magia de la isla
+https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.jpg" group-title="MR ROBOT comedia", Locas por el cambio
+https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.jpg" group-title="MR ROBOT comedia", Los trapos sucios se lavan en casa
+https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.jpg" group-title="MR ROBOT comedia", Pelotas en juego
+https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.jpg" group-title="MR ROBOT comedia", Simplemente Manu NNa
+https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.jpg" group-title="MR ROBOT comedia", Tenacious D la llave del destino
+https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg" group-title="MR ROBOT comedia", Un Enemigo Americano
+https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.jpg" group-title="MR ROBOT comedia", Viaje de chicas
+https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg" group-title="MR ROBOT DRAMA", Powder 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Powder%20720p.mp4
 #EXTINF: -1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWX96FC5/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="MR ROBOT DRAMA", La inspiradora historia de Vinny Pazienza
@@ -1283,6 +1347,38 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20mundo
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Vidas%20rebeldes.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.jpg" group-title="MR ROBOT DRAMA", Waiting for Anya
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.jpg" group-title="MR ROBOT DRAMA", La última primavera
+https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.jpg" group-title="MR ROBOT DRAMA", Al ritmo del corazón
+https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.jpg" group-title="MR ROBOT DRAMA", Aquel verano
+https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.jpg" group-title="MR ROBOT DRAMA", Corriendo contra el viento
+https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Cowboys.jpg" group-title="MR ROBOT DRAMA", Cowboys
+https://archive.org/download/como-me-converti-en-superheroe/Cowboys.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.jpg" group-title="MR ROBOT DRAMA", El castillo de cristal
+https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.jpg" group-title="MR ROBOT DRAMA", El club de los poetas muertos
+https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.jpg" group-title="MR ROBOT DRAMA", El mundo que viene
+https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.jpg" group-title="MR ROBOT DRAMA", El precio de la inocencia
+https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.jpg" group-title="MR ROBOT DRAMA", Eterno resplandor de una mente sin recuerdos
+https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.jpg" group-title="MR ROBOT DRAMA", La distancia
+https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.jpg" group-title="MR ROBOT DRAMA", Más mentes peligrosas
+https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.jpg" group-title="MR ROBOT DRAMA", Nido de víboras
+https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.jpg" group-title="MR ROBOT DRAMA", Saló o los 120 días de Sodoma
+https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg" group-title="MR ROBOT DRAMA", Un Milagro Inesperado
+https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.jpg" group-title="MR ROBOT DRAMA", The Doors
+https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.mp4
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w300/bsPIybp4inkbw8T9BmYuc6ZGjo0.jpg" group-title="MR ROBOT suspenso", Deadly Excursion (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Deadly%20Excursion%20%282019%29.mp4
 #EXTINF: -1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6229_imagen__.jpg" group-title="MR ROBOT suspenso", Perseguida (2020)
@@ -1645,8 +1741,20 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Undergods.
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20ma%C3%B1ana%20el%20mundo%20entero.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.jpg" group-title="MR ROBOT Thriller", Zodiaco
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.jpg" group-title="MR ROBOT Thriller", Bajos instintos
+https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.jpg" group-title="MR ROBOT Thriller", Codigo enigma
+https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.jpg" group-title="MR ROBOT Thriller", La Purga Infinita
+https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.jpg" group-title="MR ROBOT Thriller", Out of Death
+https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" group-title="MR ROBOT AVENTURA", Alejandro Magno 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.jpg" group-title="MR ROBOT AVENTURA", El hombre agua
+https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.jpg" group-title="MR ROBOT AVENTURA", Rescate en el barrio Chino
+https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="MR ROBOT Western", The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
@@ -1657,3 +1765,5 @@ https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="MR ROBOT Western", Muerte en Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg" group-title="ROMANCE", La magia de la isla
+https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
