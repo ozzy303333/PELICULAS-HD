@@ -2,87 +2,87 @@
 #EXTINF:-1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIME",Ao Oni The Animation 2017
 
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="ANIME",Cencoroll Connect (2019)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="VOD ANIME",Cencoroll Connect (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://media.redadn.es/series/p/detective-conan-22-el-caso-zero_3609.jpg" group-title="ANIME",Detective Conan 22 El caso Zero (2018)
+#EXTINF:-1 tvg-logo="https://media.redadn.es/series/p/detective-conan-22-el-caso-zero_3609.jpg" group-title="VOD ANIME",Detective Conan 22 El caso Zero (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Detective%20Conan%2022%20El%20caso%20Zero%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3O71Sjyh6mz5HRAhF26NWyG30Q9Hgu7TgZ0GryI41SyNo9U0Y" group-title="VOD ANIME",Dragon Ball Super Broly (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Super%20Broly%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" group-title="VOD ANIME",Dragon Ball Z La resurreccio´n de Freezer (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" group-title="ANIME",El Himno del Corazo´n (2015)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" group-title="VOD ANIME",El Himno del Corazo´n (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20Himno%20del%20Corazo%CC%81n%20%282015%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/02/08/12/58/542941.jpg" group-title="ANIME",El recuerdo de Marnie (2014)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/02/08/12/58/542941.jpg" group-title="VOD ANIME",El recuerdo de Marnie (2014)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20recuerdo%20de%20Marnie%20%282014%29.mp4
-#EXTINF:-1 tvg-logo="https://www.elespectadorimaginario.com/assets/cartel-kono-sekai.jpg" group-title="ANIME",En este rinco´n del mundo (2016)
+#EXTINF:-1 tvg-logo="https://www.elespectadorimaginario.com/assets/cartel-kono-sekai.jpg" group-title="VOD ANIME",En este rinco´n del mundo (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://somoskudasai.com/wp-content/uploads/2020/10/evangelion_KV2-2.jpg" group-title="ANIME",Evangelion 30+10 (2021)
+#EXTINF:-1 tvg-logo="https://somoskudasai.com/wp-content/uploads/2020/10/evangelion_KV2-2.jpg" group-title="VOD ANIME",Evangelion 30+10 (2021)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Evangelion%2030%2B10%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Final_Fantasy_XV_La_pel_cula-570069523-large.jpg" group-title="ANIME",Final Fantasy XV La peli´cula (2016)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Final_Fantasy_XV_La_pel_cula-570069523-large.jpg" group-title="VOD ANIME",Final Fantasy XV La peli´cula (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Final%20Fantasy%20XV%20La%20peli%CC%81cula%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_30580_90.jpg" group-title="ANIME",Ghost in the Shell The Rising (2015)
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_30580_90.jpg" group-title="VOD ANIME",Ghost in the Shell The Rising (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ghost%20in%20the%20Shell%20The%20Rising%20%282015%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes-464138472-large.jpg" group-title="ANIME",He´roes humildes (2018)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes-464138472-large.jpg" group-title="VOD ANIME",He´roes humildes (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/He%CC%81roes%20humildes%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlMGY3OTUtZTljNS00MDAxLWE2YzYtMjc0ZjhlNzUwMDBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="ANIME",Kakurenbo (2005)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlMGY3OTUtZTljNS00MDAxLWE2YzYtMjc0ZjhlNzUwMDBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="VOD ANIME",Kakurenbo (2005)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Kakurenbo%20%282005%29.mp4
-#EXTINF:-1 tvg-logo="https://ramenparados.com/wp-content/uploads/2017/03/Magical-Girl-Lyrical-Nanoha-Reflection-key.png" group-title="ANIME",Magical Girl Lyrical Nanoha Reflection (2017)
+#EXTINF:-1 tvg-logo="https://ramenparados.com/wp-content/uploads/2017/03/Magical-Girl-Lyrical-Nanoha-Reflection-key.png" group-title="VOD ANIME",Magical Girl Lyrical Nanoha Reflection (2017)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Magical%20Girl%20Lyrical%20Nanoha%20Reflection%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/73/bc/d0/73bcd021614be76919facd961eaceb40.jpg" group-title="ANIME",Nanatsu no Taizai Movie Tenkuu no Torawarebito (2018)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/73/bc/d0/73bcd021614be76919facd961eaceb40.jpg" group-title="VOD ANIME",Nanatsu no Taizai Movie Tenkuu no Torawarebito (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Nanatsu%20no%20Taizai%20Movie%20Tenkuu%20no%20Torawarebito%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/13500/13514/001_m.jpg" group-title="ANIME",No Game No Life Zero (2017)
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/13500/13514/001_m.jpg" group-title="VOD ANIME",No Game No Life Zero (2017)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/No%20Game%20No%20Life%20Zero%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/28/17/02/4637907.jpg" group-title="ANIME",One Piece Estampida (2019)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/28/17/02/4637907.jpg" group-title="VOD ANIME",One Piece Estampida (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Estampida%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://legiondescargas.com/wp-content/uploads/2019/08/ssssssssd65das.jpg" group-title="ANIME",One Piece Gold (2016)
+#EXTINF:-1 tvg-logo="https://legiondescargas.com/wp-content/uploads/2019/08/ssssssssd65das.jpg" group-title="VOD ANIME",One Piece Gold (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Gold%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/08/Flavors_of_youth_netflix-723x1024.jpg" group-title="ANIME",Shikioriori (2018)
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/08/Flavors_of_youth_netflix-723x1024.jpg" group-title="VOD ANIME",Shikioriori (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Shikioriori%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Strait_Jacket-213091204-large.jpg" group-title="ANIME",Strait Jacket (2007)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Strait_Jacket-213091204-large.jpg" group-title="VOD ANIME",Strait Jacket (2007)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Strait%20Jacket%20%282007%29.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-xEk0xCoPjfE/W3hZ2moXanI/AAAAAAAABOY/cn9JMvwRSYM84e1SoaXexRRlPK-kbZmKgCPcBGAYYCw/s1600/c59bbc06b7493ea9b43fe3f2aca1d2ca7808b63e_hq.jpg" group-title="ANIME",Suki ni Naru Sono Shunkan wo Kokuhaku Jikkou Iinkai (2016)
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-xEk0xCoPjfE/W3hZ2moXanI/AAAAAAAABOY/cn9JMvwRSYM84e1SoaXexRRlPK-kbZmKgCPcBGAYYCw/s1600/c59bbc06b7493ea9b43fe3f2aca1d2ca7808b63e_hq.jpg" group-title="VOD ANIME",Suki ni Naru Sono Shunkan wo Kokuhaku Jikkou Iinkai (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Suki%20ni%20Naru%20Sono%20Shunkan%20wo%20Kokuhaku%20Jikkou%20Iinkai%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F051%2F413%2Fsword-art-online-ordinal-scale-1.jpg&nuevoancho=690&medio=abc" group-title="ANIME",Sword Art Online La peli´cula Ordinal scale (2017)
+#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F051%2F413%2Fsword-art-online-ordinal-scale-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME",Sword Art Online La peli´cula Ordinal scale (2017)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Sword%20Art%20Online%20La%20peli%CC%81cula%20Ordinal%20scale%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/FireWorks-929306530-large.jpg" group-title="ANIME",Shita kara Miru ka Yoko kara Miru ka (2017)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/FireWorks-929306530-large.jpg" group-title="VOD ANIME",Shita kara Miru ka Yoko kara Miru ka (2017)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Uchiage%20Hanabi%2C%20Shita%20kara%20Miru%20ka%20Yoko%20kara%20Miru%20ka%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2017/10/voz-silenciosa.jpg?itok=Igtmlqeh" group-title="ANIME",Una voz silenciosa (2016)
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2017/10/voz-silenciosa.jpg?itok=Igtmlqeh" group-title="VOD ANIME",Una voz silenciosa (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" group-title="ANIME",Your name (2016)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" group-title="VOD ANIME",Your name (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Your%20name%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" group-title="ANIME",Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" group-title="VOD ANIME",Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Yu-Gi-Oh%21%20El%20Lado%20Oscuro%20de%20las%20Dimensiones%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://numax.org/storage/cache/images/43d/1490095040-460_d10bc056-name-cartel.jpg" group-title="ANIME",Your Name
+#EXTINF:-1 tvg-logo="https://numax.org/storage/cache/images/43d/1490095040-460_d10bc056-name-cartel.jpg" group-title="VOD ANIME",Your Name
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Your%20Name.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" group-title="ANIME",The Wonderland (2019)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" group-title="VOD ANIME",The Wonderland (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg" group-title="ANIME",Afro Samurai Resurrection (2009)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg" group-title="VOD ANIME",Afro Samurai Resurrection (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg" group-title="ANIME",Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg" group-title="VOD ANIME",Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" group-title="ANIME",Redline (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" group-title="VOD ANIME",Redline (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
-#EXTINF:-1 tvg-logo="https://media.redadn.es/series/p/tengen-toppa-gurren-lagann-movie-1-gurren-hen_1147.jpg" group-title="ANIME",Tengen Toppa Gurren Lagann Movie 1 Gurren-hen (2008)
+#EXTINF:-1 tvg-logo="https://media.redadn.es/series/p/tengen-toppa-gurren-lagann-movie-1-gurren-hen_1147.jpg" group-title="VOD ANIME",Tengen Toppa Gurren Lagann Movie 1 Gurren-hen (2008)
 Tengen Toppa Gurren Lagann Movie 1 Gurren-hen (2008).mp4
-#EXTINF:-1 tvg-logo="https://blog-imgs-49.fc2.com/s/f/q/sfqrk275take/blog_import_508928e950d3f.jpg" group-title="ANIME",???????? MOVIE EDITION (1995)
+#EXTINF:-1 tvg-logo="https://blog-imgs-49.fc2.com/s/f/q/sfqrk275take/blog_import_508928e950d3f.jpg" group-title="VOD ANIME",???????? MOVIE EDITION (1995)
 https://archive.org/download/the-immortal-wars-resurgence-2019/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%9A%E3%83%A9%E3%82%B9%E3%80%80%EF%BC%AD%EF%BC%AF%EF%BC%B6%EF%BC%A9%EF%BC%A5%E3%80%80%EF%BC%A5%EF%BC%A4%EF%BC%A9%EF%BC%B4%EF%BC%A9%EF%BC%AF%EF%BC%AE%20%281995%29.mp4
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12500/12585/004_m.jpg" group-title="ANIME",A Silent Voice (2016)
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12500/12585/004_m.jpg" group-title="VOD ANIME",A Silent Voice (2016)
 https://archive.org/download/animal-crackers-2017_202101/A%20Silent%20Voice%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc" group-title="ANIME",El rey espino (2009)
+#EXTINF:-1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME",El rey espino (2009)
 https://archive.org/download/animal-crackers-2017_202101/El%20rey%20espino%20%282009%29.mp4
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)" group-title="ANIME",Fairy Tail Dragon Cry (2017)
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)" group-title="VOD ANIME",Fairy Tail Dragon Cry (2017)
 https://archive.org/download/animal-crackers-2017_202101/Fairy%20Tail%20Dragon%20Cry%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RN6sKVpdFDU/X9yAaQJJWKI/AAAAAAAFyOo/F7rkKe1X_gY41lqhMMTuGRmeVfUTGxi8ACLcBGAsYHQ/s700/prismaillyalicht.jpg" group-title="ANIME",Fatekaleid liner Prisma?Illya Movie Sekka no Chikai (2017)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RN6sKVpdFDU/X9yAaQJJWKI/AAAAAAAFyOo/F7rkKe1X_gY41lqhMMTuGRmeVfUTGxi8ACLcBGAsYHQ/s700/prismaillyalicht.jpg" group-title="VOD ANIME",Fatekaleid liner Prisma?Illya Movie Sekka no Chikai (2017)
 https://archive.org/download/animal-crackers-2017_202101/Fatekaleid%20liner%20Prisma%E2%98%86Illya%20Movie%20Sekka%20no%20Chikai%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg" group-title="ANIME",He´roes humildes (2018)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg" group-title="VOD ANIME",He´roes humildes (2018)
 https://archive.org/download/animal-crackers-2017_202101/He%CC%81roes%20humildes%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Kenshin_El_Guerrero_Samur_i_La_Pel_cula-125599913-large.jpg" group-title="ANIME",El Guerrero Samurái
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Kenshin_El_Guerrero_Samur_i_La_Pel_cula-125599913-large.jpg" group-title="VOD ANIME",El Guerrero Samurái
 https://archive.org/download/cesser-16-acrimony-1080p/Ver%20Kenshin%2C%20El%20Guerrero%20Samur%C3%A1i%20%28%29%20480%20%40JuAnChO1304.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.jpg" group-title="ANIME",NiNo
+#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.jpg" group-title="VOD ANIME",NiNo
 https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.jpg" group-title="ANIME",Zha
+#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.jpg" group-title="VOD ANIME",Zha
 https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg" group-title="ANIME",Toys and pets - Tea Pets (2017)
+#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg" group-title="VOD ANIME",Toys and pets - Tea Pets (2017)
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" group-title="MR ROBOT accion",SAFE
 https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
