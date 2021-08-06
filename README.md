@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIME", Ao Oni The Animation (2017)
+#EXTINF:-1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIME", Ao Oni The Animation 2017
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="ANIME", Cencoroll Connect (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
