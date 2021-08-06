@@ -86,7 +86,7 @@ https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" group-title="VOD ACCION",SAFE
 https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
-#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ACCION",Ni no Kuni (2019
+#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME",Ni no Kuni (2019
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/no-dejes-de-mirar.jpg" group-title="VOD ACCION",No dejes de mirar (2017)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214685
