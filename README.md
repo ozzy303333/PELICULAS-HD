@@ -8,7 +8,7 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoro
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Detective%20Conan%2022%20El%20caso%20Zero%20%282018%29.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3O71Sjyh6mz5HRAhF26NWyG30Q9Hgu7TgZ0GryI41SyNo9U0Y" group-title="VOD ANIME",Dragon Ball Super Broly (2018)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Super%20Broly%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" group-title="ANIME",Dragon Ball Z La resurreccio´n de Freezer (2015)
+#EXTINF:-1 tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" group-title="VOD ANIME",Dragon Ball Z La resurreccio´n de Freezer (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" group-title="ANIME",El Himno del Corazo´n (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20Himno%20del%20Corazo%CC%81n%20%282015%29.mp4
