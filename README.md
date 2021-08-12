@@ -1,6 +1,5 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIME",Ao Oni The Animation 2017
-
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="VOD ANIME",Cencoroll Connect (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
@@ -84,10 +83,10 @@ https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.mp4
 https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg" group-title="VOD ANIME",Toys and pets - Tea Pets (2017)
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" group-title="VOD ACCION",SAFE
-https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
 #EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME",Ni no Kuni (2019
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" group-title="VOD ACCION",SAFE
+https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
 #EXTINF:-1 tvg-logo="https://img.repelis.id/cover/no-dejes-de-mirar.jpg" group-title="VOD ACCION",No dejes de mirar (2017)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214685
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/04/19/30/0328986.jpg" group-title="VOD ACCION",No manches Frida 2 2019
@@ -402,6 +401,8 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20War
 https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.jpg" group-title="VOD ACCION",Cómo me convertí en superhéroe
 https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/El%20Escuadr%C3%B3n%20Suicida%202.jpg" tvg-logo-small="https://archive.org/download/sr-y-sra-smith/El%20Escuadr%C3%B3n%20Suicida%202.jpg" group-title="VOD ACCION",El Escuadrón Suicida 2
+https://archive.org/download/sr-y-sra-smith/El%20Escuadr%C3%B3n%20Suicida%202.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="VOD ANIMACION",Amadrinadas
 https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
 #EXTINF:-1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="VOD ANIMACION",Amor de gata (2020)
@@ -676,9 +677,9 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Ja
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="VOD ANIMACION",Ainbo La guerrera del Amazonas 2021
 https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg" group-title="VOD ANIMACION",Atlantis 2,el regreso de Milo
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg" group-title="VOD ANIMACION",el regreso de Milo
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg" group-title="VOD ANIMACION",Atlantis,El imperio perdido
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg" group-title="VOD ANIMACION",El imperio perdido
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.jpg" group-title="VOD ANIMACION",El arco mágico
 https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.mp4
@@ -686,7 +687,7 @@ https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1g
 https://archive.org/download/como-me-converti-en-superheroe/Emoji.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Kitbull.jpg" group-title="VOD ANIMACION",Kitbull
 https://archive.org/download/como-me-converti-en-superheroe/Kitbull.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg" group-title="VOD ANIMACION",Los Simpson El bueno,el Bart y el Loki
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg" group-title="VOD ANIMACION",el Bart y el Loki
 https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.jpg" group-title="VOD ANIMACION",Miraculous World Shanghai  The Legend of Ladydragon
 https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.mp4
@@ -816,7 +817,7 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vida
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.jpg" group-title="VOD CIENCIA FICCIÓN",Parásitos
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg" group-title="VOD CIENCIA FICCIÓN",2001,Una odisea del espacio
+#EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg" group-title="VOD CIENCIA FICCIÓN",Una odisea del espacio
 https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.jpg" group-title="VOD CIENCIA FICCIÓN",Beyond Skyline
 https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.mp4
@@ -1328,7 +1329,7 @@ https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Parada%20d
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Psic%C3%B3pata%20americano.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.jpg" group-title="VOD DRAMA",Quién te cantará
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/"VOD RAMANCE"%20X.jpg" group-title="VOD DRAMA","VOD RAMANCE" X
+#EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/" group-title="VOD DRAMA","VOD RAMANCE" X
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/"VOD RAMANCE"%20X.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.jpg" group-title="VOD DRAMA",Sólo un sueño
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.mp4
