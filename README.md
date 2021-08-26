@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIME",Ao Oni The Animation 2017
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="VOD ANIME",Cencoroll Connect (2019)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://media.redadn.es/series/p/detective-conan-22-el-caso-zero_3609.jpg" group-title="VOD ANIME",Detective Conan 22 El caso Zero (2018)
@@ -51,8 +49,6 @@ https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20v
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Your%20name%20%282016%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" group-title="VOD ANIME",Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Yu-Gi-Oh%21%20El%20Lado%20Oscuro%20de%20las%20Dimensiones%20%282016%29.mp4
-#EXTINF:-1 tvg-logo="https://numax.org/storage/cache/images/43d/1490095040-460_d10bc056-name-cartel.jpg" group-title="VOD ANIME",Your Name
-https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Your%20Name.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" group-title="VOD ANIME",The Wonderland (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg" group-title="VOD ANIME",Afro Samurai Resurrection (2009)
@@ -81,8 +77,6 @@ https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME",Ni no Kuni (2019
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
-#EXTINF:-1 tvg-logo="https://omegacenter.es/blog/wp-content/uploads/2017/04/portada_your-name-novela_makoto-shinkai_201703091007.jpg" group-title="VOD ANIME",Your Name
-https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Your%20Name.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone.jpg" group-title="VOD ANIME",1.0 You Are Not Alone
 https://archive.org/download/morituri_202108/Evangelion%2C%201.0%20You%20Are%20%28Not%29%20Alone~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIME",Nuestra guerra de los siete días
@@ -275,7 +269,7 @@ https://archive.org/download/desaparecido-en-combate-1984_202101/Arma%20letal%20
 https://archive.org/download/desaparecido-en-combate-1984_202101/Asalto%20al%20tren%20del%20dinero%20%281995%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/27/11/31/078119.jpg" group-title="VOD ACCION",Con Air (Convictos en el aire) (1997)
 https://archive.org/download/desaparecido-en-combate-1984_202101/Con%20Air%20%28Convictos%20en%20el%20aire%29%20%281997%29.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Corre_Lola_corre-927408419-mmed.jpg" group-title="VOD ACCION",corre (1998)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Corre_Lola_corre-927408419-mmed.jpg" group-title="VOD ACCION",corre lola core 1998
 https://archive.org/download/desaparecido-en-combate-1984_202101/Corre%20Lola%2C%20corre%20%281998%29.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/74/01/20076545.jpg" group-title="VOD ACCION",ALIENS EL REGRESO 1986
 https://archive.org/download/desaparecido-en-combate-1984_202101/ALIENS%20EL%20REGRESO%201986.MP4
@@ -367,12 +361,8 @@ https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%2
 https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg" group-title="VOD ACCION",Riesgo en el aire
 https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg" group-title="VOD ACCION",Cross el ascenso de los villanos
-https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg" group-title="VOD ACCION",Depredador - Predator (1987)
 https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD ACCION",Muerte en Tombstone 2
-https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="VOD ACCION",Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20m%C3%A1s%20valiente.jpg" group-title="VOD ACCION",El más valiente
@@ -419,12 +409,10 @@ https://archive.org/download/sr-y-sra-smith/Walker%202.mp4
 https://archive.org/download/desaparecido-en-combate-1984_202101/El%20vuelo%20del%20halco%CC%81n%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/La%20vuelta%20al%20mundo%20bajo%20el%20mar.jpg" group-title="VOD ACCION",La vuelta al mundo bajo el mar
 https://archive.org/download/morituri_202108/La%20vuelta%20al%20mundo%20bajo%20el%20mar~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Asesino%20implacable.jpg" group-title="VOD ACCION",Asesino implacable
+#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Asesino%20implacable.jpg" group-title="VOD ACCION",Asesino implacable 1966
 https://archive.org/download/morituri_202108/Asesino%20implacable~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/G.I.%20Joe%20Snake%20Eyes%202021.jpg" group-title="VOD ACCION",G.I. Joe Snake Eyes 2021
 https://archive.org/download/morituri_202108/G.I.%20Joe%20Snake%20Eyes%202021~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Asesino%20implacable.jpg" group-title="VOD ACCION",Carter - Asesino implacable
-https://ia601503.us.archive.org/17/items/morituri_202108/Asesino%20implacable~1.mp4
 #EXTINF:-1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="VOD ANIMACION",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="VOD ANIMACION",Ainbo La guerrera del Amazonas 2021
@@ -527,8 +515,6 @@ https://archive.org/download/Amadrinadas/%C2%A1Feliz%20Halloween%2C%20Scooby-Doo
 https://archive.org/download/Amadrinadas/SupermanBatman%20Enemigos%20pu%CC%81blicos%20%282009%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tut_Tut_Cory_B_lidos_Navidad-388417538-mmed.jpg" group-title="VOD ANIMACION",Tut Tut Cory Bolidos Navidad (2020)
 https://archive.org/download/Amadrinadas/Tut%20Tut%20Cory%20Bo%CC%81lidos%20Navidad%20%282020%29.mp4
-#EXTINF:-1 tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/un-chihuahua-en-beverly-hills-3-que-viva-la-fiesta.png" group-title="VOD ANIMACION",Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
-https://archive.org/download/Amadrinadas/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/img.netnaija.com/q5KKHK.jpg?resize=584%2C876&ssl=1" group-title="VOD ANIMACION",the croods a new age
 https://archive.org/download/Amadrinadas/the%20croods%20a%20new%20age.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/94/86/20416090.jpg" group-title="VOD ANIMACION",Fievel va al Oeste (1991)
@@ -657,10 +643,6 @@ https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.
 https://archive.org/download/2-comando-commando-1985/Super%20Bear.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg" group-title="VOD ANIMACION",Una película de huevos
 https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Super%20Bear.jpg" group-title="VOD ANIMACION",Super Bear
-https://archive.org/download/2-comando-commando-1985/Super%20Bear.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg" group-title="VOD ANIMACION",Una película de huevos
-https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.jpg" group-title="VOD ANIMACION",Surcadores del cielo
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.jpg" group-title="VOD ANIMACION",Barbie Una aventura de sirenas
@@ -695,30 +677,18 @@ https://archive.org/download/como-me-converti-en-superheroe/Kitbull.mp4
 https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.jpg" group-title="VOD ANIMACION",Un lugar tranquilo 2
 https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.mp4
+#EXTINF:-1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIMACION",Ao Oni The Animation 2017
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGY1YTUtZjhkZS00NGU4LWE5NjAtNTZjNjg5ZjUzNzcxXkEyXkFqcGdeQXVyOTgwMjk0NjI@._V1_.jpg" group-title="VOD ANIMACION",PAW Patrol Jet to the Rescue (2020)
 https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Vixen%20The%20Movie%202017.jpg" group-title="VOD ANIMACION",Vixen The Movie 2017
 https://archive.org/download/morituri_202108/Vixen%20The%20Movie%202017~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Un%20rescate%20de%20huevitos%20%282021%29.jpg" group-title="VOD ANIMACION",Un rescate de huevitos 2021
 https://archive.org/download/morituri_202108/Un%20rescate%20de%20huevitos%20%282021%29~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Firebreather.jpg" group-title="VOD ANIMACION",Firebreather
-https://archive.org/download/morituri_202108/Firebreather~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Chip%20y%20Chop.jpg" group-title="VOD ANIMACION",Chip y Chop
 https://archive.org/download/morituri_202108/Chip%20y%20Chop~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIMACION",7 Days War 2019
 https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Vixen%20The%20Movie%202017.jpg" group-title="VOD ANIMACION",Vixen The Movie 2017
-https://archive.org/download/morituri_202108/Vixen%20The%20Movie%202017~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Un%20rescate%20de%20huevitos%20%282021%29.jpg" group-title="VOD ANIMACION",Un rescate de huevitos 2021
-https://archive.org/download/morituri_202108/Un%20rescate%20de%20huevitos%20%282021%29~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Firebreather.jpg" group-title="VOD ANIMACION",Firebreather
-https://archive.org/download/morituri_202108/Firebreather~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Chip%20y%20Chop.jpg" group-title="VOD ANIMACION",Chip y Chop
-https://archive.org/download/morituri_202108/Chip%20y%20Chop~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIMACION",7 Days War 2019
-https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29~1.mp4
-#EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Chip%20y%20Chop.jpg" group-title="VOD ANIMACION",Chip y Chop
-https://ia601503.us.archive.org/17/items/morituri_202108/Chip%20y%20Chop~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Firebreather.jpg" group-title="VOD ANIMACION",Firebreather
 https://ia601503.us.archive.org/17/items/morituri_202108/Firebreather~1.mp4
 #EXTINF:-1 tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg" group-title="VOD CIENCIA FICCIÓN",El espacio entre nosotros (2017)
@@ -803,22 +773,8 @@ https://archive.org/download/yummy_202105/Ox%C3%ADgeno.mp4
 https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg" group-title="VOD CIENCIA FICCIÓN",Cherry 2000
 https://archive.org/download/2-comando-commando-1985/Cherry%202000.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.jpg" group-title="VOD CIENCIA FICCIÓN",Critters 1986
-https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral.jpg" group-title="VOD CIENCIA FICCIÓN",Espiral
-https://archive.org/download/2-comando-commando-1985/Espiral.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Expiry.jpg" group-title="VOD CIENCIA FICCIÓN",Expiry
-https://archive.org/download/2-comando-commando-1985/Expiry.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.jpg" group-title="VOD CIENCIA FICCIÓN",Jumanji 1995
 https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg" group-title="VOD CIENCIA FICCIÓN",Star wars Episodio I La amenaza fantasma
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg" group-title="VOD CIENCIA FICCIÓN",Time Trap
-https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg" group-title="VOD CIENCIA FICCIÓN",Ultra Galaxy
-https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.jpg" group-title="VOD CIENCIA FICCIÓN",Avengers Endgame
-https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg" group-title="VOD CIENCIA FICCIÓN",Cherry 2000
 https://archive.org/download/2-comando-commando-1985/Cherry%202000.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.jpg" group-title="VOD CIENCIA FICCIÓN",Critters 1986
@@ -993,12 +949,8 @@ https://archive.org/download/yummy_202105/Mr.%20Bean%202.mp4
 https://archive.org/download/yummy_202105/Stay%20Hungry.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg" group-title="VOD COMEDIA",Los fantasmas de mis exnovias
 https://archive.org/download/yummy_202105/Los%20fantasmas%20de%20mis%20exnovias.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg" group-title="VOD COMEDIA",Después la Loca soy Yo
-https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg" group-title="VOD COMEDIA",Como perder a un hombre en 10 días 2003
 https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.jpg" group-title="VOD COMEDIA",Despues de ti 2021
-https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg" group-title="VOD COMEDIA",Dos sinverguenzas
 https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg" group-title="VOD COMEDIA",Funny People 2009
@@ -1007,8 +959,6 @@ https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29
 https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.jpg" group-title="VOD COMEDIA",Tonto y Retonto
 https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg" group-title="VOD COMEDIA",Un papá genial
-https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg" group-title="VOD COMEDIA",Después la Loca soy Yo
 https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg" group-title="VOD COMEDIA",Como perder a un hombre en 10 días 2003
@@ -1097,22 +1047,8 @@ https://archive.org/download/morituri_202108/Zapatos%20Viejos~1.mp4
 https://archive.org/download/morituri_202108/Stop~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Peggy%20Sue%20se%20cas%C3%B3.jpg" group-title="VOD COMEDIA",Peggy Sue se caso
 https://archive.org/download/morituri_202108/Peggy%20Sue%20se%20cas%C3%B3~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/F%C3%B3rmula%20para%20amar.jpg" group-title="VOD COMEDIA",Fórmula para amar
-https://archive.org/download/morituri_202108/F%C3%B3rmula%20para%20amar~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20diario%20secreto%20de%20un%20estudiante%20de%20intercambio.jpg" group-title="VOD COMEDIA",El diario secreto de un estudiante de intercambio
-https://archive.org/download/morituri_202108/El%20diario%20secreto%20de%20un%20estudiante%20de%20intercambio~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/C%C3%B3mo%20se%20hace%20una%20chica.jpg" group-title="VOD COMEDIA",Cómo se hace una chica
-https://archive.org/download/morituri_202108/C%C3%B3mo%20se%20hace%20una%20chica~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Zapatos%20Viejos.jpg" group-title="VOD COMEDIA",Zapatos Viejos
-https://archive.org/download/morituri_202108/Zapatos%20Viejos~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Stop.jpg" group-title="VOD COMEDIA",Stop
-https://archive.org/download/morituri_202108/Stop~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Peggy%20Sue%20se%20cas%C3%B3.jpg" group-title="VOD COMEDIA",Peggy Sue se caso
-https://archive.org/download/morituri_202108/Peggy%20Sue%20se%20cas%C3%B3~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Lokillo%2C%20Nada%20es%20igual.jpg" group-title="VOD COMEDIA",Lokillo Nada es igual
 https://archive.org/download/morituri_202108/Lokillo%2C%20Nada%20es%20igual~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/F%C3%B3rmula%20para%20amar.jpg" group-title="VOD COMEDIA",Fórmula para amar
-https://archive.org/download/morituri_202108/F%C3%B3rmula%20para%20amar~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20diario%20secreto%20de%20un%20estudiante%20de%20intercambio.jpg" group-title="VOD COMEDIA",El diario secreto de un estudiante de intercambio
 https://archive.org/download/morituri_202108/El%20diario%20secreto%20de%20un%20estudiante%20de%20intercambio~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Barb%20y%20Star%20van%20a%20Vista%20Del%20Mar.jpg" group-title="VOD COMEDIA",Barb y Star van a Vista Del Mar
@@ -1277,16 +1213,6 @@ https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.mp4
 https://archive.org/download/yummy_202105/Ferry%20%282021%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/Mainstream.jpg" group-title="VOD DRAMA",Mainstream
 https://archive.org/download/yummy_202105/Mainstream.jpg
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg" group-title="VOD DRAMA",Alucinaciones del pasado
-https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg" group-title="VOD DRAMA",El padre
-https://archive.org/download/2-comando-commando-1985/-%20El%20padre.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.jpg" group-title="VOD DRAMA",Chernobyl Abyss
-https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.jpg" group-title="VOD DRAMA",El maquinista  The Machinist
-https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg" group-title="VOD DRAMA",Erna i krig
-https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Estanislao-219509656-large.jpg" group-title="VOD DRAMA",Estanislao
 https://archive.org/download/2-comando-commando-1985/Estanislao.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Flores_en_el_tico_2_P_talos_al_viento_TV-780070215-large.jpg" group-title="VOD DRAMA",Flores en el atico  Petalos al viento TV 2014
@@ -1297,24 +1223,8 @@ https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1ti
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%203%20Si%20hubiera%20espinas%20TV%202015.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.jpg" group-title="VOD DRAMA",Flores en el atico 4 Semillas del ayer TV 2015
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/French%20Exit.jpg" group-title="VOD DRAMA",French Exit
-https://archive.org/download/2-comando-commando-1985/French%20Exit.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.jpg" group-title="VOD DRAMA",Historia americana X
-https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.jpg" group-title="VOD DRAMA",Hooligans  Green street hooligans 2005
-https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.jpg" group-title="VOD DRAMA",Jacqueline Sauvage víctima o culpable
-https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.jpg" group-title="VOD DRAMA",La teniente O Neil  1997
-https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ricochet.jpg" group-title="VOD DRAMA",Ricochet
-https://archive.org/download/2-comando-commando-1985/Ricochet.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg" group-title="VOD DRAMA",Sitting in Limbo
-https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg" group-title="VOD DRAMA",The Maid
 https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg" group-title="VOD DRAMA",Una vida sin amor
-https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg" group-title="VOD DRAMA",Alucinaciones del pasado
 https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg" group-title="VOD DRAMA",El padre
@@ -1341,16 +1251,12 @@ https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20
 https://archive.org/download/2-comando-commando-1985/Ricochet.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg" group-title="VOD DRAMA",Sitting in Limbo
 https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg" group-title="VOD DRAMA",The Maid
-https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg" group-title="VOD DRAMA",Una vida sin amor
 https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.jpg" group-title="VOD DRAMA",Dos caminos a casa
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.jpg" group-title="VOD DRAMA",Érase Una Vez en Queens
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Infierno%20de%20Hielo.jpg" group-title="VOD DRAMA",Infierno de Hielo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Infierno%20de%20Hielo.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.jpg" group-title="VOD DRAMA",La batalla de Leningrado
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Super%20Me.jpg" group-title="VOD DRAMA",Super Me
@@ -1453,8 +1359,6 @@ https://archive.org/download/sr-y-sra-smith/Cuando%20un%20hombre%20ama%20a%20una
 https://archive.org/download/sr-y-sra-smith/Gigol%C3%B3%20americano.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/La%20mujer%20m%C3%A1s%20odiada%20de%20Estados%20Unidos%202017.jpg" group-title="VOD DRAMA",La mujer más odiada de Estados Unidos 2017
 https://archive.org/download/sr-y-sra-smith/La%20mujer%20m%C3%A1s%20odiada%20de%20Estados%20Unidos%202017.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Llamadas%20a%20espiar%202019.jpg" group-title="VOD DRAMA",Llamadas a espiar 2019
-https://archive.org/download/sr-y-sra-smith/Llamadas%20a%20espiar%202019.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Noche%20de%20verano.jpg" group-title="VOD DRAMA",Noche de verano
 https://archive.org/download/sr-y-sra-smith/Noche%20de%20verano.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Police.jpg" group-title="VOD DRAMA",Police
@@ -1469,6 +1373,8 @@ https://archive.org/download/sr-y-sra-smith/Romeo%20Santos%20Utopia%20Live%20Fro
 https://archive.org/download/sr-y-sra-smith/R%C3%A9quiem%20por%20un%20sue%C3%B1o.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Tiempo%20de%20matar.jpg" group-title="VOD DRAMA",Tiempo de matar
 https://archive.org/download/sr-y-sra-smith/Tiempo%20de%20matar.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Sinaliento.jpg" group-title="VOD DRAMA",Sinaliento
+https://archive.org/download/morituri_202108/Sinaliento~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Trampa%2022.jpg" group-title="VOD DRAMA",Trampa 22
 https://archive.org/download/morituri_202108/Trampa%2022~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Tomates%20verdes%20fritos.jpg" group-title="VOD DRAMA",Tomates verdes fritos
@@ -1479,24 +1385,6 @@ https://archive.org/download/morituri_202108/Sinaliento~1.mp4
 https://archive.org/download/morituri_202108/Las%20esp%C3%ADas%20de%20Churchill~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Ellos%20y%20ellas.jpg" group-title="VOD DRAMA",Ellos y ellas
 https://archive.org/download/morituri_202108/Ellos%20y%20ellas~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Eclipse%20total.jpg" group-title="VOD DRAMA",Eclipse total
-https://archive.org/download/morituri_202108/Eclipse%20total~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Ballet%20Blanc.jpg" group-title="VOD DRAMA",Ballet Blanc
-https://archive.org/download/morituri_202108/Ballet%20Blanc~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Trampa%2022.jpg" group-title="VOD DRAMA",Trampa 22
-https://archive.org/download/morituri_202108/Trampa%2022~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Tomates%20verdes%20fritos.jpg" group-title="VOD DRAMA",Tomates verdes fritos
-https://archive.org/download/morituri_202108/Tomates%20verdes%20fritos~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Sinaliento.jpg" group-title="VOD DRAMA",Sinaliento
-https://archive.org/download/morituri_202108/Sinaliento~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Las%20esp%C3%ADas%20de%20Churchill.jpg" group-title="VOD DRAMA",Las espías de Churchill
-https://archive.org/download/morituri_202108/Las%20esp%C3%ADas%20de%20Churchill~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Ellos%20y%20ellas.jpg" group-title="VOD DRAMA",Ellos y ellas
-https://archive.org/download/morituri_202108/Ellos%20y%20ellas~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Eclipse%20total.jpg" group-title="VOD DRAMA",Eclipse total
-https://archive.org/download/morituri_202108/Eclipse%20total~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Ballet%20Blanc.jpg" group-title="VOD DRAMA",Ballet Blanc
-https://archive.org/download/morituri_202108/Ballet%20Blanc~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Ballet%20Blanc.jpg" group-title="VOD DRAMA",Ballet Blanc
 https://ia601503.us.archive.org/17/items/morituri_202108/Ballet%20Blanc~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Eclipse%20total.jpg" group-title="VOD DRAMA",Eclipse total
@@ -1569,8 +1457,6 @@ https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wii
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Domestics-956087918-large.jpg" group-title="VOD TERROR",The Domestics (2018)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD TERROR",The Scientist (2020)
-https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Scientist%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://rincondeldirector.files.wordpress.com/2015/10/sh_the_movie_poster_10.jpg?w=810" group-title="VOD TERROR",Terror en Silent Hill (2006)
 https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%20%282006%29.mp4
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36783/36783_800x1187.jpg" group-title="VOD TERROR",Terror en Silent Hill 2_ La revelación (2012)
@@ -1667,26 +1553,8 @@ https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="VOD TERROR",Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg" group-title="VOD TERROR",Jovenes y brujas
-https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg" group-title="VOD TERROR",El exorcismo de Carmen Farías
-https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg" group-title="VOD TERROR",Escape to the Cove
 https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.jpg" group-title="VOD TERROR",Espiral El juego del miedo continua 2021
-https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.jpg" group-title="VOD TERROR",In The Earth
-https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Pipeline.jpg" group-title="VOD TERROR",Pipeline
-https://archive.org/download/2-comando-commando-1985/Pipeline.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/ReVisitant.jpg" group-title="VOD TERROR",ReVisitant
-https://archive.org/download/2-comando-commando-1985/ReVisitant.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Separation.jpg" group-title="VOD TERROR",Separation
-https://archive.org/download/2-comando-commando-1985/Separation.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Darkness.jpg" group-title="VOD TERROR",The Darkness
-https://archive.org/download/2-comando-commando-1985/The%20Darkness.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg" group-title="VOD TERROR",Vigilados
-https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg" group-title="VOD TERROR",Jovenes y brujas
 https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg" group-title="VOD TERROR",El exorcismo de Carmen Farías
@@ -1711,8 +1579,6 @@ https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tibur%C3%B3n%20Blanco.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.jpg" group-title="VOD TERROR",El cuervo 2 ciudad de ángeles
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Entrevista%20con%20el%20vampiro.jpg" group-title="VOD TERROR",Entrevista con el vampiro
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Entrevista%20con%20el%20vampiro.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.jpg" group-title="VOD TERROR",Ruega por nosotros
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Djinn.jpg" group-title="VOD TERROR",The Djinn
@@ -1727,16 +1593,6 @@ https://archive.org/download/sr-y-sra-smith/Entrevista%20con%20el%20vampiro.mp4
 https://archive.org/download/morituri_202108/The%20Clearing%20%282020%29~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Oscuridad.jpg" group-title="VOD TERROR",Oscuridad
 https://archive.org/download/morituri_202108/Oscuridad~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Kingdom%2C%20La%20historia%20de%20Ashin.jpg" group-title="VOD TERROR",Kingdom La historia de Ashin
-https://archive.org/download/morituri_202108/Kingdom%2C%20La%20historia%20de%20Ashin~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20m%C3%A1s%20all%C3%A1.jpg" group-title="VOD TERROR",El más allá
-https://archive.org/download/morituri_202108/El%20m%C3%A1s%20all%C3%A1~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/The%20Clearing%20%282020%29.jpg" group-title="VOD TERROR",The Clearing 2020
-https://archive.org/download/morituri_202108/The%20Clearing%20%282020%29~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Oscuridad.jpg" group-title="VOD TERROR",Oscuridad
-https://archive.org/download/morituri_202108/Oscuridad~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Kingdom%2C%20La%20historia%20de%20Ashin.jpg" group-title="VOD TERROR",Kingdom La historia de Ashin
-https://archive.org/download/morituri_202108/Kingdom%2C%20La%20historia%20de%20Ashin~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20m%C3%A1s%20all%C3%A1.jpg" group-title="VOD TERROR",El más allá
 https://archive.org/download/morituri_202108/El%20m%C3%A1s%20all%C3%A1~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Kingdom%2C%20La%20historia%20de%20Ashin.jpg" group-title="VOD TERROR",Kingdom La historia de Ashin
@@ -1829,18 +1685,8 @@ https://archive.org/download/yummy_202105/Bodyguard.mp4
 https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg" group-title="VOD THIRILLER",Encuéntrame (2016) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg" group-title="VOD THIRILLER",El protector
-https://archive.org/download/2-comando-commando-1985/-%20El%20protector.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.jpg" group-title="VOD THIRILLER",60 Segundos  Gone in 60 Seconds 2000 Latino
-https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Captive.jpg" group-title="VOD THIRILLER",Captive
-https://archive.org/download/2-comando-commando-1985/Captive.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.jpg" group-title="VOD THIRILLER",Death Saved My Life
 https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Ranch.jpg" group-title="VOD THIRILLER",Death Ranch
-https://archive.org/download/2-comando-commando-1985/Death%20Ranch.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.jpg" group-title="VOD THIRILLER",Despierta la furia
-https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.jpg" group-title="VOD THIRILLER",The Prestige 2006
 https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg" group-title="VOD THIRILLER",El protector
@@ -1893,26 +1739,12 @@ https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.mp4
 https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.jpg" group-title="VOD THIRILLER",Out of Death
 https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Villanos%20%282019%29.jpg" group-title="VOD THIRILLER",Villanos 2019
-https://archive.org/download/morituri_202108/Villanos%20%282019%29~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Peligro%20en%20tu%20mirada.jpg" group-title="VOD THIRILLER",Peligro en tu mirada
 https://archive.org/download/morituri_202108/Peligro%20en%20tu%20mirada~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Hermanos%20de%20sangre.jpg" group-title="VOD THIRILLER",Hermanos de sangre
-https://archive.org/download/morituri_202108/Hermanos%20de%20sangre~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Enviado%20especial.jpg" group-title="VOD THIRILLER",Enviado especial
-https://archive.org/download/morituri_202108/Enviado%20especial~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza.jpg" group-title="VOD THIRILLER",El día de la lechuza
-https://archive.org/download/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Villanos%20%282019%29.jpg" group-title="VOD THIRILLER",Villanos 2019
 https://archive.org/download/morituri_202108/Villanos%20%282019%29~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Peligro%20en%20tu%20mirada.jpg" group-title="VOD THIRILLER",Peligro en tu mirada
-https://archive.org/download/morituri_202108/Peligro%20en%20tu%20mirada~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Hermanos%20de%20sangre.jpg" group-title="VOD THIRILLER",Hermanos de sangre
-https://archive.org/download/morituri_202108/Hermanos%20de%20sangre~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Enviado%20especial.jpg" group-title="VOD THIRILLER",Enviado especial
 https://archive.org/download/morituri_202108/Enviado%20especial~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza.jpg" group-title="VOD THIRILLER",El día de la lechuza
-https://archive.org/download/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza.jpg" group-title="VOD THIRILLER",El día de la lechuza
 https://ia601503.us.archive.org/17/items/morituri_202108/El%20d%C3%ADa%20de%20la%20lechuza~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/Hermanos%20de%20sangre.jpg" group-title="VOD THIRILLER",Hermanos de sangre
@@ -1933,20 +1765,16 @@ https://archive.org/download/morituri_202108/Viaje%20al%20oeste%2C%20la%20conqui
 https://archive.org/download/morituri_202108/Tres%20amigos~1.mp4
 #EXTINF:-1 tvg-logo="https://ia601503.us.archive.org/17/items/morituri_202108/El%20%C3%BAltimo%20guerrero.jpg" group-title="VOD AVENTURA",El último guerrero
 https://ia601503.us.archive.org/17/items/morituri_202108/El%20%C3%BAltimo%20guerrero~1.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD Western",Muerte en Tombstone 2
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg0M2NhNzYtMjVjOS00NDkxLTk3MWEtNjI5YWM3ZTQzMTdhXkEyXkFqcGdeQXVyMzQyNjg1OTA@._V1_.jpg" group-title="VOD Western",The Dalton Gang (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163030998
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="VOD Western",Muerte en Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD Western",Muerte en Tombstone 2
-https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Tres%20padrinos.jpg" group-title="VOD Western",Tres padrinos
-https://archive.org/download/morituri_202108/Tres%20padrinos~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Los%20desesperados.jpg" group-title="VOD Western",Los desesperados
 https://archive.org/download/morituri_202108/Los%20desesperados~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Tres%20padrinos.jpg" group-title="VOD Western",Tres padrinos
 https://archive.org/download/morituri_202108/Tres%20padrinos~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Los%20desesperados.jpg" group-title="VOD Western",Los desesperados
-https://archive.org/download/morituri_202108/Los%20desesperados~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg" group-title="VOD ROMANCE",La magia de la isla
 https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Guerra%20de%20novias.jpg" group-title="VOD ROMANCE",Guerra de novias
@@ -1955,12 +1783,6 @@ https://archive.org/download/sr-y-sra-smith/Guerra%20de%20novias.mp4
 https://archive.org/download/sr-y-sra-smith/Mi%20primer%20beso%203.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Romeo%20%2B%20Julieta%20de%20William%20Shakespeare%202013.jpg" group-title="VOD ROMANCE",Romeo + Julieta de William Shakespeare 2013
 https://archive.org/download/sr-y-sra-smith/Romeo%20%2B%20Julieta%20de%20William%20Shakespeare.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Retrato%20perfecto.jpg" group-title="VOD ROMANCE",Retrato perfecto
-https://archive.org/download/morituri_202108/Retrato%20perfecto.jpg
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Barb%20y%20Star%20van%20a%20Vista%20Del%20Mar.jpg" group-title="VOD ROMANCE",Retrato perfecto
-https://archive.org/download/morituri_202108/Barb%20y%20Star%20van%20a%20Vista%20Del%20Mar~1.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Anna%20Karenina.jpg" group-title="VOD ROMANCE",Anna Karenina
-https://archive.org/download/morituri_202108/Anna%20Karenina~1.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Retrato%20perfecto.jpg" group-title="VOD ROMANCE",Retrato perfecto
 https://archive.org/download/morituri_202108/Retrato%20perfecto.jpg
 #EXTINF:-1 tvg-logo="https://archive.org/download/morituri_202108/Barb%20y%20Star%20van%20a%20Vista%20Del%20Mar.jpg" group-title="VOD ROMANCE",Retrato perfecto
