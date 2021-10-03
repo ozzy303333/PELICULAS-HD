@@ -1625,8 +1625,6 @@ https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
 https://archive.org/download/sr-y-sra-smith/Entrevista%20con%20el%20vampiro.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg" group-title="VOD TERROR", Escape to the Cove
 https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.jpg" group-title="VOD TERROR", SAW Espiral El juego del miedo continua 2021
-https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Este_cuerpo_me_sienta_de_muerte-347088392-large.jpg" group-title="VOD TERROR", Este cuerpo me sienta de muerte (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Este%20cuerpo%20me%20sienta%20de%20muerte%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Fat_Ass_Zombies-343334670-large.jpg" group-title="VOD TERROR", Fat Ass Zombies (2020)
@@ -1697,6 +1695,8 @@ https://archive.org/download/2-comando-commando-1985/ReVisitant.mp4
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Robert%20Reborn%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.jpg" group-title="VOD TERROR", Ruega por nosotros
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.jpg" group-title="VOD TERROR", SAW Espiral El juego del miedo continua 2021
+https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.mp4
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/74/47/19634612.jpg" group-title="VOD TERROR", Saw VII (2010)
 https://archive.org/download/wonder-woman-1984-2020_202012/Saw%20VII%20%282010%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" group-title="VOD TERROR", Scream at the Devil (2015)
@@ -1877,6 +1877,8 @@ https://archive.org/download/wendy-2020_202012/Primer%20%282004%29.mp4
 https://archive.org/download/yummy_202105/-%20Prisionero%2099.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.jpg" group-title="VOD THIRILLER", Proud Mary
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.mp4
+#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/1526/1526_173x256.jpg" group-title="VOD THIRILLER", Pulp Fiction 1994
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Rocambola-814798788-large.jpg" group-title="VOD THIRILLER", Rocambola (2019)
 https://archive.org/download/wendy-2020_202012/Rocambola%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ5ZmRjMTAtNjJjZS00MzQ2LWE5MGYtMjJjNjgwMzU2OWY2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" group-title="VOD THIRILLER", Sleeping with Danger (2020)
@@ -1895,8 +1897,6 @@ https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE2YTYwNGItNmVhMy00NjM3LTlhY2UtYzMxN2FmNThjZDIyXkEyXkFqcGdeQXVyNjg4OTEwNTQ@._V1_.jpg" group-title="VOD THIRILLER", The Young Cannibals
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20J%C3%B3venes%20can%C3%ADbales%20720p.mp4
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/1526/1526_173x256.jpg" group-title="VOD THIRILLER", Pulp Fiction 1994
-https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZWQ1NjctMTY0Ny00MGViLWFjNDQtODJmMDE1MzY0NTAzXkEyXkFqcGdeQXVyNTc0NTE3NDc@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD THIRILLER", TKG The Kids of Grove (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/TKG%20The%20Kids%20of%20Grove%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://64.media.tumblr.com/1d0cc8421c92c7fd4da94dc6b60e476e/8e2655e827b0567c-9b/s500x750/29d84f1275ade208e6635f719ca90bb3bc814841.jpg" group-title="VOD THIRILLER", Un desliz fatal (2020)
