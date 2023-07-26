@@ -487,6 +487,8 @@ https://archive.org/download/1-90_20230724/67867878978907.mp4
 https://archive.org/download/1-90_20230724/7856745690.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/897589694uyio54u67o54.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/897589694uyio54u67o54.jpg" group-title="VOD ACCION", Ver_La_cabeza_de_la_araña_2022
 https://archive.org/download/1-90_20230724/897589694uyio54u67o54.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/12786312783681296341289.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/12786312783681296341289.jpg" group-title="VOD ACCION", Rapido y furioso X  [ 2023 ]
+https://archive.org/download/1-90_20230724/12786312783681296341289.mp4
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" group-title="VOD ANIMACION", 101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIMACION", 7 Days War 2019
@@ -685,8 +687,6 @@ https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20R
 https://archive.org/download/por-encima-de-la-ley-1/16%20Paw%20Patrol%20La%20pel%C3%ADcula%202021.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Pers%C3%A9polis.jpg" group-title="VOD ANIMACION", Persépolis
 https://archive.org/download/94-1_20210929/Pers%C3%A9polis.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Peter%20Rabbit%202.jpg" group-title="VOD ANIMACION", Peter Rabbit 2
-https://archive.org/download/yummy_202105/-%20Peter%20Rabbit%202.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/sr-y-sra-smith/Phineas%20y%20Ferb%20la%20pel%C3%ADcula%20Candace%20contra%20el%20universo.jpg" group-title="VOD ANIMACION", Phineas y Ferb la película Candace contra el universo
 https://archive.org/download/sr-y-sra-smith/Phineas%20y%20Ferb%20la%20pel%C3%ADcula%20Candace%20contra%20el%20universo.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/438/21043830_20130925135532486.jpg" group-title="VOD ANIMACION", Pocahontas 2 Viaje a un nuevo mundo (1998)
