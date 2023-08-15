@@ -489,6 +489,12 @@ https://archive.org/download/1-90_20230724/7856745690.mp4
 https://archive.org/download/1-90_20230724/897589694uyio54u67o54.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/12786312783681296341289.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/12786312783681296341289.jpg" group-title="VOD ACCION", Rapido y furioso X  [ 2023 ]
 https://archive.org/download/1-90_20230724/12786312783681296341289.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" group-title="VOD ACCION", Caos El inicio (2021)
+https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20%20Caos%20El%20inicio%20%282021%29%201080p~1.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" group-title="VOD ACCION", Barry Seal, solo en América
+https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD ACCION", Caos, el inicio
+https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio~1.mp4
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" group-title="VOD ANIMACION", 101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIMACION", 7 Days War 2019
@@ -959,6 +965,8 @@ https://archive.org/download/wonder-woman-1984-2020_202012/Wonder%20Woman%201984
 https://archive.org/download/1-90_20230724/78786897907890.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058605860.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058605860.jpg" group-title="VOD CIENCIA FICCIÓN", Proyecto GEMINI  (2022)
 https://archive.org/download/1-90_20230724/9058605860.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino.jpg" group-title="VOD CIENCIA FICCIÓN", Kill Mode
+https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino~1.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.jpg" group-title="VOD COMEDIA", Al diablo con el diablo
 https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.mp4
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg" group-title="VOD COMEDIA", All You Need Is Love (2009)
@@ -1239,6 +1247,10 @@ https://archive.org/download/1-90_20230724/89476567878.mp4
 https://archive.org/download/1-90_20230724/8956996567678.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/95869058690850.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/95869058690850.jpg" group-title="VOD COMEDIA", Ser padre (2021)
 https://archive.org/download/1-90_20230724/95869058690850.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg" group-title="VOD COMEDIA", Confesiones de una chica invisible
+https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg" group-title="VOD COMEDIA", El ladrón de orquídeas
+https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg" group-title="VOD DRAMA", After Aqui´ empieza todo (2019)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20Aqui%CC%81%20empieza%20todo%20%282019%29.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/After_En_mil_pedazos-608965132-large.jpg" group-title="VOD DRAMA", After En mil pedazos
@@ -1627,6 +1639,12 @@ https://archive.org/download/mentiras-verdaderas-1/Women.jpg
 https://archive.org/download/1-90_20230724/546567568678967.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058790867867.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058790867867.jpg" group-title="VOD DRAMA", A través de mi ventana 2022
 https://archive.org/download/1-90_20230724/9058790867867.mp4
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD DRAMA", Crisis (2021)
+https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20Crisis%20%282021%29%201080p~1.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.jpg" group-title="VOD DRAMA", Birds of Paradise
+https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.jpg" group-title="VOD DRAMA", El Estornino 2021
+https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.mp4
 #EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg" group-title="VOD SUSPENSO", Agatha y la verdad del crimen (2018)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
 #EXTINF: -1 tvg-logo="https://www1.naijgreen.com/wp-content/uploads/2020/06/Coherence-2013-BluRay-480p720p.jpg" group-title="VOD SUSPENSO", Coherence (2013)
@@ -1659,6 +1677,8 @@ https://archive.org/download/94-1_20210929/Viejos.mp4
 https://archive.org/download/1-90_20230724/895468908690.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/98590689.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/98590689.jpg" group-title="VOD SUSPENSO", El silencio del pantano (2019)
 https://archive.org/download/1-90_20230724/98590689.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cuestiaon_de_sangre-949085240-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Cuestiaon_de_sangre-949085240-large.jpg" group-title="VOD SUSPENSO", Cuestión de sangre
+https://ia902302.us.archive.org/29/items/94-1_20210929/-%20Cuesti%C3%B3n%20de%20sangre~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg" group-title="VOD TERROR", A Feral World (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
 #EXTINF: -1 tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg" group-title="VOD TERROR", Algunas veces ellos vuelven (1991)
@@ -1869,6 +1889,14 @@ https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%2
 https://archive.org/download/mentiras-verdaderas-1/Vuelven~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/8954768954.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/8954768954.jpg" group-title="VOD TERROR", El exorcista del papa (2023)
 https://archive.org/download/1-90_20230724/8954768954.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.jpg" group-title="VOD TERROR", La Nueva Noche De Los Muertos Vivientes
+https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Old_Ways-698410071-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/The_Old_Ways-698410071-large.jpg" group-title="VOD TERROR", Las formas antiguas
+https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20Las%20formas%20antiguas%20%282020%29%201080p~1.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.jpg" group-title="VOD TERROR", Amityville El despertar
+https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.ia.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20II%20La%20Posesi%C3%B3n.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20II%20La%20Posesi%C3%B3n.jpg" group-title="VOD TERROR", Amityville II La Posesión
+https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.ia.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.jpg" group-title="VOD THIRILLER", 200 Degrees
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.jpg" group-title="VOD THIRILLER", 60 Segundos  Gone in 60 Seconds 2000 Latino
@@ -2049,6 +2077,12 @@ https://archive.org/download/1-90_20230724/7856675789.mp4
 https://archive.org/download/1-90_20230724/8904785784.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/89789690790.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/89789690790.jpg" group-title="VOD THIRILLER", INSIDE  [ 2023 ]
 https://archive.org/download/1-90_20230724/89789690790.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star_thumb.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star_thumb.jpg" group-title="VOD THIRILLER", Broken Star
+https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star~1.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras.jpg" group-title="VOD THIRILLER", Ciudad de mentiras
+https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras~1.ia.mp4
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.jpg" group-title="VOD THIRILLER", El Estornino 2021
+https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.mp4
 #EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" group-title="VOD AVENTURA", Alejandro Magno 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.jpg" group-title="VOD AVENTURA", El hombre agua
