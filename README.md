@@ -491,33 +491,31 @@ https://archive.org/download/1-90_20230724/897589694uyio54u67o54.mp4
 https://archive.org/download/1-90_20230724/12786312783681296341289.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" group-title="VOD ACCION", Caos El inicio (2021)
 https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20%20Caos%20El%20inicio%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" group-title="VOD ACCION", Barry Seal, solo en América
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" group-title="VOD ACCION", solo en América
 https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD ACCION", Caos, el inicio
+#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD ACCION", el inicio
 https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio~1.mp4
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" group-title="VOD ANIMACION", 101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29.jpg" group-title="VOD ANIMACION", 7 Days War 2019
-https://archive.org/download/morituri_202108/7%20Days%20War%20%282019%29~1.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="VOD ANIMACION", Ainbo La guerrera del Amazonas 2021
 https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas.jpg" group-title="VOD ANIMACION", Alicia en el país de las maravillas
 https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas~1.mp4
-#EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg" group-title="VOD ANIMACION", Amor de gata (2020)
+#EXTINF: -1 tvg-logo="https://i1.whakoom.com/large/32/01/28b6a00dcd0a4f83becdb7c0bca75570.jpg" tvg-logo-small="https://i1.whakoom.com/large/32/01/28b6a00dcd0a4f83becdb7c0bca75570.jpg" group-title="VOD ANIMACION", Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 #EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F018%2F724%2Ffievel-va-al-oeste-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIMACION", An American Tail Fievel Goes West
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fievel%20va%20al%20Oeste%20%281991%29.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg" group-title="VOD ANIMACION", Animal Crackers (2017)
 https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://letrasanime.com/animes-info/aooni-the-blue-monster/cover/aooni-the-blue-monster-lyrics.jpg" group-title="VOD ANIMACION", Ao Oni The Animation 2017
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE3NDg0NDktYzBiMy00NDg2LWEzOGYtMGI3NDVjZTRkMzgzXkEyXkFqcGdeQXVyNTgwNzU4NjM@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMTE3NDg0NDktYzBiMy00NDg2LWEzOGYtMGI3NDVjZTRkMzgzXkEyXkFqcGdeQXVyNTgwNzU4NjM@._V1_.jpg" group-title="VOD ANIMACION", Ao Oni The Animation 2017
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg" group-title="VOD ANIMACION", Astro Boy (2009)
 https://archive.org/download/animal-crackers-2017_202101/Astro%20Boy%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-8426381362.jpg" group-title="VOD ANIMACION", Barbie Aventura de Princesa (2020)
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/xXB5sImAD1G1GetCaZIfN0rvWTs.jpg" tvg-logo-small="https://image.tmdb.org/t/p/original/xXB5sImAD1G1GetCaZIfN0rvWTs.jpg" group-title="VOD ANIMACION", Barbie Aventura de Princesa (2020)
 https://archive.org/download/Amadrinadas/Barbie%20Aventura%20de%20Princesa%20%282020%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.jpg" group-title="VOD ANIMACION", Barbie Una aventura de sirenas
 https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.mp4
-#EXTINF: -1 tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9340823/ewfwefwef.jpg" group-title="VOD ANIMACION", Bob Esponja Un heroe al rescate (2020)
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Un_haeroe_al_rescate-830044791-mmed.jpg" group-title="VOD ANIMACION", Bob Esponja Un heroe al rescate (2020)
 https://archive.org/download/Amadrinadas/Bob%20Esponja%20Un%20he%CC%81roe%20al%20rescate%20%282020%29.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU2OTdmZTQtZTcwMC00NzI3LThhMGYtMzNhMTYxNTdkOTJiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UY1200_CR108,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", Bobbleheads The Movie (2020)
 https://archive.org/download/Amadrinadas/Bobbleheads%20The%20Movie%20%282020%29.mp4
@@ -527,8 +525,6 @@ https://archive.org/download/animal-crackers-2017_202101/Bunyan%20and%20Babe%20%
 https://archive.org/download/Amadrinadas/Captain%20Underpants%20Mega%20Blissmas.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdjMWVhMjAtYzNmMS00NWQ5LWJmOTYtNTc1MzhmMTBhYTM1XkEyXkFqcGdeQXVyNjk1MTYwMzM@._V1_.jpg" group-title="VOD ANIMACION", Chico Bon Bon and the Very Berry Holiday (2020)
 https://archive.org/download/Amadrinadas/Chico%20Bon%20Bon%20and%20the%20Very%20Berry%20Holiday%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/morituri_202108/Chip%20y%20Chop.jpg" group-title="VOD ANIMACION", Chip y Chop
-https://archive.org/download/morituri_202108/Chip%20y%20Chop~1.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyN2Y5YWUtMDI5Zi00YjkwLWFlN2QtMjZlNjVhODZhYWI3XkEyXkFqcGdeQXVyMTIyNDUxNDU5._V1_UY1200_CR117,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", Combat Womba
 https://archive.org/download/Amadrinadas/Combat%20Womba.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/a_babysitter_s_guide_to_monster_hunting-494501314-large.jpg" group-title="VOD ANIMACION", Consejos de una canguro para cazar monstruos (2020)
@@ -821,6 +817,10 @@ https://archive.org/download/1-90_20230724/567890789078089.mp4
 https://archive.org/download/1-90_20230724/7868979089789.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058905869058.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058905869058.jpg" group-title="VOD ANIMACION", Dragon Ball Super Super Hero
 https://archive.org/download/1-90_20230724/9058905869058.mp4
+#EXTINF: -1 tvg-logo="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" tvg-logo-small="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" group-title="VOD ANIMACION", La era de hielo 1
+https://archive.org/download/la-era-de-hielo-calidad-alexiusyt/La%20era%20de%20hielo%20calidad%20alexiusyt.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/f64d834fa8e121bb8067f9b18b891df5.jpg" group-title="VOD ANIMACION", La era de hielo 3
+https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/162682--08b297db-6c24-4f25-84d1-19a3764b1c68--bwkl--1143539-uptobox~1.mp4
 #EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg" group-title="VOD CIENCIA FICCIÓN", Amores caníbales (2016)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Amores%20can%C3%ADbales%20%282016%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://descargasinads.com/wp-content/uploads/2020/07/archive-poster-ver-online-descargar-WWW.DESCARGASINADS.jpg" group-title="VOD CIENCIA FICCIÓN", Archive (2020)
