@@ -495,6 +495,8 @@ https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20%20Caos%20E
 https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
 #EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD ACCION", el inicio
 https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio~1.mp4
+#EXTINF: -1 tvg-logo="https://pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg&w=256&q=75" group-title="VOD ANIMACION", Gato con Botas: El último deseo 2022
+https://cx580d.video-delivery.net/u5kj6tstl7elsdgge6fsgzyojvfaq7qaljb2r3ljfusmcdwaopndw6n5v75q/101464--c830d656-ecd9-4322-8bf2-eeefac80bfd0--BK--deca--963684-doodstream.mp4
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" group-title="VOD ANIMACION", 101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="VOD ANIMACION", Ainbo La guerrera del Amazonas 2021
