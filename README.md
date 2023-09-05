@@ -474,7 +474,7 @@ https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD ACCION", Muerte en Tombstone 2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mi_amigo_el_gigante-626121729-large.jpg" group-title="VOD ANIMACION", El buen amigo gigante 2016
-https://archive.org/download/rick-01x-10_202309/6757678896789678.mp4
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/6757678896789678~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/85/32/61/19783007.jpg" group-title="VOD ANIMACION", Animales al Ataque
 https://archive.org/download/PELICULASINFANTILES/Animales%20al%20Ataque.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTVkYjctYTMxZi00OTVlLWEyNzMtODg4MDRkNjBhYjZhXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg" group-title="VOD ANIMACION", CORALINE
@@ -832,7 +832,7 @@ https://archive.org/download/la-era-de-hielo-calidad-alexiusyt/La%20era%20de%20h
 #EXTINF: -1 tvg-logo="https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/f64d834fa8e121bb8067f9b18b891df5.jpg" group-title="VOD ANIMACION", La era de hielo 3
 https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/162682--08b297db-6c24-4f25-84d1-19a3764b1c68--bwkl--1143539-uptobox~1.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vengadores_La_era_de_Ultraon-401801933-large.jpg" group-title="VOD CIENCIA FICCIÓN", Avengers era de Ultrón
-https://archive.org/download/rick-01x-10_202309/Th3.4v3ng3rs.4g3.0f.th3.ultr0n.2015.brrip.720p.latino.mp4
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Th3.4v3ng3rs.4g3.0f.th3.ultr0n.2015.brrip.720p.latino~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/78786897907890.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/78786897907890.jpg" group-title="VOD CIENCIA FICCIÓN", Al Borde De La Estincion [ 2023 ]
 https://archive.org/download/1-90_20230724/78786897907890.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/7856745690.jpg" group-title="VOD CIENCIA FICCIÓN", Thor Amor y trueno (2022)
@@ -842,7 +842,7 @@ https://archive.org/download/rick-01x-10_202309/D34dp00l.2016.brrip.720p.latino.
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ant_Man-627211491-large.jpg" group-title="VOD CIENCIA FICCIÓN", ANT MAN 2015
 https://archive.org/download/rick-01x-10_202309/4nt.m4n.2015.brrip.720p.latino.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg" group-title="VOD CIENCIA FICCIÓN", Capitan America Civil War
-https://archive.org/download/rick-01x-10_202309/C4pt41n.4m3r1c4.c1v1l.w4r.2016.brrip.720p.latino.mp4
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/C4pt41n.4m3r1c4.c1v1l.w4r.2016.brrip.720p.latino~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg" group-title="VOD CIENCIA FICCIÓN", Amores caníbales (2016)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Amores%20can%C3%ADbales%20%282016%29%20720p.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk2NTY2ZjMtYTUyNC00NDQ1LWJhMzUtYmI4NWEwMjVkMmZmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD CIENCIA FICCIÓN", Archive (2020)
