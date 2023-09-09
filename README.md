@@ -473,6 +473,12 @@ https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD ACCION", Muerte en Tombstone 2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_Simpson_La_pelaicula-286126397-large.jpg" group-title="VOD ANIMACION", Los Simpson La pelIcula
+https://ia902606.us.archive.org/23/items/los-simpson-la-pelicula_202304/simpson/Los%20Simpson_%20La%20Pel%C3%ADcula.mp4
+#EXTINF: -1 tvg-logo="https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/f64d834fa8e121bb8067f9b18b891df5.jpg" group-title="VOD ANIMACION", La era de hielo 3
+https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/162682--08b297db-6c24-4f25-84d1-19a3764b1c68--bwkl--1143539-uptobox~1.mp4
+#EXTINF: -1 tvg-logo="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" tvg-logo-small="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" group-title="VOD ANIMACION", La era de hielo 1
+https://archive.org/download/la-era-de-hielo-calidad-alexiusyt/La%20era%20de%20hielo%20calidad%20alexiusyt.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mi_amigo_el_gigante-626121729-large.jpg" group-title="VOD ANIMACION", El buen amigo gigante 2016
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/6757678896789678~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/85/32/61/19783007.jpg" group-title="VOD ANIMACION", Animales al Ataque
@@ -827,10 +833,6 @@ https://archive.org/download/1-90_20230724/567890789078089.mp4
 https://archive.org/download/1-90_20230724/7868979089789.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058905869058.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058905869058.jpg" group-title="VOD ANIMACION", Dragon Ball Super Super Hero
 https://archive.org/download/1-90_20230724/9058905869058.mp4
-#EXTINF: -1 tvg-logo="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" tvg-logo-small="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" group-title="VOD ANIMACION", La era de hielo 1
-https://archive.org/download/la-era-de-hielo-calidad-alexiusyt/La%20era%20de%20hielo%20calidad%20alexiusyt.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/f64d834fa8e121bb8067f9b18b891df5.jpg" group-title="VOD ANIMACION", La era de hielo 3
-https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/162682--08b297db-6c24-4f25-84d1-19a3764b1c68--bwkl--1143539-uptobox~1.mp4
 #EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vengadores_La_era_de_Ultraon-401801933-large.jpg" group-title="VOD CIENCIA FICCIÓN", Avengers era de Ultrón
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Th3.4v3ng3rs.4g3.0f.th3.ultr0n.2015.brrip.720p.latino~1.ia.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/78786897907890.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/78786897907890.jpg" group-title="VOD CIENCIA FICCIÓN", Al Borde De La Estincion [ 2023 ]
