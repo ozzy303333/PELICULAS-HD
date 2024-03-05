@@ -1,2031 +1,2457 @@
-#EXTM3U 
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg" group-title="VOD ANIME", Afro Samurai Resurrection (2009)
+#EXTM3U
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg",Afro Samurai Resurrection (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20Aventura%20m%C3%ADstica.jpg" group-title="VOD ANIME", Aventura mística
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20Aventura%20m%C3%ADstica~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cencoroll_Connect-753281182-large.jpg" group-title="VOD ANIME", Cencoroll Connect (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cencoroll%20Connect%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/253339402/s592/detective-conan-22-el-caso-zero" group-title="VOD ANIME", Detective Conan 22 El caso Zero (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Detective%20Conan%2022%20El%20caso%20Zero%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20el%20camino%20hacia%20el%20poder.jpg" group-title="VOD ANIME", Dragon Ball el camino hacia el poder
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20el%20camino%20hacia%20el%20poder~1.mp4
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3O71Sjyh6mz5HRAhF26NWyG30Q9Hgu7TgZ0GryI41SyNo9U0Y" group-title="VOD ANIME", Dragon Ball Super Broly (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Super%20Broly%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20Devu%C3%A9lvanme%20a%20mi%20Gohan.jpg" group-title="VOD ANIME", Dragon Ball Z Devuélvanme a mi Gohan
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20Devu%C3%A9lvanme%20a%20mi%20Gohan~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20ataque%20del%20drag%C3%B3n.jpg" group-title="VOD ANIME", Dragon Ball Z El ataque del dragón
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20ataque%20del%20drag%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20combate%20final.jpg" group-title="VOD ANIME", Dragon Ball Z El combate final
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20combate%20final~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20hombre%20m%C3%A1s%20fuerte%20del%20mundo.jpg" group-title="VOD ANIME", Dragon Ball Z El hombre más fuerte del mundo
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20hombre%20m%C3%A1s%20fuerte%20del%20mundo~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20poder%20invencible.jpg" group-title="VOD ANIME", Dragon Ball Z El poder invencible
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20poder%20invencible~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20regreso%20del%20guerrero%20legendario.jpg" group-title="VOD ANIME", Dragon Ball Z El regreso del guerrero legendario
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%20El%20regreso%20del%20guerrero%20legendario~1.mp4
-#EXTINF: -1 tvg-logo="https://cinemarevius.files.wordpress.com/2015/06/dragon-ball-z-la-resurreccic3b3n-de-freezer-poster-1.jpg" group-title="VOD ANIME", Dragon Ball Z La resurreccio´n de Freezer (2015)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/G.I.%20Joe%2C%20el%20contraataque.jpg" group-title="VOD ANIME", el contraataque
-https://archive.org/download/por-encima-de-la-ley-1/G.I.%20Joe%2C%20el%20contraataque~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Kenshin_El_Guerrero_Samur_i_La_Pel_cula-125599913-large.jpg" group-title="VOD ANIME", El Guerrero Samurái
-https://archive.org/download/cesser-16-acrimony-1080p/Ver%20Kenshin%2C%20El%20Guerrero%20Samur%C3%A1i%20%28%29%20480%20%40JuAnChO1304.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_himno_del_coraz_n-275323689-large.jpg" group-title="VOD ANIME", El Himno del Corazon (2015)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20Himno%20del%20Corazo%CC%81n%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/02/08/12/58/542941.jpg" group-title="VOD ANIME", El recuerdo de Marnie (2014)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20recuerdo%20de%20Marnie%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME", El rey espino (2009)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc",El rey espino (2009)
 https://archive.org/download/animal-crackers-2017_202101/El%20rey%20espino%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/05/22/10/13/585916.jpg" group-title="VOD ANIME", En este rincon del mundo (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/En%20este%20rinco%CC%81n%20del%20mundo%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://somoskudasai.com/wp-content/uploads/2020/10/evangelion_KV2-2.jpg" group-title="VOD ANIME", Evangelion 30 10 (2021)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Evangelion%2030%2B10%20%282021%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)" group-title="VOD ANIME", Fairy Tail Dragon Cry (2017)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)",Fairy Tail Dragon Cry (2017)
 https://archive.org/download/animal-crackers-2017_202101/Fairy%20Tail%20Dragon%20Cry%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-RN6sKVpdFDU/X9yAaQJJWKI/AAAAAAAFyOo/F7rkKe1X_gY41lqhMMTuGRmeVfUTGxi8ACLcBGAsYHQ/s700/prismaillyalicht.jpg" group-title="VOD ANIME", Fatekaleid liner PrismaIllya Movie Sekka no Chikai (2017)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://1.bp.blogspot.com/-RN6sKVpdFDU/X9yAaQJJWKI/AAAAAAAFyOo/F7rkKe1X_gY41lqhMMTuGRmeVfUTGxi8ACLcBGAsYHQ/s700/prismaillyalicht.jpg",Fatekaleid liner PrismaIllya Movie Sekka no Chikai (2017)
 https://archive.org/download/animal-crackers-2017_202101/Fatekaleid%20liner%20Prisma%E2%98%86Illya%20Movie%20Sekka%20no%20Chikai%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Final_Fantasy_XV_La_pel_cula-570069523-large.jpg" group-title="VOD ANIME", Final Fantasy XV La pelicula (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Final%20Fantasy%20XV%20La%20peli%CC%81cula%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_30580_90.jpg" group-title="VOD ANIME", Ghost in the Shell The Rising (2015)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ghost%20in%20the%20Shell%20The%20Rising%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg" group-title="VOD ANIME", Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg",Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20Los%20dos%20guerreros%20del%20futuro%2C%20Gohan%20%20y%20Trunks.jpg" group-title="VOD ANIME", Gohan  y Trunks
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20Los%20dos%20guerreros%20del%20futuro%2C%20Gohan%20%20y%20Trunks~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20Goku%20es%20un%20super%20Saiyajin.jpg" group-title="VOD ANIME", Goku es un super Saiyajin
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20Goku%20es%20un%20super%20Saiyajin~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes-464138472-large.jpg" group-title="VOD ANIME", Heroes humildes (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/He%CC%81roes%20humildes%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg" group-title="VOD ANIME", Heroes humildes (2018)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg",Heroes humildes (2018)
 https://archive.org/download/animal-crackers-2017_202101/He%CC%81roes%20humildes%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlMGY3OTUtZTljNS00MDAxLWE2YzYtMjc0ZjhlNzUwMDBhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="VOD ANIME", Kakurenbo (2005)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Kakurenbo%20%282005%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20La%20Batalla%20De%20Los%20Dioses.jpg" group-title="VOD ANIME", La Batalla De Los Dioses
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20La%20Batalla%20De%20Los%20Dioses~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20La%20batalla%20m%C3%A1s%20grande%20del%20mundo%20est%C3%A1%20por%20comenzar.jpg" group-title="VOD ANIME", La batalla más grande del mundo está por comenzar
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20La%20batalla%20m%C3%A1s%20grande%20del%20mundo%20est%C3%A1%20por%20comenzar~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20La%20bella%20durmiente%20en%20el%20castillo%20del%20mal.jpg" group-title="VOD ANIME", La bella durmiente en el castillo del mal
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20La%20bella%20durmiente%20en%20el%20castillo%20del%20mal~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20fusi%C3%B3n%20de%20Goku%20y%20Vegeta.jpg" group-title="VOD ANIME", la fusión de Goku y Vegeta
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20fusi%C3%B3n%20de%20Goku%20y%20Vegeta~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20galaxia%20corre%20peligro.jpg" group-title="VOD ANIME", la galaxia corre peligro
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20galaxia%20corre%20peligro.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20La%20leyenda%20del%20drag%C3%B3n%20Shenlong.jpg" group-title="VOD ANIME", La leyenda del dragón Shenlong
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%2C%20La%20leyenda%20del%20drag%C3%B3n%20Shenlong~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/toaru_hikuushi_e_no_tsuioku_toaru_hikushi_e_no_tsuioku_the_princess_and_the_pilot-165273344-mmed.jpg" group-title="VOD ANIME", La Princesa Y El Piloto 2011
-https://archive.org/download/por-encima-de-la-ley-1/La%20Princesa%20Y%20El%20Piloto%202011~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20%C3%BAltima%20batalla.jpg" group-title="VOD ANIME", la última batalla
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20la%20galaxia%20corre%20peligro.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20los%20rivales%20m%C3%A1s%20poderosos.jpg" group-title="VOD ANIME", los rivales más poderosos
-https://archive.org/download/por-encima-de-la-ley-1/Dragon%20Ball%20Z%2C%20los%20rivales%20m%C3%A1s%20poderosos~1.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/ifnaCaG37qeygihwKNnykWluAQW.jpg" group-title="VOD ANIME", Magical Girl Lyrical Nanoha Reflection (2017)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Magical%20Girl%20Lyrical%20Nanoha%20Reflection%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/73/bc/d0/73bcd021614be76919facd961eaceb40.jpg" group-title="VOD ANIME", Nanatsu no Taizai Movie Tenkuu no Torawarebito (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Nanatsu%20no%20Taizai%20Movie%20Tenkuu%20no%20Torawarebito%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth.jpg" group-title="VOD ANIME", Neon Genesis Evangelion Death & Rebirth
-https://archive.org/download/por-encima-de-la-ley-1/Neon%20Genesis%20Evangelion%20Death%20%26%20Rebirth~1.mp4
-#EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F699%2Fni-no-kuni-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME", Ni no Kuni (2019
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214684
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.jpg" group-title="VOD ANIME", NiNo
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.jpg",NiNo
 https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/13500/13514/001_m.jpg" group-title="VOD ANIME", No Game No Life Zero (2017)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/No%20Game%20No%20Life%20Zero%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/10/28/17/02/4637907.jpg" group-title="VOD ANIME", One Piece Estampida (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Estampida%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://legiondescargas.com/wp-content/uploads/2019/08/ssssssssd65das.jpg" group-title="VOD ANIME", One Piece Gold (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/One%20Piece%20Gold%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Ovella.jpg" group-title="VOD ANIME", Ovella
-https://archive.org/download/por-encima-de-la-ley-1/Ovella~1.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg" group-title="VOD ANIME", Redline (2009)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg",Redline (2009)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2018/08/Flavors_of_youth_netflix-723x1024.jpg" group-title="VOD ANIME", Shikioriori (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Shikioriori%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/FireWorks-929306530-large.jpg" group-title="VOD ANIME", Shita kara Miru ka Yoko kara Miru ka (2017)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Uchiage%20Hanabi%2C%20Shita%20kara%20Miru%20ka%20Yoko%20kara%20Miru%20ka%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Strait_Jacket-213091204-large.jpg" group-title="VOD ANIME", Strait Jacket (2007)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Strait%20Jacket%20%282007%29.mp4
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-xEk0xCoPjfE/W3hZ2moXanI/AAAAAAAABOY/cn9JMvwRSYM84e1SoaXexRRlPK-kbZmKgCPcBGAYYCw/s1600/c59bbc06b7493ea9b43fe3f2aca1d2ca7808b63e_hq.jpg" group-title="VOD ANIME", Suki ni Naru Sono Shunkan wo Kokuhaku Jikkou Iinkai (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Suki%20ni%20Naru%20Sono%20Shunkan%20wo%20Kokuhaku%20Jikkou%20Iinkai%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F051%2F413%2Fsword-art-online-ordinal-scale-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIME", Sword Art Online La peli´cula Ordinal scale (2017)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Sword%20Art%20Online%20La%20peli%CC%81cula%20Ordinal%20scale%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg" group-title="VOD ANIME", The Wonderland (2019)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg",The Wonderland (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg" group-title="VOD ANIME", Toys and pets - Tea Pets (2017)
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg",Toys and pets - Tea Pets (2017)
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2017/10/voz-silenciosa.jpg?itok=Igtmlqeh" group-title="VOD ANIME", Una voz silenciosa (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Una%20voz%20silenciosa%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/17/02/08/13/45/536055.jpg" group-title="VOD ANIME", Your name (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Your%20name%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Yu_Gi_Oh_El_lado_oscuro_de_las_dimensiones-949144323-large.jpg" group-title="VOD ANIME", Yu-Gi-Oh! El Lado Oscuro de las Dimensiones (2016)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Yu-Gi-Oh%21%20El%20Lado%20Oscuro%20de%20las%20Dimensiones%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.jpg" group-title="VOD ANIME", Zha
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.jpg",Zha
 https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/41/00/20062894.jpg" group-title="VOD ACCION", 16 calles (2006)
+#EXTINF:-1 ,¡Shazam! La Furia de los Dioses (2023)
+http://archive.org/download/UME1K185/SZFDLD23.mkv
+#EXTINF:-1  tvg-logo="http://archive.org/download/123321212/007%20CASINO%20ROYALE.jpg",007 - Casino royale (480p HD)
+http://archive.org/download/26_20200912_20200912_1335/sub1d0_p4r4_5tr34ming_A85/25.mp4
+#EXTINF:-1 ,007 Al Servicio De Su Majestad 1969 ( Accion )
+http://archive.org/download/20230426_20230426_0127/OO7%204.l%20S.3.rv1c10%20d3%20S6%20M4j3st4d%20%281969%29.mp4
+#EXTINF:-1 ,007 Octopussy Contra Las Chicas Mortales 1983 ( Accion )
+http://archive.org/download/20230426_20230426_0136/OO7-%200.c.t.0p6ss9%20C0ntr4%20L4s%20Ch1c4s%20M0rt4l3s%20%281983%29.mp4
+#EXTINF:-1 ,007 Otro Día Para Morir 2002 ( Accion )
+http://archive.org/download/20230426_20230426_0132/OO7-%200.t.r.0%20D14%20P4r4%20M0r1r%20%282002%29.mp4
+#EXTINF:-1  tvg-logo="http://archive.org/download/123321212/127%20HORAS.jpg",127 horas (480p HD)
+http://archive.org/download/00000_202009/0000007.mp4
+#EXTINF:-1 ,3 ting 2017 (480p HD)
+http://archive.org/download/00000_202006/11.mp4
+#EXTINF:-1 ,300 2007 (Accion)
+http://archive.org/download/20230415_20230415_1227/3.0.0.%202007.mp4
+#EXTINF:-1 ,47 Runin (Dual audio+Sub Esp & Eng) (480p HD)
+http://archive.org/download/1_20190723/sub1d0_p4r4_5tr34ming_A85/1.mkv
+#EXTINF:-1 ,6 en la sombra 2019 Pelicula de Net ( 480p HD)
+http://archive.org/download/000_20191215_201912/5.mp4
+#EXTINF:-1 ,8 Minutos antes de Morir (480p HD)
+http://archive.org/download/00000_20200930/000012.mp4
+#EXTINF:-1 ,A 47 metros de ti (latino) (480p HD)
+http://archive.org/download/000_20200306_20200306_0448/06.mp4
+#EXTINF:-1 ,Ad astra 2019 (480p HD)
+http://archive.org/download/000_20200129_20200129_0445/2.mp4
+#EXTINF:-1 ,Alerta Extrema (2023)
+http://archive.org/download/OM006VQZ/ALEXTR23.mkv
+#EXTINF:-1 ,Alien warfare 2019 (480p HD)
+http://archive.org/download/ziduyaliri_mail-register_002/002.mp4
+#EXTINF:-1 ,Alita
+http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/f5baba9a1b6251c279fcb453e0dac2%20-480p.mp4
+#EXTINF:-1 ,Ambulancia Plan De Huida 2022 (Acción)
+http://archive.org/download/20230426_20230426_0049/4.m.b.6l4nc3.%20Pl4n%20d3%20h61d4%20%282022%29.mp4
+#EXTINF:-1 ,Amenaza en lo profundo 2020 (480p HD)
+http://archive.org/download/000_20200402/07.mp4
+#EXTINF:-1 ,Amores Perros (2000)
+http://archive.org/download/2000_202207/Amores%20Perros%202000.mp4
+#EXTINF:-1 ,Angeles de charlie 2019 ( calidad HD )
+http://archive.org/download/0_20200218_20200218/300.mp4
+#EXTINF:-1 ,Ant-man (480p HD)
+http://archive.org/download/correoicfes2016_gmail_42/Ant1.mp4
+#EXTINF:-1 ,Ant-Man and The Wasp 2018 (360p HD)
+http://archive.org/download/00_20201006/00017.mp4
+#EXTINF:-1 ,Ant-Man and The Wasp: Quantumania (2023)
+http://archive.org/download/D91V3LS6/AMQUNA23.mkv
+#EXTINF:-1 ,Apocalispsis 2010 (480p HD)
+http://archive.org/download/000_20200317_20200317_1332/06.mp4
+#EXTINF:-1 ,Aquaman 2018(opc) (480p HD)
+http://archive.org/download/00000_20200918/10.mp4
+#EXTINF:-1 ,Aquaman y el Reino Perdido (2023) (Lat/Ing)
+http://archive.org/download/05T4FJ67/AQRPDD23.mkv
+#EXTINF:-1 ,Asesinos 1995 (Accion)
+http://archive.org/download/20230416_20230416_0156/4s3s1n0s%201995.mp4
+#EXTINF:-1 ,Atentado en el estadio (360P)
+http://archive.org/download/000_20191209_20191209_1845/1.mp4
+#EXTINF:-1 ,Atracción peligrosa 2010 (480p HD)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.mp4
+#EXTINF:-1 ,Avatar 2009 (CALIDAD HD)
+http://archive.org/download/dovacateg_maillink_1/wiimc/1.mp4
+#EXTINF:-1 ,Avengers - End Game (360p HD)
+http://archive.org/download/00_20201004/00006.mp4
+#EXTINF:-1 ,Avengers - End Game (480p HD) opcion 2
+http://archive.org/download/00copia_20191122/eg.mp4
+#EXTINF:-1 ,Avengers - End Game (480p HD) opcion 3
+http://archive.org/download/000_20191216/2.mp4
+#EXTINF:-1 ,Avengers 1: Los Vengadores (480p HD)
+http://archive.org/download/00000_20200926/000002.mp4
+#EXTINF:-1 ,Avengers 1: Los Vengadores OPC2 (360P)RECOMENDADA
+http://archive.org/download/00_20201006/00014.mp4
+#EXTINF:-1 ,Avengers 2: Era de Ultron (360p HD)
+http://archive.org/download/00_20201006/00015.mp4
+#EXTINF:-1 ,Avengers Infinity War 2018 (480p HD)
+http://archive.org/download/awita/awita.mp4
+#EXTINF:-1 ,AVES DE PRESA - LATINO (480p HD)
+http://archive.org/download/00_20200409/03.mp4
+#EXTINF:-1 ,Aves de Presa (sub) (480p HD)
+http://archive.org/download/01_20200311_20200311/Sub1do_p4r4_Str34m_AB5/01.mp4
+#EXTINF:-1 ,Bad Boys para siempre (360P)
+http://archive.org/download/0_20200407_20200407_1605/01.mp4
+#EXTINF:-1 ,Bajo Cero 2021 (Accion)
+http://archive.org/download/20230416_20230416_1337/B.4.j.0c3r0%202021.mp4
+#EXTINF:-1 ,Barry Seal El Traficante 2017 (Accion)
+http://archive.org/download/20230416_20230416_1316/B.4.r.r9%20S34l-%203l%20tr4f1c4nt3%20%282017%29.mp4
+#EXTINF:-1 ,Batman inicia 2005 (480p HD)
+http://archive.org/download/00000_202009/000001.mp4
+#EXTINF:-1 ,Batman vuelve 1992 (480p HD)
+http://archive.org/download/00000_202008/000026.mp4
+#EXTINF:-1 ,Beekeeper: Sentencia de Muerte (2024) (Lat/Ing)
+http://archive.org/download/5R67NLJX/BKPSDM24.mkv
+#EXTINF:-1 ,Between Worlds 2018 (480p HD)
+http://archive.org/download/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
+#EXTINF:-1 ,Beyon white space 2018 opc2(480p HD)
+http://archive.org/download/3_20191128_20191128/3.mp4
+#EXTINF:-1 ,Black and blue 2019 (480p HD)
+http://archive.org/download/000_20200122/2.mp4
+#EXTINF:-1 ,Black Panther - (480p HD)
+http://archive.org/download/00000_202008/000027.mp4
+#EXTINF:-1 ,Bleach 2018 LIVE(480p HD)
+http://archive.org/download/sototo_patonce_04/04.mp4
+#EXTINF:-1 ,Bloodshot 2020 (480p HD)
+http://archive.org/download/000_20200324_20200324_2252/02.mp4
+#EXTINF:-1 ,Blue Beetle (2023)
+http://archive.org/download/K4HT516J/BLBET023.mkv
+#EXTINF:-1 ,Breaking Bad - El camino (SUB)
+http://archive.org/download/1_20191012_201910/Sub1d0_p4r4_str34m1ng_A85/1.mp4
+#EXTINF:-1 ,Bronx 2020 Pelicula Net (480p HD)
+http://archive.org/download/000_20201026/00006.mp4
+#EXTINF:-1 ,Buenos Muchachos 1990 (480p HD)
+http://archive.org/download/FormatFactoryVerUnoDeLosNuestros1990OnlineLatinoHDPelisPlay.tv/FormatFactoryVer%20Uno%20de%20los%20nuestros%20%281990%29%20Online%20Latino%20HD%20-%20PelisPlay.tv.mp4
+#EXTINF:-1 ,bulletproof 2 2020 (480p HD)
+http://archive.org/download/00000_20200926/000008.mp4
+#EXTINF:-1 ,Bumblebee español latino (480p HD)
+http://archive.org/download/00000_202009/00000005.mp4
+#EXTINF:-1 ,Burn out 2018 (480p HD)
+http://archive.org/download/000_20191210/4.mp4
+#EXTINF:-1 ,Búsqueda Impecable
+http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%201.mp4
+#EXTINF:-1 ,Búsqueda Impecable 2
+http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%202.mp4
+#EXTINF:-1 ,Búsqueda Impecable 3
+http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%203.mp4
+#EXTINF:-1 ,Capitan America 1: El primer vengador (480p HD)
+http://archive.org/download/00000_20200926/000006.mp4
+#EXTINF:-1 ,Capitan America 2: El Soldado de invierno (480p HD)
+http://archive.org/download/00000_20200926/000009.mp4
+#EXTINF:-1 ,Capitan America 3: Civil War (480p HD)
+http://archive.org/download/00000_20200926/000011.mp4
+#EXTINF:-1 ,Capitan Philips 2013 (Accion)
+http://archive.org/download/20230409_20230409_1331/C.4.p.1.t.4.n%20Ph1ll1ps%20%282013%29.mp4
+#EXTINF:-1 ,Cazadores en Tierra Inhóspita (2024) (Lat/Cor)
+http://archive.org/download/9XEZ25V1/CADTII24.mkv
+#EXTINF:-1 ,Celular 2004 (480p HD)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/4.mp4
+#EXTINF:-1 ,Codigo 8 - 2019 (480p HD)
+http://archive.org/download/000_20200104_20200104_1517/3.mp4
+#EXTINF:-1 ,Comando kill 2016 (480p HD)
+http://archive.org/download/000_20191202_20191202/4.mp4
+#EXTINF:-1 ,Conan - El destructor (DVD-HD)
+http://archive.org/download/ConanElDestructorLat1080/conan%20el%20destructor%20lat%201080.ogv
+#EXTINF:-1 ,Condena Brutal 1989 (Accion)
+http://archive.org/download/20230415_20230415_1305/C.0.n.d3n4%20br6t4l%201989.mp4
+#EXTINF:-1 ,contacto sangriento (DVD-HD)
+http://archive.org/download/02_20191117/jujuju/03.mp4
+#EXTINF:-1 ,Contrabando (480p HD)
+http://archive.org/download/2_20191128_20191128_1720/16.mp4
+#EXTINF:-1 ,Contracara (DVD-RIP HD)
+http://archive.org/download/00000_20200926/000005.mp4
+#EXTINF:-1 ,crank 2 (DVD-RIP HD)
+http://archive.org/download/110_20200320/ca/110.mp4
+#EXTINF:-1 ,Cruzada 2005 (DVD-RIP)
+http://archive.org/download/meyabaror_netmails_3/3.mp4
+#EXTINF:-1 ,Cuarto de guerra 2015
+http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/14.mkv
+#EXTINF:-1 ,Cuatro Hermanos (2005)
+http://archive.org/download/45Y4AW3L/4HRMNS05.mkv
+#EXTINF:-1 ,Daredevil El Hombre Sin Miedo 2003 (Accion)
+http://archive.org/download/20230409_20230409_1305/D.4.r.3.d.3.v.1.l%203l%20H0mbr3%20s1n%20M13d0%20%282003%29.mp4
+#EXTINF:-1 ,De la cuna a la tumba 2003 (DVD-RIP)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/8.mp4
+#EXTINF:-1 ,De ladron a policia (480p HD)
+http://archive.org/download/07_20191209/hoiho/02.mp4
+#EXTINF:-1 ,Deadpool 1 (480p HD)
+http://archive.org/download/00000_202008/00015.mp4
+#EXTINF:-1 ,Deadpool 2 2018 (480p HD)
+http://archive.org/download/00000_202009/000000011.mp4
+#EXTINF:-1 ,Deseo de matar 2018 (480p HD)
+http://archive.org/download/damiantellez78_gmail_362/Sthepensonprieto_ladron/362.mp4
+#EXTINF:-1 ,Destruccion los angeles 2017 (480p HD)
+http://archive.org/download/ziduyaliri_mail-register_08/08.mp4
+#EXTINF:-1 ,Doctor Strange - (360p HD)
+http://archive.org/download/00_20201004/000002.mp4
+#EXTINF:-1 ,Doom: Aniquilación
+http://archive.org/download/doom-annihilation-720-latino/Doom-%20Annihilation%20720-%20LATINO.mp4
+#EXTINF:-1 ,El avión del dinero 2020 (480p)
+http://archive.org/download/00000_20200928/000003.mp4
+#EXTINF:-1 ,El beso del dragon (DVD-RIP)
+http://archive.org/download/1_20190830_20190830_1956/atte_sd_kiss/1.mp4
+#EXTINF:-1 ,El Escuadrón del Crimen (2010)
+http://archive.org/download/RK_77-35DC/05.avi
+#EXTINF:-1 ,El Escuadrón del Diablo 2018 (480p HD)
+http://archive.org/download/000_20200122_20200122/5.mp4
+#EXTINF:-1 ,El Fin de los Tiempos 2008 (480p HD)
+http://archive.org/download/01_20200524_20200524_0326/01.mp4
+#EXTINF:-1 ,El Gringo (2012) (Dual Audio)
+http://archive.org/download/John_S-5L-V_3X7/05.mkv
+#EXTINF:-1 ,El Plan Perfecto  (DVD-RIP)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/7.mp4
+#EXTINF:-1 ,El Plan Perfecto 2: El impostor 2019 (480P HD)
+http://archive.org/download/kicinigi2/Sub1d0_p4r4_5tr34ming_A85_V4R145_2/12.mkv
+#EXTINF:-1 ,El Plan Perfecto 2006 (480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/4.mkv
+#EXTINF:-1 ,El Plan Perfecto 2006 (Accion)
+http://archive.org/download/20230415_20230415_1245/3.l%20P.l.4n%20P3rf3ct0%202006.mp4
+#EXTINF:-1 ,El Precio del Mañana in time
+http://archive.org/download/69_20201012/sub1d0_p4r4_5tr34ming_A85/67.mp4
+#EXTINF:-1 ,El Robo perfecto 2018 (480p HD)
+http://archive.org/download/damiantellez78_gmail_928/sthepersonprieto_ladron/928.mp4
+#EXTINF:-1 ,El Señor de la guerra 2005 (DVD-RIP)
+http://archive.org/download/000_20191215/1.mp4
+#EXTINF:-1 ,El Traficante (480p HD)
+http://archive.org/download/000_20191203/2.mp4
+#EXTINF:-1 ,El Transportador 2 2005 (480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/12.mkv
+#EXTINF:-1 ,El Transportador 3. 2008 (480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/13.mkv
+#EXTINF:-1 ,El transportador recargado 2015 (480p HD)
+http://archive.org/download/7H3.794N5P09/7H3.794N5P09739.93FU313D-ES-360.mp4
+#EXTINF:-1 ,El Transportador Recargado 2015 (480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/14.mkv
+#EXTINF:-1 ,El Transportador. 2002 (480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/11.mkv
+#EXTINF:-1 ,El Unico JLee (480p HD)
+http://archive.org/download/elalcaheda28_gmail_EUO/EUO.mp4
+#EXTINF:-1 ,Elektra (DVD-RIP)
+http://archive.org/download/0_20200519/01.mp4
+#EXTINF:-1 ,Enemigo inmortal 2018 (480p HD)
+http://archive.org/download/000_20191205_201912/1.mp4
+#EXTINF:-1 ,Enemigo Público 1998 (Accion)
+http://archive.org/download/20230409_20230409_0139/3.n.3.m.1.g.0%20P.6.b.l.1.c.0%20%281998%29.mp4
+#EXTINF:-1 ,Enola Holmes 2 (2022)
+http://archive.org/download/R17LM9WC/P824I21O.mkv
+#EXTINF:-1 ,Enola Holmes pelicula N 2020 (480p)
+http://archive.org/download/000_20201026/00009.mp4
+#EXTINF:-1 ,faan (SUB) (480p HD)
+http://archive.org/download/Sh1r5kkFl1n2/sharukk%20flan.mp4
+#EXTINF:-1 ,Focus Maestro de la estafa (accion)
+http://archive.org/download/05e-87d-755b-52ca-68ff-753767357879d-8-360p/05e87d755b52ca68ff753767357879d8-360p.mp4
+#EXTINF:-1 ,FORD Y FERRARI 2019 (480p HD)
+http://archive.org/download/01_20200304/Sub1do_p4r4_Str34m_AB5/01.mp4
+#EXTINF:-1 ,Fuego Negro 2020 peli de la gran N (480p HD)
+http://archive.org/download/00000_20200928/000002.mp4
+#EXTINF:-1 ,Gangster americano 2007 (480p HD)
+http://archive.org/download/23_20200911_20200911_2012/23.mp4
+#EXTINF:-1 ,Ghosteado (2023)
+http://archive.org/download/FR135LHC/GHSTDO23.mkv
+#EXTINF:-1 ,Gigantes De Acero
+http://archive.org/download/ttjum042/ttjum042.mp4
+#EXTINF:-1 ,GLASS 2019 (480p HD)
+http://archive.org/download/00000_202009/000002.mp4
+#EXTINF:-1 ,Godzilla Contra Mechagodzilla (2002) (Lat/Jap)
+http://archive.org/download/4HWS40S9/GDVMCH02.mkv
+#EXTINF:-1 ,Godzilla Contra Mechagodzilla (2002) (Lat/Jap) (360p)
+http://archive.org/download/4HWS40S9/GDVMCH02L.mkv
+#EXTINF:-1 ,Godzilla Contra Mechagodzilla II (1993) (Lat/Jap)
+http://archive.org/download/5Q8MU8G4/GZVMCG93.mkv
+#EXTINF:-1 ,Godzilla Contra Mechagodzilla II (1993) (Lat/Jap) (360p)
+http://archive.org/download/4P14VLCM/GZVMCG93L.mkv
+#EXTINF:-1 ,Godzilla: Final Wars (2004) (Lat/Jap)
+http://archive.org/download/S4N5736E/GZFNWS04.mkv
+#EXTINF:-1 ,Guardianes de la Galaxia 1 (480p HD)
+http://archive.org/download/00000_20200918/000001.mp4
+#EXTINF:-1 ,Guardianes de la Galaxia 2 (480p HD)
+http://archive.org/download/00000_20200918/0000002.mp4
+#EXTINF:-1 ,Guardianes de la Galaxia Volumen 3 (2023)
+http://archive.org/download/1XD112HB/GUDLGAV3.mkv
+#EXTINF:-1 ,Había una vez en... Hollywood (2019) (480p HD)
+http://archive.org/download/49_20200928/sub1d0_p4r4_5tr34ming_A85/50.mp4
+#EXTINF:-1 ,Hacker 2019 (480p HD)
+http://archive.org/download/000_20191202_20191202/1.mp4
+#EXTINF:-1 ,Halo nigth fall (Accion)
+http://archive.org/download/halo-nightfall/HALO%20-%20Nightfall.mp4
+#EXTINF:-1 ,Hannibal (480p HD)
+http://archive.org/download/1_20190828_20190828_2038/atte_sd_sdsadsd21/1.mp4
+#EXTINF:-1 ,happy new years (SUB) (480p HD)
+http://archive.org/download/Sh1r5kH1pp6/sharuk%20happy.mp4
+#EXTINF:-1 ,Hasta el Ultimo hombre 2016 (480p HD)
+http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/9.mp4
+#EXTINF:-1 ,Hellboy 2019 (480p HD)
+http://archive.org/download/000_20200306_202003/04.mp4
+#EXTINF:-1 ,Hitman (480p HD)
+http://archive.org/download/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
+#EXTINF:-1 ,Hombre en llamas
+http://archive.org/download/69_20201012/sub1d0_p4r4_5tr34ming_A85/68.mp4
+#EXTINF:-1 ,Hombres de Negro (480p HD)
+http://archive.org/download/00000_20200928/000005.mp4
+#EXTINF:-1 ,Hombres de Negro 2 (480p HD)
+http://archive.org/download/00000_20200928/000006.mp4
+#EXTINF:-1 ,Hombres de Negro 3 (480p HD)
+http://archive.org/download/00000_20200928/000007.mp4
+#EXTINF:-1 ,Hombres De Negro Internacional (480P HD )
+http://archive.org/download/00000_20200928/000004.mp4
+#EXTINF:-1 ,Hombres de negro: Internacional 2019 (480P)
+http://archive.org/download/kehe1/Sub1d0_p4r4_5tr34ming_A85_V4R1_4/5.mkv
+#EXTINF:-1 ,Hulk 2008 (480p HD)
+http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
+#EXTINF:-1 ,I AM MOTHER 2019(480p HD)
+http://archive.org/download/0o2b38sn29s1/0a7wbs51b00.mp4
+#EXTINF:-1 ,In the cloud 2018 (480p HD)
+http://archive.org/download/ziduyaliri_mail-register_05/05.mp4
+#EXTINF:-1 ,In the cloud 2018 opc 2 (480p HD)
+http://archive.org/download/000_20191205_201912/4.mp4
+#EXTINF:-1 ,Indiana Jones y el Dial del Destino (2023)
+http://archive.org/download/K4HT516J/IJHEDD23.mkv
+#EXTINF:-1 ,Interstellar (480p HD)
+http://archive.org/download/in1_20200902/in1.mp4
+#EXTINF:-1 ,Ip man 4 2019 (480p HD)
+http://archive.org/download/000_20200304_20200304/01.mp4
+#EXTINF:-1 ,ip man el gran maestro
+http://archive.org/download/1pm-4n/1pm4n.mp4
+#EXTINF:-1 ,Iron Man 1 (480p HD)
+http://archive.org/download/00000_202008/00016.mp4
+#EXTINF:-1 ,Iron Man 2 - (360p HD)
+http://archive.org/download/00_20201006/00018.mp4
+#EXTINF:-1 ,Iron Man 3 (360p HD)
+http://archive.org/download/00_20201006/00016.mp4
+#EXTINF:-1 ,Italian Spideman (480p HD)
+http://archive.org/download/98479345/Sub_p4ara_Str34m_AB8/98479345.mp4
+#EXTINF:-1 ,John Wick 1 (480p)
+http://archive.org/download/000_20191216/5.mp4
+#EXTINF:-1 ,John Wick 2 (480p)
+http://archive.org/download/000_20191225/5.mp4
+#EXTINF:-1 ,John Wick 3 2019 (480p)
+http://archive.org/download/000_20191225/1.mp4
+#EXTINF:-1 ,John Wick 4 (2023)
+http://archive.org/download/NX0F33EZ/JWCP4023.mkv
+#EXTINF:-1 ,Joker 2019 (480p HD)
+http://archive.org/download/000_20191221/3.mp4
+#EXTINF:-1 ,Juego letal (480p HD)
+http://archive.org/download/000_20191216/3.mp4
+#EXTINF:-1 ,Juego letal opc 2 (480p HD)
+http://archive.org/download/000_20191216/1.mp4
+#EXTINF:-1 ,Jumanji 1995 (DVD-RIP)
+http://archive.org/download/00000_20200930/000001.mp4
+#EXTINF:-1 ,Jumanji bienvenidos a la jungla 2017 (480p HD)
+http://archive.org/download/00000_20200930/000002.mp4
+#EXTINF:-1 ,Jumanji siguiente nivel 2019 latino (480p HD)
+http://archive.org/download/000_20200302_202003/01.mp4
+#EXTINF:-1 ,Karate kid 1 el momento de la verdad 1984 (480p HD)
+http://archive.org/download/karate-kid-1984-wii/Karate%20Kid%20%281984%29%20Wii.ia.mp4
+#EXTINF:-1 ,Karate kid 2 la historia continua 1986 (480p HD)
+http://archive.org/download/ver-karate-kid-ii-1986-online-latino-hd-pelisplus-mc/Ver%20Karate%20Kid%20II%20%281986%29%20Online%20Latino%20HD%20-%20PELISPLUS-mc.ia.mp4
+#EXTINF:-1 ,Karate kid 2010
+http://archive.org/download/69_20201012/sub1d0_p4r4_5tr34ming_A85/69.mp4
+#EXTINF:-1 ,Kill Bill Volumen 1: La Venganza (2003)
+http://tinyurl.com/2upbc39s
+#EXTINF:-1 ,Kill Bill: Volumen 2 (2004)
+http://tinyurl.com/2v6zkhfp
+#EXTINF:-1 ,La Emboscada (1999) (Trial Audio)
+http://archive.org/download/John_S-5L-V_3X7/27.mkv
+#EXTINF:-1 ,La estafa maestra 2003 - (480p HD)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/8.avi
+#EXTINF:-1 ,La Gran Estafa - (480p HD)
+http://archive.org/download/hoyivuc_mailprotech_1_201902/1.mp4
+#EXTINF:-1 ,La jungla un buen dia para morir 2013 (480p HD)
+http://archive.org/download/5_20191128_201911/8.mp4
+#EXTINF:-1 ,La Mujer Rey (2022)
+http://archive.org/download/14D91796/LMRL2022.mkv
+#EXTINF:-1 ,La Roca 1996 (Accion)
+http://archive.org/download/20230409_20230409_1421/L.4%20R.0.c.4%20%281996%29.mp4
+#EXTINF:-1 ,La trampa de la araña 2019 (480p HD)
+http://archive.org/download/000_20200304_20200304_2245/03.mp4
+#EXTINF:-1 ,Logan 2017 (480p HD)
+http://archive.org/download/1_20191127_20191127_1730/11.mp4
+#EXTINF:-1 ,Looper 2016 (480p HD)
+http://archive.org/download/2_20191128_20191128_1720/15.mp4
+#EXTINF:-1 ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
+http://archive.org/download/I60JQ293/KNOFTZ23.mkv
+#EXTINF:-1 ,Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023) (360p)
+http://archive.org/download/YD4EL83E/KNOFTZ23L.mkv
+#EXTINF:-1 ,Los Indestructibles 4 (2023)
+http://archive.org/download/V67Q9VIN/LINST423.mkv
+#EXTINF:-1 ,Los Indestructibles 4 (2023) (360p)
+http://archive.org/download/V67Q9VIN/LINST423L.mkv
+#EXTINF:-1 ,Los juegos del hambre - Sinsajo - Parte 2 (480p HD)
+http://archive.org/download/7H3.HU7/7H3.HUN639.64M35.M0CKIN6J4Y.P497.2-ES-360.mp4
+#EXTINF:-1 ,los violentos de kelly 1970 (DVD-RIP)
+http://archive.org/download/63_20201004/sub1d0_p4r4_5tr34ming_A85/63.mp4
+#EXTINF:-1 ,Lukas 2018 (480p HD)
+http://archive.org/download/4_20191128_201911/4.mp4
+#EXTINF:-1 ,Mad Max 1979 (480p HD)
+http://archive.org/download/durodproesa/wiimc/1.mp4
+#EXTINF:-1 ,Mad Max 2 El guerrero de la carretera 1981 (480P HD)
+http://archive.org/download/durodproesa/wiimc/2.mp4
+#EXTINF:-1 ,Mad world 2018 (480p HD)
+http://archive.org/download/0000_20200416/03.mp4
+#EXTINF:-1 ,MAESTRO DEL DINERO (480p HD)
+http://archive.org/download/5_20191128_201911/5.mp4
+#EXTINF:-1 ,Manhatan sin salida (480p HD)
+http://archive.org/download/000_20200321_20200321/02.mp4
+#EXTINF:-1 ,Maquinas mortales (480p HD)
+http://archive.org/download/000_20191203/3.mp4
+#EXTINF:-1 ,Maquinas Mortales. 2018 (Dual Audio+Sub) (480p HD)
+http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/2.mkv
+#EXTINF:-1 ,Matar o morir ( CALIDAD HD )
+http://archive.org/download/000_20191202_20191202/2.mp4
+#EXTINF:-1 ,Maze Runner 2014 (HD)
+http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/5.mkv
+#EXTINF:-1 ,Maze Runner: La cura mortal 2018 HD
+http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/7.mkv
+#EXTINF:-1 ,Maze Runner: Prueba de fuego 2015 (HD)
+http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/6.mkv
+#EXTINF:-1 ,Megalodón (2018)
+http://archive.org/download/X4564Z9Z/MGLDN118.mkv
+#EXTINF:-1 ,Megalodón 2: El Gran Abismo (2023)
+http://archive.org/download/CY944F7O/MGLDN223.mkv
+#EXTINF:-1 ,Messi la Pelicula (Futbol)
+http://archive.org/download/tt-3538766-1/tt3538766%20%281%29.mp4
+#EXTINF:-1 ,Misión de Rescate (2020)
+http://archive.org/download/mision-rescate-2020-720-latino-1/Mision%20rescate%202020%20720%20latino~1.ia.mp4
+#EXTINF:-1 ,Misión de Rescate 2 (2023)
+http://archive.org/download/6D6H86WL/MIDRE223.mkv
+#EXTINF:-1 ,Mision Imposible 2 (2000)
+http://archive.org/download/2-2000/Mision%20Imposible%202%202000.mp4
+#EXTINF:-1 ,Mision Imposible 3 (2006)
+http://archive.org/download/3-2006_202208/Mision%20Imposible%203%202006.mp4
+#EXTINF:-1 ,Misión imposible Protocolo Fantasma (2011)
+http://archive.org/download/2011_20220816/Mision%20Imposible%20Protocolo%20Fantasma%202011.mp4
+#EXTINF:-1 ,Misión imposible repercusión (2018)
+http://archive.org/download/2018_20220816/Misi%C3%B3n%20Imposible%20Repercusi%C3%B3n%202018.mp4
+#EXTINF:-1 ,Misión: Imposible - Sentencia Mortal - Parte 1 (2023)
+http://archive.org/download/T72Q124E/TMISP123.mkv
+#EXTINF:-1 ,Mortal Kombat uno (DVD-RIP)
+http://archive.org/download/m1995/m1995.mp4
+#EXTINF:-1 ,Mulan 2020 ESTRENO (480p HD)
+http://archive.org/download/00000_20200906/0000002.mp4
+#EXTINF:-1 ,Ninja Apocalypse (Sub) (480p HD)
+http://archive.org/download/1_20190828_201908/atte_sd_sd/1.mp4
+#EXTINF:-1 ,Offline: La vida no es un videojuego (DVD-RIP)
+http://archive.org/download/1_20191127_20191127_1730/10.mp4
+#EXTINF:-1 ,Oigenes Desconocidos 2020 pelicula de la gran N (480p HD)
+http://archive.org/download/000_20201026/00007.mp4
+#EXTINF:-1 ,Operación Trueno 1995 Jackie Chan
+http://archive.org/download/operacion-trueno-1995-jackie-chan/Operacin%20Trueno%201995%20Jackie%20Chan%20.mp4
+#EXTINF:-1 ,Ovni no estamos solos (480p HD)
+http://archive.org/download/000_20191205_201912/2.mp4
+#EXTINF:-1 ,Pantera Negra: Wakanda Por Siempre (2022)
+http://archive.org/download/566YFD7U/PNWKFO22.mkv
+#EXTINF:-1 ,Parker 2013 (Accion)
+http://archive.org/download/20230415_20230415_1419/P.4.r.k3r%202013.mp4
+#EXTINF:-1 ,Pearl Harbor (2001)
+http://archive.org/download/3Y3DDZ2Q/PEAHRB01.mkv
+#EXTINF:-1 ,Plan de Escape 2: Hades 2018HD
+http://archive.org/download/ayojahuviw2/Sub1d0_p4r4_5tr34ming_A85_v4r145_13/4.mkv
+#EXTINF:-1 ,Plan de escape 3: El rescate. 2019 (Dual Audio+Sub)HD
+http://archive.org/download/ayojahuviw2/Sub1d0_p4r4_5tr34ming_A85_v4r145_13/5.mkv
+#EXTINF:-1 ,Poder sin limites 2012 (Dual Audio + Sub)(480P HD)
+http://archive.org/download/juan18/Sub1d0_p4r4_5tr34ming_A85v4r1a5/11.mkv
+#EXTINF:-1 ,Pompeya
+http://archive.org/download/jum065/Jum065.mp4
+#EXTINF:-1 ,Por unos dolares mas (DVD-RIP)
+http://archive.org/download/por-unos-dolares-mas/Por%20Unos%20Dolares%20Mas.mp4
+#EXTINF:-1 ,Por unos dolares mas 2 (DVD-RIP)
+http://archive.org/download/00000_202009/00000004.mp4
+#EXTINF:-1 ,Prey (2022) (Dual Audio)
+http://archive.org/download/John_S-MRvs60_1-2/18.mkv
+#EXTINF:-1 ,Primal. 2019 (Dual Audio+Sub)HD
+http://archive.org/download/mafaki1/Sub1d0_p4r4_5tr34ming_A85_v4r8/5.mkv
+#EXTINF:-1 ,Proyecto Géminis 2019 (Dual Audio Sub)(HD)
+http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/3.mkv
+#EXTINF:-1 ,Proyecto Géminis 2019 (SUB) (480p HD)
+http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/5.mp4
+#EXTINF:-1 ,Proyecto power 2020 (480p HD)
+http://archive.org/download/00000_202008/00013.mp4
+#EXTINF:-1 ,Rambo 1 1982 (DVD-RIP)
+http://archive.org/download/49_20200928/sub1d0_p4r4_5tr34ming_A85/52.mp4
+#EXTINF:-1 ,Rambo 2 (DVD-RIP)
+http://archive.org/download/54_20200929/sub1d0_p4r4_5tr34ming_A85/53.mp4
+#EXTINF:-1 ,Rambo 3 (DVD-RIP)
+http://archive.org/download/54_20200929/sub1d0_p4r4_5tr34ming_A85/54.mp4
+#EXTINF:-1 ,Rambo 4
+http://archive.org/download/jum057/Jum057.mp4
+#EXTINF:-1 ,Rambo last blood (480p HD)
+http://archive.org/download/0000_20200103/1.mp4
+#EXTINF:-1 ,Rapidos y Furiosos 1 2001
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/1.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 2 2003
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/2.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 3 Reto Tokyo 2006
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/3.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 4 2009
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/4.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 5 5in Control 2011
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/5.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 6 2013
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/6.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 7 2015
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/7.mkv
+#EXTINF:-1 ,Rapidos y Furiosos 8 2017
+http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/8.mkv
+#EXTINF:-1 ,Rápidos y Furiosos X (2023)
+http://archive.org/download/1XD112HB/RAPYFX23.mkv
+#EXTINF:-1 ,Rapidos y Furiosos: Hobbs & Shaw 2019
+http://archive.org/download/yofasih1/Sub1d0_p4r4_5tr34ming_A85_A2/4.mkv
+#EXTINF:-1 ,Rascacielos (DVD-RIP)
+http://archive.org/download/ElRascacielos/Rascacielos.mp4
+#EXTINF:-1 ,Rendel 2017 (480p HD)
+http://archive.org/download/000_20191205_201912/3.mp4
+#EXTINF:-1 ,Resident Evil Degeneracion (480p HD)
+http://archive.org/download/000_20200524/05.mp4
+#EXTINF:-1 ,Resident Evil La maldición (480p HD)
+http://archive.org/download/000_20200524/04.mp4
+#EXTINF:-1 ,Resident Evil Vendetta (480p HD)
+http://archive.org/download/000_20200524/03.mp4
+#EXTINF:-1 ,Riki-Oh  La Historia de Ricky 1991 (DVD-RIP)
+http://archive.org/download/01_20200320_20200320_2010/Sub_p4ara_Str34m_AB8/01.mp4
+#EXTINF:-1 ,Robocop 1987 (DVD-RIP)
+http://archive.org/download/meyize_hurify1_R0b/r0b.mp4
+#EXTINF:-1 ,RoboCop 2014 (Dual Audio+Sub) (480p HD)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/9.mkv
+#EXTINF:-1 ,Rocky  V 1990 (DVD-RIP
+http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/05.mp4
+#EXTINF:-1 ,Rocky I 1976 (DVD-RIP)
+http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/01.mp4
+#EXTINF:-1 ,Rocky II 1979 (DVD-RIP)
+http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/02.mp4
+#EXTINF:-1 ,Rocky III 1982 (DVD-RIP)
+http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/03.mp4
+#EXTINF:-1 ,Rocky IV 1985 (DVD-RIP
+http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/04.mp4
+#EXTINF:-1 ,Samaritan (accion)
+http://archive.org/download/edi12tado004/S%40m%40r!7%40n.mp4
+#EXTINF:-1 ,Sangre de mi sangre (480p HD)
+http://archive.org/download/ziduyaliri_mail-register_01/01.mp4
+#EXTINF:-1 ,Santana 2020 (480p HD)
+http://archive.org/download/000_20201016/000004.mp4
+#EXTINF:-1 ,Scareface 1983 (DVD-RIP)
+http://archive.org/download/02_20200905/02.mp4
+#EXTINF:-1 ,Seven Los Siete Pecados Capitales 1995 (Accion)
+http://archive.org/download/20230415_20230415_1412/L.0.s%20s.1.3t3%20p3c4d0s%20c4p1t4l3s%201995.mp4
+#EXTINF:-1 ,Shaolin Soccer
+http://archive.org/download/ttjum044/ttjum044.mp4
+#EXTINF:-1 ,Shark 2017 ( 480p HD)
+http://archive.org/download/000_20200106/4.mp4
+#EXTINF:-1 ,Shazam
+http://archive.org/download/butih1/Sub1d0_p4r4_5tr34ming_A85_v4r145_11/11.mkv
+#EXTINF:-1 ,Sin Escape 2013 (Accion)
+http://archive.org/download/20230415_20230415_1450/S.1.n%203.sc4p3%202013.mp4
+#EXTINF:-1 ,Sin Novedad en el Frente (2022)
+http://archive.org/download/AHA06T45/9Z7O91X2.mkv
+#EXTINF:-1 ,Spencer confidencial (480p HD)
+http://archive.org/download/00000_20200410_2219/06.mp4
+#EXTINF:-1 ,Spider-Man 1 (480p HD)
+http://archive.org/download/01_20191213_20191213_1900/heheke/01.mp4
+#EXTINF:-1 ,Spider-Man 2 (480p HD)
+http://archive.org/download/07_20191209/hoiho/05.mp4
+#EXTINF:-1 ,Spider-Man 3 (480p HD)
+http://archive.org/download/07_20191209/hoiho/03.mp4
+#EXTINF:-1 ,Spider-Man Homecoming 2017 (480p HD)
+http://archive.org/download/00000_20200930/000006.mp4
+#EXTINF:-1 ,Spider-Man The Amazing 2 2014 - La Venganza de Electro 2014 (480P HD)
+http://archive.org/download/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.mp4
+#EXTINF:-1 ,Spider-Man The Amazing 2012 (480P HD)
+http://archive.org/download/00000_20200930/000007.mp4
+#EXTINF:-1 ,Spider-Man: Homecoming 2017 opc2 (480P HD)
+http://archive.org/download/4505f-4b-1dbaccd-4524e-0344a-74b-8cc-59-480p/4505f4b1dbaccd4524e0344a74b8cc59-480p.mp4
+#EXTINF:-1 ,Spider-Man: Lejos de Casa 2019 (Dual Audio+Sub) (480P)
+http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/10.mkv
+#EXTINF:-1 ,Spider-Man: Sin Camino a Casa (2022 - Versión Extendida)
+http://archive.org/download/WAAC909V/SPMNWHX21.mkv
+#EXTINF:-1 ,STRAIGHT OUTTA COMPTOM (480p HD)
+http://archive.org/download/sst_20200905/sst.mp4
+#EXTINF:-1 ,Street Fighter La Leyenda 2009 (Accion)
+http://archive.org/download/20230409_20230409_0159/S.t.r.3.3.t%20F.1.g.h.t.3.r%20L.4%20L.3.3y.3.3n.d.4%20%282009%29.mp4
+#EXTINF:-1 ,Street Fighter La Última Batalla 1994 (Accion)
+http://archive.org/download/20230409_20230409_0205/S.t.r.3.3.t%20F1ght3r%20L4%206lt1m4%20B4t4ll4%20%281994%29.mp4
+#EXTINF:-1 ,Superagente K-9 (1989)
+http://archive.org/download/RK_77-K9/05.avi
+#EXTINF:-1 ,Superman 4 en busca de la paz (1987)
+http://archive.org/download/1987_20220816/Superman%204%20En%20Busca%20De%20La%20Paz%201987.mp4
+#EXTINF:-1 ,Superman Regresa (2006)
+http://archive.org/download/2006_20220816/Superman%20Regresa%202006.mp4
+#EXTINF:-1 ,Taxi driver (480p HD)
+http://archive.org/download/130683/130683.mp4
+#EXTINF:-1 ,Taxi: Derrape total 2004 (Dual Audio+Sub)(480P HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/9.mkv
+#EXTINF:-1 ,Terminator Dark fate 2019 opC 2(480p HD)
+http://archive.org/download/46_20200923/sub1d0_p4r4_5tr34ming_A85/44.mp4
+#EXTINF:-1 ,Terminator destino oscuro 2019 (480p HD)
+http://archive.org/download/000_20200117_202001/01.mp4
+#EXTINF:-1 ,The Covenant (2023) (Sub)
+http://archive.org/download/2Q25W7ZP/TCOVNT23.mkv
+#EXTINF:-1 ,The Punisher 2 (480p HD)
+http://archive.org/download/1_20190828_20190828_1938/atte_sd_sdsad/1.mp4
+#EXTINF:-1 ,The warriors (480p HD)
+http://archive.org/download/000_20200317_20200317_1340/05.mp4
+#EXTINF:-1 ,Thor 1 2011 (360p HD)
+http://archive.org/download/00000_20200930/000008.mp4
+#EXTINF:-1 ,Thor 2: Un mundo oscuro (480p HD)
+http://archive.org/download/00000_20200930/000009.mp4
+#EXTINF:-1 ,THOR RAGNAROK (480p HD)
+http://archive.org/download/000_20200225_202002/07.mp4
+#EXTINF:-1 ,Transformers: El Despertar de las Bestias (2023)
+http://archive.org/download/93BGW8F0/TRRODB23.mkv
+#EXTINF:-1 ,Trauma center 2019 (480p HD)
+http://archive.org/download/000_20191209/01.mp4
+#EXTINF:-1 ,Tren Bala (2022)
+http://archive.org/download/tren-bala-1/Tren%20Bala~1.ia.mp4
+#EXTINF:-1 ,Triple Frontera (2019)
+http://archive.org/download/O31I0EVY/TRLFRN19.mkv
+#EXTINF:-1 ,Triple Frontera (2019) (360p)
+http://archive.org/download/54CTO6JV/TRLFRN19L.mkv
+#EXTINF:-1 ,Trol (2022)
+http://archive.org/download/9Y62PBHN/R46I36O7.mkv
+#EXTINF:-1 ,Tron el legado (480p HD)
+http://archive.org/download/46_20200923/sub1d0_p4r4_5tr34ming_A85/47.mp4
+#EXTINF:-1 ,Un dia mas para morir (2021)
+http://archive.org/download/john_s-1dmpm/05.avi
+#EXTINF:-1 ,Una noche en bangkok 2020 (480p HD)
+http://archive.org/download/00000_202008/000018.mp4
+#EXTINF:-1 ,Uncharted: Fuera del mapa
+http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/f37bcf79c23ad5701697a567f8c11bd3-480p.mp4
+#EXTINF:-1 ,Valentine 2017 (480p HD)
+http://archive.org/download/000_20200211/2.mp4
+#EXTINF:-1 ,Vendetta 2006 (480p HD)
+http://archive.org/download/5_20191128_201911/6.mp4
+#EXTINF:-1 ,Venom
+http://archive.org/download/a01_mohmal_Z0_20181206_0250/Nueva%20carpeta%20%283%29/z0.mp4
+#EXTINF:-1 ,Who am I
+http://archive.org/download/2_20191128_20191128_1720/2.mp4
+#EXTINF:-1 ,Wonder woman 1984 (2020) ESTRENO (480p)opc2
+http://archive.org/download/000_20201114/00016.mp4
+#EXTINF:-1 ,Wonder woman linaje 2019 (480p HD)
+http://archive.org/download/000_20200211/3.mp4
+#EXTINF:-1 ,X Men the dark phoenix 2019 (480p HD)
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/7.mp4
+#EXTINF:-1 ,X-Men 1 2000 (480p HD)
+http://archive.org/download/00000_20200928/000008.mp4
+#EXTINF:-1 ,X-Men 2 2003 (480p HD)
+http://archive.org/download/00000_20200928/000009.mp4
+#EXTINF:-1 ,X-Men 3 2006 (480p HD)
+http://archive.org/download/00000_20200928/000010.mp4
+#EXTINF:-1 ,xmen apocalypsis (480p HD)
+http://archive.org/download/07_20191209/hoiho/07.mp4
+#EXTINF:-1 , OFFLINE - 007 Contra El Dr No 1962 ( Accion )
+http://archive.org/download/oo-7-c.-0.n.tr-4-3l-dr.-n-0-1962/OO7%20C.0.n.tr4%203l%20Dr.%20N0%20%281962%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Contra Goldfinger 1964 ( Accion )
+http://archive.org/download/20230426_20230426_1457/OO7-%20C.0.n.tr4%20G0ldf1ng3r%20%281964%29.mp4
+#EXTINF:-1 , OFFLINE - 007 De Rusia Con Amor 1963 ( Accion )
+http://archive.org/download/20230426_20230426_1501/OO7-%20D.3%20R.6.s14%20c0n%204m0r%20%281963%29.mp4
+#EXTINF:-1 , OFFLINE - 007 El Hombre Del Revolver De Oro 1974 ( Accion )
+http://archive.org/download/20230426_20230426_1342/OO7-%203.l%20H.0.mbr3%20D3l%20R3v0lv3r%20D3%200r0%20%281974%29.mp4
+#EXTINF:-1 , OFFLINE - 007 El Mañana Nunca Muere 1997 ( Accion )
+http://archive.org/download/20230426_20230426_0234/OO7-%203.l%20M.4%C3%B14n4%20N6nc4%20M63r3%20%281997%29.mp4
+#EXTINF:-1 , OFFLINE - 007 El Mundo No Basta 1999 ( Acción )
+http://archive.org/download/20230426_20230426_0248/OO7-%203.l%20M.6.nd0%20N0%20B4st4%20%281999%29.mp4
+#EXTINF:-1 , OFFLINE - 007 En La Mira De Los Asesinos 1985 ( Accion )
+http://archive.org/download/20230426_20230426_0157/OO7-%203.n%20L.4%20M.1r4%20D3%20L0s%204s3s1n0s%20%281985.mp4
+#EXTINF:-1 , OFFLINE - 007 Gold Eye El Regreso Del Agente 007 1995 ( Acción )
+http://archive.org/download/20230428_20230428_1459/OO7%20G.0.l.d2n3y3-%203l%20R3gr3s0%20D3l%204g3nt3%20OO7%20%281995%29.mp4
+#EXTINF:-1 , OFFLINE - 007 La Espía Que Me Amo 1977 ( Accion )
+http://archive.org/download/20230426_20230426_1515/OO7-%20L.4.%203.sp14%20Q63%20M3%204m0%20%281977%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Los Diamantes Son Eternos 1971 ( Accion )
+http://archive.org/download/20230426_20230426_1511/OO7-%20L.0.s%20D.14m4nt3s%20S0n%203t3rn0s%20%281971.mp4
+#EXTINF:-1 , OFFLINE - 007 Misión Espacial 1979 ( Accion )
+http://archive.org/download/20230426_20230426_1812/OO7-%20M.1.s.10n%203sp4c14l%20%281979%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Operación Skyfall 2012 ( Accion )
+http://archive.org/download/20230426_20230426_0150/OO7-%200.p.3.r4c10n%20Sk9F4ll%20%282012%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Operación Trueno 1965 ( Accion )
+http://archive.org/download/20230426_20230426_0153/OO7-%200.p.3.r4c10n%20Tr63n0%20%281965%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Quantum 2008 (Accion)
+http://archive.org/download/20230411_20230411_0310/007%20Q64nt6m%20%282008%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Solo Para Tus Ojos 1981 ( Accion )
+http://archive.org/download/20230426_20230426_0210/OO7-%20S.0.l.0%20P4r4%20T6s%200j0s%20%281981%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Solo Se Vive Dos Veces 1967 ( Acción )
+http://archive.org/download/20230426_20230426_1815/OO7-%20S.0.l.0%20S3%20V1v3%20D0s%20V3c3s%20%281967%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Spectre 2015 ( Accion )
+http://archive.org/download/20230426_20230426_0228/OO7-%20S.p.3.ctr3%20%282015%29.mp4
+#EXTINF:-1 , OFFLINE - 007 Su Nombre Es Peligro 1987 ( Accion )
+http://archive.org/download/20230426_20230426_0201/OO7-%20S.6%20N.0.mbr3%203s%20P3l1gr0%20%281987%29.mp4
+#EXTINF:-1  tvg-logo="http://archive.org/download/123321212/24%20horas%20para%20vivir.jpg", OFFLINE - 24 horas para vivir (Acción)
+http://archive.org/download/8_20220704/colecci%C3%B3n-04-07-2022/9.mp4
+#EXTINF:-1 , OFFLINE - 9 Dias
+http://archive.org/download/9_20220406_20220406/6-4-2022/1.mp4
+#EXTINF:-1 , OFFLINE - Agentes 355
+http://archive.org/download/004_20220320/004.mkv
+#EXTINF:-1 , OFFLINE - Agentes Vanguard
+http://archive.org/download/tt9695722_202107/tt9695722.mp4
+#EXTINF:-1 , OFFLINE - Alerta Roja (2021)
+http://archive.org/download/13513151/Alerta%20roja%20%282021%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino%20HD1080P.mp4
+#EXTINF:-1 , OFFLINE - Alien Vs Depredador 1 (2004)
+http://archive.org/download/1-2004_202208/Alien%20Vs%20Depredador%201%202004.mp4
+#EXTINF:-1 , OFFLINE - Alien Vs Depredador 2 (2007)
+http://archive.org/download/2-2007_202208/Allien%20Vs%20Depredador%202%202007.mp4
+#EXTINF:-1 , OFFLINE - American Sniper 2014 (480p HD)
+http://archive.org/download/31_20200914/sub1d0_p4r4_5tr34ming_A85/30.mp4
+#EXTINF:-1 , OFFLINE - Apex (2021)
+http://archive.org/download/termico02/03.mp4
+#EXTINF:-1 , OFFLINE - Arma Letal 1 (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/1.mkv
+#EXTINF:-1 , OFFLINE - Arma Letal 2 (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/2.mkv
+#EXTINF:-1 , OFFLINE - Asalto A la Casa de la Moneda (2021)
+http://archive.org/download/termico04/02.mp4
+#EXTINF:-1 , OFFLINE - Asalto Al Hospital
+http://archive.org/download/008_20220321/008.mkv
+#EXTINF:-1 , OFFLINE - Asesino Misión Venganza Asesino Americano 2017 ( Acción )
+http://archive.org/download/20230426_20230426_1238/4.s.3.s1n0-%20M1s10n%20V3ng4nz4%20%284s3s1n0%204m3r1c4n0%29%20%282017%29.mp4
+#EXTINF:-1 , OFFLINE - Batman 1989 (480p HD)
+http://archive.org/download/03_20200906_20200906_2359/sub1d0_p4r4_5tr34ming_A85/01.mp4
+#EXTINF:-1 , OFFLINE - Batman El Caballero De La Noche 2008 ( Accion )
+http://archive.org/download/20230426_20230426_0312/B.4.t.m4n-%203l%20C4b4ll3r0%20d3%20l4%20N0ch3%20%282008%29.mp4
+#EXTINF:-1 , OFFLINE - Batman el caballero de la noche asciende (480p HD)
+http://archive.org/download/01_20200907_20200907_1735/sub1d0_p4r4_5tr34ming_A85/01.mp4
+#EXTINF:-1 , OFFLINE - Batman El Caballero De La Noche Asciende 2012 ( Accion )
+http://archive.org/download/20230426_20230426_0242/B.4.t.m4n-%203l%20C4b4ll3r0%20d3%20l4%20N0ch3%204sc13nd3%20%282012%29.mp4
+#EXTINF:-1 , OFFLINE - Batman el caballero oscuro (480p HD)
+http://archive.org/download/03_20200906_20200906_2359/sub1d0_p4r4_5tr34ming_A85/03.mp4
+#EXTINF:-1 , OFFLINE - Batman Eternamente (480p HD)
+http://archive.org/download/03_20200906_20200906_2359/sub1d0_p4r4_5tr34ming_A85/02.mp4
+#EXTINF:-1 , OFFLINE - Batman vs Superman El Origen de la Justicia 2016 (480p HD)
+http://archive.org/download/01_20200907_20200907_1735/sub1d0_p4r4_5tr34ming_A85/02.mp4
+#EXTINF:-1 , OFFLINE - Black Adam (2022)
+http://archive.org/download/4307677ec-838883acf-0f-44673fd-6ff-0f-480p/4307677ec838883acf0f44673fd6ff0f-480p.mp4
+#EXTINF:-1 , OFFLINE - Black Widow (2021)
+http://archive.org/download/bl-4-ck-w-1/BL4CK%20W1.mp4
+#EXTINF:-1 , OFFLINE - Bruce lee (lucha)
+http://archive.org/download/2_20221118_20221118_1107/1.mp4
+#EXTINF:-1 , OFFLINE - Bruce lee (lucha)
+http://archive.org/download/2_20221118_20221118_1107/2.mp4
+#EXTINF:-1 , OFFLINE - Bruce lee (lucha)
+http://archive.org/download/2_20221118_20221118_1107/3.mp4
+#EXTINF:-1 , OFFLINE - Bruce lee (lucha)
+http://archive.org/download/2_20221118_20221118_1107/4.mp4
+#EXTINF:-1 , OFFLINE - Bruce lee (lucha)
+http://archive.org/download/2_20221118_20221118_1107/5.mp4
+#EXTINF:-1 , OFFLINE - Bucle Sin Fin (2022)
+http://archive.org/download/primera11/segunda11.mp4
+#EXTINF:-1 , OFFLINE - Cara a cara (accion)
+http://archive.org/download/2_20220714_202207/2.mp4
+#EXTINF:-1 , OFFLINE - Coda 2021 - (480p HD)
+http://archive.org/download/coda_20220228/Coda.mp4
+#EXTINF:-1 , OFFLINE - Colombiana 2011 ( Accion )
+http://archive.org/download/20230426_20230426_0301/C.0.l.0mb14n4%20%282011%29.mp4
+#EXTINF:-1 , OFFLINE - Conspiración Del Poder (2009)
+http://archive.org/download/2009_20220819/Conspiracion%20Del%20Poder%202009.mp4
+#EXTINF:-1 , OFFLINE - Creed I (DVD-RIP)
+http://archive.org/download/08_20200910/08.mp4
+#EXTINF:-1 , OFFLINE - Creed II (DVD-RIP)
+http://archive.org/download/02_20200909_202009/sub1d0_p4r4_5tr34ming_A85/01.mp4
+#EXTINF:-1 , OFFLINE - CSI Caso Cerrado 2015 ( Accion )
+http://archive.org/download/20230426_20230426_0409/C.S.1-%20C.4s0%20C3rr4d0%20%282015%29.mp4
+#EXTINF:-1 , OFFLINE - Deadpool SUB (480p HD)
+http://archive.org/download/eddie_son_msn_9/8.mp4
+#EXTINF:-1 , OFFLINE - Depredador (2018)
+http://archive.org/download/2018_202208_202208/El%20Depredador%202018.mp4
+#EXTINF:-1 , OFFLINE - Depredador 1 (1987)
+http://archive.org/download/1-1987_202208/Depredador%201%201987.mp4
+#EXTINF:-1 , OFFLINE - Depredador 2 (1990)
+http://archive.org/download/2-1990/Depredador%202%201990.mp4
+#EXTINF:-1 , OFFLINE - Depredadores (2010)
+http://archive.org/download/2010_20220818/Depredadores%202010.mp4
+#EXTINF:-1 , OFFLINE - El Cuervo (1994)
+http://archive.org/download/1994_20220811/El%20Cuervo%201994.mp4
+#EXTINF:-1 , OFFLINE - El Ejército de los Ladrones (2021)
+http://archive.org/download/termico03/03.mp4
+#EXTINF:-1 , OFFLINE - El Ejército de los muertos (2021)
+http://archive.org/download/tt0993840/tt0993840.mp4
+#EXTINF:-1 , OFFLINE - El Hombre De Acero (2013)
+http://archive.org/download/2013_202206/El%20Hombre%20De%20Acero%202013.mp4
+#EXTINF:-1 , OFFLINE - El Lanero Solitario 2013 (Accion)
+http://archive.org/download/20230409_20230409_1501/3.l%20L.l.4.n.3.r.0%20S0l1t4r10%20%282013%29.mp4
+#EXTINF:-1 , OFFLINE - El libro de los secretos (Accion)
+http://archive.org/download/edi12tado004/llbrdlsscrts.mp4
+#EXTINF:-1 , OFFLINE - El Padrino 1 1972 ( Accion )
+http://archive.org/download/20230426_20230426_0146/3.l%20P.4.dr1n0%20%281972%29.mp4
+#EXTINF:-1 , OFFLINE - El Padrino 2 1974 ( Accion )
+http://archive.org/download/20230426_20230426_0142/3.l%20P.4.dri1no0-%20P4rt3%20ll%20%281974%29.mp4
+#EXTINF:-1 , OFFLINE - El Padrino 3 1990 ( Accion )
+http://archive.org/download/20230426_20230426_1205/3.l%20P.4.dr1n0-%20P4rt3%20III%20%281990%29.mp4
+#EXTINF:-1 , OFFLINE - El Perfecto Asesino 1994 (Accion)
+http://archive.org/download/20230414_20230414_1349/3.l%20p.3.rf3ct0%204s3s1n0%201994.mp4
+#EXTINF:-1 , OFFLINE - El Profesional 1981 (480p)
+http://archive.org/download/abcdjf0102/011.mkv
+#EXTINF:-1 , OFFLINE - El Robo A Mussolini 2022 (Accion)
+http://archive.org/download/20230414_20230414_2301/3.l%20r.0.b0%204%20M6ss0l1n1%20%282022%29.mp4
+#EXTINF:-1 , OFFLINE - El Superviviente 2021 (480p)
+http://archive.org/download/abcdjf0102/001.mkv
+#EXTINF:-1 , OFFLINE - En Tierras Peligrosas 2021 (480p HD)
+http://archive.org/download/abcdjf0102/008.mkv
+#EXTINF:-1 , OFFLINE - Eternals (2021)
+http://archive.org/download/1131321321/Ver%20Eternals%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 , OFFLINE - Factura de Cobre
+http://archive.org/download/8_20220424/colecci%C3%B3n%2024-04-2022/9.mkv
+#EXTINF:-1 , OFFLINE - Feliz aniversario
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/3.avi
+#EXTINF:-1 , OFFLINE - Fullmetal Alchemist: La venganza de cicatriz (2022)
+http://archive.org/download/1212121213_202208/Ver%20Fullmetal%20Alchemist%20La%20venganza%20de%20cicatriz%20Online%20Gratis%20-%20Pelisplus.mp4
+#EXTINF:-1 , OFFLINE - G.I. Joe: Snake Eyes: El Origen (2021)
+http://archive.org/download/tt8404256/tt8404256.mp4
+#EXTINF:-1 , OFFLINE - Gigantes De Acero 2011 (Accion)
+http://archive.org/download/20230412_20230412_1342/G1g4nt3s%20d3%204c3r0%202011.mp4
+#EXTINF:-1 , OFFLINE - Gladiador (2000)
+http://archive.org/download/2000_20220819/Gladiador%202000.mp4
+#EXTINF:-1 , OFFLINE - Godzilla (1998)
+http://archive.org/download/1998_202208/Godzilla%201998.mp4
+#EXTINF:-1 , OFFLINE - Godzilla (2014)
+http://archive.org/download/2014_202208/Godzilla%202014.mp4
+#EXTINF:-1 , OFFLINE - Godzilla 2: El Rey De Los Monstruos (OPC 2)
+http://archive.org/download/2019_20220812/Godzilla%202%20El%20Rey%20De%20Los%20Monstruos%202019.mp4
+#EXTINF:-1 , OFFLINE - Godzilla-vs-Kong
+http://archive.org/download/tt5034838/tt5034838.mp4
+#EXTINF:-1 , OFFLINE - Guardianes de la Galaxia - Especial de Navidad (2022)
+http://archive.org/download/03be-068c-6db-6ad-9f-3ca-8a-0dd-18432496-480p/03be068c6db6ad9f3ca8a0dd18432496-480p.mp4
+#EXTINF:-1 , OFFLINE - Han Solo Una Historia De Star Wars (2018)
+http://archive.org/download/2018_202208/Han%20Solo%20Una%20Historia%20De%20Star%20Wars%202018.mp4
+#EXTINF:-1 , OFFLINE - Heroe de Dos Mundos (2021)
+http://archive.org/download/tt9685342/tt9685342.mp4
+#EXTINF:-1 , OFFLINE - Hombre Agua (2020)
+http://archive.org/download/125395/125395.mp4
+#EXTINF:-1 , OFFLINE - Horas Contadas 2016 (Accion)
+http://archive.org/download/20230410_20230410_1349/H0r4s%20C0nt4d4s%20%282016%29.mp4
+#EXTINF:-1 , OFFLINE - Hotel De Criminales 2018 (Accion)
+http://archive.org/download/20230415_20230415_0351/H.0.t.3l%20d3%20Cr1m1n4l3s%202018.mp4
+#EXTINF:-1 , OFFLINE - Imparable 2010 ( Acción )
+http://archive.org/download/20230428_20230428_1504/1.m.p.4r4bl3%20%282010%29.mp4
+#EXTINF:-1 , OFFLINE - Intercambio fatal
+http://archive.org/download/coleccion01-07-2022_202207/coleccion01-07-2022/7.avi
+#EXTINF:-1 , OFFLINE - Invasores de tumbas (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/4.avi
+#EXTINF:-1 , OFFLINE - ip man 1
+http://archive.org/download/4_20221110_202211/1.mp4
+#EXTINF:-1 , OFFLINE - ip man 2
+http://archive.org/download/4_20221110_202211/2.mp4
+#EXTINF:-1 , OFFLINE - ip man 3
+http://archive.org/download/4_20221110_202211/3.mp4
+#EXTINF:-1 , OFFLINE - ip man 4
+http://archive.org/download/4_20221110_202211/4.mp4
+#EXTINF:-1 , OFFLINE - Jinetes De La Justicia 2020 (480p)
+http://archive.org/download/036_20220329/036.mkv
+#EXTINF:-1 , OFFLINE - John Cárter Entre Dos Mundos (2012)
+http://archive.org/download/2012_20220815/John%20Carter%20Entre%20Dos%20Mundos%202012.mp4
+#EXTINF:-1 , OFFLINE - Jolt (2021)
+http://archive.org/download/tt10228134/tt10228134.mp4
+#EXTINF:-1 , OFFLINE - Justicia Implacable (2021)
+http://archive.org/download/tt11083552/tt11083552.mp4
+#EXTINF:-1 , OFFLINE - King's Man: El Origen (2022)
+http://archive.org/download/532253/Ver%20King%E2%80%99s%20Man%20El%20origen%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 , OFFLINE - La Caida de la Casa Blanca
+http://archive.org/download/tt2334879/tt2334879.mp4
+#EXTINF:-1 , OFFLINE - La Mensajera 2019 (480p HD)
+http://archive.org/download/02_20200426_20200426_2008/02.mp4
+#EXTINF:-1 , OFFLINE - La Protegida (2021)
+http://archive.org/download/termico04/01.mp4
+#EXTINF:-1 , OFFLINE - La Vieja Guardia (2020)
+http://archive.org/download/2020_202208/La%20Vieja%20Guardia%202020.mp4
+#EXTINF:-1 , OFFLINE - Logan Wolverine 2017 (Accion)
+http://archive.org/download/20230415_20230415_0429/L.0.g.4n-%20W0lv3r1n3%202017.mp4
+#EXTINF:-1 , OFFLINE - Los Guardianes De la Galaxia
+http://archive.org/download/tt2015381_202202/tt2015381.mp4
+#EXTINF:-1 , OFFLINE - Los Mercenarios (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/6.avi
+#EXTINF:-1 , OFFLINE - Los Mercenarios-2 (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/7.avi
+#EXTINF:-1 , OFFLINE - Los Mercenarios-3 (Accion)
+http://archive.org/download/4_20220702_20220702/colecci%C3%B3n-02-07-2022/8.avi
+#EXTINF:-1 , OFFLINE - Malas Compañías 2002 (Accion)
+http://archive.org/download/20230410_20230410_1300/M4l4s%20C0mp4%C3%B114s%20%282002%29.mp4
+#EXTINF:-1 , OFFLINE - Matrix: Resurrections (2021)
+http://archive.org/download/21321321312/Ver%20Matrix%20Resurrecciones%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 , OFFLINE - maximo riesgo (Accion)
+http://archive.org/download/2_20220714_202207/14.mp4
+#EXTINF:-1 , OFFLINE - Misión Imposible 1 (1996)
+http://archive.org/download/1-1996_202208/Mision%20Imposible%201%201996.mp4
+#EXTINF:-1 , OFFLINE - Misión imposible Nación Secreta (2015)
+http://archive.org/download/2015_20220815/Mision%20Imposible%20Nacion%20Secreta%202015.mp4
+#EXTINF:-1 , OFFLINE - Monster Hunter La Caceria Comienza (2020)
+http://archive.org/download/tt64757141/tt6475714%281%29.mp4
+#EXTINF:-1 , OFFLINE - Morbius (2022) (Opc 2)
+http://archive.org/download/2022_202206/Morbius%202022.mp4
+#EXTINF:-1 , OFFLINE - Mortal Kombat (2021)
+http://archive.org/download/tt0293429/tt0293429.mp4
+#EXTINF:-1 , OFFLINE - Nadie (2021)
+http://archive.org/download/tt7888964/tt7888964.mp4
+#EXTINF:-1 , OFFLINE - Ocupación: Proyecto Lluvia
+http://archive.org/download/4_20220428/coleccion%2028-04-2022/4.mkv
+#EXTINF:-1 , OFFLINE - Old Henry
+http://archive.org/download/043_20220330/043.mkv
+#EXTINF:-1 , OFFLINE - Rapidos y Furiosos 9 (2021)
+http://archive.org/download/tt5433138/tt5433138.mp4
+#EXTINF:-1 , OFFLINE - Redemption Day
+http://archive.org/download/tt4439620_202107/tt4439620.mp4
+#EXTINF:-1 , OFFLINE - Riddick 2013 (480p HD)
+http://archive.org/download/01_20200907_20200907_1735/sub1d0_p4r4_5tr34ming_A85/03.mp4
+#EXTINF:-1 , OFFLINE - Riddick pitch black (DVD-RIP)
+http://archive.org/download/01_20200907_20200907_1735/sub1d0_p4r4_5tr34ming_A85/04.mp4
+#EXTINF:-1 , OFFLINE - RoboCop 2
+http://archive.org/download/cb532c325dbc26ca68f6cc14852bcff2-480p/c7c1a5de88aabe915e13299ba99d18f8-480p.mp4
+#EXTINF:-1 , OFFLINE - Rocky  VI (DVD-RIP)
+http://archive.org/download/02_20200909_202009/sub1d0_p4r4_5tr34ming_A85/03.mp4
+#EXTINF:-1 , OFFLINE - Rompiendo las reglas 1
+http://archive.org/download/1_20221113_20221113_1247/1.mp4
+#EXTINF:-1 , OFFLINE - Rompiendo las reglas 2
+http://archive.org/download/1_20221113_20221113_1247/2.mp4
+#EXTINF:-1 , OFFLINE - Rompiendo las reglas 3
+http://archive.org/download/1_20221113_20221113_1247/3.mp4
+#EXTINF:-1 , OFFLINE - Rompiendo las reglas 4
+http://archive.org/download/1_20221113_20221113_1247/4.mp4
+#EXTINF:-1 , OFFLINE - Shang-Chi y La Leyenda De Los Diez Anillos (2021)
+http://archive.org/download/fembed-5h-4ngch-1-y-l-4-l-3y-3nd-4-d-3-l-05-d-135-4n-1ll-05-1080-lat-21-mp-4-480p/fembed%20-%205h4ngch1-y-l4-l3y3nd4-d3-l05-d135-4n1ll05-1080-lat21-mp4%20-%20480p.mp4
+#EXTINF:-1 , OFFLINE - Sin Frenos 2012 (Accion)
+http://archive.org/download/20230411_20230411_1241/S1n%20Fr3n0s%20%282012%29.mp4
+#EXTINF:-1 , OFFLINE - Sin Tiempo Para Morir (2021)
+http://archive.org/download/007-sin-tiempo-para-morir-hd-480p-p-04601/007SinTiempoParaMorir_HD480p_P04601.mp4
+#EXTINF:-1 , OFFLINE - Snake Eyes El Origen (2021)
+http://archive.org/download/termico04/05.mp4
+#EXTINF:-1 , OFFLINE - Spider-Man: Sin Camino a Casa (2021)
+http://archive.org/download/13421321313/Ver%20Spider-Man%20No%20Way%20Home%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1 , OFFLINE - Superman 1 (1978)
+http://archive.org/download/1-1978/Superman%201%201978.mp4
+#EXTINF:-1 , OFFLINE - Superman 2 (1980)
+http://archive.org/download/2-1980_202208/Superman%202%201980.mp4
+#EXTINF:-1 , OFFLINE - Superman 3 (1983)
+http://archive.org/download/3-1983/Superman%203%201983.mp4
+#EXTINF:-1 , OFFLINE - Tenet
+http://archive.org/download/tt6723592_202107/tt6723592.mp4
+#EXTINF:-1 , OFFLINE - The Batman (2022)
+http://archive.org/download/th3-bAtm4n/th3-bAtm4n.mp4
+#EXTINF:-1 , OFFLINE - The Batman (2022) Latino
+http://archive.org/download/cb532c325dbc26ca68f6cc14852bcff2-480p/4dda4e8ad8eca2cb146fa951a64c31d7-480p.mp4
+#EXTINF:-1 , OFFLINE - The Jackal (Accion)
+http://archive.org/download/21_20220714/tareas09-07-2022/19.mp4
+#EXTINF:-1 , OFFLINE - Thor: Amor y Ttueno (2022)
+http://archive.org/download/20220908_20220908_0324/Thor%20Love%20And%20Thunder%202022.mp4
+#EXTINF:-1 , OFFLINE - Titanes Del Pacifico
+http://archive.org/download/b225ec645eb96ca52c3a8272baad742f-480p/b225ec645eb96ca52c3a8272baad742f-480p.mp4
+#EXTINF:-1 , OFFLINE - Todo En todas partes al mismo tiempo (2022)
+http://archive.org/download/2022_20220809/Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%202022.mp4
+#EXTINF:-1 , OFFLINE - Tom Clancy: Sin Remordimientos
+http://archive.org/download/tt0499097_202107/tt0499097.mp4
+#EXTINF:-1 , OFFLINE - Top Gun: Maverick (2022)
+http://archive.org/download/2022-480/Top%20Gun%20Maverick%202022-480.mp4
+#EXTINF:-1 , OFFLINE - Tornado 1996 (Accion)
+http://archive.org/download/20230411_20230411_0424/T0rn4d0%20%281996%29.mp4
+#EXTINF:-1 , OFFLINE - Tyler Rake 2020 PELI DE LA GRAN N (480P HD)
+http://archive.org/download/01_20200426_20200426_1757/01.mp4
+#EXTINF:-1 , OFFLINE - Una pareja explosiva 1
+http://archive.org/download/1_20220711_20220711_1049/coleccion-11-07-2022/2.mp4
+#EXTINF:-1 , OFFLINE - Una pareja explosiva 2
+http://archive.org/download/1_20220711_20220711_1049/coleccion-11-07-2022/3.mp4
+#EXTINF:-1 , OFFLINE - Una pareja explosiva 3
+http://archive.org/download/1_20220711_20220711_1049/coleccion-11-07-2022/4.mp4
+#EXTINF:-1 , OFFLINE - Uncharted: Fuera del mapa (OPC 2)
+http://archive.org/download/2022_202207/Uncharted%202022.mp4
+#EXTINF:-1 , OFFLINE - Venom 2: Habra Matanza (2021)
+http://archive.org/download/v-3n-0m-c-4rn-4g-3/V3n0m%20c4rn4g3.mp4
+#EXTINF:-1 , OFFLINE - Warcraft El Primer Encuentro De Dos Mundos 2016 (Accion)
+http://archive.org/download/20230412_20230412_1347/W4rcr4ft-%203l%20pr1m3r%203nc63ntr0%20d3%20d0s%20m6nd0s%202016.mp4
+#EXTINF:-1 , OFFLINE - Wonder Woman (2017)
+http://archive.org/download/2017_202207/Wonder%20Woman%202017.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/41/00/20062894.jpg",16 calles (2006)
 https://archive.org/download/the-immortal-wars-resurgence-2019/16%20calles%20%282006%29.mp4
-#EXTINF: -1 tvg-logo="https://www.tododvdfull.com/wp-content/uploads/2015/09/Another-48-Hrs..jpg" group-title="VOD ACCION", 48 horas ma´s (1990)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.tododvdfull.com/wp-content/uploads/2015/09/Another-48-Hrs..jpg",48 horas ma´s (1990)
 https://archive.org/download/i-hate-summer-2020/48%20horas%20ma%CC%81s%20%281990%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMwMGNhNTItYjFlYS00MjQ4LWE1ZDItNWIwZjM3ZGNmYmIzXkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_.jpg" group-title="VOD ACCION", Abducted (2018)
-https://archive.org/download/wonder-woman-1984-2020_202012/Abducted%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-0seo50ce1sg/Vxv2PvcuCXI/AAAAAAAAyE8/qFeHbwpaqX4g0wFH1pAhiuQGOHDoKZcGQCLcB/s1600/Alien-4.jpg" group-title="VOD ACCION", Alien Resurreccio´n (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Alien%20Resurreccio%CC%81n%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/72/74/01/20076545.jpg" group-title="VOD ACCION", ALIENS EL REGRESO 1986
-https://archive.org/download/desaparecido-en-combate-1984_202101/ALIENS%20EL%20REGRESO%201986.MP4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.jpg" group-title="VOD ACCION", Ape vs Monster
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Arma_letal_4-149791840-large.jpg" group-title="VOD ACCION", Arma letal 4 (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Arma%20letal%204%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Armageddon-185976102-large.jpg" group-title="VOD ACCION", Armageddon (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Armageddon%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Arturo_y_Merlin_Caballeros_de_Camelot-751340737-large.jpg" group-title="VOD ACCION", Arturo y Merlin Caballeros de Camelot (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Arturo%20y%20Merli%CC%81n%20Caballeros%20de%20Camelot%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/35/08/20141090.jpg" group-title="VOD ACCION", Asalto al tren del dinero (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Asalto%20al%20tren%20del%20dinero%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/78/40/97/20427678.jpg" group-title="VOD ACCION", Asesinos (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Asesinos%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="VOD ACCION", Bad Boys for Life (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg",Bad Boys for Life (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031213
-#EXTINF: -1 tvg-logo="https://images.hungama.com/c/1/f07/9eb/49236649/49236649_180x255.jpg" group-title="VOD ACCION", Battleship (2012)
-https://archive.org/download/train-to-busan-2-peninsula/Battleship%20%282012%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Becky_poster.jpg" group-title="VOD ACCION", Becky (2020)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Becky%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Blade-397609933-mmed.jpg" group-title="VOD ACCION", Blade (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Blade%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg" group-title="VOD ACCION", Bloodshot (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Bloodshot-229984487-large.jpg",Bloodshot (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031217
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Borning_Asfalto_en_llamas-518088537-large.jpg" group-title="VOD ACCION", Borning Asfalto en llamas (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Borning_Asfalto_en_llamas-518088537-large.jpg",Borning Asfalto en llamas (2020)
 https://archive.org/download/i-hate-summer-2020/Borning%20Asfalto%20en%20llamas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Bright.jpg" group-title="VOD ACCION", Bright
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Bright.jpg",Bright
 https://archive.org/download/94-1_20210929/Bright.mp4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-DzyrDkV_YCU/W6KIlTqap3I/AAAAAAAAHpY/HqeXvwNWGAkN33IApWWUCzu_WVIWUByZwCLcBGAs/s320/Calles%2Bde%2Bfuego%252C%2Buna%2Bf%25C3%25A1bula%2Bde%2BRock%2B%2526%2BRoll.jpg" group-title="VOD ACCION", Calles de fuego (1984)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031219
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cara_a_cara-188574589-large.jpg" group-title="VOD ACCION", Cara a cara (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Cara%20a%20cara%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://bloghorror.com/wp-content/uploads/2020/12/Cielo-de-medianoche-2020_3.jpg" group-title="VOD ACCION", Cielo de medianoche (2020)
-https://archive.org/download/train-to-busan-2-peninsula/Cielo%20de%20medianoche%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://www.alohacriticon.com/wp-content/uploads/elcriticonfotos/collateralcartel.jpg" group-title="VOD ACCION", Collateral (2004)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/elcriticonfotos/collateralcartel.jpg",Collateral (2004)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Collateral%20%282004%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Comando%20-%20Commando%20%281985%29.jpg" group-title="VOD ACCION", Comando  Commando (1985)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Comando%20-%20Commando%20%281985%29.jpg",Comando  Commando (1985)
 https://archive.org/download/2-comando-commando-1985/2Comando%20-%20Commando%20%281985%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.jpg" group-title="VOD ACCION", Cómo me convertí en superhéroe
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.jpg",Cómo me convertí en superhéroe
 https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/27/11/31/078119.jpg" group-title="VOD ACCION", Con Air (Convictos en el aire) (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Con%20Air%20%28Convictos%20en%20el%20aire%29%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/_0DkrZEykZFk/TKnijAPcDJI/AAAAAAAADs0/VEoECO02jEk/s1600/cop_out_rock_out_glock_out_poster.jpg" group-title="VOD ACCION", COP OUT
-https://archive.org/download/train-to-busan-2-peninsula/COP%20OUT.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Corre_Lola_corre-927408419-mmed.jpg" group-title="VOD ACCION", corre lola core 1998
-https://archive.org/download/desaparecido-en-combate-1984_202101/Corre%20Lola%2C%20corre%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4MDQ5MTkxMV5BMl5BanBnXkFtZTcwMTU4MzUzMQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="VOD ACCION", CORRUPCION EN MIAMI
-https://archive.org/download/train-to-busan-2-peninsula/CORRUPCION%20EN%20MIAMI.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cr_menes_de_familia-549018936-large.jpg" group-title="VOD ACCION", CRIMENES DEFAMILIA
-https://archive.org/download/train-to-busan-2-peninsula/CRIMENES%20DEFAMILIA.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg" group-title="VOD ACCION", Cross el ascenso de los villanos
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg",Cross el ascenso de los villanos
 https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cut_Throat_City-319016613-large.jpg" group-title="VOD ACCION", Cut Throat City (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Cut%20Throat%20City%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/3aQS9dePdvESnx0ifCst78Z2KQh.jpg" group-title="VOD ACCION", DE PROFESION DURO 1984
-https://archive.org/download/train-to-busan-2-peninsula/DE%20PROFESION%20DURO%201984.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w300/nbVrvCi8UPTPjdnX3Lm7C4pmXj1.jpg" group-title="VOD ACCION", Decision critica (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Decisio%CC%81n%20cri%CC%81tica%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Deep_Blue_Sea_3-680442315-large.jpg" group-title="VOD ACCION", Deep Blue Sea 3 (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Deep_Blue_Sea_3-680442315-large.jpg",Deep Blue Sea 3 (2020)
 https://archive.org/download/wendy-2020_202012/Deep%20Blue%20Sea%203%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w1280/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg" group-title="VOD ACCION", DEEP impact
-https://archive.org/download/train-to-busan-2-peninsula/DEEP%20impact.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg" group-title="VOD ACCION", Depredador - Predator (1987)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg",Depredador - Predator (1987)
 https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/96/24/11/20454930.jpg" group-title="VOD ACCION", Desaparecido en combate (1984)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Desaparecido%20en%20combate%20%281984%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/96/24/11/20454930.jpg" group-title="VOD ACCION", desaparecido-en-combate-1984
-https://archive.org/download/desaparecido-en-combate-1984_202101/El%20vuelo%20del%20halco%CC%81n%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F005%2F469%2Fdesperado-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ACCION", Desperado (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Desperado%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqBirm9NLTb37jT36W4YZUEDjdf.jpg" group-title="VOD ACCION", Diablo (2019)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqBirm9NLTb37jT36W4YZUEDjdf.jpg",Diablo (2019)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Diablo%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91sDhux1KLL._AC_SL1500_.jpg" group-title="VOD ACCION", die drei musketiere
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91sDhux1KLL._AC_SL1500_.jpg",die drei musketiere
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/48386bfcf9002b870c90cdf73ba0e10f-360p.mp4
-#EXTINF: -1 tvg-logo="https://img.milanuncios.com/fg/2998/68/299868674_1.jpg?VersionId=b1t.94CttrFh68E97aR.3ckx5M8Q4.jpg" group-title="VOD ACCION", EL APRENDIS DE KUN-FU
-https://archive.org/download/train-to-busan-2-peninsula/EL%20APRENDIS%20DE%20KUN-FU.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.jpg" group-title="VOD ACCION", El cuervo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%203%2C%20Salvaci%C3%B3n.jpg" group-title="VOD ACCION", El cuervo 3 Salvación
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ape%20vs.%20Monster.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20ej%C3%A9rcito%20de%20los%20muertos%20%282021%29.jpg" group-title="VOD ACCION", El ejército de los muertos 2021
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20Ej%C3%A9rcito%20De%20los%20Muertos%202021%20%40Girohens.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ih5Y9qM9338/WSOABP4T_LI/AAAAAAAARs8/DC4zGcgP_K86QKZFhI3w3ATw03fsHzcjACKgB/s1600/El%2Bgran%2Blebowski%2B1080p%2Blatino.png" group-title="VOD ACCION", El gran Lebowski (1998)
-https://archive.org/download/train-to-busan-2-peninsula/El%20gran%20Lebowski%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/5100/5159/001_m.jpg" group-title="VOD ACCION", el halcon (1987)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.ecartelera.com/carteles/5100/5159/001_m.jpg",el halcon (1987)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Yo%2C%20el%20halco%CC%81n%20%281987%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_juego_del_asesino-293811897-large.jpg" group-title="VOD ACCION", El juego del asesino (2019)
-https://archive.org/download/wonder-woman-1984-2020_202012/El%20juego%20del%20asesino%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_legado_de_las_mentiras-574431853-mmed.jpg" group-title="VOD ACCION", El legado de las mentiras (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/El_legado_de_las_mentiras-574431853-mmed.jpg",El legado de las mentiras (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/El%20legado%20de%20las%20mentiras%20%282020%29-1.mp4
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/3qR1bxfGADaUtiGEeu1jXfCciUA0jBZZV1T2fjrI5zDNKtiB0ru6TFqZPY9ctDnHHurmW98SX5lCV2QOKMP55-m9Y2Jk8AUaVHU_HuTwcsRN5Um6Qz7GpjV9vSZTB8lGSZfO=w1200-h630-p-k-no-nu" group-title="VOD ACCION", El mañana nunca muere (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/El%20man%CC%83ana%20nunca%20muere%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20m%C3%A1s%20valiente.jpg" group-title="VOD ACCION", El más valiente
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20m%C3%A1s%20valiente.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/G.I.%20Joe%2C%20el%20origen%20de%20Cobra.jpg" group-title="VOD ACCION", el origen de Cobra
-https://archive.org/download/por-encima-de-la-ley-1/G.I.%20Joe%2C%20el%20origen%20de%20Cobra~1.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg" group-title="VOD ACCION", El Santo (2017)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg",El Santo (2017)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20%C3%BAltimo%20gran%20h%C3%A9roe.jpg" group-title="VOD ACCION", El último gran héroe
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/El%20%C3%BAltimo%20gran%20h%C3%A9roe.jpg",El último gran héroe
 https://archive.org/download/94-1_20210929/El%20%C3%BAltimo%20gran%20h%C3%A9roe.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w1280/iqRUOtbDunNq7gTux3zXz25Krwp.jpg" group-title="VOD ACCION", EN BRAZOS DE UN ASESINO
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w1280/iqRUOtbDunNq7gTux3zXz25Krwp.jpg",EN BRAZOS DE UN ASESINO
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/474x/cd/72/82/cd728277af5152162088ec3571c3aaeb.jpg" group-title="VOD ACCION", En tierra peligrosa 2 (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/En%20tierra%20peligrosa%202%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://gnula.nu/wp-content/uploads/2017/09/Enemy_of_the_State_poster_usa.jpg" group-title="VOD ACCION", Enemigo publico (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Enemigo%20pu%CC%81blico%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-U9oxpZaV9cw/T54ecofRIYI/AAAAAAAAAPo/_gerTgvdTPU/s1600/front.jpg" group-title="VOD ACCION", Espia por accidente (2001)
-https://archive.org/download/train-to-busan-2-peninsula/Espi%CC%81a%20por%20accidente%20%282001%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Fuego_cruzado_por_Navidad-470959519-large.jpg" group-title="VOD ACCION", Fuego cruzado por Navidad (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Fuego%20cruzado%20por%20Navidad%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Fuego_negro-616588726-large.jpg" group-title="VOD ACCION", Fuego negro (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Fuego_negro-616588726-large.jpg",Fuego negro (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031216
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="VOD ACCION", Furia de titanes (2010)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg",Furia de titanes (2010)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Furia%20de%20titanes%20%282010%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Gattaca-237226186-large.jpg" group-title="VOD ACCION", Gattaca (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Gattaca%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Goldeneye-343032611-large.jpg" group-title="VOD ACCION", GoldenEye (1995)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Goldeneye-343032611-large.jpg",GoldenEye (1995)
 https://archive.org/download/the-immortal-wars-resurgence-2019/GoldenEye%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Greenland_El_ltimo_refugio-677642385-large.jpg" group-title="VOD ACCION", Greenland el u´ltimo refugio (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Greenland%20el%20u%CC%81ltimo%20refugio%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Greyhound_Enemigos_bajo_el_mar-142654194-large.jpg" group-title="VOD ACCION", Greyhound enemigos bajo el mar (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Greyhound_Enemigos_bajo_el_mar-142654194-large.jpg",Greyhound enemigos bajo el mar (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031221
-#EXTINF: -1 tvg-logo="https://musicart.xboxlive.com/7/94695100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="VOD ACCION", HARD KILL
-https://archive.org/download/train-to-busan-2-peninsula/HARD%20KILL.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/H_rcules_El_origen_de_la_leyenda-194423889-large.jpg" group-title="VOD ACCION", He´rcules El origen de la leyenda (2014)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/H_rcules_El_origen_de_la_leyenda-194423889-large.jpg",He´rcules El origen de la leyenda (2014)
 https://archive.org/download/the-immortal-wars-resurgence-2019/He%CC%81rcules%20El%20origen%20de%20la%20leyenda%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Headshot.jpg" group-title="VOD ACCION", Headshot (2016)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Headshot.jpg",Headshot (2016)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Headshot%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk5MGYxZmUtNmJjNC00Y2JjLWJiMTEtMDY4M2QzNzAxNjJiXkEyXkFqcGdeQXVyNDczODQwOTQ@._V1_.jpg" group-title="VOD ACCION", Heavenquest A Pilgrim's Progress (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Heavenquest%20A%20Pilgrim%27s%20Progress%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F097%2Fhurkus-heroe-en-el-cielo-1.jpg&nuevoancho=690&medio=abc.jpg" group-title="VOD ACCION", hurkus heroe en el cielo
-https://archive.org/download/train-to-busan-2-peninsula/7c522f172e6e32af60429121a4f12f42-480p.mp4
-#EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F006%2F994%2Fjackie-brown-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ACCION", Jackie Brown (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Jackie%20Brown%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.jpg" group-title="VOD ACCION", Jinetes de la justicia
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.jpg",Jinetes de la justicia
 https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Juez_Dredd-447589318-large.jpg" group-title="VOD ACCION", Juez Dredd (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Juez%20Dredd%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgyMjUwNjYxNl5BMl5BanBnXkFtZTgwOTU0NjczMzI@._V1_.jpg" group-title="VOD ACCION", killing gunther
-https://archive.org/download/train-to-busan-2-peninsula/killing%20gunther.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/b4/b4/da/b4b4da3027c146f57d99631a70216605.jpg" group-title="VOD ACCION", KING ARTHUR
-https://archive.org/download/train-to-busan-2-peninsula/KING%20ARTHUR.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.jpg" group-title="VOD ACCION", La batalla de Leningrado
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.mp4
-#EXTINF: -1 tvg-logo="https://c8.alamy.com/compes/dta9ar/poster-de-pelicula-la-delgada-linea-roja-1998-dta9ar.jpg" group-title="VOD ACCION", La delgada linea roja (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/La%20delgada%20li%CC%81nea%20roja%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_tomorrow_war-735069980-mmed.jpg" group-title="VOD ACCION", La guerra del mañana
-https://archive.org/download/sr-y-sra-smith/La%20guerra%20del%20ma%C3%B1ana.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_roca-309868610-large.jpg" group-title="VOD ACCION", La roca (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/La%20roca%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_old_guard-768938280-large.jpg" group-title="VOD ACCION", La vieja guardia (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/the_old_guard-768938280-large.jpg",La vieja guardia (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031223
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_vuelta_al_mundo_bajo_el_mar-533223260-large.jpg" group-title="VOD ACCION", La vuelta al mundo bajo el mar
-https://archive.org/download/morituri_202108/La%20vuelta%20al%20mundo%20bajo%20el%20mar~1.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2017/02/land-mine.jpg?itok=MJYpkU34" group-title="VOD ACCION", Land of Mine (Bajo la arena) (2015)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Land%20of%20Mine%20%28Bajo%20la%20arena%29%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/L_mite_48_horas-717276934-mmed.jpg" group-title="VOD ACCION", Li´mite 48 horas (1982)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/L_mite_48_horas-717276934-mmed.jpg",Li´mite 48 horas (1982)
 https://archive.org/download/i-hate-summer-2020/Li%CC%81mite%2048%20horas%20%281982%29.mp4
-#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/8H3uM3oCkyTPmnGf3k6XmNXDqvCR5UYK2sQGYCTRhrGVVDCUQRwbKrKwuhXKs_hdoRM" group-title="VOD ACCION", los próximos cuarteles
-https://archive.org/download/por-encima-de-la-ley-1/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles.jpg" group-title="VOD ACCION", los próximos cuarteles
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles.jpg",los próximos cuarteles
 https://archive.org/download/94-1_20210929/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles~1.mp4
-#EXTINF: -1 tvg-logo="https://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/los-tres-mosqueteros.jpg?itok=Xhzzeb4v.jpg" group-title="VOD ACCION", LOS TRES MOSQUETEROS
-https://archive.org/download/train-to-busan-2-peninsula/LOS%20TRES%20MOSQUETEROS.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51DadAkgXzL.jpg" group-title="VOD ACCION", miraculus
-https://archive.org/download/train-to-busan-2-peninsula/miraculus.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Misi_n_imposible-107188957-large.jpg" group-title="VOD ACCION", Mision imposible (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Misio%CC%81n%20imposible%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://miro.medium.com/max/800/1*ZgzwCWKOwmcwyy0TK27otA.jpeg" group-title="VOD ACCION", MONSTERS OF MAN
-https://archive.org/download/train-to-busan-2-peninsula/MONSTERS%20OF%20MAN.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mortal-463237462-large.jpg" group-title="VOD ACCION", Mortal (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Mortal-463237462-large.jpg",Mortal (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031222
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/8f/b3/22/8fb322b397abd737d16dae24e2d12586.jpg" group-title="VOD ACCION", Mortal Kombat (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Mortal%20Kombat%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/91/34/93/20141050.jpg" group-title="VOD ACCION", Mortal Kombat Aniquilacion (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Mortal%20Kombat%20Aniquilacio%CC%81n%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/no-dejes-de-mirar.jpg" group-title="VOD ACCION", No dejes de mirar (2017)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214685
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI1MTdlYzctMTQ0Yi00NTdmLTk2MjctMTMyZDdiNDYyMzQ3XkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" group-title="VOD ACCION", No Good Deed (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/No%20Good%20Deed%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/04/19/30/0328986.jpg" group-title="VOD ACCION", No manches Frida 2 2019
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214687
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LUQo41dJeikT04nuEySGBU42oph93DRk9A&usqp=CAU" group-title="VOD ACCION", Nocturno (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LUQo41dJeikT04nuEySGBU42oph93DRk9A&usqp=CAU",Nocturno (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Nocturno%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MTIxYTAtYWM3MC00OWI4LWJmMjMtYzBhMWFlMzU0NTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD ACCION", Noelle (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166214689
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Onward-464150296-large.jpg" group-title="VOD ACCION", Onward (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216421
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/pi_li_huo_thunderbolt-274369800-mmed.jpg" group-title="VOD ACCION", Operacion trueno (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Operacio%CC%81n%20trueno%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://mx.web.img3.acsta.net/pictures/19/04/17/21/53/0781209.jpg" group-title="VOD ACCION", PAW Patrol Mighty Pups (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216422
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2d8475841d76923ca21a408033078620ec605e11e1a6af0fe4c4afa85c72dab3._V_SX300_.jpg" group-title="VOD ACCION", Payback (1999)
-https://archive.org/download/train-to-busan-2-peninsula/Payback%20%281999%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg" group-title="VOD ACCION", Pearl Harbor
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20batalla%20de%20Leningrado.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_el_infierno-181218299-large.jpg" group-title="VOD ACCION", Pesadilla en el infierno (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216423
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Pixels-369347945-large.jpg" group-title="VOD ACCION", Pixels (2015)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216424
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/474x/9d/fb/b7/9dfbb7fd5eebd6f34f47f4426fe4ee81.jpg" group-title="VOD ACCION", Pledge (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216519
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Por%20encima%20de%20la%20ley.jpg" group-title="VOD ACCION", Por encima de la ley
-https://archive.org/download/por-encima-de-la-ley-1/Por%20encima%20de%20la%20ley~1.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODAxNGFhMTEtYWMzYy00NTlkLTk4OGUtMDk2Y2ZjMzhjNzBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD ACCION", Primal Tales of Savagery (2019)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216520
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Proyecto_Power-232352967-large.jpg" group-title="VOD ACCION", Proyecto Power (2020)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216521
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Pu%C3%B1os%20de%20venganza.jpg" group-title="VOD ACCION", Puños de venganza
-https://archive.org/download/por-encima-de-la-ley-1/Pu%C3%B1os%20de%20venganza~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Repo_Men-118853632-large.jpg" group-title="VOD ACCION", REPO MEN
-https://archive.org/download/train-to-busan-2-peninsula/REPO%20MEN.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/1b/23/16/1b23165b4a25a5c258c94e025ff7fe37.jpg" group-title="VOD ACCION", Resident Evil 1 El huésped maldito (2002)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216522
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/736x/40/3a/59/403a593154bfc88f4ed7713d2c48359b.jpg" group-title="VOD ACCION", Resident Evil 2 Apocalipsis (2004)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216523
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/resident-evil-3-extincion.jpg" group-title="VOD ACCION", Resident Evil 3 La extinción (1994)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216524
-#EXTINF: -1 tvg-logo="https://i2.wp.com/www.verepeliculas.com/wp-content/uploads/2018/01/Resident-Evil-4-La-resurreccion-HD-1080p.jpg?fit=719%2C1024&ssl=1" group-title="VOD ACCION", Resident Evil 4 La resurrección (2010)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/166216525
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/resident-evil-5-la-venganza.jpg" group-title="VOD ACCION", Resident Evil 5_ Venganza (2012)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%205_%20Venganza%20%282012%29~1.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/16/10/53/216614.jpg" group-title="VOD ACCION", Resident Evil 6_ Capítulo final (2016)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil%206_%20Cap%C3%ADtulo%20final%20%282016%29~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Resident_Evil_Degeneraci_n-545421345-mmed.jpg" group-title="VOD ACCION", Resident Evil_ Degeneración (2008)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Degeneraci%C3%B3n%20%282008%29~1.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/resident-evil-damnation.jpg" group-title="VOD ACCION", Resident Evil_ Infierno (2012)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Infierno%20%282012%29~1.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91BFXIFOweL._RI_.jpg" tvg-logo-small="https://images-na.ssl-images-amazon.com/images/I/91BFXIFOweL._RI_.jpg" group-title="VOD ACCION", Resident Evil_ Vendetta (2017)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Resident%20Evil_%20Vendetta%20%282017%29~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg" group-title="VOD ACCION", Riesgo en el aire
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg",Riesgo en el aire
 https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyY2M2M2UtMGI1NC00ZjBmLWI5NDItYjQ1MThjNzgwMjhmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR91,0,630,1200_AL_.jpg" group-title="VOD ACCION", ROGUE
-https://archive.org/download/train-to-busan-2-peninsula/ROGUE.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Rogue%20Hostage.jpg" group-title="VOD ACCION", Rogue Hostage
-https://archive.org/download/por-encima-de-la-ley-1/Rogue%20Hostage~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Rogue_Warfare-843908847-large.jpg" group-title="VOD ACCION", ROGUEWARFARE
-https://archive.org/download/train-to-busan-2-peninsula/ROGUEWARFARE.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/66/70/13/20147182.jpg" group-title="VOD ACCION", Rompiendo las reglas (2008)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/66/70/13/20147182.jpg",Rompiendo las reglas (2008)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%20%282008%29.mp4
-#EXTINF: -1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5VX8/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="VOD ACCION", Rompiendo las reglas 2 (2011)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5VX8/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",Rompiendo las reglas 2 (2011)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%202%20%282011%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/a5/9d/49/a59d49e2b3c64c6a3dc4122d92795b8d.png" group-title="VOD ACCION", SAFE
-https://archive.org/download/train-to-busan-2-peninsula/SAFE.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Salvar_al_soldado_Ryan-585301228-mmed.jpg" group-title="VOD ACCION", Salvar al soldado Ryan (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Salvar%20al%20soldado%20Ryan%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqDGQXMEkc7KROMzzKd8KnqpS4x.jpg" group-title="VOD ACCION", Santana (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Santana%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Serpiente_de_cascabel-191555005-large.jpg" group-title="VOD ACCION", Serpiente de cascabel  (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Serpiente%20de%20cascabel%20%20%282019%29~1.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/06/10/46/072132.jpg" group-title="VOD ACCION", Serpientes en el avio´n (2006)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/06/10/46/072132.jpg",Serpientes en el avio´n (2006)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Serpientes%20en%20el%20avio%CC%81n%20%282006%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sin%20piedad.jpg" group-title="VOD ACCION", Sin piedad
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sin%20piedad%20720p.mp4
-#EXTINF: -1 tvg-logo="https://www.elseptimoarte.net/carteles/442/universal_soldier_4_14450.jpg" group-title="VOD ACCION", soladado universal 4
-https://archive.org/download/train-to-busan-2-peninsula/f5ad905f3e92199606f68ff927b4e2e1-480p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Soldado_universal_2_Hermanos_de_armas_TV-116505580-large.jpg" group-title="VOD ACCION", Soldado universal 2 Hermanos de armas (1998)
-https://archive.org/download/train-to-busan-2-peninsula/Soldado%20universal%202%20Hermanos%20de%20armas%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="data:image/jpeg;base64,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" group-title="VOD ACCION", Speed 2 (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Speed%202%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-AxA2Fp267NQ/X0Pvus7wliI/AAAAAAAABII/7h7k_ola320-XmfyaAyW2aRJJWNNIEzCgCLcBGAsYHQ/s640/spenser-confidential-movie-HD-Poster-.jpg" group-title="VOD ACCION", Spenser confidencial (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spenser%20confidencial%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Stalingrado-347822371-large.jpg" group-title="VOD ACCION", STALINGRADO.mp4
-https://archive.org/download/train-to-busan-2-peninsula/STALINGRADO.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/wFklu01YHWhp2MxljR8e3XyvpPp.jpg" group-title="VOD ACCION", SWAT (2019)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w500/wFklu01YHWhp2MxljR8e3XyvpPp.jpg",SWAT (2019)
 https://archive.org/download/the-immortal-wars-resurgence-2019/SWAT%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="VOD ACCION", Temblores 7 La Isla Shrieker (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Temblores%207%20La%20Isla%20Shrieker%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Terminator_El_exterminador-778052251-large.jpg" group-title="VOD ACCION", Terminator 1_ El exterminador (1983)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terminator%201_%20El%20exterminador%20%281983%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Doorman_teaser_poster.jpg/220px-Doorman_teaser_poster.jpg" group-title="VOD ACCION", The Doorman (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Doorman_teaser_poster.jpg/220px-Doorman_teaser_poster.jpg",The Doorman (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Doorman%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uv9u9rz.jpg" group-title="VOD ACCION", The Game (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/The%20Game%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Immortal_Wars_Resurgence-139783082-large.jpg" group-title="VOD ACCION", The Immortal Wars Resurgence (2019)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/The_Immortal_Wars_Resurgence-139783082-large.jpg",The Immortal Wars Resurgence (2019)
 https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Immortal%20Wars%20Resurgence%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://media-cache.cinematerial.com/p/500x/qldym3hg/the-outpost-canadian-dvd-movie-cover.jpg?v=1592364435,JPG" group-title="VOD ACCION", The Outpost (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://media-cache.cinematerial.com/p/500x/qldym3hg/the-outpost-canadian-dvd-movie-cover.jpg?v=1592364435,JPG",The Outpost (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Outpost%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFmZTdhYmItNjIyZS00ZjVlLWFjZjgtMjMyMDA5ZmVjNzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD ACCION", The Tax Collector (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFmZTdhYmItNjIyZS00ZjVlLWFjZjgtMjMyMDA5ZmVjNzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",The Tax Collector (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Tax%20Collector%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-17-56.jpg" group-title="VOD ACCION", The Worthy (2016) 720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-17-56.jpg",The Worthy (2016) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20The%20Worthy%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Tiempo_de_caza-624991569-large.jpg" group-title="VOD ACCION", Tiempo de caza (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Tiempo_de_caza-624991569-large.jpg",Tiempo de caza (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempo%20de%20caza%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Top%20Gun.jpg" group-title="VOD ACCION", Top Gun
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Top%20Gun.mp4
-#EXTINF: -1 tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/9439058/Peninsula_Movie_Poster8ei25.jpg" group-title="VOD ACCION", Train to Busan 2 Peninsula
-https://archive.org/download/train-to-busan-2-peninsula/Train%20to%20Busan%202%20Peninsula.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/00/54/20076452.jpg" group-title="VOD ACCION", Tras la li´nea enemiga (2001)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/00/54/20076452.jpg",Tras la li´nea enemiga (2001)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Tras%20la%20li%CC%81nea%20enemiga%20%282001%29.mp4
-#EXTINF: -1 tvg-logo="https://i2.wp.com/pitakwa360.com/wp-content/uploads/2020/10/Tremors-Shrieker-Island-2020-movie-poster.jpg?resize=344%2C487&ssl=1" group-title="VOD ACCION", Tremors Shrieker Island (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://i2.wp.com/pitakwa360.com/wp-content/uploads/2020/10/Tremors-Shrieker-Island-2020-movie-poster.jpg?resize=344%2C487&ssl=1",Tremors Shrieker Island (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Tremors%20Shrieker%20Island%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/trust-no-1-1597343713.jpg" group-title="VOD ACCION", Trust No 1 (2019)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://img.repelis.id/cover/trust-no-1-1597343713.jpg",Trust No 1 (2019)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Trust%20No%201%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/honest_thief-988558041-large.jpg" group-title="VOD ACCION", Un ladro´n honesto (2020)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/honest_thief-988558041-large.jpg",Un ladro´n honesto (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Un%20ladro%CC%81n%20honesto%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-dozCcdoFS-g/X1j2q7JA9bI/AAAAAAAAC9g/AvmNZHDwO_I8-HZbI1utCWeieTEuPwjvQCLcBGAsYHQ/s16000/Una%2BNoche%2Ben%2BBangkok%2BHD.jpg" group-title="VOD ACCION", Una noche en Bangkok 2020
-https://archive.org/download/train-to-busan-2-peninsula/Una%20noche%20en%20Bangkok.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710AJxDLDDL._AC_SL1000_.jpg" group-title="VOD ACCION", una pareja explosiva
-https://archive.org/download/desaparecido-en-combate-1984_202101/Hora%20punta%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vanguard-881836324-large.jpg" group-title="VOD ACCION", VANGUARD 2020
-https://archive.org/download/train-to-busan-2-peninsula/VANGUARD%202020.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/riot-607721150-large.jpg" group-title="VOD ACCION", VENGANZA EN LA PRISION
-https://archive.org/download/train-to-busan-2-peninsula/vENGANZA%20EN%20LA%20PRICION.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Cuesti%C3%B3n%20de%20sangre.jpg" group-title="VOD ACCION", Ver Cuestión de sangre (2021)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Cuesti%C3%B3n%20de%20sangre.jpg",Ver Cuestión de sangre (2021)
 https://archive.org/download/94-1_20210929/Ver%20Cuesti%C3%B3n%20de%20sangre%20%282021%29%20480%20%40JuAnChO1304~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violento%20y%20furioso.jpg" group-title="VOD ACCION", Violento y furioso
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violento%20y%20furioso.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.jpg" group-title="VOD ACCION", Viuda negra
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.jpg",Viuda negra
 https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/War%20Path.jpg" group-title="VOD ACCION", War Path
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/War%20Path.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU4MDdlMTUtOTAyMC00YzQ3LWFhYWQtNDUxNjhiNzM4NzIwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" group-title="VOD ACCION", Welcome to Sudden Death (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Welcome%20to%20Sudden%20Death%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg" group-title="VOD ACCION", Wheelman (2017)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg",Wheelman (2017)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.jpg" group-title="VOD ACCION", Wolf Warrior 2
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Wolf%20Warrior%202.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="VOD ACCION", Wrong Place Wrong Time
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg",Wrong Place Wrong Time
 https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Zona_hostil-925160082-large.jpg" group-title="VOD ACCION", ZONA HOSTIL
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Zona_hostil-925160082-large.jpg",ZONA HOSTIL
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/3316c37e0c1225379cce86cfaa6f77bb-480p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Kill%20Bill%202.jpg" group-title="VOD ACCION", Kill Bill 2
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Kill%20Bill%202.jpg",Kill Bill 2
 https://archive.org/download/mentiras-verdaderas-1/Kill%20Bill%202~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas.jpg" group-title="VOD ACCION", Mentiras verdaderas
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas.jpg",Mentiras verdaderas
 https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg" group-title="VOD ACCION", Top Gun- Maverick (2022)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/220px-Top_Gun_Maverick_Poster.jpg",Top Gun- Maverick (2022)
 https://archive.org/download/1-90_20230724/548690548965.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/67867878978907.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/67867878978907.jpg" group-title="VOD ACCION", The Batman (2022)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/1-90_20230724/67867878978907.jpg",The Batman (2022)
 https://archive.org/download/1-90_20230724/67867878978907.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/897589694uyio54u67o54.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/897589694uyio54u67o54.jpg" group-title="VOD ACCION", Ver_La_cabeza_de_la_araña_2022
-https://archive.org/download/1-90_20230724/897589694uyio54u67o54.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg" group-title="VOD ACCION", Caos El inicio (2021)
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Chaos_Walking-505491818-large.jpg",Caos El inicio (2021)
 https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20%20Caos%20El%20inicio%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" group-title="VOD ACCION", solo en América
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg",solo en América
 https://ia902302.us.archive.org/29/items/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD ACCION", el inicio
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio.jpg",el inicio
 https://ia902302.us.archive.org/29/items/94-1_20210929/Caos%2C%20el%20inicio~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.jpg" group-title="VOD ACCION", Rescate en el barrio Chino
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.jpg",Rescate en el barrio Chino
 https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo.jpg" group-title="VOD ACCION", El ladrón de Rodeo
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo.jpg",El ladrón de Rodeo
 https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg" group-title="VOD ACCION", Muerte en Tombstone
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg",Muerte en Tombstone
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg" group-title="VOD ACCION", Muerte en Tombstone 2
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg",Muerte en Tombstone 2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_Simpson_La_pelaicula-286126397-large.jpg" group-title="VOD ANIMACION", Los Simpson La pelIcula
-https://ia902606.us.archive.org/23/items/los-simpson-la-pelicula_202304/simpson/Los%20Simpson_%20La%20Pel%C3%ADcula.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/f64d834fa8e121bb8067f9b18b891df5.jpg" group-title="VOD ANIMACION", La era de hielo 3
-https://archive.org/download/162682-08b-297db-6c-24-4f-25-84d-1-19a-3764b-1c-68-bwkl-1143539-uptobox-1/162682--08b297db-6c24-4f25-84d1-19a3764b1c68--bwkl--1143539-uptobox~1.mp4
-#EXTINF: -1 tvg-logo="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" tvg-logo-small="https://w0.peakpx.com/wallpaper/944/174/HD-wallpaper-ice-age-1-age-ice-ice-age-movie.jpg" group-title="VOD ANIMACION", La era de hielo 1
-https://archive.org/download/la-era-de-hielo-calidad-alexiusyt/La%20era%20de%20hielo%20calidad%20alexiusyt.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mi_amigo_el_gigante-626121729-large.jpg" group-title="VOD ANIMACION", El buen amigo gigante 2016
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Mi_amigo_el_gigante-626121729-large.jpg",El buen amigo gigante 2016
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/6757678896789678~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/85/32/61/19783007.jpg" group-title="VOD ANIMACION", Animales al Ataque
-https://archive.org/download/PELICULASINFANTILES/Animales%20al%20Ataque.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTVkYjctYTMxZi00OTVlLWEyNzMtODg4MDRkNjBhYjZhXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg" group-title="VOD ANIMACION", CORALINE
-https://archive.org/download/PELICULASINFANTILES/CORALINE%20.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194768926/s592/gahoole-la-leyenda-de-los-guardianes-2010" group-title="VOD ANIMACION", Ga Hoole la leyenda de los guardianes
-https://archive.org/download/PELICULASINFANTILES/Ga%20Hoole%20la%20leyenda%20de%20los%20guardianes.mp4
-#EXTINF: -1 tvg-logo="https://www1.divxtotal.zip/wp-content/uploads/fly-images/677259/inspector-sun-y-la-maldicion-de-la-viuda-negra22-(poster)-200x272-.jpg" group-title="VOD ANIMACION", Inspector Sun y la maldición de la viuda negra
-https://archive.org/download/PELICULASINFANTILES/Inspector%20Sun%20y%20la%20maldici%C3%B3n%20de%20la%20viuda%20negra.mp4
-#EXTINF: -1 tvg-logo="https://festival-films.com/wp-content/uploads/2019/03/Poster-Minusculos.jpg" group-title="VOD ANIMACION", Minúsculos El valle de las hormigas perdidas
-https://archive.org/download/PELICULASINFANTILES/Min%C3%BAsculos%20El%20valle%20de%20las%20hormigas%20perdidas.MP4
-#EXTINF: -1 tvg-logo="https://8.pelisplushd.to/poster/pinocho-de-guillermo-del-toro.jpg" group-title="VOD ANIMACION", Pinocho de Guillermo del Toro 2022
-https://archive.org/download/PELICULASINFANTILES/Ver%20Pinocho%20de%20Guillermo%20del%20Toro%20%282022%29%20Gratis%20Latino%20HD%20_%20PelisGratisHD%20Online.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/10/15/16/23/5507035.jpg" group-title="VOD ANIMACION", condorito
-https://archive.org/download/PELICULASINFANTILES/condorito.mp4
-#EXTINF: -1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/12/huevitos.jpg?w=201" group-title="VOD ANIMACION", huevitos congelados
-https://archive.org/download/PELICULASINFANTILES/huevitos%20congelados.mp4
-#EXTINF: -1 tvg-logo="https://www.mubis.es/media/movies/6364/239636/el-rey-leon-original.jpg" group-title="VOD ANIMACION", El Rey León 2019
-https://archive.org/download/PELICULASINFANTILES/El%20Rey%20Le%C3%B3n%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/10204187/s592/las-aventuras-de-sammy" group-title="VOD ANIMACION", la aventura de sammy
-https://archive.org/download/PELICULASINFANTILES/la%20aventura%20de%20sammy.mp4
-#EXTINF: -1 tvg-logo="https://www.zona-leros.com/storage/movies_tumbl/bichos-una-aventura-en-miniatura-cover-kfw.jpg" group-title="VOD ANIMACION", Bichos una aventura en miniatura
-https://archive.org/download/PELICULASINFANTILES/Bichos%20una%20aventura%20en%20miniatura.mp4
-#EXTINF: -1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_frozen2_19644_4c4b423d.jpeg" group-title="VOD ANIMACION", Frozen 2
-https://archive.org/download/PELICULASINFANTILES/Frozen%202.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/862dff0967dec1eaaf5f914893b8bd729d0d6c355ee7fb4b0b97a260419b7826._RI_TTW_.jpg" group-title="VOD ANIMACION", las aventuras de sammy 2
-https://archive.org/download/PELICULASINFANTILES/las%20aventuras%20de%20sammy%202.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhlNTAyY2YtNWUyYi00YmE3LWE2OTctZDI2MmJkNmZiMmY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="VOD ANIMACION", luck
-https://archive.org/download/PELICULASINFANTILES/luck.mp4
-#EXTINF: -1 tvg-logo="https://e00-telva.uecdn.es/assets/multimedia/imagenes/2018/08/14/15342472278024.jpg" group-title="VOD ANIMACION", Mulan
-https://archive.org/download/PELICULASINFANTILES/Mulan.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/218716527/s718/over-the-moon.jpg" group-title="VOD ANIMACION", más alla de la luna
-https://archive.org/download/PELICULASINFANTILES/m%C3%A1s%20alla%20de%20la%20luna.mp4
-#EXTINF: -1 tvg-logo="data:image/jpeg;base64,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" group-title="VOD ANIMACION", parque magico
-https://archive.org/download/PELICULASINFANTILES/parque%20magico.ia.mp4
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/3/w1280/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg" group-title="VOD ANIMACION", rango
-https://archive.org/download/PELICULASINFANTILES/rango.mp4
-#EXTINF: -1 tvg-logo="https://catalogodepeliculas.com/wp-content/uploads/2021/03/AGENCIA-SECRETA-DEL-CONTROL-MAGICO-e1617205088619-600x836.jpeg" group-title="VOD ANIMACION", Agencia Secreta de Control Mágico
-https://archive.org/download/PELICULASINFANTILES/Agencia%20Secreta%20de%20Control%20M%C3%A1gico.mp4
-#EXTINF: -1 tvg-logo="https://pelisplus.lat/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg&w=256&q=75" audio-track="https://archive.org/download/elgatoconbotasextendido/El%20gato%20con%20botas%20extendido.mp3" group-title="VOD ANIMACION", Gato con Botas: El último deseo 2022
-https://archive.org/download/PELICULASINFANTILES/El%20gato%20con%20botas%20el%20ultimo%20deseo.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg" group-title="VOD ANIMACION", 101 Dálmatas 2
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg",101 Dálmatas 2
 https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.jpg" group-title="VOD ANIMACION", Ainbo La guerrera del Amazonas 2021
-https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas.jpg" group-title="VOD ANIMACION", Alicia en el país de las maravillas
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas.jpg",Alicia en el país de las maravillas
 https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas~1.mp4
-#EXTINF: -1 tvg-logo="https://i1.whakoom.com/large/32/01/28b6a00dcd0a4f83becdb7c0bca75570.jpg" tvg-logo-small="https://i1.whakoom.com/large/32/01/28b6a00dcd0a4f83becdb7c0bca75570.jpg" group-title="VOD ANIMACION", Amor de gata (2020)
-https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F018%2F724%2Ffievel-va-al-oeste-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIMACION", An American Tail Fievel Goes West
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F018%2F724%2Ffievel-va-al-oeste-1.jpg&nuevoancho=690&medio=abc",An American Tail Fievel Goes West
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fievel%20va%20al%20Oeste%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg" group-title="VOD ANIMACION", Animal Crackers (2017)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg",Animal Crackers (2017)
 https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE3NDg0NDktYzBiMy00NDg2LWEzOGYtMGI3NDVjZTRkMzgzXkEyXkFqcGdeQXVyNTgwNzU4NjM@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMTE3NDg0NDktYzBiMy00NDg2LWEzOGYtMGI3NDVjZTRkMzgzXkEyXkFqcGdeQXVyNTgwNzU4NjM@._V1_.jpg" group-title="VOD ANIMACION", Ao Oni The Animation 2017
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ao%20Oni%20The%20Animation%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg" group-title="VOD ANIMACION", Astro Boy (2009)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg",Astro Boy (2009)
 https://archive.org/download/animal-crackers-2017_202101/Astro%20Boy%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original/xXB5sImAD1G1GetCaZIfN0rvWTs.jpg" tvg-logo-small="https://image.tmdb.org/t/p/original/xXB5sImAD1G1GetCaZIfN0rvWTs.jpg" group-title="VOD ANIMACION", Barbie Aventura de Princesa (2020)
-https://archive.org/download/Amadrinadas/Barbie%20Aventura%20de%20Princesa%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.jpg" group-title="VOD ANIMACION", Barbie Una aventura de sirenas
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Barbie%20Una%20aventura%20de%20sirenas.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Bob_Esponja_Un_haeroe_al_rescate-830044791-mmed.jpg" group-title="VOD ANIMACION", Bob Esponja Un heroe al rescate (2020)
-https://archive.org/download/Amadrinadas/Bob%20Esponja%20Un%20he%CC%81roe%20al%20rescate%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU2OTdmZTQtZTcwMC00NzI3LThhMGYtMzNhMTYxNTdkOTJiXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UY1200_CR108,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", Bobbleheads The Movie (2020)
-https://archive.org/download/Amadrinadas/Bobbleheads%20The%20Movie%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/viuBC3WzeDH10DNtNYFeCtudaDv.jpg" group-title="VOD ANIMACION", Bunyan and Babe (2017)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/viuBC3WzeDH10DNtNYFeCtudaDv.jpg",Bunyan and Babe (2017)
 https://archive.org/download/animal-crackers-2017_202101/Bunyan%20and%20Babe%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIyYmQyZmUtZDIzZS00MmE3LWI5NDItOWJmOTc3ZWRmMjcwXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_UY1200_CR77,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", Captain Underpants Mega Blissmas
-https://archive.org/download/Amadrinadas/Captain%20Underpants%20Mega%20Blissmas.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTdjMWVhMjAtYzNmMS00NWQ5LWJmOTYtNTc1MzhmMTBhYTM1XkEyXkFqcGdeQXVyNjk1MTYwMzM@._V1_.jpg" group-title="VOD ANIMACION", Chico Bon Bon and the Very Berry Holiday (2020)
-https://archive.org/download/Amadrinadas/Chico%20Bon%20Bon%20and%20the%20Very%20Berry%20Holiday%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYyN2Y5YWUtMDI5Zi00YjkwLWFlN2QtMjZlNjVhODZhYWI3XkEyXkFqcGdeQXVyMTIyNDUxNDU5._V1_UY1200_CR117,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", Combat Womba
-https://archive.org/download/Amadrinadas/Combat%20Womba.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/a_babysitter_s_guide_to_monster_hunting-494501314-large.jpg" group-title="VOD ANIMACION", Consejos de una canguro para cazar monstruos (2020)
-https://archive.org/download/Amadrinadas/Consejos%20de%20una%20canguro%20para%20cazar%20monstruos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/De_patitas_a_la_calle-155443970-mmed.jpg" group-title="VOD ANIMACION", De patitas a la calle (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/De_patitas_a_la_calle-155443970-mmed.jpg",De patitas a la calle (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/De%20patitas%20a%20la%20calle%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_.jpg" group-title="VOD ANIMACION", Deathstroke Knights & Dragons - The Movie (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_.jpg",Deathstroke Knights & Dragons - The Movie (2020)
 https://archive.org/download/animal-crackers-2017_202101/Deathstroke%20Knights%20%26%20Dragons%20-%20The%20Movie%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Deep%20el%20pulpo.jpg" group-title="VOD ANIMACION", Deep el pulpo
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Deep%20el%20pulpo.jpg",Deep el pulpo
 https://archive.org/download/94-1_20210929/Deep%20el%20pulpo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Demon%20Slayer%20Mugen%20Train%20la%20pel%C3%ADcula%202020.jpg" group-title="VOD ANIMACION", Demon Slayer Mugen Train la película 2020
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Demon%20Slayer%20Mugen%20Train%20la%20pel%C3%ADcula%202020.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Doraemon_y_la_gran_aventura_en_la_Ant_rtida-630171136-large.jpg" group-title="VOD ANIMACION", Doraemon y la gran aventura en la Anta´rtida (2017)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Doraemon_y_la_gran_aventura_en_la_Ant_rtida-630171136-large.jpg",Doraemon y la gran aventura en la Anta´rtida (2017)
 https://archive.org/download/animal-crackers-2017_202101/Doraemon%20y%20la%20gran%20aventura%20en%20la%20Anta%CC%81rtida%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_combate_definitivo-939157224-mmed.jpg" group-title="VOD ANIMACION", Dragon Ball Z El combate definitivo (1994)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_combate_definitivo-939157224-mmed.jpg",Dragon Ball Z El combate definitivo (1994)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20combate%20definitivo%20%281994%29.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715OAdLejWL.jpg" group-title="VOD ANIMACION", Dragon Ball Z El mas fuerte del mundo 1990
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715OAdLejWL.jpg",Dragon Ball Z El mas fuerte del mundo 1990
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20ma%CC%81s%20fuerte%20del%20mundo%20%281990%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg" group-title="VOD ANIMACION", Dragon Ball Z El regreso de Broly (1994)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg",Dragon Ball Z El regreso de Broly (1994)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20regreso%20de%20Broly%20%281994%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg" group-title="VOD ANIMACION", Dragon Ball Z El super guerrero Son Goku (1991)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg",Dragon Ball Z El super guerrero Son Goku (1991)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20super%20guerrero%20Son%20Goku%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d" group-title="VOD ANIMACION", Dragon Ball Z Estalla el duelo (1993)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d",Dragon Ball Z Estalla el duelo (1993)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Estalla%20el%20duelo%20%281993%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg" group-title="VOD ANIMACION", Dragon Ball Z Guerreros de fuerza ilimitada (1992)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg",Dragon Ball Z Guerreros de fuerza ilimitada (1992)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Guerreros%20de%20fuerza%20ilimitada%20%281992%29.mp4
-#EXTINF: -1 tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg" group-title="VOD ANIMACION", Dragon Ball Z La super batalla (1990)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg",Dragon Ball Z La super batalla (1990)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20La%20super%20batalla%20%281990%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg" group-title="VOD ANIMACION", Dragon Ball Z Los guerreros de plata (1993)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg",Dragon Ball Z Los guerreros de plata (1993)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20guerreros%20de%20plata%20%281993%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_mejores_rivales-606995084-large.jpg" group-title="VOD ANIMACION", Dragon Ball Z Los mejores rivales (1991)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_mejores_rivales-606995084-large.jpg",Dragon Ball Z Los mejores rivales (1991)
 https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20mejores%20rivales%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_tres_grandes_Super_Saiyans-979204179-large.jpg" group-title="VOD ANIMACION", Dragon Ball Z Los tres grandes Super Saiyans (1992)
-Dragon Ball Z Los tres grandes Super Saiyans (1992).mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dragones_al_rescate_el_secreto_del_ala_cantarina_TV-578983547-large.jpg" group-title="VOD ANIMACION", Dragones al rescate El secreto del Ala Cantarina (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragones_al_rescate_el_secreto_del_ala_cantarina_TV-578983547-large.jpg",Dragones al rescate El secreto del Ala Cantarina (2020)
 https://archive.org/download/animal-crackers-2017_202101/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjY2NWJmNzMtMWIyYi00NGUwLTg2NTUtMzA5ZDZkZDZkOTVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD ANIMACION", Dragons Rescue Riders Huttsgalor Holiday (2020)
-https://archive.org/download/Amadrinadas/Dragons%20Rescue%20Riders%20Huttsgalor%20Holiday%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/dorys-reef-cam-2-1609215723.jpg" group-title="VOD ANIMACION", EL  ARECIBE DE DORY
-https://archive.org/download/Amadrinadas/EL%20%20ARECIBE%20DE%20DORY.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_wishmas_tree-248623194-large.jpg" group-title="VOD ANIMACION", El arbol de los deseos 2020
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/the_wishmas_tree-248623194-large.jpg",El arbol de los deseos 2020
 https://archive.org/download/animal-crackers-2017_202101/El%20a%CC%81rbol%20de%20los%20deseos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.jpg" group-title="VOD ANIMACION", El arco mágico
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.jpg",El arco mágico
 https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20autob%C3%BAs%20m%C3%A1gico%20vuelve%20a%20despegar%20Clase%20espacial.jpg" group-title="VOD ANIMACION", El autobús mágico vuelve a despegar Clase espacial
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20autob%C3%BAs%20m%C3%A1gico%20vuelve%20a%20despegar%20Clase%20espacial.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg" group-title="VOD ANIMACION", el Bart y el Loki
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg",el Bart y el Loki
 https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
-#EXTINF: -1 tvg-logo="https://d12swbtw719y4s.cloudfront.net/images/vcbVkwlu/1PWvy1BWC5iQTdVdbY6o/3KnAjT6rlQ.jpeg" group-title="VOD ANIMACION", EL CAMINO DE XICO
-https://archive.org/download/Amadrinadas/EL%20CAMINO%20DE%20XICO.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_club_secreto_de_los_no_herederos_al_trono-729745864-large.jpg" group-title="VOD ANIMACION", El club secreto de los no herederos al trono (2020)
-https://archive.org/download/Amadrinadas/El%20club%20secreto%20de%20los%20no%20herederos%20al%20trono%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuento%20de%20la%20princesa%20Kaguya.jpg" group-title="VOD ANIMACION", El cuento de la princesa Kaguya
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w500/7f3SqkKMVYjpodmxOndnwz5oSMG.jpg" group-title="VOD ANIMACION", El deseo de Navidad de Angela (2020)
-https://archive.org/download/Amadrinadas/El%20deseo%20de%20Navidad%20de%20A%CC%81ngela%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.jpg" group-title="VOD ANIMACION", El Despertar de la Siesta
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.jpg",El Despertar de la Siesta
 https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg" group-title="VOD ANIMACION", El imperio perdido
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg",El imperio perdido
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-ib1FnuIjEi8/WK2UlLCwXfI/AAAAAAAAL5U/AUNGk8kLwUAums6cM8qOzFW2y-FMpouSgCEw/s320/The_Little-Mermaid_Ariels_Beginning_poster_usa.jpg" group-title="VOD ANIMACION", El Origen de la Sirenita (2008)
-https://archive.org/download/Amadrinadas/El%20Origen%20de%20la%20Sirenita%20%282008%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg" group-title="VOD ANIMACION", el regreso de Milo
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg",el regreso de Milo
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.mp4
-#EXTINF: -1 tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2019/12/La_oveja_Shaun_La_pel_cula_Granjagued_n-404553993-large.jpg" group-title="VOD ANIMACION", el_cordero La película Granjagedón
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2019/12/La_oveja_Shaun_La_pel_cula_Granjagued_n-404553993-large.jpg",el_cordero La película Granjagedón
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Shaun_el_cordero_2015_Richard_Starzak.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Emoji.jpg" group-title="VOD ANIMACION", Emoji
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Emoji.jpg",Emoji
 https://archive.org/download/como-me-converti-en-superheroe/Emoji.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Academia_Cranston_Escuela_de_monstruos-177433002-large.jpg" group-title="VOD ANIMACION", Escuela de miedo (2020)
-https://archive.org/download/Amadrinadas/Escuela%20de%20miedo%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/94/86/20416090.jpg" group-title="VOD ANIMACION", Fievel va al Oeste (1991)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/94/86/20416090.jpg",Fievel va al Oeste (1991)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Fievel%20va%20al%20Oeste%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-bXDL-7dI1y8/WvDuCcpcgPI/AAAAAAAABkU/I9wMiJTPD1wlINv_D8E2q2Wa3lrvHN8LwCKgBGAs/s1600/Hook%2B1080p%2BLatino.png" group-title="VOD ANIMACION", Hook (El capitan Garfio) (1991)
-https://archive.org/download/Amadrinadas/Hook%20%28El%20capita%CC%81n%20Garfio%29%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Igor-947450227-large.jpg" group-title="VOD ANIMACION", Igor (2008)
-https://archive.org/download/Amadrinadas/Igor%20%282008%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Nivel_intr_pido-409953632-large.jpg" group-title="VOD ANIMACION", Intre´pido (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Nivel_intr_pido-409953632-large.jpg",Intre´pido (2020)
 https://archive.org/download/animal-crackers-2017_202101/Intre%CC%81pido%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Curious_George_Serie_de_TV-844946295-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Curious_George_Serie_de_TV-844946295-large.jpg" group-title="VOD ANIMACION", JORGE EL CURIOSO
-https://archive.org/download/Amadrinadas/JORGE%20EL%20CURIOSO.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/jungle_beat_the_movie-437586745-large.jpg" group-title="VOD ANIMACION", Jungle Beat la peli´cula (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/jungle_beat_the_movie-437586745-large.jpg",Jungle Beat la peli´cula (2020)
 https://archive.org/download/animal-crackers-2017_202101/Jungle%20Beat%20la%20peli%CC%81cula%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Kikoriki%2C%20Deja%20Vu.jpg" group-title="VOD ANIMACION", Kikoriki Deja Vu
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Kikoriki%2C%20Deja%20Vu.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Kitbull.jpg" group-title="VOD ANIMACION", Kitbull
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Kitbull.jpg",Kitbull
 https://archive.org/download/como-me-converti-en-superheroe/Kitbull.mp4
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/f6582d76a7e84a3411988.jpg" group-title="VOD ANIMACION", Kubo y las dos cuerdas magicas (2016)
-https://archive.org/download/Amadrinadas/Kubo%20y%20las%20dos%20cuerdas%20ma%CC%81gicas%20%282016%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_famosa_invasi_n_de_los_osos_en_Sicilia-367882695-large.jpg" group-title="VOD ANIMACION", La famosa invasion de los osos en Sicilia (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/La_famosa_invasi_n_de_los_osos_en_Sicilia-367882695-large.jpg",La famosa invasion de los osos en Sicilia (2019)
 https://archive.org/download/animal-crackers-2017_202101/La%20famosa%20invasio%CC%81n%20de%20los%20osos%20en%20Sicilia%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20leyenda%20de%20Hei.jpg" group-title="VOD ANIMACION", La leyenda de Hei
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20leyenda%20de%20Hei.mp4
-#EXTINF: -1 tvg-logo="https://www.ecccomics.com/content/productos/2863/jjla_nueva_frontera%20(1).jpg" group-title="VOD ANIMACION", La Liga de la Justicia La nueva frontera (2008)
-https://archive.org/download/Amadrinadas/La%20Liga%20de%20la%20Justicia%20La%20nueva%20frontera%20%282008%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_Liga_de_la_Justicia_Perdici_n-947066019-mmed.jpg" group-title="VOD ANIMACION", La Liga de la Justicia Perdicion (2012)
-https://archive.org/download/Amadrinadas/La%20Liga%20de%20la%20Justicia%20Perdicio%CC%81n%20%282012%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/54/12/19548830.jpg" group-title="VOD ANIMACION", La muerte de Superman (2007)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/54/12/19548830.jpg",La muerte de Superman (2007)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/La%20muerte%20de%20Superman%20%282007%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20Patrulla%20Canina%2C%20La%20pel%C3%ADcula.jpg" group-title="VOD ANIMACION", La Patrulla Canina La película
-https://archive.org/download/por-encima-de-la-ley-1/La%20Patrulla%20Canina%2C%20La%20pel%C3%ADcula~1.mp4
-#EXTINF: -1 tvg-logo="https://megabithd.files.wordpress.com/2017/04/98658-pokemon2bpelicula2b182bhoopa2bsubtitulos2bespa25c325b1ol.png" group-title="VOD ANIMACION", La pelicula Pokemon Hoopa y un duelo historico (2015)
-https://archive.org/download/Amadrinadas/La%20peli%CC%81cula%20Poke%CC%81mon%20Hoopa%20y%20un%20duelo%20histo%CC%81rico%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/bai_she_yuan_qi-197151309-large.jpg" group-title="VOD ANIMACION", La serpiente blanca (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/bai_she_yuan_qi-197151309-large.jpg",La serpiente blanca (2019)
 https://archive.org/download/animal-crackers-2017_202101/La%20serpiente%20blanca%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_50605.jpg" group-title="VOD ANIMACION", Las brujas (2020)
-https://archive.org/download/Amadrinadas/Las%20brujas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg" group-title="VOD ANIMACION", Latte y la piedra ma´gica (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg",Latte y la piedra ma´gica (2019)
 https://archive.org/download/animal-crackers-2017_202101/Latte%20y%20la%20piedra%20ma%CC%81gica%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Lego_DC_aShazam_Magia_y_monstruos-865139757-large.jpg" group-title="VOD ANIMACION", Lego DC ¡Shazam! Magia y monstruos (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Lego_DC_aShazam_Magia_y_monstruos-865139757-large.jpg",Lego DC ¡Shazam! Magia y monstruos (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Lego%20DC%20%C2%A1Shazam%21%20Magia%20y%20monstruos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/11/lego-star-wars-holiday-special-2127233.jpg?itok=UgZHAVqV" group-title="VOD ANIMACION", LEGO Star Wars Especial Felices Fiestas (2020)
-https://archive.org/download/Amadrinadas/LEGO%20Star%20Wars%20Especial%20Felices%20Fiestas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg" group-title="VOD ANIMACION", Liga de la Justicia Oscura - Guerra Apokolips (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://2.bp.blogspot.com/-6D2Brt8pF80/XrJsYdPTH1I/AAAAAAAABHs/2NWue13cnKQlAQ-Eo4EG4jvPgosLHOpBQCLcBGAsYHQ/s1600/Descargar-Liga-de-la-Justicia-Oscura-Guerra-Apokolips-2020-720p-1080p-Espa%25C3%25B1ol-Latino-Mega-Mediafire-HD.jpg",Liga de la Justicia Oscura - Guerra Apokolips (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031121
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Linterna_Verde_Caballeros_Esmeralda-515759826-large.jpg" group-title="VOD ANIMACION", Linterna Verde Caballeros Esmeralda (2011)
-https://archive.org/download/Amadrinadas/Linterna%20Verde%20Caballeros%20Esmeralda%20%282011%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/green_lantern_first_flight-634510742-large.jpg" group-title="VOD ANIMACION", Linterna Verde Primer vuelo (2009)
-https://archive.org/download/Amadrinadas/Linterna%20Verde%20Primer%20vuelo%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_Caballeros_del_Zodiaco_Inicio_de_la_saga_del_cielo_Obertura-360928067-mmed.jpg" group-title="VOD ANIMACION", Los Caballeros del Zodiaco Inicio de la saga del cielo - Obertura (2004)
-https://archive.org/download/Amadrinadas/Los%20Caballeros%20del%20Zodiaco%20Inicio%20de%20la%20saga%20del%20cielo%20-%20Obertura%20%282004%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_Croods_Una_nueva_era-762432589-large.jpg" group-title="VOD ANIMACION", Los Croods Una nueva era (2020)
-https://archive.org/download/Amadrinadas/Los%20Croods%20Una%20nueva%20era%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Los%20Elfkins.jpg" group-title="VOD ANIMACION", Los Elfkins
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Los%20Elfkins.jpg",Los Elfkins
 https://archive.org/download/yummy_202105/Los%20Elfkins.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_Octonautas_y_las_cuevas_de_Sac_Actun_TV-140023116-large.jpg" group-title="VOD ANIMACION", Los Octonautas y las cuevas de Sac Actun (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Los_Octonautas_y_las_cuevas_de_Sac_Actun_TV-140023116-large.jpg",Los Octonautas y las cuevas de Sac Actun (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Los%20Octonautas%20y%20las%20cuevas%20de%20Sac%20Actun%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg" group-title="VOD ANIMACION", Los tres cerditos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg",Los tres cerditos
 https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Lu%20Over%20the%20Wall.jpg" group-title="VOD ANIMACION", Lu Over the Wall
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Lu%20Over%20the%20Wall.mp4
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2020/7/w1280/poXxJIDAkRMdbaLyDRUTcdj0gDR.jpg" group-title="VOD ANIMACION", Magia del revez 2020)
-https://archive.org/download/Amadrinadas/Magia%20del%20reve%CC%81s%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/16400/16400/001_m.jpg" group-title="VOD ANIMACION", Mas alla de la Luna (2020)
-https://archive.org/download/Amadrinadas/Ma%CC%81s%20alla%CC%81%20de%20la%20Luna%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mascotas_unidas-423137626-mmed.jpg" group-title="VOD ANIMACION", Mascotas unidas (2019)
-https://archive.org/download/Amadrinadas/Mascotas%20unidas%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.jpg" group-title="VOD ANIMACION", Miraculous World Shanghai  The Legend of Ladydragon
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.jpg",Miraculous World Shanghai  The Legend of Ladydragon
 https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ShjJh_8nAI4/X1UlKodLkOI/AAAAAAAAC6I/FJES35I9-XYglGAwDa91fatu_YKsjaVWwCLcBGAsYHQ/s16000/Mul%25C3%25A1n%2B2020%2BHD.jpg" group-title="VOD ANIMACION", Mulan (2020)
-https://archive.org/download/Amadrinadas/Mula%CC%81n%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Miraculous_World_Shanghai_The_Legend_of_Ladydragon_TV-763937522-large.jpg" group-title="VOD ANIMACION", MUNDO MIRACULOUS
-https://archive.org/download/Amadrinadas/MUNDO%20MIRACULOUS.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/My%20Little%20Pony%20Nueva%20generaci%C3%B3n.jpg" group-title="VOD ANIMACION", My Little Pony Nueva generación
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/My%20Little%20Pony%20Nueva%20generaci%C3%B3n.jpg",My Little Pony Nueva generación
 https://archive.org/download/94-1_20210929/My%20Little%20Pony%20Nueva%20generaci%C3%B3n.mp4
-#EXTINF: -1 tvg-logo="https://gnula.nu/wp-content/uploads/2020/11/Alien_Xmas_poster_usa.jpg" group-title="VOD ANIMACION", Navidad Xtraterrestre (2020)
-https://archive.org/download/Amadrinadas/Navidad%20Xtraterrestre%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Navidades_con_Basurete_TV-984009647-mmed.jpg" group-title="VOD ANIMACION", Navidades con Basurete (2020)
-https://archive.org/download/Amadrinadas/Navidades%20con%20Basurete%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.jpg" group-title="VOD ANIMACION", Navidades con Garfield
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.jpg",Navidades con Garfield
 https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.jpg" group-title="VOD ANIMACION", Otra película de huevos y un pollo
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.jpg",Otra película de huevos y un pollo
 https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Paw_Patrol_Jet_to_the_Rescue-970834647-large.jpg" group-title="VOD ANIMACION", PAW Patrol Jet to the Rescue (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Paw_Patrol_Jet_to_the_Rescue-970834647-large.jpg",PAW Patrol Jet to the Rescue (2020)
 https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY1ZGY1YTUtZjhkZS00NGU4LWE5NjAtNTZjNjg5ZjUzNzcxXkEyXkFqcGdeQXVyOTgwMjk0NjI@._V1_.jpg" group-title="VOD ANIMACION", PAW Patrol Jet to the Rescue (2020)
-https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/16600/16625/001_p.jpg" group-title="VOD ANIMACION", Paw Patrol La película 2021
-https://archive.org/download/por-encima-de-la-ley-1/16%20Paw%20Patrol%20La%20pel%C3%ADcula%202021.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Pers%C3%A9polis.jpg" group-title="VOD ANIMACION", Persépolis
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Pers%C3%A9polis.jpg",Persépolis
 https://archive.org/download/94-1_20210929/Pers%C3%A9polis.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/438/21043830_20130925135532486.jpg" group-title="VOD ANIMACION", Pocahontas 2 Viaje a un nuevo mundo (1998)
-https://archive.org/download/Amadrinadas/Pocahontas%202%20Viaje%20a%20un%20nuevo%20mundo%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/13200/13251/003_m.jpg" group-title="VOD ANIMACION", Pokemon ¡Te elijo a ti! (2017)
-https://archive.org/download/Amadrinadas/Poke%CC%81mon%20%C2%A1Te%20elijo%20a%20ti%21%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ponyo_en_el_acantilado-965564845-large.jpg" group-title="VOD ANIMACION", Ponyo en el acantilado (2008)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Ponyo_en_el_acantilado-965564845-large.jpg",Ponyo en el acantilado (2008)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Ponyo%20en%20el%20acantilado%20%282008%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" group-title="VOD ANIMACION", SalynPM-Angry.birds
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/SalynPM-Angry.birds~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/scooby_doo_and_the_reluctant_werewolf_tv-971331310-large.jpg" group-title="VOD ANIMACION", Scooby Doo y la carrera de los monstruos (1988)
-https://archive.org/download/Amadrinadas/Scooby-Doo%20y%20la%20carrera%20de%20los%20monstruos%20%281988%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/aScooby-798511662-large.jpg" group-title="VOD ANIMACION", Scooby Doo! (2020)
-https://archive.org/download/Amadrinadas/%C2%A1Feliz%20Halloween%2C%20Scooby-Doo%21%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Scooby_Doo_Regreso_a_la_Isla_de_los_Zombis-107180794-large.jpg" group-title="VOD ANIMACION", Scooby-Doo! Regreso a la Isla Zombie (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scooby-Doo%21%20Regreso%20a%20la%20Isla%20Zombie%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg" group-title="VOD ANIMACION", Shrek 3 (2007)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Shrek%203%20%282007%29~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Soul-993368298-large.jpg" group-title="VOD ANIMACION", SOULD
-https://archive.org/download/Amadrinadas/SOULD.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.jpg" group-title="VOD ANIMACION", Space Jam
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Space%20Jam.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E4YjQ1N2YtODRmOS00YTUwLWJjNDYtYWI2YjE4MDMxZTIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="VOD ANIMACION", Spirit Riding Free Spirit of Christmas (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spirit%20Riding%20Free%20Spirit%20of%20Christmas%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://www.montelent.com/wp-content/uploads/2020/02/mv5bzdkxzdizotgtmmm3zc00nwrjlwjlnwytngvlmjzkodriytgwxkeyxkfqcgdeqxvymta3mzq4mtc0._v1_sy1000_sx675_al.jpg" group-title="VOD ANIMACION", Spycies (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Spycies%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/StarDog_y_TurboCat-916752052-large.jpg" group-title="VOD ANIMACION", StarDog and TurboCat (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/StarDog%20and%20TurboCat%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Stargirl-248777771-large.jpg" group-title="VOD ANIMACION", Stargirl (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Stargirl%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/10/09/26/1158975.jpg" group-title="VOD ANIMACION", Steven Universe_ La película (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Steven%20Universe_%20La%20pel%C3%ADcula%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Super%20Bear.jpg" group-title="VOD ANIMACION", Super Bear
-https://archive.org/download/2-comando-commando-1985/Super%20Bear.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Superni_os-653724827-mmed.jpg" group-title="VOD ANIMACION", SUPER NIÑOS 2020
-https://archive.org/download/Amadrinadas/SUPER%20NI%C3%91OS%202020.mp4
-#EXTINF: -1 tvg-logo="https://www.sinpeli.com/wp-content/uploads/2020/08/superman-hombre-del-manana-2020-11376-og.jpg" group-title="VOD ANIMACION", Superman - Hombre del Man~ana (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.sinpeli.com/wp-content/uploads/2020/08/superman-hombre-del-manana-2020-11376-og.jpg",Superman - Hombre del Man~ana (2020)
 https://archive.org/download/wendy-2020_202012/Superman%20-%20Hombre%20del%20Man%CC%83ana%20%282020%29%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.latinus.us/wp-content/uploads/2020/02/01214746/poster_opt.jpg" group-title="VOD ANIMACION", Superman Hijo Rojo (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Superman%20Hijo%20Rojo%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-AqrTghd5K3g/T_oF-Lvx0lI/AAAAAAAAOQc/yD-oHAz6ECI/s1600/Superman_Batman_Enemigos_Publicos_%28Edicion_Especial%29-Caratula.jpg" group-title="VOD ANIMACION", SupermanBatman Enemigos publicos (2009)
-https://archive.org/download/Amadrinadas/SupermanBatman%20Enemigos%20pu%CC%81blicos%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Supermonstruos_Una_amistad_con_mucha_garra-698720120-large.jpg" group-title="VOD ANIMACION", Supermonstruos Una amistad con mucha garra (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Supermonstruos%20Una%20amistad%20con%20mucha%20garra%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.jpg" group-title="VOD ANIMACION", Surcadores del cielo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Surcadores%20del%20cielo.mp4
-#EXTINF: -1 tvg-logo="https://www.ecccomics.com/content/productos/5159/PORTADA_JPG_WEB_teen_titans_go_21.jpg" group-title="VOD ANIMACION", Teen Titans Go! La película (2018)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20La%20pel%C3%ADcula%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Teen_Titans_Go_Vs_Teen_Titans-727959702-large.jpg" group-title="VOD ANIMACION", Teen Titans Go! vs Teen Titans (2019)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Teen%20Titans%20Go%21%20vs%20Teen%20Titans%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://i1.wp.com/img.netnaija.com/q5KKHK.jpg?resize=584%2C876&ssl=1" group-title="VOD ANIMACION", the croods a new age
-https://archive.org/download/Amadrinadas/the%20croods%20a%20new%20age.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/The%20End%20of%20Evangelion.jpg" group-title="VOD ANIMACION", The End of Evangelion
-https://archive.org/download/por-encima-de-la-ley-1/The%20End%20of%20Evangelion~1.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyZjBjYWUtMmUwNi00NWNkLTkxYWEtOGMyYmI4YTQzNzIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="VOD ANIMACION", The Spooky Tale of Captain Underpants Hack-a-ween (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyZjBjYWUtMmUwNi00NWNkLTkxYWEtOGMyYmI4YTQzNzIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",The Spooky Tale of Captain Underpants Hack-a-ween (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/The%20Witcher%2C%20La%20pesadilla%20del%20lobo.jpg" group-title="VOD ANIMACION", The Witcher La pesadilla del lobo
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/The%20Witcher%2C%20La%20pesadilla%20del%20lobo.jpg",The Witcher La pesadilla del lobo
 https://archive.org/download/94-1_20210929/The%20Witcher%2C%20La%20pesadilla%20del%20lobo~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/tom_and_jerry_a_nutcracker_tale-337939332-large.jpg" group-title="VOD ANIMACION", Tom y Jerry El cuento de Cascanueces (2007)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/tom_and_jerry_a_nutcracker_tale-337939332-large.jpg",Tom y Jerry El cuento de Cascanueces (2007)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Tom%20y%20Jerry_%20El%20cuento%20de%20Cascanueces%20%282007%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story.jpg" group-title="VOD ANIMACION", Toy Story (1995) 720p.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story.jpg",Toy Story (1995) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%20%281995%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/04/toy_story.jpg" group-title="VOD ANIMACION", Toy Story 1 (1995)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/04/toy_story.jpg",Toy Story 1 (1995)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Toy_Story_2-636362526-large.jpg" group-title="VOD ANIMACION", Toy Story 2 (1999)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Toy_Story_2-636362526-large.jpg",Toy Story 2 (1999)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story%203.jpg" group-title="VOD ANIMACION", Toy Story 3 (2010) 720p.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story%203.jpg",Toy Story 3 (2010) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%203%20%282010%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F053%2F431%2Ftoy-story-4-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIMACION", Toy Story 4 (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F053%2F431%2Ftoy-story-4-1.jpg&nuevoancho=690&medio=abc",Toy Story 4 (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%204%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://www.laguiago.com/wp-content/uploads/2020/02/Kin%C3%A9polis-Granada-estrena-Trolls2-dentro-de-su-programa-Kin%C3%A9polis-Family-1.jpg" group-title="VOD ANIMACION", Trolls 2 Gira mundial (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.laguiago.com/wp-content/uploads/2020/02/Kin%C3%A9polis-Granada-estrena-Trolls2-dentro-de-su-programa-Kin%C3%A9polis-Family-1.jpg",Trolls 2 Gira mundial (2020)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Tut_Tut_Cory_B_lidos_Navidad-388417538-mmed.jpg" group-title="VOD ANIMACION", Tut Tut Cory Bolidos Navidad (2020)
-https://archive.org/download/Amadrinadas/Tut%20Tut%20Cory%20Bo%CC%81lidos%20Navidad%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/uglydolls-818923983-large.jpg" group-title="VOD ANIMACION", UglyDolls Extraordinariamente Feos (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/uglydolls-818923983-large.jpg",UglyDolls Extraordinariamente Feos (2019)
 https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F033%2F144%2Fun-chihuahua-en-beverly-hills-3-que-viva-la-fiesta-1.jpg&nuevoancho=690&medio=abc" group-title="VOD ANIMACION", Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F033%2F144%2Fun-chihuahua-en-beverly-hills-3-que-viva-la-fiesta-1.jpg&nuevoancho=690&medio=abc",Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29-1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.jpg" group-title="VOD ANIMACION", Un lugar tranquilo 2
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.jpg",Un lugar tranquilo 2
 https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.mp4
-#EXTINF: -1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2019/11/BAYALA.jpg" group-title="VOD ANIMACION", una aventura magica (2019)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.cineytele.com/wp-content/uploads/2019/11/BAYALA.jpg",una aventura magica (2019)
 https://archive.org/download/animal-crackers-2017_202101/Bayala%2C%20una%20aventura%20ma%CC%81gica%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg" group-title="VOD ANIMACION", Una película de huevos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg",Una película de huevos
 https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.jpg" group-title="VOD ANIMACION", Violet Evergarden the Movie
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Violet%20Evergarden%2C%20the%20Movie.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/vixen_the_movie-704033336-mmed.jpg" group-title="VOD ANIMACION", Vixen La Película
-https://archive.org/download/por-encima-de-la-ley-1/Vixen%20La%20Pel%C3%ADcula~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Wish_Upon_A_Unicorn_AKA_Unicorn-512902676-large.jpg" group-title="VOD ANIMACION", Wish Upon a Unicorn (2020)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Wish_Upon_A_Unicorn_AKA_Unicorn-512902676-large.jpg",Wish Upon a Unicorn (2020)
 https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.jpg" group-title="VOD ANIMACION", Zapatos Rojos y los siete enanos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.jpg",Zapatos Rojos y los siete enanos
 https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Catalina%20la%20Catrina%20Especial%20D%C3%ADa%20de%20Muertos.jpg" group-title="VOD ANIMACION", Catalina la Catrina Especial Día de Muertos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Catalina%20la%20Catrina%20Especial%20D%C3%ADa%20de%20Muertos.jpg",Catalina la Catrina Especial Día de Muertos
 https://archive.org/download/mentiras-verdaderas-1/Catalina%20la%20Catrina%20Especial%20D%C3%ADa%20de%20Muertos~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n%202%2C%20El%20tesoro%20de%20Simba.jpg" group-title="VOD ANIMACION", El tesoro de Simba
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n%202%2C%20El%20tesoro%20de%20Simba.jpg",El tesoro de Simba
 https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n%202%2C%20El%20tesoro%20de%20Simba~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n.jpg" group-title="VOD ANIMACION", El rey león
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n.jpg",El rey león
 https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20gran%20aventura%20de%20Billy%20y%20Mandy%20con%20el%20Coco.jpg" group-title="VOD ANIMACION", La gran aventura de Billy y Mandy con el Coco
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20gran%20aventura%20de%20Billy%20y%20Mandy%20con%20el%20Coco.jpg",La gran aventura de Billy y Mandy con el Coco
 https://archive.org/download/mentiras-verdaderas-1/La%20gran%20aventura%20de%20Billy%20y%20Mandy%20con%20el%20Coco~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20pel%C3%ADcula%20Pok%C3%A9mon%20Los%20secretos%20de%20la%20selva.jpg" group-title="VOD ANIMACION", La película Pokémon Los secretos de la selva
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20pel%C3%ADcula%20Pok%C3%A9mon%20Los%20secretos%20de%20la%20selva.jpg",La película Pokémon Los secretos de la selva
 https://archive.org/download/mentiras-verdaderas-1/La%20pel%C3%ADcula%20Pok%C3%A9mon%20Los%20secretos%20de%20la%20selva~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Lazos.jpg" group-title="VOD ANIMACION", Lazos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Lazos.jpg",Lazos
 https://archive.org/download/mentiras-verdaderas-1/Lazos~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/LEGO%20Star%20Wars%2C%20Cuentos%20escalofriantes.jpg" group-title="VOD ANIMACION", LEGO Star Wars Cuentos escalofriantes
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/LEGO%20Star%20Wars%2C%20Cuentos%20escalofriantes.jpg",LEGO Star Wars Cuentos escalofriantes
 https://archive.org/download/mentiras-verdaderas-1/LEGO%20Star%20Wars%2C%20Cuentos%20escalofriantes~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202.jpg" group-title="VOD ANIMACION", Los locos Addams 2
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202.jpg",Los locos Addams 2
 https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20siete%20pecados%20capitales%2C%20la%20maldici%C3%B3n%20de%20la%20luz.jpg" group-title="VOD ANIMACION", Los siete pecados capitales la maldición de la luz
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20siete%20pecados%20capitales%2C%20la%20maldici%C3%B3n%20de%20la%20luz.jpg",Los siete pecados capitales la maldición de la luz
 https://archive.org/download/mentiras-verdaderas-1/Los%20siete%20pecados%20capitales%2C%20la%20maldici%C3%B3n%20de%20la%20luz~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos.jpg" group-title="VOD ANIMACION", Monster house - La casa de los sustos
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos.jpg",Monster house - La casa de los sustos
 https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pok%C3%A9mon%2C%20Los%20secretos%20de%20la%20selva.jpg" group-title="VOD ANIMACION", Pokémon Los secretos de la selva
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pok%C3%A9mon%2C%20Los%20secretos%20de%20la%20selva.jpg",Pokémon Los secretos de la selva
 https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/5465467789789.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/5465467789789.jpg" group-title="VOD ANIMACION", Ver Red (2022)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/1-90_20230724/5465467789789.jpg",Ver Red (2022)
 https://archive.org/download/1-90_20230724/5465467789789.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/54908569078..jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/54908569078..jpg" group-title="VOD ANIMACION", Pinocho (2022)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/1-90_20230724/54908569078..jpg",Pinocho (2022)
 https://archive.org/download/1-90_20230724/54908569078.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/567890789078089.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/567890789078089.jpg" group-title="VOD ANIMACION", Los Tipos Malos (2022)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/1-90_20230724/567890789078089.jpg",Los Tipos Malos (2022)
 https://archive.org/download/1-90_20230724/567890789078089.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Peter_Rabbit_2_-_RT_poster.png/220px-Peter_Rabbit_2_-_RT_poster.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Peter_Rabbit_2_-_RT_poster.png/220px-Peter_Rabbit_2_-_RT_poster.png" group-title="VOD ANIMACION", Peter Rabbit 2 A la fuga (2021)
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Peter_Rabbit_2_-_RT_poster.png/220px-Peter_Rabbit_2_-_RT_poster.png",Peter Rabbit 2 A la fuga (2021)
 https://archive.org/download/1-90_20230724/7868979089789.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058905869058.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058905869058.jpg" group-title="VOD ANIMACION", Dragon Ball Super Super Hero
-https://archive.org/download/1-90_20230724/9058905869058.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vengadores_La_era_de_Ultraon-401801933-large.jpg" group-title="VOD CIENCIA FICCIÓN", Avengers era de Ultrón
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Vengadores_La_era_de_Ultraon-401801933-large.jpg",Avengers era de Ultrón
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Th3.4v3ng3rs.4g3.0f.th3.ultr0n.2015.brrip.720p.latino~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/78786897907890.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/78786897907890.jpg" group-title="VOD CIENCIA FICCIÓN", Al Borde De La Estincion [ 2023 ]
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/1-90_20230724/78786897907890.jpg",Al Borde De La Estincion [ 2023 ]
 https://archive.org/download/1-90_20230724/78786897907890.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/7856745690.jpg" group-title="VOD CIENCIA FICCIÓN", Thor Amor y trueno (2022)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/1-90_20230724/7856745690.jpg",Thor Amor y trueno (2022)
 https://archive.org/download/rick-01x-10_202309/Th0r.l0v3.4nd.thund3r.2022.hdrip.720p.latino.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="VOD CIENCIA FICCIÓN", Deadpool
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",Deadpool
 https://archive.org/download/rick-01x-10_202309/D34dp00l.2016.brrip.720p.latino.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ant_Man-627211491-large.jpg" group-title="VOD CIENCIA FICCIÓN", ANT MAN 2015
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Ant_Man-627211491-large.jpg",ANT MAN 2015
 https://archive.org/download/rick-01x-10_202309/4nt.m4n.2015.brrip.720p.latino.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg" group-title="VOD CIENCIA FICCIÓN", Capitan America Civil War
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg",Capitan America Civil War
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/C4pt41n.4m3r1c4.c1v1l.w4r.2016.brrip.720p.latino~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg" group-title="VOD CIENCIA FICCIÓN", Amores caníbales (2016)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg",Amores caníbales (2016)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Amores%20can%C3%ADbales%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk2NTY2ZjMtYTUyNC00NDQ1LWJhMzUtYmI4NWEwMjVkMmZmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg" group-title="VOD CIENCIA FICCIÓN", Archive (2020)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk2NTY2ZjMtYTUyNC00NDQ1LWJhMzUtYmI4NWEwMjVkMmZmXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",Archive (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Archive%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Attraction-612163369-mmed.jpg" group-title="VOD CIENCIA FICCIÓN", Attraction (2017)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Attraction-612163369-mmed.jpg",Attraction (2017)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Attraction%20%282017%29-1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.jpg" group-title="VOD CIENCIA FICCIÓN", Avengers Endgame
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.jpg",Avengers Endgame
 https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg" group-title="VOD CIENCIA FICCIÓN", Aztech (2020)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg",Aztech (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Aztech%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.jpg" group-title="VOD CIENCIA FICCIÓN", Beyond Skyline
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.jpg",Beyond Skyline
 https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Caos%2C%20el%20inicio.jpg" group-title="VOD CIENCIA FICCIÓN", Caos El inicio 2021
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Caos%2C%20el%20inicio.jpg",Caos El inicio 2021
 https://archive.org/download/94-1_20210929/%40cesser16%20%20Caos%20El%20inicio%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/earthfall_tv-909168957-large.jpg" group-title="VOD CIENCIA FICCIÓN", Cata´strofe inminente (2015)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/earthfall_tv-909168957-large.jpg",Cata´strofe inminente (2015)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Cata%CC%81strofe%20inminente%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg" group-title="VOD CIENCIA FICCIÓN", Cherry 2000
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg",Cherry 2000
 https://archive.org/download/2-comando-commando-1985/Cherry%202000.mp4
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-b9h9Y-hCI7A/VibOUwATz2I/AAAAAAAAq7o/WVL5WsrDDWg/s1600/698021515.jpg" group-title="VOD CIENCIA FICCIÓN", Containment (2015)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://3.bp.blogspot.com/-b9h9Y-hCI7A/VibOUwATz2I/AAAAAAAAq7o/WVL5WsrDDWg/s1600/698021515.jpg",Containment (2015)
 https://archive.org/download/i-hate-summer-2020/Containment%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cosmoball-839643845-large.jpg" group-title="VOD CIENCIA FICCIÓN", Cosmoball (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Cosmoball%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.jpg" group-title="VOD CIENCIA FICCIÓN", Critters 1986
-https://archive.org/download/2-comando-commando-1985/Critters%20%281986%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente.jpg" group-title="VOD CIENCIA FICCIÓN", Divergente
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente.jpg",Divergente
 https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.mp4
-#EXTINF: -1 tvg-logo="https://ia601508.us.archive.org/34/items/como-me-converti-en-superheroe/Divergente%202.jpg" group-title="VOD CIENCIA FICCIÓN", Divergente 2
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601508.us.archive.org/34/items/como-me-converti-en-superheroe/Divergente%202.jpg",Divergente 2
 https://archive.org/download/como-me-converti-en-superheroe/Divergente%202.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.jpg" group-title="VOD CIENCIA FICCIÓN", Divergente 3
-https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/29/15/24/454149.jpg" group-title="VOD CIENCIA FICCIÓN", El espacio entre nosotros (2017)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/29/15/24/454149.jpg",El espacio entre nosotros (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/91/43/89/20145513.jpg" group-title="VOD CIENCIA FICCIÓN", El mundo perdido Jurassic Park (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/El%20mundo%20perdido%20Jurassic%20Park%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-INRUdodhZH4/Xv1mJDVfybI/AAAAAAAAB5k/FAoLiGkOz84iQhDhOX0EYdDbANvlHolgwCK4BGAsYHg/s16000/El%2Bquinto%2Belemento.jpg" group-title="VOD CIENCIA FICCIÓN", El quinto elemento (1997)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://1.bp.blogspot.com/-INRUdodhZH4/Xv1mJDVfybI/AAAAAAAAB5k/FAoLiGkOz84iQhDhOX0EYdDbANvlHolgwCK4BGAsYHg/s16000/El%2Bquinto%2Belemento.jpg",El quinto elemento (1997)
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/1%20Ver%20El%20Quinto%20Elemento%20%281997%29%20480%20%40JuAnChO1304.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/En%20Modo%20Asesino.jpg" group-title="VOD CIENCIA FICCIÓN", En Modo Asesino
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/En%20Modo%20Asesino.jpg",En Modo Asesino
 https://archive.org/download/94-1_20210929/En%20Modo%20Asesino~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral.jpg" group-title="VOD CIENCIA FICCIÓN", Espiral
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral.jpg",Espiral
 https://archive.org/download/2-comando-commando-1985/Espiral.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Expiry.jpg" group-title="VOD CIENCIA FICCIÓN", Expiry
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Expiry.jpg",Expiry
 https://archive.org/download/2-comando-commando-1985/Expiry.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDBjMjEtZWQ0OS00NzYyLTg0M2ItMmUzYTEwN2RmMGVlXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg" group-title="VOD CIENCIA FICCIÓN", Flash Gordon (1980)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Flash%20Gordon%20%281980%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.jpg" group-title="VOD CIENCIA FICCIÓN", Ghost in the Shell
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.jpg",Ghost in the Shell
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.jpg" group-title="VOD CIENCIA FICCIÓN", Ghost in the Shell Stand Alone Complex - El hombre que ríe
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.jpg",Ghost in the Shell Stand Alone Complex - El hombre que ríe
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.jpg" group-title="VOD CIENCIA FICCIÓN", Ghost in the Shell Stand Alone Complex 2nd GiG
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.jpg",Ghost in the Shell Stand Alone Complex 2nd GiG
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Godzilla-741312933-mmed.jpg" group-title="VOD CIENCIA FICCIÓN", Godzilla (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Godzilla%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia.jpg" group-title="VOD CIENCIA FICCIÓN", Guardianes de la galaxia (2014) 720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia.jpg",Guardianes de la galaxia (2014) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20%282014%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia%202.jpg" group-title="VOD CIENCIA FICCIÓN", Guardianes de la galaxia Vol. 2 - 720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia%202.jpg",Guardianes de la galaxia Vol. 2 - 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20Vol.%202%20-%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Gu%C3%ADa%20del%20autoestopista%20gal%C3%A1ctico.jpg" group-title="VOD CIENCIA FICCIÓN", Guía del autoestopista galáctico
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Gu%C3%ADa%20del%20autoestopista%20gal%C3%A1ctico.jpg",Guía del autoestopista galáctico
 https://archive.org/download/94-1_20210929/Gu%C3%ADa%20del%20autoestopista%20gal%C3%A1ctico.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/68/00/67/20141592.jpg" group-title="VOD CIENCIA FICCIÓN", Independence Day (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Independence%20Day%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.jpg" group-title="VOD CIENCIA FICCIÓN", Inteligencia Artificial
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.jpg",Inteligencia Artificial
 https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.jpg" group-title="VOD CIENCIA FICCIÓN", Jumanji 1995
-https://archive.org/download/2-comando-commando-1985/Jumanji%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20%C3%BAltima%20vida%20de%20Sim%C3%B3n.jpg" group-title="VOD CIENCIA FICCIÓN", La última vida de Simón
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20%C3%BAltima%20vida%20de%20Sim%C3%B3n.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vidas%20posibles%20de%20Mr.%20Nobody.jpg" group-title="VOD CIENCIA FICCIÓN", Las vidas posibles de Mr Nobody
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Las%20vidas%20posibles%20de%20Mr.%20Nobody.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Liga%20de%20la%20Justicia.jpg" group-title="VOD CIENCIA FICCIÓN", Liga de la justicia
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Liga%20de%20la%20Justicia.jpg",Liga de la justicia
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Liga%20de%20la%20justicia%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_recall-294838770-large.jpg" group-title="VOD CIENCIA FICCIÓN", Los Invasores (2017)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/the_recall-294838770-large.jpg",Los Invasores (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Los%20Invasores%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Los_nuevos_mutantes-737308298-large.jpg" group-title="VOD CIENCIA FICCIÓN", Los nuevos mutantes (2020)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Los_nuevos_mutantes-737308298-large.jpg",Los nuevos mutantes (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Los%20nuevos%20mutantes%20%282020%29-1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20all%C3%A1%20del%20horizonte.jpg" group-title="VOD CIENCIA FICCIÓN", Más allá del horizonte
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20all%C3%A1%20del%20horizonte.jpg",Más allá del horizonte
 https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20all%C3%A1%20del%20horizonte.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/03/30/16/14/5223967.jpg" group-title="VOD CIENCIA FICCIÓN", Mortal Kombat (2021)
-https://archive.org/download/cesser-16-acrimony-1080p/Ver%20Mortal%20Kombat%20%282021%29%20480%20%40JuAnChO1304.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ox%C3%ADgeno.jpg" group-title="VOD CIENCIA FICCIÓN", Oxígeno
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ox%C3%ADgeno.jpg",Oxígeno
 https://archive.org/download/yummy_202105/Ox%C3%ADgeno.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.jpg" group-title="VOD CIENCIA FICCIÓN", Parásitos
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Par%C3%A1sitos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.jpg" group-title="VOD CIENCIA FICCIÓN", Policía en el tiempo
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.jpg",Policía en el tiempo
 https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Power_Rangers_la_pel_cula-234937996-mmed.jpg" group-title="VOD CIENCIA FICCIÓN", Power Rangers La Peli´cula (1995)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Power%20Rangers%20La%20Peli%CC%81cula%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Reminiscencia.jpg" group-title="VOD CIENCIA FICCIÓN", Reminiscencia
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Reminiscencia.jpg",Reminiscencia
 https://archive.org/download/94-1_20210929/Reminiscencia~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Respira.jpg" group-title="VOD CIENCIA FICCIÓN", Respira
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Respira.jpg",Respira
 https://archive.org/download/94-1_20210929/Respira~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/robo_warriors_aka_robot_jox_3-737572793-mmed.jpg" group-title="VOD CIENCIA FICCIÓN", Robot Apocalypse 2021
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/robo_warriors_aka_robot_jox_3-737572793-mmed.jpg",Robot Apocalypse 2021
 https://archive.org/download/94-1_20210929/%40cesser16%20Robot%20Apocalypse%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Settlers.jpg" group-title="VOD CIENCIA FICCIÓN", Settlers
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Settlers.jpg",Settlers
 https://archive.org/download/como-me-converti-en-superheroe/Settlers.mp4
-#EXTINF: -1 tvg-logo="https://media.elcinema.com/uploads/_315x420_35fb45110d658154115fbf93efc7899cdccec3ffa30138db69231a9d3da64d49.jpg" group-title="VOD CIENCIA FICCIÓN", Spawn (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Spawn%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://img.netnaija.com/l2bHHK.jpg" group-title="VOD CIENCIA FICCIÓN", Sputnik (2020)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://img.netnaija.com/l2bHHK.jpg",Sputnik (2020)
 https://archive.org/download/i-hate-summer-2020/Sputnik%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Star_Trek_Insurrecciaon-935993367-mmed.jpg" group-title="VOD CIENCIA FICCIÓN", Star Trek IX Insurreccio´n (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Star%20Trek%20IX%20Insurreccio%CC%81n%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg" group-title="VOD CIENCIA FICCIÓN", Star wars Episodio I La amenaza fantasma
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg",Star wars Episodio I La amenaza fantasma
 https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
-#EXTINF: -1 tvg-logo="https://i1.whakoom.com/large/2f/25/c46b8fb559dc4fdfaa5fe1cf3a5c15a3.jpg" group-title="VOD CIENCIA FICCIÓN", Star Wars_ Episodio II - El ataque de los clones (2002)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20Wars_%20Episodio%20II%20-%20El%20ataque%20de%20los%20clones%20%282002%29~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_guerra_de_las_galaxias_Episodio_III_La_venganza_de_los_Sith-974479162-large.jpg" group-title="VOD CIENCIA FICCIÓN", Star wars_ Episodio III  La venganza de los sith 2005
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Star%20wars_%20Episodio%20III%20-%20La%20venganza%20de%20los%20sith%20%282005%29.mp4
-#EXTINF: -1 tvg-logo="https://lh4.googleusercontent.com/proxy/MuucizTwA15f_m0eS_pXu1j3iZrQhuSxqyAxqdSUL31pck4ZW2ztx0IV_tsvJHQG17ct_D6p88NwrwLTbgwbNrEzuJiyPBipDsQEv1lmMp6z_EU=w1200-h630-p-k-no-nu" group-title="VOD CIENCIA FICCIÓN", Starship Troopers (Las brigadas del espacio) (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Starship%20Troopers%20%28Las%20brigadas%20del%20espacio%29%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-ajiyet4pTlo/XGs6fiRp5AI/AAAAAAAA0nA/pq3S9gJ7ELEFhBASfhTBIzjNCGULyOoAwCLcBGAs/s1600/Terminator%2B2%2BEl%2Bjuicio%2Bfinal.jpg" group-title="VOD CIENCIA FICCIÓN", Terminator 2 el juicio final
-https://archive.org/download/desaparecido-en-combate-1984_202101/Terminator%202%20el%20juicio%20final%20%281991%29.MP4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Terminator_3_La_rebeli_n_de_las_m_quinas-788040850-large.jpg" group-title="VOD CIENCIA FICCIÓN", terminator 3 la revelion de las maquinas
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Terminator_3_La_rebeli_n_de_las_m_quinas-788040850-large.jpg",terminator 3 la revelion de las maquinas
 https://archive.org/download/yummy_202105/El%20exterminador%203.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/terminator-4-la-salvacion.jpg" group-title="VOD CIENCIA FICCIÓN", Terminator 4 La salvación
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://img.repelis.id/cover/terminator-4-la-salvacion.jpg",Terminator 4 La salvación
 https://archive.org/download/yummy_202105/Terminator%204%2C%20La%20salvaci%C3%B3n.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/ba/ca/a6/bacaa601e4ccdc41ae840f16376c44b6.jpg" group-title="VOD CIENCIA FICCIÓN", terminator 5
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://i.pinimg.com/originals/ba/ca/a6/bacaa601e4ccdc41ae840f16376c44b6.jpg",terminator 5
 https://archive.org/download/yummy_202105/El%20exterminador%205.mp4
-#EXTINF: -1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-terminator-destino-oscuro-1567418737.jpg" group-title="VOD CIENCIA FICCIÓN", terminator 6 destino oscuro
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-terminator-destino-oscuro-1567418737.jpg",terminator 6 destino oscuro
 https://archive.org/download/yummy_202105/El%20exterminador%206%2C%20destino%20oscuro.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg" group-title="VOD CIENCIA FICCIÓN", Time Trap
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg",Time Trap
 https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/21/12/06/469257.jpg" group-title="VOD CIENCIA FICCIÓN", TRON (1982)
-https://archive.org/download/desaparecido-en-combate-1984_202101/TRON%20%281982%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg" group-title="VOD CIENCIA FICCIÓN", Ultra Galaxy
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg",Ultra Galaxy
 https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg" group-title="VOD CIENCIA FICCIÓN", Una odisea del espacio
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg",Una odisea del espacio
 https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vengadores_Infinity_War-181539353-large.jpg" group-title="VOD CIENCIA FICCIÓN", Vengadores Infinity War (2018)
-https://archive.org/download/wonder-woman-1984-2020_202012/Vengadores%20Infinity%20War%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.jpg" group-title="VOD CIENCIA FICCIÓN", Viaje al fondo del mar
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Viaje%20al%20fondo%20del%20mar.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Volcano_%281997_film%29.jpg" group-title="VOD CIENCIA FICCIÓN", Volcano (1997)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Volcano%20%281997%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/18/e6/1e/18e61e299d5b505fb947716f8a1e9ac3.png" group-title="VOD CIENCIA FICCIÓN", Wonder Woman 1984 (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Wonder%20Woman%201984%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058605860.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058605860.jpg" group-title="VOD CIENCIA FICCIÓN", Proyecto GEMINI  (2022)
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/1-90_20230724/9058605860.jpg",Proyecto GEMINI  (2022)
 https://archive.org/download/1-90_20230724/9058605860.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino.jpg" group-title="VOD CIENCIA FICCIÓN", Kill Mode
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino.jpg",Kill Mode
 https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.jpg" group-title="VOD COMEDIA", Al diablo con el diablo
+#EXTINF:-1 group-title="VOD COMEDIA",¿Quién *&$%! son los Miller? (2013)
+http://archive.org/download/John_S-Q5LM/07.avi
+#EXTINF:-1 group-title="VOD COMEDIA",¿Y Dónde Está el Fantasma? (2013)
+http://archive.org/download/JH6C22V1/INAPRN13.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",17 otra vez 2009
+http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",3 IDIOTAS OPCION 2
+http://archive.org/download/000_20200306_202003/03.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",A dos metros de ti - Romance
+http://archive.org/download/rasecaral42_gmail_45/P/2mtu.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",A prueba de hombres 2007
+http://archive.org/download/killerscorpion_09_hotmail_1_20190202/Sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Abracadabra 1993 (480pHD)
+http://archive.org/download/000_20201021/00004.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Agrande Al Niño
+http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/0c2f55d976b67c43cf2cf431be0916a5-480p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Alma de avión (locura en las alturas) latino
+http://archive.org/download/10kvr43n1454ltvr4s/10kvr4_3n_145_4ltvr4s.avi
+#EXTINF:-1 group-title="VOD COMEDIA",American Pie Presenta: Las chicas mandan 2020 (+17)
+http://archive.org/download/000_20201016/00003.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Arthur: Millonario Irresistible (2011)
+http://archive.org/download/5H59A3V4/ARTHRM11.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Austin Powers en Goldmember
+http://archive.org/download/01010_201807/01010.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Austin Powers: International Man of Mystery 1997
+http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A85/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Austin Powers: The Spy Who Shagged Me 1999
+http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Barber Shop 2002
+http://archive.org/download/bahayizo1/sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Barbie (2023)
+http://archive.org/download/CY944F7O/BRB13023.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Beetlejuice el super fantasma 1998
+http://archive.org/download/xosuc_tempcloud_1/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Big mama 1
+http://archive.org/download/00000_202006/01.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Big mama 3
+http://archive.org/download/00000_202006/03.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Camino Duro: La Historia de Dewey Cox (Vers. Extendida) (2007) (Lat/Ing)
+http://archive.org/download/9XEZ25V1/LHDEDC07.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Capulina contra el santo (360p)
+http://archive.org/download/00_20201006/00012.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Capulina contra los monstruos (360p)
+http://archive.org/download/00_20201006/00006.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Capulina y chespirito - operacion carambola (360p)
+http://archive.org/download/00_20201006/00013.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Capulina y viruta - El camino de los espantos (360p)
+http://archive.org/download/000_20201007/00012.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",casi imposible 2019
+http://archive.org/download/000_20200127/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chabelo y pepito - La lampara maravillosa (360p)
+http://archive.org/download/00_20201006/00005.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chabelo y pepito detectives (360p)
+http://archive.org/download/00_20201006/00004.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chabelo y pepito VS LOS MONSTRUOS (360P HD)
+http://archive.org/download/00_20201006/00007.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chicas pesadas
+http://archive.org/download/ciejrkr/ciejrkr.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chicos buenos 2019
+http://archive.org/download/000_20200127_202001/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Chips
+http://archive.org/download/00000_20200906/000004.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Cindy la regia (360p)
+http://archive.org/download/000_20200227/07.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Click perdiendo el control 2006
+http://archive.org/download/ThdndjhgKdjxbxh/thdndjhg%20kdjxbxh.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Colegas del barrio
+http://archive.org/download/000_20200227/03.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Como caido del cielo
+http://archive.org/download/000_20200117_20200117/4.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Como hacer una XXX
+http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Complices
+http://archive.org/download/mdsc0mp/mdsc0mp.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Con Todos Menos Contigo (2023) (Lat/Ing)
+http://archive.org/download/5R67NLJX/CNTDMC23.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Cortocircuito (1986)
+http://archive.org/download/9Q7561N3/CORCIR86.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Cortocircuito 2 (1988)
+http://archive.org/download/000_20200129_20200129_0445/3.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",De caza con papa 2018
+http://archive.org/download/BdjckckKdcjdsjxcCbNxf/bdjckck%20kdcjdsjxc%20cb%20nxf.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",De tonta nada 2018
+http://archive.org/download/000_20200130_202001/5.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Deslizando a la gloria
+http://archive.org/download/npr82752_zoqqa_1_20190323_1859/subid0_p4r4_stre4m1ng_a85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Dr Jekyll & Ms Hyde
+http://archive.org/download/lucymosu80_gmail_0001/subid0_para_5tre4ming_A85/0002.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Drake y Josh Feliz Navidad 2008 (OPCION 2)
+http://archive.org/download/edisam1/Sub1d0_p4r4_5tr34ming_A85_CM/24.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Drake y Josh: Feliz Navidad 2008 (Dual Audio + Sub Esp)
+http://archive.org/download/cibeha1/Sub1d0_p4r4_5tr34ming_A85_CM_2/10.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",El apartamento de joe 1998
+http://archive.org/download/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El chanfle 1 (1979) - Chespirito (360)
+http://archive.org/download/00_20201006/00023.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El Chanfle 2 - chespirito (360p HD)
+http://archive.org/download/00_20201006/00002.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El Grinch (2000)
+http://archive.org/download/29T8Q16K/GR1NRE00.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",El Hombre Bicentenario 1999
+http://archive.org/download/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El Maestro Borracho (1978)
+http://archive.org/download/tragoporeso-1978/tragoporeso%21%20%281978%29.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",El paquete 2018
+http://archive.org/download/6wQiVCGFZj4jj4A/6wQiVCGFZj4jj4A.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El profesor chiflado 1996
+http://archive.org/download/zozenunole1/sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El profesor chiflado 2 2000
+http://archive.org/download/zozenunole1/sub1d0_p4r4_5tr34ming_A85/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El regalo prometido
+http://archive.org/download/000_20191209_20191209_1845/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El retorno de los tomates asesinos 1988
+http://archive.org/download/gebavuta_sandcars_Udr4/subid0_para_5tre4ming_A85/t0mA.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",El Rey Leon  2019
+http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/5.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",El Santo vs las momias de guanajuato (360p)indi
+http://archive.org/download/00_20201006/00009.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Elvira: La Dama de la Oscuridad (1988)
+http://archive.org/download/3351LJVL/X6ESNKEL.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Encogi A Los Niños
+http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/d0bb307f231eaf01ab9241947c386e04-480p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Escuela para fracasados 2018
+http://archive.org/download/000_20200129_20200129_0445/4.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Ese es mi hijo (2012)
+http://archive.org/download/John_S-MRvs60_1-2/05.avi
+#EXTINF:-1 group-title="VOD COMEDIA",EuroTrip (2004)
+http://archive.org/download/john_s-1dmpm/11.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Familia Instantanea 2018 (Dual Audio + Sub Esp)
+http://archive.org/download/juan18/Sub1d0_p4r4_5tr34ming_A85v4r1a5/17.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Fin de semana con el muerto
+http://archive.org/download/gebavuta_sandcars_Udr4/subid0_para_5tre4ming_A85/f1ns.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Friday 1995
+http://archive.org/download/hetojupafa_ask-mail_1_20190223/sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Gigolo por accidente en Europa 2005
+http://archive.org/download/yopevozo_mail-pro_1/2ub1d0_para_S7ream1ng_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Gringo se busca vivo o muerto (2018)
+http://archive.org/download/PjxbssjbCjsjcjdcJfjdjcb/pjxbssjb%20cjsjcjdc%20jfjdjcb.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Guadalupe reyes 2019
+http://archive.org/download/000_20200127/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Guru de Bodas
+http://archive.org/download/terugi_newairmail_11/11.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Hazme el Favor (2023)
+http://archive.org/download/RK779HCT/NOHAFE23.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Heroe de centro comercial 2 2015 (Dual Audio + Sub Esp)
+http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/2.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Heroe de centro comercial 2009 (Dual Audio + Sub Esp)
+http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/1.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Heroe del centro comercial 2 (opcion 2) 2015 (Dual Audio + Sub Esp)
+http://archive.org/download/vodaya2/Sub1d0_p4r4_5tr34ming_A85_V4R145_9/3.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Inactividad Paranormal 2 (2014)
+http://archive.org/download/JH6C22V1/INAPRN14.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Infiltrados en la universidad 2
+http://archive.org/download/000_20200306_202003/01.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Irene yo y mi otro yo (2000)
+http://archive.org/download/QpkfbcfHjxxjdix/qpkfbcf%20hjxxjdix.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Jack y Jill 2003
+http://archive.org/download/T81818M8787B87L544672p/J42k%2B4n60%2B2111.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Juego de Gemelas (1998)
+http://archive.org/download/I87A13LM/JUDEGE98.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Junior 1994
+http://archive.org/download/PskfcjdjdJffcjkdr/pskfcjdjd%20jffcjkdr.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Kung Pow: El maestro de la kung fusión
+http://archive.org/download/jum055/Jum055.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Kung-Fusión (2004)
+http://archive.org/download/14D91796/KGUS11A5.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",La boda de la abuela
+http://archive.org/download/000_20200122_202001/3.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La Boda De Mi Mejor Amiga
+http://archive.org/download/20220122_20220122_0417/Watch%202ef82d5f0c5fca8b499ecc762b96b656%20mp4_%20Original.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La Calle de la Navidad (2023)
+http://archive.org/download/U591C5VX/LCDNAV23.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",La Calle de la Navidad (2023) (360p)
+http://archive.org/download/04UT1P21/LCDNAV23L.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",La Fiesta de las Salchichas (2016)
+http://archive.org/download/John_S-MRvs60_1-2/30.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",La india maria - El Coyote Emplumado (360p)
+http://archive.org/download/00_20201006/00010.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La india maria - El miedo no anda en burro (360p)
+http://archive.org/download/00_20201006/00011.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La india maria - Ni de aqui ni de alla (360p)
+http://archive.org/download/00_20201006/00020.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La india maria - sor Tequila (360P)
+http://archive.org/download/00_20201006/00021.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La mansion embrujada (Disney 2003)
+http://archive.org/download/LaMansionEmbrujadaDisney2003/La%20Mansion%20Embrujada%20Disney%202003.ogv
+#EXTINF:-1 group-title="VOD COMEDIA",La maravilla 2019
+http://archive.org/download/000_20200127_202001/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La Máscara (1994)
+http://archive.org/download/G7Y4L24F/LMSCRA94.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",La Máscara 2 (2005)
+http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/d237f2823dbd840e2ded1f14e9a32c1-480p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La peor semana (2018)
+http://archive.org/download/DmllkfncXkfndkxkc/dmllkfnc%20xkfndkxkc.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",La Verdad Sobre Las Mentiras
+http://archive.org/download/toguse_nyrmusic_06/06.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Las apariencias engañan (2016)
+http://archive.org/download/tosey_freehotmail_10/10.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Las locuras de Dick y Jane
+http://archive.org/download/m6cd1cj4n/m6cd1cj4n.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Las locuras de parchis - La tercera guerra de los niños
+http://archive.org/download/la-guerra-de-los-nin-os-3/LA%20GUERRA%20DE%20LOS%20NI%C3%91OS%203.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Las vacaciones de Mr Bean
+http://archive.org/download/semocube0/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Legalmente rubia (2001)
+http://archive.org/download/vonoto_parcel4_2/wiimc/1%20%282%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Legalmente rubia 2 (2003)
+http://archive.org/download/vonoto_parcel4_2/wiimc/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Lo que ellos quieren -
+http://archive.org/download/rasecaral42_gmail_Sdsa/LQEQ.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Locas por el dinero (2008)
+http://archive.org/download/John_S-1J_LCD4P/21.avi
+#EXTINF:-1 group-title="VOD COMEDIA",locos de ira (2003)
+http://archive.org/download/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk/psqqqjkdkxdnxjssjxjsjxbsjxjsjakkjsjzjzzk.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Los Calienta Bancas (2006)
+http://archive.org/download/00_20200515/loscb.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Los colegas del barrio
+http://archive.org/download/00000_20200906/00005.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Los Declaro Marido y Larry (2004)
+http://archive.org/download/arthur-p-hd-3/zzszss.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Los Juegos del Amor (2024) (Lat/Ing)
+http://archive.org/download/92F4XDP2/LJUEDA24.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Los Locos Addams (1991)
+http://archive.org/download/Z4F5304Z/ADAJSN01.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Los Locos Addams II (1993)
+http://archive.org/download/Z4F5304Z/ADAJSN02.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Los Tres Chiflados
+http://archive.org/download/los-tres-chiflados_202202/Los%20Tres%20Chiflados.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Lotoman
+http://archive.org/download/lotoman-003/Lotoman.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Lotoman 003
+http://archive.org/download/lotoman-003/Lotoman%20003.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Lotoman 2.0
+http://archive.org/download/lotoman-003/Lotoman%202.0.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Marley y yo
+http://archive.org/download/marleyyyo2008/marleyyyo2008.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Mentiroso Mentiroso
+http://archive.org/download/mmsc0s0/mmsc0s0.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Mi cita con la hija del presidente (1998)
+http://archive.org/download/h1j4d37U/wiimc/h1j4d37U.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 2 1992 (Dual Audio + Sub Esp)
+http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/2.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 3 1997 (Dual Audio + Sub Esp)
+http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/3.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 4 2002 (Dual Audio + FanSub Esp)
+http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/4.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 4 2002 (Dual Audio + Sub Esp)
+http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/4.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 5 2012
+http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/5.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito 5 2012 (Dual Audio + Sub Esp)
+http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/5.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi pobre angelito. 1990 (Dual Audio + Sub Esp)
+http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/1.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mi prima la Sexologa
+http://archive.org/download/mqysnMS/mqysnMS.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Mister pancho (360p)
+http://archive.org/download/00_20201006/00019.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Misterio a Bordo (2019)
+http://archive.org/download/3IKKL73A/MDRMYS19.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Misterio a la Vista (2023)
+http://archive.org/download/3IKKL73A/MDRMYS23.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Mr Deeds (2002)
+http://archive.org/download/KjfjqkffKdfeteyBds/kjfjqkff%20kdfetey%20bds.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Mr. Magorium y su Tienda Mágica (2007)
+http://archive.org/download/TRIA53P4/MRM4G007.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Muertos de Risa (2004)
+http://archive.org/download/arthur-p-hd-3/zzszs.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Nacho libre 2006
+http://archive.org/download/00000_20200906/000003.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Naked - desnudo (2017)
+http://archive.org/download/PhgkdhrkSxjdbfjJxjdhf/phgkdhrk%20sxjdbfj%20jxjdhf.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Navidad de Golpe (2022)
+http://archive.org/download/29T8Q16K/FAFXMA22.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Navidad en 8 Bits (2021)
+http://archive.org/download/TU8SDO15/NVE8BT21.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Navidad en 8 Bits (2021) (360p)
+http://archive.org/download/TU8SDO15/NVE8BT21L.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Ni en tus sueños (Long Shot) (2019) (Dual Audio)
+http://archive.org/download/John_S-MRvs60_1-2/08.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",No manches frida
+http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",No manches frida 2 -
+http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",No mires 2018 (480p)
+http://archive.org/download/00002_202101/000013.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",No te metas con Zohan (2008)
+http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Noche sin Paz (2022)
+http://archive.org/download/29T8Q16K/NOSIPA22.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Norbit (2007)
+http://archive.org/download/ElBoleroDeRaquelWWw.DescargateloCorp.CoM/u289y4/NRBT.rplt-COMPUCALITV.COM.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Parchis la guerra de los niños 2
+http://archive.org/download/la-guerra-de-los-nin-os-2/LA%20GUERRA%20DE%20LOS%20NI%C3%91OS%202.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Patrick 2018 Castellano (360p)
+http://archive.org/download/000_20201114/00012.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Placa de acero 2019
+http://archive.org/download/000_20200130_202001/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Plus one
+http://archive.org/download/000_20200223_20200223_0200/05.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Promoción fantasma (2013)
+http://archive.org/download/2013_20220816/Promocion%20Fantasma%202013.mp4
+#EXTINF:-1  tvg-logo="http://archive.org/download/p0rtds-wii/Pr0j3ct0X.jpg",Proyecto X (2012)
+http://archive.org/download/code00012ch/Pr0j3ct0X.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Que culpa tiene el niño opcion 2
+http://archive.org/download/q-3-cu-1-p-t-13-n-3-3-l-n-1n/Q%E2%88%9A3%20CU1P%40%20T13N3%203L%20N1%C3%91%40.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Que Leon
+http://archive.org/download/Quejsbdkdleon/Quejsbdkdleon.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Querida nos hemos encogido (1997)
+http://archive.org/download/N3R1OC2Z/QUNHEN97.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Quisiera ser grande
+http://archive.org/download/ziduyaliri_mail-register_02/02.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Renfield: Asistente de Vampiro (2023)
+http://archive.org/download/2Q25W7ZP/RNFLD023.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Road Trip (2000)
+http://archive.org/download/john_s-1dmpm/08.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Road Trip: Beer Pong (2009)
+http://archive.org/download/john_s-1dmpm/15.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Roll Bounce Fiesta sobre ruedas - Español
+http://archive.org/download/tirimopuru_newairmail_1/sub1d0_p4r4_Str34ming_A85/2.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Roll Bounce Fiesta sobre ruedas - Subtitulada al español
+http://archive.org/download/tirimopuru_newairmail_1/sub1d0_p4r4_Str34ming_A85/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Santa Claus 1995 - pelicula mexicana (360p)
+http://archive.org/download/000_20201114/00010.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scary Movie
+http://archive.org/download/0000_20201108/00002.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scary Movie 2
+http://archive.org/download/0000_20201108/00003.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scary Movie 3
+http://archive.org/download/000_20201109/00005.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scary Movie 4
+http://archive.org/download/000_20201026/00008.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scary Movie 5
+http://archive.org/download/000_20201114/00006.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Scott Pilgrim vs. los Ex de la Chica de sus Sueños (2010)
+http://archive.org/download/7JWSSE37/3B34JPR1.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Se busca papá 2020 peli de la gran N calidad 480p
+http://archive.org/download/00000_20200928/000001.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Sex Drive
+http://archive.org/download/ttjum045/ttjum045.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Shaolin Soccer (2001)
+http://archive.org/download/14D91796/SHL125A5.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Son como niños 1 (2010)
+http://archive.org/download/jxjfdjksldbdksksjxslsbs/jxjfdjksldbdksksjxslsbs.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Son como niños 2 (2013)
+http://archive.org/download/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd/gdgddhdjsksjxbdjsbxnxbdjdcbdfbd.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",South Park: Post Covid
+http://archive.org/download/motion-ninja-video-2022-01-19-16-37-29/Motion%20Ninja_Video_2022-01-19_16_37_29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",South Park: Post Covid (El Retorno del Covid)
+http://archive.org/download/motion-ninja-video-2022-01-19-14-40-32/Motion%20Ninja_Video_2022-01-19_14_40_32.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Soy tu karma 2017
+http://archive.org/download/6wQiVCGFZj4jj4A/CcJUJhpAX8v1xn4.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Super Cool (2007)
+http://archive.org/download/plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Te atrape
+http://archive.org/download/000_20200306_202003/02.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tenacious D: Dando la nota (2006)
+http://archive.org/download/00000_20200906/000008.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tienda de unicornios 2017
+http://archive.org/download/ziduyaliri_mail-register_03/03.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Timadoras compulsivas
+http://archive.org/download/000_20200127/5.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tin-tan - Ay amor como me has puesto (360p)
+http://archive.org/download/00_20201006/00008.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tin-tan - El Ceniciento (360p)
+http://archive.org/download/000_20201007/0001.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tin-tan - El rey del barrio (360p)
+http://archive.org/download/00_20201006/00003.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Tin-tan - No me defiendas compadre (360p)
+http://archive.org/download/000_20201007/0002.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Toda(o)s caen 2019
+http://archive.org/download/000_20191215_201912/1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Todopoderoso
+http://archive.org/download/terugi_newairmail_14/14.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",TodoPoderoso (2003)
+http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_201912/todo%20poderoso.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",un loco viaje al pasado 2
+http://archive.org/download/00000_20200906/000009.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Un Papá Genial (1999)
+http://archive.org/download/ppfpfpffsfjdhdkskjdjdyffybxjdjxdbfjc/ppfpfpffsfjdhdkskjdjdyffybxjdjxdbfjc.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Un principe en Nueva York
+http://archive.org/download/07_20191209/hoiho/06.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Un Vecino Gruñón (2022)
+http://archive.org/download/YD0N4299/UHLLOT22.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Aventura Sexual
+http://archive.org/download/nskAS/nskAS.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Una esposa de mentira (2011)
+http://archive.org/download/John_S-1J_LCD4P/18.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Una Navidad Excandalosa (2023)
+http://archive.org/download/U591C5VX/UNVEXC23.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Navidad Excandalosa (2023) (360p)
+http://archive.org/download/04UT1P21/UNVEXC23L.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Navideña Historia de Navidad (2022)
+http://archive.org/download/29T8Q16K/ACHSCH22.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Noche en el Museo (2006)
+http://archive.org/download/266R1CB9/UNEEM106.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Noche en el Museo 2 (2009)
+http://archive.org/download/266R1CB9/UNEEM209.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Una Noche en el Museo 3: El Secreto de la Tumba (2014)
+http://archive.org/download/266R1CB9/UNEEM314.mkv
+#EXTINF:-1 group-title="VOD COMEDIA",Uncle Drew (2018)
+http://archive.org/download/gebavuta_sandcars_Udr4/subid0_para_5tre4ming_A85/udr4.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Usted no sabe quien soy yo?
+http://archive.org/download/camillerosunidos_gmail_01_201902/01.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Y dónde están las rubias?
+http://archive.org/download/YDELR/YDELR.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Yo & mi otro Yo
+http://archive.org/download/00-1_20201231/1r3n3y0ym10tr0y0.avi
+#EXTINF:-1 group-title="VOD COMEDIA",Zapatero a tus zapatos (2014)
+http://archive.org/download/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
+#EXTINF:-1 group-title="VOD COMEDIA",Zoey 102: El Casamiento (2023)
+http://rebrand.ly/zoja4i5
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.jpg",Al diablo con el diablo
 https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg" group-title="VOD COMEDIA", All You Need Is Love (2009)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg",All You Need Is Love (2009)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20All%20You%20Need%20Is%20Love%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg" group-title="VOD COMEDIA", American Pie Las chicas mandan (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg",American Pie Las chicas mandan (2020)
 https://archive.org/download/wendy-2020_202012/American%20Pie%20Las%20chicas%20mandan%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.jpg" group-title="VOD COMEDIA", Amigos con beneficios
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amigos%20con%20beneficios.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Anacleto_Agente_secreto-863043600-large.jpg" group-title="VOD COMEDIA", Anacleto agente secreto (2015)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Anacleto_Agente_secreto-863043600-large.jpg",Anacleto agente secreto (2015)
 https://archive.org/download/i-hate-summer-2020/Anacleto%20agente%20secreto%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.jpg" group-title="VOD COMEDIA", Bola de fuego
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.mp4
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/tvmovies/posters/200/203/1_m1.jpg" group-title="VOD COMEDIA", Borat
-https://archive.org/download/sr-y-sra-smith/Borat.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE4ZTZmYjAtNGU2OS00NDFlLWI2OWYtMjYwZmVjOWJlOWE1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD COMEDIA", Buddy Games (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE4ZTZmYjAtNGU2OS00NDFlLWI2OWYtMjYwZmVjOWJlOWE1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Buddy Games (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039899
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cambio%20de%20h%C3%A1bito.jpg" group-title="VOD COMEDIA", Cambio de hábito
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cambio%20de%20h%C3%A1bito.mp4https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bola%20de%20fuego.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Re_cambio_de_princesa-598509233-large.jpg" group-title="VOD COMEDIA", cambio de princesa (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Re_cambio_de_princesa-598509233-large.jpg",cambio de princesa (2020)
 https://archive.org/download/i-hate-summer-2020/%28Re%29cambio%20de%20princesa%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/NJjrOcC.png" group-title="VOD COMEDIA", Chichipatos ¡que´ chimba de Navidad! (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://i.imgur.com/NJjrOcC.png",Chichipatos ¡que´ chimba de Navidad! (2020)
 https://archive.org/download/i-hate-summer-2020/Chichipatos%20%C2%A1que%CC%81%20chimba%20de%20Navidad%21%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Clonando%20a%20Adam.jpg" group-title="VOD COMEDIA", Clonando a Adam
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Clonando%20a%20Adam.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg" group-title="VOD COMEDIA", Co´mo sobrevivir en un mundo material (Kajillionaire) (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg",Co´mo sobrevivir en un mundo material (Kajillionaire) (2020)
 https://archive.org/download/wendy-2020_202012/Co%CC%81mo%20sobrevivir%20en%20un%20mundo%20material%20%28Kajillionaire%29%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/C%C3%B3mo%20casarse%20con%20un%20millonario.jpg" group-title="VOD COMEDIA", Cómo casarse con un millonario
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/C%C3%B3mo%20casarse%20con%20un%20millonario.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg" group-title="VOD COMEDIA", Como perder a un hombre en 10 días 2003
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg",Como perder a un hombre en 10 días 2003
 https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.mp4
-#EXTINF: -1 tvg-logo="https://www.covercaratulas.com/ode/mini_mini/carteles-31034.jpg" group-title="VOD COMEDIA", Como pez fuera del agua (2017)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.covercaratulas.com/ode/mini_mini/carteles-31034.jpg",Como pez fuera del agua (2017)
 https://archive.org/download/animal-crackers-2017_202101/Como%20pez%20fuera%20del%20agua%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg" group-title="VOD COMEDIA", Confesiones de una chica invisible
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg",Confesiones de una chica invisible
 https://archive.org/download/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg" group-title="VOD COMEDIA", Corazo´n loco (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg",Corazo´n loco (2020)
 https://archive.org/download/wendy-2020_202012/Corazo%CC%81n%20loco%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cr_nicas_de_Navidad_2-348045723-large.jpg" group-title="VOD COMEDIA", Cronicas de Navidad 2 (2020)
-https://archive.org/download/Amadrinadas/Cro%CC%81nicas%20de%20Navidad%202%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.jpg" group-title="VOD COMEDIA", cuando la naturaleza llama
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ace%20Ventura%2C%20cuando%20la%20naturaleza%20llama.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/De%20mendigo%20a%20millonario.jpg" group-title="VOD COMEDIA", De mendigo a millonario
-https://archive.org/download/yummy_202105/De%20mendigo%20a%20millonario.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/De%20Roma%20con%20amor.jpg" group-title="VOD COMEDIA", De Roma con amor
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/De%20Roma%20con%20amor.jpg",De Roma con amor
 https://archive.org/download/yummy_202105/De%20Roma%20con%20amor.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/De%20vuelta%20a%20casa%20Un%20viaje%20incre%C3%ADble.jpg" group-title="VOD COMEDIA", De vuelta a casa Un viaje increíble
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/De%20vuelta%20a%20casa%20Un%20viaje%20incre%C3%ADble.jpg",De vuelta a casa Un viaje increíble
 https://archive.org/download/yummy_202105/De%20vuelta%20a%20casa%20Un%20viaje%20incre%C3%ADble.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Desnudo-127358184-large.jpg" group-title="VOD COMEDIA", Desnudo (2017)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Desnudo-127358184-large.jpg",Desnudo (2017)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Desnudo%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.jpg" group-title="VOD COMEDIA", Despues de ti 2021
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.jpg",Despues de ti 2021
 https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg" group-title="VOD COMEDIA", Después la Loca soy Yo
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg",Después la Loca soy Yo
 https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg" group-title="VOD COMEDIA", Dos sinverguenzas
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg",Dos sinverguenzas
 https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg" group-title="VOD COMEDIA", Dos sinverguenzas
-https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20tontos%20en%20fuga.jpg" group-title="VOD COMEDIA", Dos tontos en fuga
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20tontos%20en%20fuga.avi
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Dos%20tontos%20todav%C3%ADa%20m%C3%A1s%20tontos.jpg" group-title="VOD COMEDIA", Dos tontos todavía más tontos
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Dos%20tontos%20todav%C3%ADa%20m%C3%A1s%20tontos.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_club_de_los_idealistas-767632998-large.jpg" group-title="VOD COMEDIA", El Club de los Idealistas (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_idealistas-767632998-large.jpg",El Club de los Idealistas (2020)
 https://archive.org/download/wendy-2020_202012/El%20Club%20de%20los%20Idealistas%20%282020%29-1.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20El%20d%C3%ADa%20de%20la%20novia.jpg" group-title="VOD COMEDIA", El día de la novia (2017
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20El%20d%C3%ADa%20de%20la%20novia.jpg",El día de la novia (2017
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20d%C3%ADa%20de%20la%20novia%20%282017%28%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.jpg" group-title="VOD COMEDIA", El hijo del novio
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.jpg",El hijo del novio
 https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.mp4
-#EXTINF: -1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/09/magnifico-ivan-2062829.jpg?itok=Z8AB4vYg" group-title="VOD COMEDIA", El magni´fico Iva´n (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/09/magnifico-ivan-2062829.jpg?itok=Z8AB4vYg",El magni´fico Iva´n (2020)
 https://archive.org/download/wendy-2020_202012/El%20magni%CC%81fico%20Iva%CC%81n%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/El%20mesero.jpg" group-title="VOD COMEDIA", El mesero (2021)
-https://archive.org/download/por-encima-de-la-ley-1/El%20mesero%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.jpg" group-title="VOD COMEDIA", El nieto de Sardar
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/le_prince_oublie-172739671-large.jpg" group-title="VOD COMEDIA", El pri´ncipe olvidado (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/le_prince_oublie-172739671-large.jpg",El pri´ncipe olvidado (2020)
 https://archive.org/download/animal-crackers-2017_202101/El%20pri%CC%81ncipe%20olvidado%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20pr%C3%ADncipe%20y%20la%20corista.jpg" group-title="VOD COMEDIA", El príncipe y la corista
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20nieto%20de%20Sardar.mp4
-#EXTINF: -1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6183_imagen__.jpg" group-title="VOD COMEDIA", El rey del sapo (2019)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6183_imagen__.jpg",El rey del sapo (2019)
 https://archive.org/download/i-hate-summer-2020/El%20rey%20del%20sapo%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODVjNzctOWEwYS00YWQ3LWJlZjAtZDQyMTQ0NTQ0ZWUzXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="VOD COMEDIA", El testamento de la abuela (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODVjNzctOWEwYS00YWQ3LWJlZjAtZDQyMTQ0NTQ0ZWUzXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UY1200_CR135,0,630,1200_AL_.jpg",El testamento de la abuela (2020)
 https://archive.org/download/wendy-2020_202012/El%20testamento%20de%20la%20abuela%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/El%20transexual.jpg" group-title="VOD COMEDIA", El transexual
-https://archive.org/download/por-encima-de-la-ley-1/El%20transexual~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro.jpg" group-title="VOD COMEDIA", Esta abuela es un peligro
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro%202.jpg" group-title="VOD COMEDIA", Esta abuela es un peligro 2
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Esta%20abuela%20es%20un%20peligro%202.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Est%C3%A1ndar.jpg" group-title="VOD COMEDIA", Estándar
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Est%C3%A1ndar.jpg",Estándar
 https://archive.org/download/yummy_202105/Est%C3%A1ndar.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg" group-title="VOD COMEDIA", Fantasmas a Mogollon 2 Mi amiga fantasmago rica (2014)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg",Fantasmas a Mogollon 2 Mi amiga fantasmago rica (2014)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fantasmas%20a%20Mogollo%CC%81n%202%20Mi%20amiga%20fantasmago%CC%81rica%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg" group-title="VOD COMEDIA", Funny People 2009
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg",Funny People 2009
 https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg" group-title="VOD COMEDIA", Glass Houses (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg",Glass Houses (2020)
 https://archive.org/download/wendy-2020_202012/Glass%20Houses%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg" group-title="VOD COMEDIA", Harpoon (2019)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg",Harpoon (2019)
 https://archive.org/download/wendy-2020_202012/Harpoon%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/High%20School%20Musical%202.jpg" group-title="VOD COMEDIA", High School Musical 2
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/High%20School%20Musical%202.jpg",High School Musical 2
 https://archive.org/download/yummy_202105/High%20School%20Musical%202.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/i_believe-800864213-mmed.jpg" group-title="VOD COMEDIA", I Believe (2017)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/i_believe-800864213-mmed.jpg",I Believe (2017)
 https://archive.org/download/animal-crackers-2017_202101/I%20Believe%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q5ZDdmZWItMmNiYi00MjU5LThmOTAtZDU5N2ZhYmM1NDAzXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="VOD COMEDIA", I Hate Summer (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q5ZDdmZWItMmNiYi00MjU5LThmOTAtZDU5N2ZhYmM1NDAzXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UY268_CR3,0,182,268_AL_.jpg",I Hate Summer (2020)
 https://archive.org/download/i-hate-summer-2020/I%20Hate%20Summer%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.jpg" group-title="VOD COMEDIA", Jack y las habichuelas mágicas
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.jpg",Jack y las habichuelas mágicas
 https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.jpg" group-title="VOD COMEDIA", Jojo Rabbit
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.jpg",Jojo Rabbit
 https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_15-37-40.jpg" group-title="VOD COMEDIA", Juerga de mamis (2017)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_15-37-40.jpg",Juerga de mamis (2017)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Juerga%20de%20mamis%20%282017%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN6ZZF/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="VOD COMEDIA", La Casa de Huespedes (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN6ZZF/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",La Casa de Huespedes (2020)
 https://archive.org/download/wendy-2020_202012/La%20Casa%20de%20Hue%CC%81spedes%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="http://blue-subtitle.com/wp-content/uploads/2020/11/Happiest-Season-2020-185x268.jpg" group-title="VOD COMEDIA", La estacio´n de la felicidad (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="http://blue-subtitle.com/wp-content/uploads/2020/11/Happiest-Season-2020-185x268.jpg",La estacio´n de la felicidad (2020)
 https://archive.org/download/i-hate-summer-2020/La%20estacio%CC%81n%20de%20la%20felicidad%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20estafa%20de%20los%20Logan.jpg" group-title="VOD COMEDIA", La estafa de los Logan
-https://archive.org/download/por-encima-de-la-ley-1/La%20estafa%20de%20los%20Logan~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20gran%20aventura.jpg" group-title="VOD COMEDIA", La gran aventura
-https://archive.org/download/por-encima-de-la-ley-1/La%20gran%20aventura~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg" group-title="VOD COMEDIA", La increible historia de la Isla de las Rosas (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg",La increible historia de la Isla de las Rosas (2020)
 https://archive.org/download/wendy-2020_202012/La%20increi%CC%81ble%20historia%20de%20la%20Isla%20de%20las%20Rosas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg" group-title="VOD COMEDIA", La Luz de la Luna en Vermont [2017] 72
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20La%20Luz%20de%20la%20Luna%20en%20Vermont%20%5B2017%5D%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg" group-title="VOD COMEDIA", La magia de la isla
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg",La magia de la isla
 https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20muerte%20nos%20sienta%20bien.jpg" group-title="VOD COMEDIA", La muerte nos sienta bien
-https://archive.org/download/por-encima-de-la-ley-1/La%20muerte%20nos%20sienta%20bien~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20mujer%20de%20mis%20pesadillas.jpg" group-title="VOD COMEDIA", La mujer de mis pesadillas
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20mujer%20de%20mis%20pesadillas.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg" group-title="VOD COMEDIA", La nochebuena es mi condena (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg",La nochebuena es mi condena (2020)
 https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20condena%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6366_imagen__.png" group-title="VOD COMEDIA", La pachanga (2019)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6366_imagen__.png",La pachanga (2019)
 https://archive.org/download/i-hate-summer-2020/La%20pachanga%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20terminal.jpg" group-title="VOD COMEDIA", La terminal
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20terminal.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.jpg" group-title="VOD COMEDIA", Locas por el cambio
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.jpg",Locas por el cambio
 https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Los%20Desorientados.jpg" group-title="VOD COMEDIA", Los Desorientados
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Los%20Desorientados.jpg",Los Desorientados
 https://archive.org/download/yummy_202105/Los%20Desorientados.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg" group-title="VOD COMEDIA", Los fantasmas de mis exnovias
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg",Los fantasmas de mis exnovias
 https://archive.org/download/yummy_202105/Los%20fantasmas%20de%20mis%20exnovias.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Los%20sorprendentes%20dobermans.jpg" group-title="VOD COMEDIA", Los impresionantes Dobermans
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Los%20sorprendentes%20dobermans.jpg",Los impresionantes Dobermans
 https://archive.org/download/94-1_20210929/Los%20sorprendentes%20dobermans.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.jpg" group-title="VOD COMEDIA", Los trapos sucios se lavan en casa
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.jpg",Los trapos sucios se lavan en casa
 https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ludo-813248419-mmed.jpg" group-title="VOD COMEDIA", Ludo (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Ludo-813248419-mmed.jpg",Ludo (2020)
 https://archive.org/download/wendy-2020_202012/Ludo%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Manuel%20y%20Clemente.jpg" group-title="VOD COMEDIA", Manuel y Clemente
-https://archive.org/download/por-encima-de-la-ley-1/Manuel%20y%20Clemente~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Dirty_Grandpa-234383407-large.jpg" group-title="VOD COMEDIA", Mi Abuelo es un Peligro 2016 108
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Dirty_Grandpa-234383407-large.jpg",Mi Abuelo es un Peligro 2016 108
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Mi%20Abuelo%20es%20un%20Peligro%20%282016%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Miradas%20Que%20Matan.jpg" group-title="VOD COMEDIA", Miradas Que Matan
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Miradas%20Que%20Matan.jpg",Miradas Que Matan
 https://archive.org/download/94-1_20210929/Miradas%20Que%20Matan.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Mr.%20Bean.jpg" group-title="VOD COMEDIA", Mr. Bean
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Mr.%20Bean.jpg",Mr. Bean
 https://archive.org/download/yummy_202105/-%20Mr.%20Bean.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Mr.%20Bean%202.jpg" group-title="VOD COMEDIA", Mr. Bean 2
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Mr.%20Bean%202.jpg",Mr. Bean 2
 https://archive.org/download/yummy_202105/Mr.%20Bean%202.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.jpg" group-title="VOD COMEDIA", Ni idea
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Ni%20idea.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/No%20estamos%20casados.jpg" group-title="VOD COMEDIA", No estamos casado
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/No%20estamos%20casados.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/No%2C%20porque%20me%20enamoro.jpg" group-title="VOD COMEDIA", No porque me enamoro
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/No%2C%20porque%20me%20enamoro.jpg",No porque me enamoro
 https://archive.org/download/94-1_20210929/No%2C%20porque%20me%20enamoro.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Noche%20de%20estreno.jpg" group-title="VOD COMEDIA", Noche de estreno (2016)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Noche%20de%20estreno.jpg",Noche de estreno (2016)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Noche%20de%20estreno%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Nochevieja_en_el_Magnolia-299160585-large.jpg" group-title="VOD COMEDIA", Nochevieja en el Magnolia (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Nochevieja_en_el_Magnolia-299160585-large.jpg",Nochevieja en el Magnolia (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163044437
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg" group-title="VOD COMEDIA", Operacion Feliz Navidad (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg",Operacion Feliz Navidad (2020)
 https://archive.org/download/wendy-2020_202012/Operacio%CC%81n%20Feliz%20Navidad%20%282020%29-1.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg" group-title="VOD COMEDIA", Os Espetaculares (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg",Os Espetaculares (2020)
 https://archive.org/download/wendy-2020_202012/Os%20Espetaculares%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Ovella.jpg" group-title="VOD COMEDIA", Ovella
-https://archive.org/download/por-encima-de-la-ley-1/Ovella~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Borat_pelaicula_film_secuela-674819131-large.jpg" group-title="VOD COMEDIA", peli´cula film secuela (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Borat_pelaicula_film_secuela-674819131-large.jpg",peli´cula film secuela (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163039898
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.jpg" group-title="VOD COMEDIA", Pelotas en juego
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.jpg",Pelotas en juego
 https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Regreso%20Del%20Todopoderoso.jpg" group-title="VOD COMEDIA", Regreso Del Todopoderoso
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Regreso%20Del%20Todopoderoso.jpg",Regreso Del Todopoderoso
 https://archive.org/download/94-1_20210929/Regreso%20Del%20Todopoderoso.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruby%2C%20la%20chica%20de%20mis%20sue%C3%B1os.jpg" group-title="VOD COMEDIA", Ruby la chica de mis sueños
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruby%2C%20la%20chica%20de%20mis%20sue%C3%B1os.mp4
-#EXTINF: -1 tvg-logo="https://parecidas.com/img_es/movie/thumb/a8/15073.jpg" group-title="VOD COMEDIA", Scre4m 4 (2001)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scre4m%204%20%282001%29~1.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/6d/8b/1f/6d8b1f91f810edcfacb8b2b9fd55d350.jpg" group-title="VOD COMEDIA", Scream 2 (1997)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Scream%202%20%281997%29~1.mp4
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSr_55I5amQytKvjTjt-jeFdGao_aGBiShA&usqp=CAU.JPG" group-title="VOD COMEDIA", Se busca papa´ (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSr_55I5amQytKvjTjt-jeFdGao_aGBiShA&usqp=CAU.JPG",Se busca papa´ (2020)
 https://archive.org/download/wendy-2020_202012/Se%20busca%20papa%CC%81%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Sentadas_en_el_umbral-275093174-large.jpg" group-title="VOD COMEDIA", Sentadas en el umbral (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Sentadas_en_el_umbral-275093174-large.jpg",Sentadas en el umbral (2020)
 https://archive.org/download/wendy-2020_202012/Sentadas%20en%20el%20umbral%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg" group-title="VOD COMEDIA", Siete psicópatas y un perro 108
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg",Siete psicópatas y un perro 108
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Siete%20psic%C3%B3patas%20y%20un%20perro%201080p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.jpg" group-title="VOD COMEDIA", Simplemente Manu NNa
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.jpg",Simplemente Manu NNa
 https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.mp4
-#EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F960%2Fsolia-ir-alli-1.jpg&nuevoancho=150&medio=abc" group-title="VOD COMEDIA", Soli´a ir alli´ (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F960%2Fsolia-ir-alli-1.jpg&nuevoancho=150&medio=abc",Soli´a ir alli´ (2020)
 https://archive.org/download/i-hate-summer-2020/Soli%CC%81a%20ir%20alli%CC%81%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.jpg" group-title="VOD COMEDIA", Soltera 39
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.jpg",Soltera 39
 https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Son%20como%20ni%C3%B1os.jpg" group-title="VOD COMEDIA", Son como niños
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Son%20como%20ni%C3%B1os.mp4
-#EXTINF: -1 tvg-logo="https://mx.web.img3.acsta.net/pictures/20/07/07/00/55/1740448.jpg" group-title="VOD COMEDIA", Son como niños 2 2013
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Son%20como%20ni%C3%B1os%202%202013~1.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0YzI3NTktNjEyNC00MGVhLTlmZjEtN2NkZTcyNmQwYmQ1XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg" group-title="VOD COMEDIA", Spontaneous (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0YzI3NTktNjEyNC00MGVhLTlmZjEtN2NkZTcyNmQwYmQ1XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg",Spontaneous (2020)
 https://archive.org/download/wendy-2020_202012/Spontaneous%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Stay%20Hungry.jpg" group-title="VOD COMEDIA", Stay Hungry
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Stay%20Hungry.jpg",Stay Hungry
 https://archive.org/download/yummy_202105/Stay%20Hungry.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.jpg" group-title="VOD COMEDIA", Tenacious D la llave del destino
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.jpg",Tenacious D la llave del destino
 https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Stand_In-828252343-large.jpg" group-title="VOD COMEDIA", The Stand In (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/The_Stand_In-828252343-large.jpg",The Stand In (2020)
 https://archive.org/download/i-hate-summer-2020/The%20Stand%20In%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="VOD COMEDIA", Think Like a Dog (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",Think Like a Dog (2020)
 https://archive.org/download/wendy-2020_202012/Think%20Like%20a%20Dog%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Todopoderoso.jpg" group-title="VOD COMEDIA", Todopoderoso
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Todopoderoso.jpg",Todopoderoso
 https://archive.org/download/94-1_20210929/Todopoderoso.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg" group-title="VOD COMEDIA", Todos Queremos a Alguien Online (2017) 1080p
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg",Todos Queremos a Alguien Online (2017) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.jpg" group-title="VOD COMEDIA", Tonto y Retonto
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.jpg",Tonto y Retonto
 https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg" group-title="VOD COMEDIA", Un Enemigo Americano
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg",Un Enemigo Americano
 https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Un%20hombre%20llamado%20Flor%20de%20Oto%C3%B1o.jpg" group-title="VOD COMEDIA", Un hombre llamado Flor de Otoño
-https://archive.org/download/por-encima-de-la-ley-1/Un%20hombre%20llamado%20Flor%20de%20Oto%C3%B1o~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg" group-title="VOD COMEDIA", Un papá genial
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg",Un papá genial
 https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.jpg" group-title="VOD COMEDIA", Una Eva y dos Adanes
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg" group-title="VOD COMEDIA", Una noche en el museo (2006)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg",Una noche en el museo (2006)
 https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Unpregnant.jpg" group-title="VOD COMEDIA", Unpregnant
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Unpregnant.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Unpregnant-443503049-large.jpg" group-title="VOD COMEDIA", Unpregnant (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Unpregnant-443503049-large.jpg",Unpregnant (2020)
 https://archive.org/download/i-hate-summer-2020/Unpregnant%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.jpg" group-title="VOD COMEDIA", Viaje de chicas
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.jpg",Viaje de chicas
 https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/work_it-145219942-large.jpg" group-title="VOD COMEDIA", Work It Al ritmo de los suen~os (2020)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/work_it-145219942-large.jpg",Work It Al ritmo de los suen~os (2020)
 https://archive.org/download/wendy-2020_202012/Work%20It%20Al%20ritmo%20de%20los%20suen%CC%83os%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.jpg" group-title="VOD COMEDIA", Y dónde está la nonna
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20d%C3%B3nde%20est%C3%A1%20la%20nonna.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.jpg" group-title="VOD COMEDIA", Yo los declaro marido y... Larry
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.jpg",Yo los declaro marido y... Larry
 https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Zapatos_Viejos-498271858-large.jpg" group-title="VOD COMEDIA", Zapatos Viejos
-https://archive.org/download/morituri_202108/Zapatos%20Viejos~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Chef%20a%20domicilio.jpg" group-title="VOD COMEDIA", Chef a domicilio
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Chef%20a%20domicilio.jpg",Chef a domicilio
 https://archive.org/download/mentiras-verdaderas-1/Chef%20a%20domicilio~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cry%20Baby%20El%20l%C3%A1grima.jpg" group-title="VOD COMEDIA", Cry Baby El lágrima 1990
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cry%20Baby%20El%20l%C3%A1grima.jpg",Cry Baby El lágrima 1990
 https://archive.org/download/mentiras-verdaderas-1/Cry%20Baby%20El%20l%C3%A1grima%201990~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20Babysitter.jpg" group-title="VOD COMEDIA", El Babysitter
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20Babysitter.jpg",El Babysitter
 https://archive.org/download/mentiras-verdaderas-1/El%20Babysitter~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20guerra%20de%20los%20Roses.jpg" group-title="VOD COMEDIA", La guerra de los Roses
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20guerra%20de%20los%20Roses.jpg",La guerra de los Roses
 https://archive.org/download/mentiras-verdaderas-1/La%20guerra%20de%20los%20Roses~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20a%C3%B1os%20azules.jpg" group-title="VOD COMEDIA", Los años azules
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20a%C3%B1os%20azules.jpg",Los años azules
 https://archive.org/download/mentiras-verdaderas-1/Los%20a%C3%B1os%20azules~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Redada%20asesina.jpg" group-title="VOD COMEDIA", Redada asesina
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Redada%20asesina.jpg",Redada asesina
 https://archive.org/download/mentiras-verdaderas-1/Redada%20asesina~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/678989090.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/678989090.jpg" group-title="VOD COMEDIA", La Ciudad Perdida (2022)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/1-90_20230724/678989090.jpg",La Ciudad Perdida (2022)
 https://archive.org/download/1-90_20230724/678989090.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/The_Unbearable_Weight_of_Massive_Talent.jpg/220px-The_Unbearable_Weight_of_Massive_Talent.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/The_Unbearable_Weight_of_Massive_Talent.jpg/220px-The_Unbearable_Weight_of_Massive_Talent.jpg" group-title="VOD COMEDIA", El Peso Del Talento (2022)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/The_Unbearable_Weight_of_Massive_Talent.jpg/220px-The_Unbearable_Weight_of_Massive_Talent.jpg",El Peso Del Talento (2022)
 https://archive.org/download/1-90_20230724/89476567878.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/TheLostCityPoster.jpg/220px-TheLostCityPoster.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/TheLostCityPoster.jpg/220px-TheLostCityPoster.jpg" group-title="VOD COMEDIA", La Ciudad Perdida (2022)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/TheLostCityPoster.jpg/220px-TheLostCityPoster.jpg",La Ciudad Perdida (2022)
 https://archive.org/download/1-90_20230724/8956996567678.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/95869058690850.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/95869058690850.jpg" group-title="VOD COMEDIA", Ser padre (2021)
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/1-90_20230724/95869058690850.jpg",Ser padre (2021)
 https://archive.org/download/1-90_20230724/95869058690850.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg" group-title="VOD COMEDIA", Confesiones de una chica invisible
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg",Confesiones de una chica invisible
 https://ia902302.us.archive.org/29/items/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg" group-title="VOD COMEDIA", El ladrón de orquídeas
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg",El ladrón de orquídeas
 https://ia902302.us.archive.org/29/items/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg" group-title="VOD DRAMA", After Aqui´ empieza todo (2019)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg",After Aqui´ empieza todo (2019)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20Aqui%CC%81%20empieza%20todo%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/07/23/10/20/0022189.jpg" group-title="VOD DRAMA", After En mil pedazos
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://es.web.img3.acsta.net/pictures/20/07/23/10/20/0022189.jpg",After En mil pedazos
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20En%20mil%20pedazos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.jpg" group-title="VOD DRAMA", Al ritmo del corazón
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.jpg",Al ritmo del corazón
 https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg" group-title="VOD DRAMA", Alucinaciones del pasado
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg",Alucinaciones del pasado
 https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Amadrinadas-300496698-large.jpg" group-title="VOD DRAMA", Amadrinadas
-https://archive.org/download/Amadrinadas/Amadrinadas%20.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_16-32-47.jpg" group-title="VOD DRAMA", amigos y fiesta (2015) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_16-32-47.jpg",amigos y fiesta (2015) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20M%C3%BAsica%2C%20amigos%20y%20fiesta%20%282015%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Ammonite-340737043-large.jpg" group-title="VOD DRAMA", Ammonite (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Ammonite-340737043-large.jpg",Ammonite (2020)
 https://archive.org/download/i-hate-summer-2020/Ammonite%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20en%20las%20alturas.jpg" group-title="VOD DRAMA", Amor en las alturas
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20en%20las%20alturas.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20sin%20ciudad.jpg" group-title="VOD DRAMA", Amor sin ciudad
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Amor%20sin%20ciudad.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Apolo%2013.jpg" group-title="VOD DRAMA", Apolo 13
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Apolo%2013.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.jpg" group-title="VOD DRAMA", Aquel verano
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.jpg",Aquel verano
 https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.jpg" group-title="VOD DRAMA", Bia Un mundo al revés
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.jpg",Bia Un mundo al revés
 https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Birds%20of%20Paradise.jpg" group-title="VOD DRAMA", Birds of Paradise
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Birds%20of%20Paradise.jpg",Birds of Paradise
 https://archive.org/download/94-1_20210929/Birds%20of%20Paradise.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Burden.jpg" group-title="VOD DRAMA", Burden
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Burden.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cabros%20de%20mierda.jpg" group-title="VOD DRAMA", Cabros de mierda
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Cabros%20de%20mierda.mp4
-#EXTINF: -1 tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg" group-title="VOD DRAMA", Call Me by Your Name (2017)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg",Call Me by Your Name (2017)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Call%20Me%20by%20Your%20Name%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Carol-180515019-mmed.jpg" group-title="VOD DRAMA", carol 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/carol%202015.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Castillo%20de%20arena.jpg" group-title="VOD DRAMA", Castillo de arena (2017) 720p
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Castillo%20de%20arena.jpg",Castillo de arena (2017) 720p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Castillo%20de%20arena%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Charm_City_Kings-453943658-large.jpg" group-title="VOD DRAMA", Charm City Kings (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Charm_City_Kings-453943658-large.jpg",Charm City Kings (2020)
 https://mega1link.com/wp-content/uploads/2020/11/8oiMFMarbRpcusASIX4cjVXoZKI-200x300.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.jpg" group-title="VOD DRAMA", Chernobyl Abyss
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.jpg",Chernobyl Abyss
 https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Roma%2C%20ciudad%20abierta.jpg" group-title="VOD DRAMA", ciudad abierta
-https://archive.org/download/por-encima-de-la-ley-1/Roma%2C%20ciudad%20abierta~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Clouds-101144232-large.jpg" group-title="VOD DRAMA", Clouds (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Clouds-101144232-large.jpg",Clouds (2020)
 https://archive.org/download/i-hate-summer-2020/Clouds%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/CODA%20Se%C3%B1ales%20del%20coraz%C3%B3n.jpg" group-title="VOD DRAMA", CODA Señales del corazón
-https://archive.org/download/por-encima-de-la-ley-1/CODA%20Se%C3%B1ales%20del%20coraz%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Como_perros_y_gatos_La_patrulla_unida-518934043-large.jpg" group-title="VOD DRAMA", Como perros y gatos La patrulla unida (2020)
-https://archive.org/download/Amadrinadas/Como%20perros%20y%20gatos%20La%20patrulla%20unida%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Contrabando.jpg" group-title="VOD DRAMA", Contrabando
-https://archive.org/download/por-encima-de-la-ley-1/Contrabando~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.jpg" group-title="VOD DRAMA", Corriendo contra el viento
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.jpg",Corriendo contra el viento
 https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Cosas%20imposibles.jpg" group-title="VOD DRAMA", Cosas imposibles
-https://archive.org/download/por-encima-de-la-ley-1/Cosas%20imposibles~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Cowboys.jpg" group-title="VOD DRAMA", Cowboys
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Cowboys.jpg",Cowboys
 https://archive.org/download/como-me-converti-en-superheroe/Cowboys.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cr_nica_de_una_tormenta-611491491-large.jpg" group-title="VOD DRAMA", Cro´nica de una tormenta (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Cr_nica_de_una_tormenta-611491491-large.jpg",Cro´nica de una tormenta (2020)
 https://archive.org/download/i-hate-summer-2020/Cro%CC%81nica%20de%20una%20tormenta%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Despierta%20la%20Furia%202021.jpg" group-title="VOD DRAMA", Despierta la Furia 2021
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Despierta%20la%20Furia%202021.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.jpg" group-title="VOD DRAMA", Dos caminos a casa
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Dos%20caminos%20a%20casa.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/all_roads_lead_home-543621529-mmed.jpg" group-title="VOD DRAMA", Dos caminos a casa
-https://archive.org/download/sr-y-sra-smith/-%20Dos%20caminos%20a%20casa.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Dos%20oto%C3%B1os%20en%20Par%C3%ADs.jpg" group-title="VOD DRAMA", Dos otoños en París
-https://archive.org/download/por-encima-de-la-ley-1/Dos%20oto%C3%B1os%20en%20Par%C3%ADs~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%A1ngel%20culpable.jpg" group-title="VOD DRAMA", El ángel culpable
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%A1ngel%20culpable.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20baile%20de%20los%2041.jpg" group-title="VOD DRAMA", El baile de los 41
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20baile%20de%20los%2041.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.jpg" group-title="VOD DRAMA", El castillo de cristal
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.jpg",El castillo de cristal
 https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.jpg" group-title="VOD DRAMA", El ciudadano Kane
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.jpg",El ciudadano Kane
 https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.jpg" group-title="VOD DRAMA", El club de los poetas muertos
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.jpg",El club de los poetas muertos
 https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_cuaderno_de_Tomy-471893905-large.jpg" group-title="VOD DRAMA", El cuaderno de Tomy (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_cuaderno_de_Tomy-471893905-large.jpg",El cuaderno de Tomy (2020)
 https://archive.org/download/i-hate-summer-2020/El%20cuaderno%20de%20Tomy%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20Estornino%202021.jpg" group-title="VOD DRAMA", El Estornino 2021
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/El%20Estornino%202021.jpg",El Estornino 2021
 https://archive.org/download/94-1_20210929/El%20Estornino%202021.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_faro_de_las_orcas-435033061-large.jpg" group-title="VOD DRAMA", El faro de las orcas (2016)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_faro_de_las_orcas-435033061-large.jpg",El faro de las orcas (2016)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20faro%20de%20las%20orcas%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_fotaografo_de_Minamata-582434277-large.jpg" group-title="VOD DRAMA", El fotógrafo de Minamata
-https://archive.org/download/por-encima-de-la-ley-1/El%20fot%C3%B3grafo%20de%20Minamata~1.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/50Ug4tJ66gJ9ZgivMGzZnGkdw1p.jpg" group-title="VOD DRAMA", El hombre de la ma´scara de hierro (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/El%20hombre%20de%20la%20ma%CC%81scara%20de%20hierro%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_juicio_de_los_7_de_Chicago-241324585-large.jpg" group-title="VOD DRAMA", El juicio de los 7 de Chicago (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_juicio_de_los_7_de_Chicago-241324585-large.jpg",El juicio de los 7 de Chicago (2020)
 https://archive.org/download/i-hate-summer-2020/El%20juicio%20de%20los%207%20de%20Chicago%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg" group-title="VOD DRAMA", El ladrón de orquídeas
-https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.jpg" group-title="VOD DRAMA", El maquinista  The Machinist
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.jpg",El maquinista  The Machinist
 https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.jpg" group-title="VOD DRAMA", El mundo que viene
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.jpg",El mundo que viene
 https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg" group-title="VOD DRAMA", El padre
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg",El padre
 https://archive.org/download/2-comando-commando-1985/-%20El%20padre.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_padrino-993414333-large.jpg" group-title="VOD DRAMA", EL PADRINO
-https://archive.org/download/desaparecido-en-combate-1984_202101/EL%20PADRINO.MP4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/09/69/20420487.jpg" group-title="VOD DRAMA", EL PADRINO PARTE III
-https://archive.org/download/desaparecido-en-combate-1984_202101/EL%20PADRINO%20PARTE%20III.MP4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.jpg" group-title="VOD DRAMA", El precio de la inocencia
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.jpg",El precio de la inocencia
 https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.mp4
-#EXTINF: -1 tvg-logo="https://images.moviefit.me/t/b/255905-the-christmas-gift.webp" group-title="VOD DRAMA", El regalo de Navidad (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://images.moviefit.me/t/b/255905-the-christmas-gift.webp",El regalo de Navidad (2020)
 https://archive.org/download/i-hate-summer-2020/El%20regalo%20de%20Navidad%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_01-35-09.jpg" group-title="VOD DRAMA", El teniente otomano (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_01-35-09.jpg",El teniente otomano (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20teniente%20otomano%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%BAltimo%20beso.jpg" group-title="VOD DRAMA", El último beso
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20%C3%BAltimo%20beso.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Emperor-190871922-large.jpg" group-title="VOD DRAMA", Emperor (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Emperor-190871922-large.jpg",Emperor (2020)
 https://archive.org/download/i-hate-summer-2020/Emperor%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/proxy/HMk4_hwqNhGaPyvV_5me5TgEdxUf_zs99exhDHLmR9OmmvBB7DINfzHilECE6aVIukGH6MuOg6UR0LHvMb9XFkmbfbgxdlop9YILomlXjETDHXyFMU55lxgblZZhfi-uKK7j=w1200-h630-p-k-no-nu" group-title="VOD DRAMA", En algún lugar de la memoria (2007) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://lh3.googleusercontent.com/proxy/HMk4_hwqNhGaPyvV_5me5TgEdxUf_zs99exhDHLmR9OmmvBB7DINfzHilECE6aVIukGH6MuOg6UR0LHvMb9XFkmbfbgxdlop9YILomlXjETDHXyFMU55lxgblZZhfi-uKK7j=w1200-h630-p-k-no-nu",En algún lugar de la memoria (2007) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20En%20alg%C3%BAn%20lugar%20de%20la%20memoria%20%282007%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.jpg" group-title="VOD DRAMA", En busca de la felicidad
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/En%20busca%20de%20la%20felicidad.mp4
-#EXTINF: -1 tvg-logo="https://decine21.com/img/upload/obras/en-honor-a-la-verdad-3540/en-honor-a-la-verdad-3540-c.jpg" group-title="VOD DRAMA", En honor a la verdad (1996).
-https://archive.org/download/desaparecido-en-combate-1984_202101/En%20honor%20a%20la%20verdad%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Enemigo%20al%20acecho.jpg" group-title="VOD DRAMA", Enemigo al acecho
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Enemigo%20al%20acecho.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.jpg" group-title="VOD DRAMA", Érase Una Vez en Queens
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20%C3%89rase%20Una%20Vez%20en%20Queens.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg" group-title="VOD DRAMA", Erna i krig
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg",Erna i krig
 https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Estanislao-219509656-large.jpg" group-title="VOD DRAMA", Estanislao
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Estanislao-219509656-large.jpg",Estanislao
 https://archive.org/download/2-comando-commando-1985/Estanislao.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.jpg" group-title="VOD DRAMA", Eterno resplandor de una mente sin recuerdos
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.jpg",Eterno resplandor de una mente sin recuerdos
 https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Eva%20al%20desnudo.jpg" group-title="VOD DRAMA", Eva al desnudo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Una%20Eva%20y%20dos%20Adanes.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Ferry%20%282021%29.jpg" group-title="VOD DRAMA", Ferry (2021)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/Ferry%20%282021%29.jpg",Ferry (2021)
 https://archive.org/download/yummy_202105/Ferry%20%282021%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Flores_en_el_tico_2_P_talos_al_viento_TV-780070215-large.jpg" group-title="VOD DRAMA", Flores en el atico  Petalos al viento TV 2014
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Flores_en_el_tico_2_P_talos_al_viento_TV-780070215-large.jpg",Flores en el atico  Petalos al viento TV 2014
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%20%28TV%29%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Si_hubiera_espinas_TV-370227173-mmed.jpg" group-title="VOD DRAMA", Flores en el atico 2 Petalos al viento TV 2014
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Si_hubiera_espinas_TV-370227173-mmed.jpg",Flores en el atico 2 Petalos al viento TV 2014
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%202%20P%C3%A9talos%20al%20viento%20%28TV%29%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/564x/f5/7a/da/f57ada3cbeebc5971cc601afe2139efe.jpg" group-title="VOD DRAMA", Flores en el atico 3 Si hubiera espinas TV 2015
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://i.pinimg.com/564x/f5/7a/da/f57ada3cbeebc5971cc601afe2139efe.jpg",Flores en el atico 3 Si hubiera espinas TV 2015
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%203%20Si%20hubiera%20espinas%20TV%202015.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.jpg" group-title="VOD DRAMA", Flores en el atico 4 Semillas del ayer TV 2015
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.jpg",Flores en el atico 4 Semillas del ayer TV 2015
 https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Forever_First_Love-102990274-mmed.jpg" group-title="VOD DRAMA", Forever First Love (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Forever_First_Love-102990274-mmed.jpg",Forever First Love (2020)
 https://archive.org/download/i-hate-summer-2020/Forever%20First%20Love%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Frankie-757077153-large.jpg" group-title="VOD DRAMA", Frankie (2019) 1080p
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Frankie-757077153-large.jpg",Frankie (2019) 1080p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Frankie%20%282019%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/French%20Exit.jpg" group-title="VOD DRAMA", French Exit
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/French%20Exit.jpg",French Exit
 https://archive.org/download/2-comando-commando-1985/French%20Exit.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Greed.jpg" group-title="VOD DRAMA", Greed
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Greed.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EQ6AyuV.jpg" group-title="VOD DRAMA", HEIDI 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/HEIDI%202015.MP4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.jpg" group-title="VOD DRAMA", Historia americana X
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.jpg",Historia americana X
 https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Hombre%20de%20familia.jpg" group-title="VOD DRAMA", Hombre de familia
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Hombre%20de%20familia.jpg",Hombre de familia
 https://archive.org/download/94-1_20210929/Hombre%20de%20familia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.jpg" group-title="VOD DRAMA", Hooligans  Green street hooligans 2005
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.jpg",Hooligans  Green street hooligans 2005
 https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/I%20Am%20Woman.jpg" group-title="VOD DRAMA", I Am Woman
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/I%20Am%20Woman.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Infierno%20de%20hielo.jpg" group-title="VOD DRAMA", Infierno de hielo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Infierno%20de%20hielo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.jpg" group-title="VOD DRAMA", Jacqueline Sauvage víctima o culpable
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.jpg",Jacqueline Sauvage víctima o culpable
 https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Je%20Suis%20Karl.jpg" group-title="VOD DRAMA", Je Suis Karl
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Je%20Suis%20Karl.jpg",Je Suis Karl
 https://archive.org/download/94-1_20210929/Je%20Suis%20Karl.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Joy_El_nombre_del_xito-380748983-large.jpg" group-title="VOD DRAMA", JOY EL NOMBRE DELEXITO 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/JOY%20EL%20NOMBRE%20DELEXITO%202015.MP4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Juego%20de%20poder%20%282007%29.jpg" group-title="VOD DRAMA", Juego de poder (2007)
-https://archive.org/download/por-encima-de-la-ley-1/Juego%20de%20poder%202007~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.jpg" group-title="VOD DRAMA", La batalla de Leningrado
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20La%20batalla%20de%20Leningrado.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/citation-235387619-large.jpg" group-title="VOD DRAMA", La citacio´n (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/citation-235387619-large.jpg",La citacio´n (2020)
 https://archive.org/download/i-hate-summer-2020/La%20citacio%CC%81n%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.jpg" group-title="VOD DRAMA", La distancia
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.jpg",La distancia
 https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_dosis-802241086-large.jpg" group-title="VOD DRAMA", La dosis (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_dosis-802241086-large.jpg",La dosis (2020)
 https://archive.org/download/i-hate-summer-2020/La%20dosis%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_broken_hearts_gallery-972949574-large.jpg" group-title="VOD DRAMA", La galeri´a de los corazones rotos (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/the_broken_hearts_gallery-972949574-large.jpg",La galeri´a de los corazones rotos (2020)
 https://archive.org/download/i-hate-summer-2020/La%20galeri%CC%81a%20de%20los%20corazones%20rotos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20gran%20apuesta.jpg" group-title="VOD DRAMA", La gran apuesta
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20gran%20apuesta.mp4
-#EXTINF: -1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWX96FC5/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="VOD DRAMA", La inspiradora historia de Vinny Pazienza
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWX96FC5/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",La inspiradora historia de Vinny Pazienza
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16_La_inspiradora_historia_de_Vinny_Pazienza_2016_720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20Jaula.jpg" group-title="VOD DRAMA", La Jaula
-https://archive.org/download/por-encima-de-la-ley-1/La%20Jaula~1.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/15900/15932/001_m.jpg" group-title="VOD DRAMA", La lista de los deseos (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.ecartelera.com/carteles/15900/15932/001_m.jpg",La lista de los deseos (2020)
 https://www.ecartelera.com/carteles/15900/15932/001_m.jpg
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-2PEGcoIiTfE/VbpdFDIv6jI/AAAAAAAAmt4/WNijmyYxqhY/s1600/m4gic4.jpg" group-title="VOD DRAMA", La llave magica (1995)
-https://archive.org/download/Amadrinadas/La%20llave%20ma%CC%81gica%20%281995%29.mp4
-#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/_y8PBavjb1yc/SOj8f8p-RJI/AAAAAAAAARM/9r8L2mLarw0/s400/Zorro.jpg" group-title="VOD DRAMA", La ma´scara del Zorro (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/La%20ma%CC%81scara%20del%20Zorro%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_madre_del_blues-906078080-large.jpg" group-title="VOD DRAMA", La madre del blues (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_madre_del_blues-906078080-large.jpg",La madre del blues (2020)
 https://archive.org/download/i-hate-summer-2020/La%20madre%20del%20blues%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://decine21.com/img/upload/obras/la-navidad-magica-de-los-jangle-42698/src/la-navidad-magica-de-los-jangle-42698-c.jpg" group-title="VOD DRAMA", La Navidad magica de los Jangle (2020)
-https://archive.org/download/Amadrinadas/La%20Navidad%20ma%CC%81gica%20de%20los%20Jangle%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Yalda%2C%20la%20noche%20del%20perd%C3%B3n.jpg" group-title="VOD DRAMA", la noche del perdón
-https://archive.org/download/por-encima-de-la-ley-1/Yalda%2C%20la%20noche%20del%20perd%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg" group-title="VOD DRAMA", La promesa (2016) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg",La promesa (2016) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20La%20promesa%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.jpg" group-title="VOD DRAMA", La teniente O Neil  1997
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.jpg",La teniente O Neil  1997
 https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.jpg" group-title="VOD DRAMA", La última primavera
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.jpg",La última primavera
 https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/La%20vampira%20de%20Barcelona.jpg" group-title="VOD DRAMA", La vampira de Barcelona (2020)
-https://archive.org/download/por-encima-de-la-ley-1/La%20vampira%20de%20Barcelona%20%282020%29%20%40cesser16~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_casa_del_caracol-235255571-large.jpg" group-title="VOD DRAMA", La vampira de Barcelona (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_casa_del_caracol-235255571-large.jpg",La vampira de Barcelona (2020)
 https://archive.org/download/94-1_20210929/La%20casa%20del%20caracol~1.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/26/13/02/436595.jpg" group-title="VOD DRAMA", la verdad duele 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/la%20verdad%20duele%202015.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_vida_ante_s-916636073-large.jpg" group-title="VOD DRAMA", La vida por delante (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_vida_ante_s-916636073-large.jpg",La vida por delante (2020)
 https://archive.org/download/i-hate-summer-2020/La%20vida%20por%20delante%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.jpg" group-title="VOD DRAMA", Las Legiones Emergentes
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.jpg",Las Legiones Emergentes
 https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.mp4
-#EXTINF: -1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/10/70X100cm_Lassie_Web.jpg" group-title="VOD DRAMA", lassie
-https://archive.org/download/Amadrinadas/lassie.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Los%20idus%20de%20marzo.jpg" group-title="VOD DRAMA", Los idus de marzo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Los%20idus%20de%20marzo.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Los%20Meyerowitz%20La%20familia%20no%20se%20elige%20Historias%20nuevas%20y%20selectas.jpg" group-title="VOD DRAMA", Los Meyerowitz (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Los%20Meyerowitz%20La%20familia%20no%20se%20elige%20Historias%20nuevas%20y%20selectas.jpg",Los Meyerowitz (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Los%20Meyerowitz%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://surtido.pe/wp-content/uploads/2020/05/Comic-The-Last-Days-of-American-Crime-Netflix.jpg" group-title="VOD DRAMA", Los u´ltimos di´as del crimen (2020)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Los%20u%CC%81ltimos%20di%CC%81as%20del%20crimen%20%282020%29.MP4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNlYmFkMjctM2U3MS00YjMyLTlkZDQtYjBmMTU5MDhhOTA1XkEyXkFqcGdeQXVyNTU2MDQyOTk@._V1_.jpg" group-title="VOD DRAMA", Love Takes Flight 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Love%20Takes%20Flight%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Magic_Camp-668595567-large.jpg" group-title="VOD DRAMA", Magic Camp (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Magic_Camp-668595567-large.jpg",Magic Camp (2020)
 https://archive.org/download/wendy-2020_202012/Magic%20Camp%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Mainstream.jpg" group-title="VOD DRAMA", Mainstream
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/Mainstream.jpg",Mainstream
 https://archive.org/download/yummy_202105/Mainstream.jpg
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Mank-722370780-large.jpg" group-title="VOD DRAMA", Mank (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Mank-722370780-large.jpg",Mank (2020)
 https://archive.org/download/i-hate-summer-2020/Mank%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/03/04/15/09/2075899.jpg" group-title="VOD DRAMA", Mano de obra (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/03/04/15/09/2075899.jpg",Mano de obra (2020)
 https://archive.org/download/i-hate-summer-2020/Mano%20de%20obra%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/M_quina_de_guerra-236033463-large.jpg" group-title="VOD DRAMA", Máquina de guerra (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/M_quina_de_guerra-236033463-large.jpg",Máquina de guerra (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20M%C3%A1quina%20de%20guerra%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.jpg" group-title="VOD DRAMA", Más mentes peligrosas
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.jpg",Más mentes peligrosas
 https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg" group-title="VOD DRAMA", Medio hermanos (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg",Medio hermanos (2020)
 https://archive.org/download/i-hate-summer-2020/Medio%20hermanos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://www.cine.com/peliculas/5371/cartel/5371_cartel.jpg" group-title="VOD DRAMA", Mi gran amigo Joe (1998)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Mi%20gran%20amigo%20Joe%20%281998%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Mi%20Gran%20Despedida.jpg" group-title="VOD DRAMA", Mi Gran Despedida
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Mi%20Gran%20Despedida.jpg",Mi Gran Despedida
 https://archive.org/download/94-1_20210929/Mi%20Gran%20Despedida.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/uncle_frank-285264269-large.jpg" group-title="VOD DRAMA", Mi ti´o Frank (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/uncle_frank-285264269-large.jpg",Mi ti´o Frank (2020)
 https://archive.org/download/i-hate-summer-2020/Mi%20ti%CC%81o%20Frank%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.jpg" group-title="VOD DRAMA", Nido de víboras
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.jpg",Nido de víboras
 https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-58-00.jpg" group-title="VOD DRAMA", Nieve negra (2017) 1080p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-58-00.jpg",Nieve negra (2017) 1080p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Nieve%20negra%20%282017%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Orqu%C3%ADdea%20salvaje.jpg" group-title="VOD DRAMA", Orquídea salvaje
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Orqu%C3%ADdea%20salvaje.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Parada%20de%20autob%C3%BAs.jpg" group-title="VOD DRAMA", Parada de autobús
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Parada%20de%20autob%C3%BAs.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/6800/6873/002_m.jpg" group-title="VOD DRAMA", Paranormal Activity Los sen~alados (2014)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.ecartelera.com/carteles/6800/6873/002_m.jpg",Paranormal Activity Los sen~alados (2014)
 https://archive.org/download/i-hate-summer-2020/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/pasion-del-corazon-1582402204.jpg" group-title="VOD DRAMA", Pasio´n del corazo´n (2015)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://img.repelis.id/cover/pasion-del-corazon-1582402204.jpg",Pasio´n del corazo´n (2015)
 https://archive.org/download/i-hate-summer-2020/Pasio%CC%81n%20del%20corazo%CC%81n%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg" group-title="VOD DRAMA", Powder 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg",Powder 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Powder%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Psic%C3%B3pata%20americano.jpg" group-title="VOD DRAMA", Psicópata americano
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Psic%C3%B3pata%20americano.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.jpg" group-title="VOD DRAMA", Quién te cantará
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Qui%C3%A9n%20te%20cantar%C3%A1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Reefa.jpg" group-title="VOD DRAMA", Reefa
-https://archive.org/download/por-encima-de-la-ley-1/Reefa~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Ricochet.jpg" group-title="VOD DRAMA", Ricochet
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Ricochet.jpg",Ricochet
 https://archive.org/download/2-comando-commando-1985/Ricochet.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Riding_with_Sugar-415283834-large.jpg" group-title="VOD DRAMA", Riding with Sugar (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Riding_with_Sugar-415283834-large.jpg",Riding with Sugar (2020)
 https://archive.org/download/i-hate-summer-2020/Riding%20with%20Sugar%20%282020%29-1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Robin_Hood_praincipe_de_los_ladrones-748168448-large.jpg" group-title="VOD DRAMA", Robin Hood Pri´ncipe de los ladrones (1991)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Robin%20Hood%20Pri%CC%81ncipe%20de%20los%20ladrones%20%281991%29.MP4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.jpg" group-title="VOD DRAMA", Saló o los 120 días de Sodoma
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.jpg",Saló o los 120 días de Sodoma
 https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_08-01-06.jpg" group-title="VOD DRAMA", Sandy Wexler (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_08-01-06.jpg",Sandy Wexler (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sandy%20Wexler%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Secreto%20en%20la%20monta%C3%B1a.jpg" group-title="VOD DRAMA", Secreto en la montaña
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/-%20Secreto%20en%20la%20monta%C3%B1a.jpg",Secreto en la montaña
 https://archive.org/download/yummy_202105/-%20Secreto%20en%20la%20monta%C3%B1a.mp4
-#EXTINF: -1 tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_07-12-58.jpg" group-title="VOD DRAMA", Si no despierto (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_07-12-58.jpg",Si no despierto (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Si%20no%20despierto%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg" group-title="VOD DRAMA", Sitting in Limbo
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg",Sitting in Limbo
 https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.jpg" group-title="VOD DRAMA", Sólo un sueño
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/S%C3%B3lo%20un%20sue%C3%B1o.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/11/13/16/27/316410.jpg" group-title="VOD DRAMA", spotlight 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/spotlight%202015.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/strange_weather-926814484-large.jpg" group-title="VOD DRAMA", Strange Weather (2016) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/strange_weather-926814484-large.jpg",Strange Weather (2016) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Strange%20Weather%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Super%20Me.jpg" group-title="VOD DRAMA", Super Me
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Super%20Me.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Territorio.jpg" group-title="VOD DRAMA", Territorio
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Territorio.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.jpg" group-title="VOD DRAMA", The Doors
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.jpg",The Doors
 https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg" group-title="VOD DRAMA", The Maid
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg",The Maid
 https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Wrong_Mommy_TV-727134167-large.jpg" group-title="VOD DRAMA", The Wrong Mommy (2019)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/The_Wrong_Mommy_TV-727134167-large.jpg",The Wrong Mommy (2019)
 https://archive.org/download/wendy-2020_202012/The%20Wrong%20Mommy%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/TRUMBO%20LA%20LISTA%20NEGRA%20DE%20HOLLYWOOD%202015.jpg" group-title="VOD DRAMA", TRUMBO LA LISTA NEGRA DE HOLLYWOOD 2015
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/TRUMBO%20LA%20LISTA%20NEGRA%20DE%20HOLLYWOOD%202015.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Twistermovieposter.jpg" group-title="VOD DRAMA", Twister (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Twister%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20hombre%20de%20familia.jpg" group-title="VOD DRAMA", Un hombre de familia
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20hombre%20de%20familia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg" group-title="VOD DRAMA", Un Milagro Inesperado
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg",Un Milagro Inesperado
 https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20mundo%20implacable.jpg" group-title="VOD DRAMA", Un mundo implacable
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Un%20mundo%20implacable.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Un_mundo_normal-293948077-large.jpg" group-title="VOD DRAMA", Un mundo normal (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Un_mundo_normal-293948077-large.jpg",Un mundo normal (2020)
 https://archive.org/download/i-hate-summer-2020/Un%20mundo%20normal%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Un%20zool%C3%B3gico%20en%20casa.jpg" group-title="VOD DRAMA", Un zoológico en casa
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Un%20zool%C3%B3gico%20en%20casa.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Hillbilly_una_eleg_a_rural-757589160-large.jpg" group-title="VOD DRAMA", una elegi´a rural (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Hillbilly_una_eleg_a_rural-757589160-large.jpg",una elegi´a rural (2020)
 https://archive.org/download/i-hate-summer-2020/Hillbilly%2C%20una%20elegi%CC%81a%20rural%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg" group-title="VOD DRAMA", Una vida sin amor
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg",Una vida sin amor
 https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-LE358Oio7Uc/VkoLg9_uK5I/AAAAAAAAsdc/gNcYDb1avuY/s1600/Victor_-Frankenstein-.jpg" group-title="VOD DRAMA", victor frankenstein 2015
-https://archive.org/download/desaparecido-en-combate-1984_202101/victor%20frankenstein%202015.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Vidas%20rebeldes.jpg" group-title="VOD DRAMA", Vidas rebeldes
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Vidas%20rebeldes.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_06-35-41.jpg" group-title="VOD DRAMA", Viene de noche (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_06-35-41.jpg",Viene de noche (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Viene%20de%20noche%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://dreamers.es/indices/imagenes/peliculas.4153.IMAGEN1.jpg" group-title="VOD DRAMA", Volando libre (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Volando%20libre%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.jpg" group-title="VOD DRAMA", Waiting for Anya
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Waiting%20for%20Anya.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Wendy-590541646-large.jpg" group-title="VOD DRAMA", Wendy (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Wendy-590541646-large.jpg",Wendy (2020)
 https://archive.org/download/wendy-2020_202012/Wendy%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD DRAMA", Wild Mountain Thyme (2020)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Wild Mountain Thyme (2020)
 https://archive.org/download/i-hate-summer-2020/Wild%20Mountain%20Thyme%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601406.us.archive.org/6/items/94-1_20210929/Y%20al%20s%C3%A9ptimo%20d%C3%ADa.jpg" group-title="VOD DRAMA", Y al séptimo día
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601406.us.archive.org/6/items/94-1_20210929/Y%20al%20s%C3%A9ptimo%20d%C3%ADa.jpg",Y al séptimo día
 https://archive.org/download/94-1_20210929/Y%20al%20s%C3%A9ptimo%20d%C3%ADa~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Zombi_Child-180737258-large.jpg" group-title="VOD DRAMA", Zombi Child (2019)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Zombi_Child-180737258-large.jpg",Zombi Child (2019)
 https://archive.org/download/wendy-2020_202012/Zombi%20Child%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cr%C3%B3nica%20de%20una%20tormenta.jpg" group-title="VOD DRAMA", Crónica de una tormenta
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cr%C3%B3nica%20de%20una%20tormenta.jpg",Crónica de una tormenta
 https://archive.org/download/mentiras-verdaderas-1/Cr%C3%B3nica%20de%20una%20tormenta~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Desaparecidas.jpg" group-title="VOD DRAMA", Desaparecidas
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Desaparecidas.jpg",Desaparecidas
 https://archive.org/download/mentiras-verdaderas-1/Desaparecidas~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Dif%C3%ADcil%20de%20tragar.jpg" group-title="VOD DRAMA", Difícil de tragar
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Dif%C3%ADcil%20de%20tragar.jpg",Difícil de tragar
 https://archive.org/download/mentiras-verdaderas-1/Dif%C3%ADcil%20de%20tragar~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Disturbio.jpg" group-title="VOD DRAMA", Disturbio
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Disturbio.jpg",Disturbio
 https://archive.org/download/mentiras-verdaderas-1/Disturbio~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20santos%20de%20la%20mafia.jpg" group-title="VOD DRAMA", Los santos de la mafia
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20santos%20de%20la%20mafia.jpg",Los santos de la mafia
 https://archive.org/download/mentiras-verdaderas-1/Los%20santos%20de%20la%20mafia~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Medidas%20extremas.jpg" group-title="VOD DRAMA", Medidas extremas
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Medidas%20extremas.jpg",Medidas extremas
 https://archive.org/download/mentiras-verdaderas-1/Medidas%20extremas~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Milagro%20en%20octubre.jpg" group-title="VOD DRAMA", Milagro en octubre
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Milagro%20en%20octubre.jpg",Milagro en octubre
 https://archive.org/download/mentiras-verdaderas-1/Milagro%20en%20octubre~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Millonarios.jpg" group-title="VOD DRAMA", Millonarios
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Millonarios.jpg",Millonarios
 https://archive.org/download/mentiras-verdaderas-1/Millonarios~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/The%20Space%20Between.jpg" group-title="VOD DRAMA", The Space Between
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/The%20Space%20Between.jpg",The Space Between
 https://archive.org/download/mentiras-verdaderas-1/The%20Space%20Between~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Women.jpg" group-title="VOD DRAMA", Women
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Women.jpg",Women
 https://archive.org/download/mentiras-verdaderas-1/Women.jpg
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/546567568678967.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/546567568678967.jpg" group-title="VOD DRAMA", Aguas profundas (2022)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/1-90_20230724/546567568678967.jpg",Aguas profundas (2022)
 https://archive.org/download/1-90_20230724/546567568678967.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/9058790867867.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/9058790867867.jpg" group-title="VOD DRAMA", A través de mi ventana 2022
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/1-90_20230724/9058790867867.jpg",A través de mi ventana 2022
 https://archive.org/download/1-90_20230724/9058790867867.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD DRAMA", Crisis (2021)
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhMmM1ZGMtNjhlYi00ZTczLTlmMzgtNGEzZDM3ZGY4NTQyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",Crisis (2021)
 https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20Crisis%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.jpg" group-title="VOD DRAMA", Birds of Paradise
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.jpg",Birds of Paradise
 https://ia902302.us.archive.org/29/items/94-1_20210929/Birds%20of%20Paradise.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.jpg" group-title="VOD DRAMA", El Estornino 2021
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.jpg",El Estornino 2021
 https://ia902302.us.archive.org/29/items/94-1_20210929/El%20Estornino%202021.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Alejandro%20Magno.jpg" group-title="VOD DRAMA", Alejandro Magno.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Alejandro%20Magno%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.jpg" group-title="VOD DRAMA", El hombre agua
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.jpg",El hombre agua
 https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg" group-title="VOD DRAMA", La magia de la isla
-https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/really_love-586145622-mmed.jpg" group-title="VOD DRAMA", Really Love 2020
-https://archive.org/download/por-encima-de-la-ley-1/Really%20Love%202020%20Dual%20%40Girohens~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Un%20paseo%20para%20recordar.jpg" group-title="VOD DRAMA", Un paseo para recordar
-https://archive.org/download/por-encima-de-la-ley-1/Un%20paseo%20para%20recordar~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/por-encima-de-la-ley-1/Very%20Good%20Girls.jpg" group-title="VOD DRAMA", Very Good Girls
-https://archive.org/download/por-encima-de-la-ley-1/Very%20Good%20Girls~1.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg" group-title="VOD SUSPENSO", Agatha y la verdad del crimen (2018)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg",Agatha y la verdad del crimen (2018)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://www1.naijgreen.com/wp-content/uploads/2020/06/Coherence-2013-BluRay-480p720p.jpg" group-title="VOD SUSPENSO", Coherence (2013)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://www1.naijgreen.com/wp-content/uploads/2020/06/Coherence-2013-BluRay-480p720p.jpg",Coherence (2013)
 https://archive.org/download/wendy-2020_202012/Coherence%20%282013%29.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w300/bsPIybp4inkbw8T9BmYuc6ZGjo0.jpg" group-title="VOD SUSPENSO", Deadly Excursion (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Deadly%20Excursion%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.jpg" group-title="VOD SUSPENSO", Doble de cuerpo
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.jpg",Doble de cuerpo
 https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXYOGnUPM6wUezGA49JUIlpS3uQ.jpg" group-title="VOD SUSPENSO", Mi Padrastro Malvado (2019)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXYOGnUPM6wUezGA49JUIlpS3uQ.jpg",Mi Padrastro Malvado (2019)
 https://archive.org/download/wendy-2020_202012/Mi%20Padrastro%20Malvado%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/ivRhcnmwgfsjXeDZbbOhYEU0MA0JFEdmJtl0pBjYc8KlG40YFzSH4fkyozH5v7RLtPDI" group-title="VOD SUSPENSO", Paranormal Activity (2009)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://play-lh.googleusercontent.com/ivRhcnmwgfsjXeDZbbOhYEU0MA0JFEdmJtl0pBjYc8KlG40YFzSH4fkyozH5v7RLtPDI",Paranormal Activity (2009)
 https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/13/12/13/10/53/157876.jpg" group-title="VOD SUSPENSO", Paranormal Activity Los sen~alados (2014)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://es.web.img3.acsta.net/pictures/13/12/13/10/53/157876.jpg",Paranormal Activity Los sen~alados (2014)
 https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWViZWNmMGMtZmQzMS00MzEwLWI5ODAtNjUxY2ZjODBkNzlhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg" group-title="VOD SUSPENSO", Paranormal Activity Tokyo Night (2010)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWViZWNmMGMtZmQzMS00MzEwLWI5ODAtNjUxY2ZjODBkNzlhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",Paranormal Activity Tokyo Night (2010)
 https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Tokyo%20Night%20%282010%29.mp4
-#EXTINF: -1 tvg-logo="https://www.proimagenescolombia.com/photos/57150_6229_imagen__.jpg" group-title="VOD SUSPENSO", Perseguida (2020)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Perseguida%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Black_String-994647462-mmed.jpg" group-title="VOD SUSPENSO", The Black String (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/The%20Black%20String%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/The%20Show.jpg" group-title="VOD SUSPENSO", The Show
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/94-1_20210929/The%20Show.jpg",The Show
 https://archive.org/download/94-1_20210929/The%20Show~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Traffik-381374087-large.jpg" group-title="VOD SUSPENSO", Traffik (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Traffik%20%282018%29-1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Viejos.jpg" group-title="VOD SUSPENSO", Viejos.jpg
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/94-1_20210929/Viejos.jpg",Viejos.jpg
 https://archive.org/download/94-1_20210929/Viejos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/895468908690.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/895468908690.jpg" group-title="VOD SUSPENSO", Vértigo (2022)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/1-90_20230724/895468908690.jpg",Vértigo (2022)
 https://archive.org/download/1-90_20230724/895468908690.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/98590689.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/98590689.jpg" group-title="VOD SUSPENSO", El silencio del pantano (2019)
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/1-90_20230724/98590689.jpg",El silencio del pantano (2019)
 https://archive.org/download/1-90_20230724/98590689.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cuestiaon_de_sangre-949085240-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/Cuestiaon_de_sangre-949085240-large.jpg" group-title="VOD SUSPENSO", Cuestión de sangre
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://pics.filmaffinity.com/Cuestiaon_de_sangre-949085240-large.jpg",Cuestión de sangre
 https://ia902302.us.archive.org/29/items/94-1_20210929/-%20Cuesti%C3%B3n%20de%20sangre~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg" group-title="VOD TERROR", A Feral World (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg",A Feral World (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg" group-title="VOD TERROR", Algunas veces ellos vuelven (1991)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg",Algunas veces ellos vuelven (1991)
 https://archive.org/download/wendy-2020/Algunas%20veces%20ellos%20vuelven%20%281991%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Alta_tensi_n-258012416-large.jpg" group-title="VOD TERROR", Alta tensio´n (2003)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Alta_tensi_n-258012416-large.jpg",Alta tensio´n (2003)
 https://archive.org/download/i-hate-summer-2020/Alta%20tensio%CC%81n%20%282003%29-1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Amityville%20El%20despertar.jpg" group-title="VOD TERROR", Amityville El despertar
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Amityville%20El%20despertar.jpg",Amityville El despertar
 https://archive.org/download/94-1_20210929/Amityville%20El%20despertar.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Anatom_a-910433213-large.jpg" group-title="VOD TERROR", Anatomi´a (2000)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Anatom_a-910433213-large.jpg",Anatomi´a (2000)
 https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%20%282000%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Anatom_a_2-669670489-large.jpg" group-title="VOD TERROR", Anatomia 2 (2003)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Anatom_a_2-669670489-large.jpg",Anatomia 2 (2003)
 https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%202%20%282003%29.mp4
-#EXTINF: -1 tvg-logo="https://images.squarespace-cdn.com/content/v1/511eea22e4b06642027a9a99/1600835095406-J2SG1OJCLCXVMVBB4CSH/ke17ZwdGBToddI8pDm48kObW5L834DLeOoedDyYNM0VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE0HBlqxyJ0FKkj7k-nCdscI18NqvNAsmDs0Oklw-0igruvPknf91-IP_XxpMjX9og/image-asset.jpeg" group-title="VOD TERROR", Antebellum (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://images.squarespace-cdn.com/content/v1/511eea22e4b06642027a9a99/1600835095406-J2SG1OJCLCXVMVBB4CSH/ke17ZwdGBToddI8pDm48kObW5L834DLeOoedDyYNM0VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE0HBlqxyJ0FKkj7k-nCdscI18NqvNAsmDs0Oklw-0igruvPknf91-IP_XxpMjX9og/image-asset.jpeg",Antebellum (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Antebellum%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg" group-title="VOD TERROR", Asylum Twisted Horror & Fantasy Tales (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg",Asylum Twisted Horror & Fantasy Tales (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Asylum%20Twisted%20Horror%20%26%20Fantasy%20Tales%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_poster_40701.jpg" group-title="VOD TERROR", Atakan The Bloody Legend
-https://archive.org/download/sr-y-sra-smith/Atakan%2C%20The%20Bloody%20Legend.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Baba_Yaga_Terror_of_the_Dark_Forest-678640427-large.jpg" group-title="VOD TERROR", Baba Yaga El regreso del demonio (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Baba_Yaga_Terror_of_the_Dark_Forest-678640427-large.jpg",Baba Yaga El regreso del demonio (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bad%20Witch.jpg" group-title="VOD TERROR", Bad Witch
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Bad%20Witch.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_calle_del_terror_Parte_3_1666-198549562-large.jpg" group-title="VOD TERROR", Calle del Terror Parte 3 1666 2021
-https://archive.org/download/sr-y-sra-smith/Calle%20del%20Terror%20Parte%203%201666%202021.mp4
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-pgY7PgWpN-k/UtdwNdkKBnI/AAAAAAAAFxM/TSeSNy9hbTs/s1600/front.jpg" group-title="VOD TERROR", Carrie (2002)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://3.bp.blogspot.com/-pgY7PgWpN-k/UtdwNdkKBnI/AAAAAAAAFxM/TSeSNy9hbTs/s1600/front.jpg",Carrie (2002)
 https://archive.org/download/wendy-2020_202012/Carrie%20%282002%29.mp4
-#EXTINF: -1 tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg" group-title="VOD TERROR", Casa ajena (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg",Casa ajena (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://cdn.cinencuentro.com/wp-content/uploads/2013/07/Cementerio-General-poster1.jpg" group-title="VOD TERROR", Cementerio General (2013)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Cementerio%20General%20%282013%29.mp4
-#EXTINF: -1 tvg-logo="https://i1.wp.com/www.soloplay.ng/wp-content/uploads/2020/11/Movie-come-play.jpeg?resize=720%2C1080&ssl=1" group-title="VOD TERROR", Come Play (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://i1.wp.com/www.soloplay.ng/wp-content/uploads/2020/11/Movie-come-play.jpeg?resize=720%2C1080&ssl=1",Come Play (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Come%20Play%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Los%20viajeros%20de%20la%20noche.jpg" group-title="VOD TERROR", Cuando cae la oscuridad
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Los%20viajeros%20de%20la%20noche.jpg",Cuando cae la oscuridad
 https://archive.org/download/94-1_20210929/Los%20viajeros%20de%20la%20noche~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg" group-title="VOD TERROR", Cuidado con lo que deseas 2020
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg",Cuidado con lo que deseas 2020
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Cuidado%20con%20lo%20que%20deseas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Curse_of_the_Blair_Witch_TV-960024835-mmed.jpg" group-title="VOD TERROR", Curse of the Blair Witch (1999)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Curse%20of%20the%20Blair%20Witch%20%281999%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ2NmZiYWYtYzBiYi00ODI5LTg3MjItZjU3ZDc3ZjI2YWYyXkEyXkFqcGdeQXVyMjIxMzg5NjE@._V1_.jpg" group-title="VOD TERROR", DeadTectives (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/DeadTectives%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Diavlo.jpg" group-title="VOD TERROR", Diavlo
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/Diavlo.jpg",Diavlo
 https://archive.org/download/yummy_202105/Diavlo.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20Aro%20Resurrecci%C3%B3n.jpg" group-title="VOD TERROR", El Aro Resurrección
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/El%20Aro%20Resurrecci%C3%B3n.jpg",El Aro Resurrección
 https://archive.org/download/94-1_20210929/El%20Aro%20Resurrecci%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_club_de_los_vampiros-589423850-mmed.jpg" group-title="VOD TERROR", El club de los vampiros (1996)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20club%20de%20los%20vampiros%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.jpg" group-title="VOD TERROR", El cuervo 2 ciudad de ángeles
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20cuervo%202%2C%20ciudad%20de%20%C3%A1ngeles.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg" group-title="VOD TERROR", El exorcismo de Carmen Farías
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg",El exorcismo de Carmen Farías
 https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_halloween_de_Hubie-100843653-mmed.jpg" group-title="VOD TERROR", El Halloween de Hubie (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/El_halloween_de_Hubie-100843653-mmed.jpg",El Halloween de Hubie (2020)
 https://archive.org/download/i-hate-summer-2020/El%20Halloween%20de%20Hubie%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/viy_3d-656915198-large.jpg" group-title="VOD TERROR", el imperio prohibido (2014)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/viy_3d-656915198-large.jpg",el imperio prohibido (2014)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Malicious_En_el_vientre_del_diablo-601033605-large.jpg" group-title="VOD TERROR", En el vientre del diablo (2018)
-https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031225
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg" group-title="VOD TERROR", Escape to the Cove
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg",Escape to the Cove
 https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Este_cuerpo_me_sienta_de_muerte-347088392-large.jpg" group-title="VOD TERROR", Este cuerpo me sienta de muerte (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Este_cuerpo_me_sienta_de_muerte-347088392-large.jpg",Este cuerpo me sienta de muerte (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Este%20cuerpo%20me%20sienta%20de%20muerte%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Fat_Ass_Zombies-343334670-large.jpg" group-title="VOD TERROR", Fat Ass Zombies (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Fat_Ass_Zombies-343334670-large.jpg",Fat Ass Zombies (2020)
 https://archive.org/download/wendy-2020_202012/Fat%20Ass%20Zombies%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Framed-193211957-large.jpg" group-title="VOD TERROR", Framed (2017)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Framed%20%282017%29.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Freddy%20contra%20Jason.jpg" group-title="VOD TERROR", Freddy contra Jason (2003) 1080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Freddy%20contra%20Jason.jpg",Freddy contra Jason (2003) 1080p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Freddy%20contra%20Jason%20%282003%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg" group-title="VOD TERROR", Harpoon (2019)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg",Harpoon (2019)
 https://archive.org/download/i-hate-summer-2020/Harpoon%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.jpg" group-title="VOD TERROR", In The Earth
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.jpg",In The Earth
 https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20It%20%20El%20payaso%20asesino%202.jpg" group-title="VOD TERROR", It (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20It%20%20El%20payaso%20asesino%202.jpg",It (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20It%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/It%202.jpg" group-title="VOD TERROR", It Capítulo dos (2019) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/It%202.jpg",It Capítulo dos (2019) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20It%20Cap%C3%ADtulo%20dos%20%282019%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg" group-title="VOD TERROR", Jo´venes y brujas (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg",Jo´venes y brujas (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Jo%CC%81venes%20y%20brujas%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg" group-title="VOD TERROR", Jovenes y brujas
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg",Jovenes y brujas
 https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Juegos_salvajes-358392029-large.jpg" group-title="VOD TERROR", Juegos salvajes (1998)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Juegos_salvajes-358392029-large.jpg",Juegos salvajes (1998)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031043
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Juguetes_de_terror-327523092-large.jpg" group-title="VOD TERROR", Juguetes del Terror (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Juguetes_de_terror-327523092-large.jpg",Juguetes del Terror (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Juguetes%20del%20Terror%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/57/73/20056052.jpg" group-title="VOD TERROR", La cosecha (2007)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/57/73/20056052.jpg",La cosecha (2007)
 https://archive.org/download/wendy-2020_202012/La%20cosecha%20%282007%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/16/22/57/1180405.jpg" group-title="VOD TERROR", La Llorona (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/16/22/57/1180405.jpg",La Llorona (2020)
 https://archive.org/download/wendy-2020_202012/La%20Llorona%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_maldici_n_de_la_sirena-579165386-large.jpg" group-title="VOD TERROR", La Maldicio´n de la Sirena (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/La%20Maldicio%CC%81n%20de%20la%20Sirena%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_noche_de_los_muertos_vivientes-404634659-large.jpg" group-title="VOD TERROR", La noche de los muertos vivientes (1990)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/La_noche_de_los_muertos_vivientes-404634659-large.jpg",La noche de los muertos vivientes (1990)
 https://archive.org/download/wendy-2020_202012/La%20noche%20de%20los%20muertos%20vivientes%20%281990%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/the_old_ways-698410071-mmed.jpg" group-title="VOD TERROR", Las formas antiguas
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/the_old_ways-698410071-mmed.jpg",Las formas antiguas
 https://archive.org/download/94-1_20210929/%40cesser16%20Las%20formas%20antiguas%20%282020%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg" group-title="VOD TERROR", Lazos malditos (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg",Lazos malditos (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F007%2F403%2Flos-chicos-del-maiz-1.jpg&nuevoancho=690&medio=abc" group-title="VOD TERROR", Los chicos del mai´z (1984)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F007%2F403%2Flos-chicos-del-maiz-1.jpg&nuevoancho=690&medio=abc",Los chicos del mai´z (1984)
 https://archive.org/download/wendy-2020_202012/Los%20chicos%20del%20mai%CC%81z%20%281984%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Maligno.jpg" group-title="VOD TERROR", Maligno
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Maligno.jpg",Maligno
 https://archive.org/download/94-1_20210929/Maligno.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg" group-title="VOD TERROR", Nadie duerme en el bosque esta noche (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg",Nadie duerme en el bosque esta noche (2020)
 https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.jpg" group-title="VOD TERROR", Paredes siniestras
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.jpg",Paredes siniestras
 https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno.jpg" group-title="VOD TERROR", Pesadilla en la calle del infierno (1984) 1080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno.jpg",Pesadilla en la calle del infierno (1984) 1080p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F020%2F043%2Fpesadilla-en-elm-street-5-1.jpg&nuevoancho=620&medio=abc" group-title="VOD TERROR", Pesadilla en la calle del infierno 5 (1989) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F020%2F043%2Fpesadilla-en-elm-street-5-1.jpg&nuevoancho=620&medio=abc",Pesadilla en la calle del infierno 5 (1989) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%205%20%281989%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_la_calle_del_infierno_6_La_muerte_de_Freddy-934501006-large.jpg" group-title="VOD TERROR", Pesadilla en la calle del infierno 6 (1991) 1080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_la_calle_del_infierno_6_La_muerte_de_Freddy-934501006-large.jpg",Pesadilla en la calle del infierno 6 (1991) 1080p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%206%20%281991%29%201080p.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/la-nueva-pesadilla-de-wes-craven.jpg" group-title="VOD TERROR", Pesadilla en la calle del infierno 7 (1994) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://img.repelis.id/cover/la-nueva-pesadilla-de-wes-craven.jpg",Pesadilla en la calle del infierno 7 (1994) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%207%20%281994%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%208.jpg" group-title="VOD TERROR", Pesadilla en la calle del infierno 8 (2010) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%208.jpg",Pesadilla en la calle del infierno 8 (2010) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%208%20%282010%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Pipeline.jpg" group-title="VOD TERROR", Pipeline
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Pipeline.jpg",Pipeline
 https://archive.org/download/2-comando-commando-1985/Pipeline.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.jpg" group-title="VOD TERROR", Prueba de fe
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.jpg",Prueba de fe
 https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Re-sonator.jpg" group-title="VOD TERROR", Re-sonator
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Re-sonator.jpg",Re-sonator
 https://archive.org/download/94-1_20210929/Re-sonator~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/ReVisitant.jpg" group-title="VOD TERROR", ReVisitant
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/ReVisitant.jpg",ReVisitant
 https://archive.org/download/2-comando-commando-1985/ReVisitant.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRiZTRjODctNWMzYi00ZGFiLTkyYjgtNGI3NjcwNmM1YWRkXkEyXkFqcGdeQXVyMzE3NjQ5NA@@._V1_.jpg" group-title="VOD TERROR", Robert Reborn (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Robert%20Reborn%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.jpg" group-title="VOD TERROR", Ruega por nosotros
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ruega%20por%20nosotros.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.jpg" group-title="VOD TERROR", SAW Espiral El juego del miedo continua 2021
-https://archive.org/download/2-comando-commando-1985/Espiral%20El%20juego%20del%20miedo%20contin%C3%BAa%202021.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/74/47/19634612.jpg" group-title="VOD TERROR", Saw VII (2010)
-https://archive.org/download/wonder-woman-1984-2020_202012/Saw%20VII%20%282010%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg" group-title="VOD TERROR", Scream at the Devil (2015)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg",Scream at the Devil (2015)
 https://archive.org/download/wendy-2020_202012/Scream%20at%20the%20Devil%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Separation.jpg" group-title="VOD TERROR", Separation
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Separation.jpg",Separation
 https://archive.org/download/2-comando-commando-1985/Separation.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Silhouette-112553138-large.jpg" group-title="VOD TERROR", Silhouette (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Silhouette%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Sin_origen-984633558-large.jpg" group-title="VOD TERROR", Sin Origen (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Sin_origen-984633558-large.jpg",Sin Origen (2020)
 https://archive.org/download/wendy-2020_202012/Sin%20Origen%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg" group-title="VOD TERROR", Sinister (2012) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg",Sinister (2012) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%20%282012%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.jpg" group-title="VOD TERROR", Smiley Face Killers
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.jpg",Smiley Face Killers
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
-#EXTINF: -1 tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Sobreviviendo%20en%20el%20desierto.jpg" group-title="VOD TERROR", Sobreviviendo en el desierto (2016) 720p.mp4
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Sobreviviendo%20en%20el%20desierto%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg" group-title="VOD TERROR", solo en América
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg",solo en América
 https://archive.org/download/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
-#EXTINF: -1 tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-59-26.jpg" group-title="VOD TERROR", Super Dark Times (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-59-26.jpg",Super Dark Times (2017) 720p.mp4
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Super%20Dark%20Times%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F022%2F701%2Ftemblores-2-la-respuesta-1.jpg&nuevoancho=150&medio=abc" group-title="VOD TERROR", Temblores 2 La respuesta (1996)
-https://archive.org/download/desaparecido-en-combate-1984_202101/Temblores%202%20La%20respuesta%20%281996%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Tempus_Tormentum-667759425-large.jpg" group-title="VOD TERROR", Tempus Tormentum (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Tempus%20Tormentum%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/84/70/b9/8470b986f494723f0033644c6227235c.jpg" group-title="VOD TERROR", Terror en Silent Hill (2006)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%20%282006%29.mp4
-#EXTINF: -1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36783/36783_800x1187.jpg" group-title="VOD TERROR", Terror en Silent Hill 2_ La revelación (2012)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/Terror%20en%20Silent%20Hill%202_%20La%20revelaci%C3%B3n%20%282012%29.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/27/1d/e2/271de2dbb64ab9e6a692a1708ec7984f.jpg" group-title="VOD TERROR", The Babysitter Killer Queen (2020)
-https://archive.org/download/star-wars-episodio-iii-la-venganza-de-los-sith-2005_20201206/The%20Babysitter%20Killer%20Queen%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg" group-title="VOD TERROR", The Current Occupant (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg",The Current Occupant (2020)
 https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Darkness.jpg" group-title="VOD TERROR", The Darkness
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Darkness.jpg",The Darkness
 https://archive.org/download/2-comando-commando-1985/The%20Darkness.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Domestics-956087918-large.jpg" group-title="VOD TERROR", The Domestics (2018)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/The_Domestics-956087918-large.jpg",The Domestics (2018)
 https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIyZWU4ODktMjY1ZC00Y2ZhLTlkY2ItNmU1YTE1NGUzOWQzXkEyXkFqcGdeQXVyMjE3MTg0Nw@@._V1_.jpg" group-title="VOD TERROR", The Haunting of Alcatraz (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIyZWU4ODktMjY1ZC00Y2ZhLTlkY2ItNmU1YTE1NGUzOWQzXkEyXkFqcGdeQXVyMjE3MTg0Nw@@._V1_.jpg",The Haunting of Alcatraz (2020)
 https://archive.org/download/i-hate-summer-2020/The%20Haunting%20of%20Alcatraz%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD TERROR", The Owners (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdlNDNkMzQtMjYwMi00OGFjLWE4ZGQtYjA1YWMxOWM2ZGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",The Owners (2020)
 https://m3u-editor.com/serve/38cb1040-4142-11eb-a2f0-4bbb78a83a5d/163031044
-#EXTINF: -1 tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg" group-title="VOD TERROR", The Sputnik (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg",The Sputnik (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tibur%C3%B3n%20Blanco.jpg" group-title="VOD TERROR", Tiburón Blanco
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tibur%C3%B3n%20Blanco.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Vampiros_contra_el_Bronx-665936619-large.jpg" group-title="VOD TERROR", Vampiros contra el Bronx (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Vampiros_contra_el_Bronx-665936619-large.jpg",Vampiros contra el Bronx (2020)
 https://archive.org/download/wendy-2020_202012/Vampiros%20contra%20el%20Bronx%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg" group-title="VOD TERROR", Vigilados
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg",Vigilados
 https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg" group-title="VOD TERROR", Voces (2020)
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg",Voces (2020)
 https://archive.org/download/wendy-2020_202012/Voces%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg" group-title="VOD TERROR", Wrong Place Wrong Time
-https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Bingo%20Hell.jpg" group-title="VOD TERROR", Bingo Hell
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Bingo%20Hell.jpg",Bingo Hell
 https://archive.org/download/mentiras-verdaderas-1/Bingo%20Hell~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20d%C3%ADa%20de%20los%20inocentes.jpg" group-title="VOD TERROR", El día de los inocentes
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20d%C3%ADa%20de%20los%20inocentes.jpg",El día de los inocentes
 https://archive.org/download/mentiras-verdaderas-1/El%20d%C3%ADa%20de%20los%20inocentes~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/En%20la%20oscuridad%20de%20la%20noche.jpg" group-title="VOD TERROR", En la oscuridad de la noche
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/En%20la%20oscuridad%20de%20la%20noche.jpg",En la oscuridad de la noche
 https://archive.org/download/mentiras-verdaderas-1/En%20la%20oscuridad%20de%20la%20noche~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hay%20alguien%20en%20tu%20casa.jpg" group-title="VOD TERROR", Hay alguien en tu casa
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hay%20alguien%20en%20tu%20casa.jpg",Hay alguien en tu casa
 https://archive.org/download/mentiras-verdaderas-1/Hay%20alguien%20en%20tu%20casa~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Jack%20El%20Destripador%20La%20Historia%20no%20Contada.jpg" group-title="VOD TERROR", Jack El Destripador La Historia no Contada
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Jack%20El%20Destripador%20La%20Historia%20no%20Contada.jpg",Jack El Destripador La Historia no Contada
 https://archive.org/download/mentiras-verdaderas-1/Jack%20El%20Destripador%20La%20Historia%20no%20Contada~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20mansi%C3%B3.jpg" group-title="VOD TERROR", La mansió
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20mansi%C3%B3.jpg",La mansió
 https://archive.org/download/mentiras-verdaderas-1/La%20mansi%C3%B3n~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Madres.jpg" group-title="VOD TERROR", Madres
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Madres.jpg",Madres
 https://archive.org/download/mentiras-verdaderas-1/Madres~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie.jpg" group-title="VOD TERROR", Pesadilla en el Hotel Normandie
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie.jpg",Pesadilla en el Hotel Normandie
 https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Vuelven.jpg" group-title="VOD TERROR", Vuelven
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Vuelven.jpg",Vuelven
 https://archive.org/download/mentiras-verdaderas-1/Vuelven~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/8954768954.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/8954768954.jpg" group-title="VOD TERROR", El exorcista del papa (2023)
-https://archive.org/download/1-90_20230724/8954768954.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.jpg" group-title="VOD TERROR", La Nueva Noche De Los Muertos Vivientes
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.jpg",La Nueva Noche De Los Muertos Vivientes
 https://ia902302.us.archive.org/29/items/94-1_20210929/-%20La%20Nueva%20Noche%20De%20Los%20Muertos%20Vivientes.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Old_Ways-698410071-large.jpg" tvg-logo-small="https://pics.filmaffinity.com/The_Old_Ways-698410071-large.jpg" group-title="VOD TERROR", Las formas antiguas
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/The_Old_Ways-698410071-large.jpg",Las formas antiguas
 https://ia902302.us.archive.org/29/items/94-1_20210929/%40cesser16%20Las%20formas%20antiguas%20%282020%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.jpg" group-title="VOD TERROR", Amityville El despertar
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.jpg",Amityville El despertar
 https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.ia.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20II%20La%20Posesi%C3%B3n.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20II%20La%20Posesi%C3%B3n.jpg" group-title="VOD TERROR", Amityville II La Posesión
-https://ia902302.us.archive.org/29/items/94-1_20210929/Amityville%20El%20despertar.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Culpable.jpg" group-title="VOD THIRILLER", Culpable
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Culpable.jpg",Culpable
 https://archive.org/download/mentiras-verdaderas-1/Culpable~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.jpg" group-title="VOD THIRILLER", 200 Degrees
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/200%20Degrees.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.jpg" group-title="VOD THIRILLER", 60 Segundos  Gone in 60 Seconds 2000 Latino
-https://archive.org/download/2-comando-commando-1985/60%20Segundos%20-%20Gone%20in%2060%20Seconds%20%282000%29%20Latino.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD THIRILLER", AK vs AK (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY268_CR1,0,182,268_AL_.jpg",AK vs AK (2020)
 https://archive.org/download/i-hate-summer-2020/AK%20vs%20AK%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Al_acecho-132033556-large.jpg" group-title="VOD THIRILLER", Al acecho (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Al_acecho-132033556-large.jpg",Al acecho (2020)
 https://archive.org/download/i-hate-summer-2020/Al%20acecho%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20muerte.jpg" group-title="VOD THIRILLER", Aquellos que desean mi muerte
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20muerte.jpg",Aquellos que desean mi muerte
 https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20muerte.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Aversi_n-211916385-large.jpg" group-title="VOD THIRILLER", Aversio´n (2019)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Aversi_n-211916385-large.jpg",Aversio´n (2019)
 https://archive.org/download/i-hate-summer-2020/Aversio%CC%81n%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.jpg" group-title="VOD THIRILLER", Bajos instintos
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.jpg",Bajos instintos
 https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/Bodyguard.jpg" group-title="VOD THIRILLER", Bodyguard
-https://archive.org/download/yummy_202105/Bodyguard.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Broken%20Star.jpg" group-title="VOD THIRILLER", Broken Star
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Broken%20Star.jpg",Broken Star
 https://archive.org/download/94-1_20210929/Broken%20Star~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Bronx-237628557-large.jpg" group-title="VOD THIRILLER", Bronx (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Bronx%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Captive.jpg" group-title="VOD THIRILLER", Captive
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Captive.jpg",Captive
 https://archive.org/download/2-comando-commando-1985/Captive.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.jpg" group-title="VOD THIRILLER", Casas de cristal
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.jpg",Casas de cristal
 https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.mp4
-#EXTINF: -1 tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F005%2F961%2Fcaza-al-asesino-1.jpg&nuevoancho=690&medio=abc" group-title="VOD THIRILLER", Caza al asesino (2013)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F005%2F961%2Fcaza-al-asesino-1.jpg&nuevoancho=690&medio=abc",Caza al asesino (2013)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Caza%20al%20asesino%20%282013%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Ciudad%20de%20mentiras.jpg" group-title="VOD THIRILLER", Ciudad de mentiras
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Ciudad%20de%20mentiras.jpg",Ciudad de mentiras
 https://archive.org/download/94-1_20210929/Ciudad%20de%20mentiras~1.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.jpg" group-title="VOD THIRILLER", Codigo enigma
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.jpg",Codigo enigma
 https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJlOTQxNjUtMDIxNC00ODI5LWE2ZmUtYzViZDY2Y2VjY2ExXkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_.jpg" group-title="VOD THIRILLER", Copper Bill (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJlOTQxNjUtMDIxNC00ODI5LWE2ZmUtYzViZDY2Y2VjY2ExXkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_.jpg",Copper Bill (2020)
 https://archive.org/download/the-immortal-wars-resurgence-2019/Copper%20Bill%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Crisis.jpg" group-title="VOD THIRILLER", Crisis (2021)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Crisis.jpg",Crisis (2021)
 https://archive.org/download/94-1_20210929/%40cesser16%20Crisis%20%282021%29%201080p~1.mp4
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/910mNotUgIL._SY445_.jpg" group-title="VOD THIRILLER", Dark Places (2015)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/910mNotUgIL._SY445_.jpg",Dark Places (2015)
 https://archive.org/download/wendy-2020_202012/Dark%20Places%20%282015%29.mp4
-#EXTINF: -1 tvg-logo="https://w0.peakpx.com/wallpaper/645/957/HD-wallpaper-death-note-ryuk-anime-death-note-entretenimiento-infantil-juegos-series-shinigami.jpg" group-title="VOD THIRILLER", Death Note (2017) 720p
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://w0.peakpx.com/wallpaper/645/957/HD-wallpaper-death-note-ryuk-anime-death-note-entretenimiento-infantil-juegos-series-shinigami.jpg",Death Note (2017) 720p
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Death%20Note%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Ranch.jpg" group-title="VOD THIRILLER", Death Ranch
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Ranch.jpg",Death Ranch
 https://archive.org/download/2-comando-commando-1985/Death%20Ranch.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.jpg" group-title="VOD THIRILLER", Death Saved My Life
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.jpg",Death Saved My Life
 https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.jpg" group-title="VOD THIRILLER", Despierta la furia
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.jpg",Despierta la furia
 https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/original//rrX1ojdd068aHlrGq5Khd92a3ba.jpg" group-title="VOD THIRILLER", Domino (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Domino%20%282019%29.mp4
-#EXTINF: -1 tvg-name="https://archive.org/download/yummy_202105/El%20asesino%20de%20las%20postales.mp4" tvg-logo="https://archive.org/download/yummy_202105/El%20asesino%20de%20las%20postales.jpg" group-title="VOD THIRILLER", El asesino de las postales
-https://archive.org/download/yummy_202105/Bodyguard.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_asesino_del_nudo-444826921-large.jpg" group-title="VOD THIRILLER", El asesino del nudo (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20asesino%20del%20nudo%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/El%20escape.jpg" group-title="VOD THIRILLER", El escape
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/El%20escape.jpg",El escape
 https://archive.org/download/94-1_20210929/El%20escape.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_final_de_la_verdad-978228470-large.jpg" group-title="VOD THIRILLER", El final de la verdad (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20final%20de%20la%20verdad%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F055%2F894%2Fel-hombre-del-laberinto-1.jpg&nuevoancho=690&medio=abc" group-title="VOD THIRILLER", El hombre del laberinto (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20hombre%20del%20laberinto%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg" group-title="VOD THIRILLER", El juego de Gerald (2017) 720p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg",El juego de Gerald (2017) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_lado_siniestro_de_la_luna-990874996-large.jpg" group-title="VOD THIRILLER", El lado siniestro de la Luna (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20lado%20siniestro%20de%20la%20Luna%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/El_ocupante-121902967-large.jpg" group-title="VOD THIRILLER", El ocupante (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/El%20ocupante%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg" group-title="VOD THIRILLER", El protector
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg",El protector
 https://archive.org/download/2-comando-commando-1985/-%20El%20protector.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20silencio%20de%20los%20inocentes.jpg" group-title="VOD THIRILLER", El silencio de los inocentes
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20silencio%20de%20los%20inocentes.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.jpg" group-title="VOD THIRILLER", El sotano de Ma
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20s%C3%B3tano%20de%20Ma.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20umbral.jpg" group-title="VOD THIRILLER", El umbral
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20El%20umbral.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20v%C3%ADnculo.jpg" group-title="VOD THIRILLER", El vínculo
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/El%20v%C3%ADnculo.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg" group-title="VOD THIRILLER", Encuéntrame (2016) 720p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg",Encuéntrame (2016) 720p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Fracture-551335752-large.jpg" group-title="VOD THIRILLER", Fracture (2007)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Fracture%20%282007%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5OGU5YmYtZjVlYy00YmUxLTk5YWItYjRjMGVmZTI3YjM4XkEyXkFqcGdeQXVyNDM5NDkyODg@._V1_.jpg" group-title="VOD THIRILLER", Hailey Dean Mysteries A Prescription for Murder (2019)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5OGU5YmYtZjVlYy00YmUxLTk5YWItYjRjMGVmZTI3YjM4XkEyXkFqcGdeQXVyNDM5NDkyODg@._V1_.jpg",Hailey Dean Mysteries A Prescription for Murder (2019)
 https://archive.org/download/i-hate-summer-2020/Hailey%20Dean%20Mysteries%20A%20Prescription%20for%20Murder%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Herencia%20maldita.jpg" group-title="VOD THIRILLER", Herencia maldita
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Herencia%20maldita.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/La%20casa%20del%20caracol.jpg" group-title="VOD THIRILLER", La casa del caracol
-https://archive.org/download/94-1_20210929/La%20casa%20del%20caracol~1.mp4
-#EXTINF: -1 tvg-logo="https://www.elseptimoarte.net/carteles/207/la_chaqueta_de_piel_de_ciervo_83509.jpg" group-title="VOD THIRILLER", La chaqueta de piel de ciervo (2019)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://www.elseptimoarte.net/carteles/207/la_chaqueta_de_piel_de_ciervo_83509.jpg",La chaqueta de piel de ciervo (2019)
 https://archive.org/download/i-hate-summer-2020/La%20chaqueta%20de%20piel%20de%20ciervo%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20jungla%20de%20asfalto.jpg" group-title="VOD THIRILLER", La jungla de asfalto
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/La%20jungla%20de%20asfalto.mp4
-#EXTINF: -1 tvg-name="https://archive.org/download/yummy_202105/El%20asesino%20de%20las%20postales.mp4" tvg-logo="https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.jpg" group-title="VOD THIRILLER", La mujer en la ventana
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.jpg",La mujer en la ventana
 https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.jpg" group-title="VOD THIRILLER", La mujer ilegal
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.jpg",La mujer ilegal
 https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.jpg" group-title="VOD THIRILLER", La Purga Infinita
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.jpg",La Purga Infinita
 https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/La_sombra_de_los_otros-421691505-large.jpg" group-title="VOD THIRILLER", La sombra de los otros (2010)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/La_sombra_de_los_otros-421691505-large.jpg",La sombra de los otros (2010)
 https://archive.org/download/i-hate-summer-2020/La%20sombra%20de%20los%20otros%20%282010%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/19/05/17/10/40/5908071.jpg" group-title="VOD THIRILLER", La viuda (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/La%20viuda%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/Las%20Hijas%20del%20Reich%202020.jpg" group-title="VOD THIRILLER", Las Hijas del Reich 2020
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Las%20Hijas%20del%20Reich%202020.jpg",Las Hijas del Reich 2020
 https://archive.org/download/94-1_20210929/Las%20Hijas%20del%20Reich%202020.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20miserables.jpg" group-title="VOD THIRILLER", Los miserables
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20miserables.jpg",Los miserables
 https://archive.org/download/yummy_202105/-%20Los%20miserables.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ni%C3%A1gara.jpg" group-title="VOD THIRILLER", Niagara
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Ni%C3%A1gara.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/94-1_20210929/No%20respires.jpg" group-title="VOD THIRILLER", No respires
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/No%20respires.jpg",No respires
 https://archive.org/download/94-1_20210929/No%20respires~1.mp4
-#EXTINF: -1 tvg-logo="https://www.ecartelera.com/carteles/14600/14654/001_m.jpg" group-title="VOD THIRILLER", Ofrenda a la tormenta (2020)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Ofrenda%20a%20la%20tormenta%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.jpg" group-title="VOD THIRILLER", Out of Death
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.jpg",Out of Death
 https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.mp4
-#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-TSbAzwQD9lU/XMcrP36YrvI/AAAAAAAAK38/XTb6XSqVaj42ei3dw8KWMm-XVkAdrvVEQCKgBGAs/s1600/Plan%2Bde%2BVuelo%2B1080p%2BLatino.png" group-title="VOD THIRILLER", Plan de vuelo 1080p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://3.bp.blogspot.com/-TSbAzwQD9lU/XMcrP36YrvI/AAAAAAAAK38/XTb6XSqVaj42ei3dw8KWMm-XVkAdrvVEQCKgBGAs/s1600/Plan%2Bde%2BVuelo%2B1080p%2BLatino.png",Plan de vuelo 1080p.mp4
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Plan%20de%20vuelo%201080p.mp4
-#EXTINF: -1 tvg-logo="https://static1.opensubtitles.org/gfx/thumbs/4/8/3/0/0390384.jpg" group-title="VOD THIRILLER", Primer (2004)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://static1.opensubtitles.org/gfx/thumbs/4/8/3/0/0390384.jpg",Primer (2004)
 https://archive.org/download/wendy-2020_202012/Primer%20%282004%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Prisionero%2099.jpg" group-title="VOD THIRILLER", Prisionero 99
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Prisionero%2099.jpg",Prisionero 99
 https://archive.org/download/yummy_202105/-%20Prisionero%2099.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.jpg" group-title="VOD THIRILLER", Proud Mary
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Proud%20Mary.mp4
-#EXTINF: -1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/1526/1526_173x256.jpg" group-title="VOD THIRILLER", Pulp Fiction 1994
-https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempos%20violentos%201994~1.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Rocambola-814798788-large.jpg" group-title="VOD THIRILLER", Rocambola (2019)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Rocambola-814798788-large.jpg",Rocambola (2019)
 https://archive.org/download/wendy-2020_202012/Rocambola%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQ5ZmRjMTAtNjJjZS00MzQ2LWE5MGYtMjJjNjgwMzU2OWY2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg" group-title="VOD THIRILLER", Sleeping with Danger (2020)
-https://archive.org/download/wonder-woman-1984-2020_202012/Sleeping%20with%20Danger%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Soy_tu_mujer-752233198-mmed.jpg" group-title="VOD THIRILLER", Soy tu mujer (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Soy_tu_mujer-752233198-mmed.jpg",Soy tu mujer (2020)
 https://archive.org/download/i-hate-summer-2020/Soy%20tu%20mujer%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tentaciones%20oscuras.jpg" group-title="VOD THIRILLER", Tentaciones oscuras
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/-%20Tentaciones%20oscuras.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/The_Fanatic-897653290-large.jpg" group-title="VOD THIRILLER", The Fanatic (2019)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/The%20Fanatic%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/EJRzf4MU0AEiHVP.png" group-title="VOD THIRILLER", The Fanatic (2019)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pbs.twimg.com/media/EJRzf4MU0AEiHVP.png",The Fanatic (2019)
 https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Fanatic%20%282019%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.jpg" group-title="VOD THIRILLER", The Prestige 2006
-https://archive.org/download/2-comando-commando-1985/The%20Prestige%20%282006%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.jpg" group-title="VOD THIRILLER", The Wrong Cheerleader Coach
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/The%20Wrong%20Cheerleader%20Coach.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE2YTYwNGItNmVhMy00NjM3LTlhY2UtYzMxN2FmNThjZDIyXkEyXkFqcGdeQXVyNjg4OTEwNTQ@._V1_.jpg" group-title="VOD THIRILLER", The Young Cannibals
-https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20J%C3%B3venes%20can%C3%ADbales%20720p.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZWQ1NjctMTY0Ny00MGViLWFjNDQtODJmMDE1MzY0NTAzXkEyXkFqcGdeQXVyNTc0NTE3NDc@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD THIRILLER", TKG The Kids of Grove (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZWQ1NjctMTY0Ny00MGViLWFjNDQtODJmMDE1MzY0NTAzXkEyXkFqcGdeQXVyNTc0NTE3NDc@._V1_UY1200_CR85,0,630,1200_AL_.jpg",TKG The Kids of Grove (2020)
 https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/TKG%20The%20Kids%20of%20Grove%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://64.media.tumblr.com/1d0cc8421c92c7fd4da94dc6b60e476e/8e2655e827b0567c-9b/s500x750/29d84f1275ade208e6635f719ca90bb3bc814841.jpg" group-title="VOD THIRILLER", Un desliz fatal (2020)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Un%20desliz%20fatal%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Undergods.jpg" group-title="VOD THIRILLER", Undergods
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Undergods.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/Uno_de_nosotros-769765138-large.jpg" group-title="VOD THIRILLER", Uno de nosotros (2020)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Uno_de_nosotros-769765138-large.jpg",Uno de nosotros (2020)
 https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29.mp4
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/08/15/00/3542246.jpg" group-title="VOD THIRILLER", Welcome Home (2018)
-https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Welcome%20Home%20%282018%29.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Whiteout_poster.jpg" group-title="VOD THIRILLER", Whiteout (2009)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Whiteout_poster.jpg",Whiteout (2009)
 https://archive.org/download/wendy-2020_202012/Whiteout%20%282009%29.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20ma%C3%B1ana%20el%20mundo%20entero.jpg" group-title="VOD THIRILLER", Y mañana el mundo entero
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Y%20ma%C3%B1ana%20el%20mundo%20entero.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1as.jpg" group-title="VOD THIRILLER", Yo soy todas las niñas
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1as.jpg",Yo soy todas las niñas
 https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1as.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.jpg" group-title="VOD THIRILLER", Zodiaco
-https://archive.org/download/el-ejercito-de-los-muertos-2021-girohens/Zodiaco.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Forever%20Rich.jpg" group-title="VOD THIRILLER", Forever Rich
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Forever%20Rich.jpg",Forever Rich
 https://archive.org/download/mentiras-verdaderas-1/Forever%20Rich~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Herencia%20venenosa.jpg" group-title="VOD THIRILLER", Herencia venenosa
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Herencia%20venenosa.jpg",Herencia venenosa
 https://archive.org/download/mentiras-verdaderas-1/Herencia%20venenosa~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hijo%20de%20Ca%C3%ADn.jpg" group-title="VOD THIRILLER", Hijo de Caín
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hijo%20de%20Ca%C3%ADn.jpg",Hijo de Caín
 https://archive.org/download/mentiras-verdaderas-1/Hijo%20de%20Ca%C3%ADn~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/56345678689790.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/56345678689790.jpg" group-title="VOD THIRILLER", VeKings Man El origen (2021)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/1-90_20230724/56345678689790.jpg",VeKings Man El origen (2021)
 https://archive.org/download/1-90_20230724/56345678689790.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/7856675789.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/7856675789.jpg" group-title="VOD THIRILLER", Kingsman El servicio secreto (2014)
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/1-90_20230724/7856675789.jpg",Kingsman El servicio secreto (2014)
 https://archive.org/download/1-90_20230724/7856675789.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/8904785784.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/8904785784.jpg" group-title="VOD THIRILLER", La Cristura del  Desierto (2019
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/1-90_20230724/8904785784.jpg",La Cristura del  Desierto (2019
 https://archive.org/download/1-90_20230724/8904785784.mp4
-#EXTINF: -1 tvg-logo="https://archive.org/download/1-90_20230724/89789690790.jpg" tvg-logo-small="https://archive.org/download/1-90_20230724/89789690790.jpg" group-title="VOD THIRILLER", INSIDE  [ 2023 ]
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/1-90_20230724/89789690790.jpg",INSIDE  [ 2023 ]
 https://archive.org/download/1-90_20230724/89789690790.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star_thumb.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star_thumb.jpg" group-title="VOD THIRILLER", Broken Star
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star_thumb.jpg",Broken Star
 https://ia902302.us.archive.org/29/items/94-1_20210929/Broken%20Star~1.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras.jpg" group-title="VOD THIRILLER", Ciudad de mentiras
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras.jpg",Ciudad de mentiras
 https://ia902302.us.archive.org/29/items/94-1_20210929/Ciudad%20de%20mentiras~1.ia.mp4
-#EXTINF: -1 tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.jpg" tvg-logo-small="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.jpg" group-title="VOD THIRILLER", El Estornino 2021
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.jpg",El Estornino 2021
 https://ia902302.us.archive.org/29/items/94-1_20210929/El%20escape.mp4
