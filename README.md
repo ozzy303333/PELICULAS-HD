@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Ant_Man-627211491-large.jpg",blender
-https://archive.org/download/sintel-open-movie-by-blender/Sintel%20-%20Open%20Movie%20by%20Blender.mp4
+https://archive.org/download/sintel-open-movie-by-blender/Sintel%20-%20Open%20Movie%20by%20Blender~1.mp4
 #EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Ant_Man-627211491-large.jpg",ANT MAN 2015
 https://archive.org/download/rick-01x-10_202309/4nt.m4n.2015.brrip.720p.latino.mp4
 #EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://es.web.img3.acsta.net/pictures/16/03/14/17/21/324829.jpg",Capitan America Civil War
