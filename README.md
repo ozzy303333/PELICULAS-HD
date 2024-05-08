@@ -755,7 +755,9 @@ https://archive.org/download/i-hate-summer-2020/El%20regalo%20de%20Navidad%20%28
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20teniente%20otomano%20%282017%29%20720p.mp4
 #EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Emperor-190871922-large.jpg",Emperor (2020)
 https://archive.org/download/i-hate-summer-2020/Emperor%20%282020%29.mp4
-#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://lh3.googleusercontent.com/proxy/HMk4_hwqNhGaPyvV_5me5TgEdxUf_zs99exhDHLmR9OmmvBB7DINfzHilECE6aVIukGH6MuOg6UR0LHvMb9XFkmbfbgxdlop9YILomlXjETDHXyFMU55lxgblZZhfi-uKK7j=w1200-h630-p-k-no-nu",En algún lugar de la memoria (2007) 720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/95/76/52/20426917.jpg",LA VENDEDORA DE ROSAS
+https://archive.org/download/chunklist-b-5000000-1080p-aac-1/chunklist_b5000000%20%281080p_aac%29~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://lh3.googleusercontent.com/proxy/HMk4_hwqNhGaPyvV_5me5TgEdxUf_zs99exhDHLmR9OmmvBB7DINfzHilECE6aVIukGH6MuOg6UR0LHvMb9XFkmbfbgxdlop9YILomlXjETDHXyFMU55lxgblZZhfi-uKK7j=w1200-h630-p-k-no-nu",En algún lugar de la memoria (2007)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20En%20alg%C3%BAn%20lugar%20de%20la%20memoria%20%282007%29%20720p.mp4
 #EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg",Erna i krig
 https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.mp4
