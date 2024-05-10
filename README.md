@@ -97,14 +97,10 @@ https://archive.org/download/1-90_20230724/9058605860.mp4
 https://ia902302.us.archive.org/29/items/94-1_20210929/En%20Modo%20Asesino~1.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",¿Quién *&$%! son los Miller? (2013)
 http://archive.org/download/John_S-Q5LM/07.avi
-#EXTINF:-1 group-title="VOD COMEDIA",¿Y Dónde Está el Fantasma? (2013)
-http://archive.org/download/JH6C22V1/INAPRN13.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",17 otra vez 2009
 http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",3 IDIOTAS OPCION 2
 http://archive.org/download/000_20200306_202003/03.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",A dos metros de ti - Romance
-http://archive.org/download/rasecaral42_gmail_45/P/2mtu.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",A prueba de hombres 2007
 http://archive.org/download/killerscorpion_09_hotmail_1_20190202/Sub1d0_p4r4_5tr34ming_A85/1.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Abracadabra 1993 (480pHD)
@@ -115,8 +111,6 @@ http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/0c2f55d976b67c4
 http://archive.org/download/10kvr43n1454ltvr4s/10kvr4_3n_145_4ltvr4s.avi
 #EXTINF:-1 group-title="VOD COMEDIA",American Pie Presenta: Las chicas mandan 2020 (+17)
 http://archive.org/download/000_20201016/00003.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Arthur: Millonario Irresistible (2011)
-http://archive.org/download/5H59A3V4/ARTHRM11.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Austin Powers en Goldmember
 http://archive.org/download/01010_201807/01010.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Austin Powers: International Man of Mystery 1997
@@ -125,16 +119,12 @@ http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A8
 http://archive.org/download/killerscorpion_01_hotmail_2/Sub1d0_p4r4_5tr34ming_A85/1.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Barber Shop 2002
 http://archive.org/download/bahayizo1/sub1d0_p4r4_5tr34ming_A85/1.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Barbie (2023)
-http://archive.org/download/CY944F7O/BRB13023.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Beetlejuice el super fantasma 1998
 http://archive.org/download/xosuc_tempcloud_1/1.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Big mama 1
 http://archive.org/download/00000_202006/01.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Big mama 3
 http://archive.org/download/00000_202006/03.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Camino Duro: La Historia de Dewey Cox (Vers. Extendida) (2007) (Lat/Ing)
-http://archive.org/download/9XEZ25V1/LHDEDC07.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Capulina contra el santo (360p)
 http://archive.org/download/00_20201006/00012.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Capulina contra los monstruos (360p)
@@ -169,10 +159,6 @@ http://archive.org/download/000_20200117_20200117/4.mp4
 http://archive.org/download/nadbkdfhk/nadbkdfhk.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Complices
 http://archive.org/download/mdsc0mp/mdsc0mp.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Con Todos Menos Contigo (2023) (Lat/Ing)
-http://archive.org/download/5R67NLJX/CNTDMC23.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",Cortocircuito (1986)
-http://archive.org/download/9Q7561N3/CORCIR86.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Cortocircuito 2 (1988)
 http://archive.org/download/000_20200129_20200129_0445/3.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",De caza con papa 2018
@@ -185,20 +171,14 @@ http://archive.org/download/npr82752_zoqqa_1_20190323_1859/subid0_p4r4_stre4m1ng
 http://archive.org/download/lucymosu80_gmail_0001/subid0_para_5tre4ming_A85/0002.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Drake y Josh Feliz Navidad 2008 (OPCION 2)
 http://archive.org/download/edisam1/Sub1d0_p4r4_5tr34ming_A85_CM/24.avi
-#EXTINF:-1 group-title="VOD COMEDIA",Drake y Josh: Feliz Navidad 2008 (Dual Audio + Sub Esp)
-http://archive.org/download/cibeha1/Sub1d0_p4r4_5tr34ming_A85_CM_2/10.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",El apartamento de joe 1998
 http://archive.org/download/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e/a.p.a.r.t.a.m.e.n.t.o.d.e.j.o.e.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",El chanfle 1 (1979) - Chespirito (360)
 http://archive.org/download/00_20201006/00023.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",El Chanfle 2 - chespirito (360p HD)
 http://archive.org/download/00_20201006/00002.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",El Grinch (2000)
-http://archive.org/download/29T8Q16K/GR1NRE00.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",El Hombre Bicentenario 1999
 http://archive.org/download/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj/tsvdywhxyshxhshdbxyspdjcyvtxskchzkskylfjwsj.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",El Maestro Borracho (1978)
-http://archive.org/download/tragoporeso-1978/tragoporeso%21%20%281978%29.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",El paquete 2018
 http://archive.org/download/6wQiVCGFZj4jj4A/6wQiVCGFZj4jj4A.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",El profesor chiflado 1996
@@ -209,12 +189,8 @@ http://archive.org/download/zozenunole1/sub1d0_p4r4_5tr34ming_A85/2.mp4
 http://archive.org/download/000_20191209_20191209_1845/2.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",El retorno de los tomates asesinos 1988
 http://archive.org/download/gebavuta_sandcars_Udr4/subid0_para_5tre4ming_A85/t0mA.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",El Rey Leon  2019
-http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/5.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",El Santo vs las momias de guanajuato (360p)indi
 http://archive.org/download/00_20201006/00009.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Elvira: La Dama de la Oscuridad (1988)
-http://archive.org/download/3351LJVL/X6ESNKEL.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Encogi A Los Niños
 http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/d0bb307f231eaf01ab9241947c386e04-480p.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Escuela para fracasados 2018
@@ -223,8 +199,6 @@ http://archive.org/download/000_20200129_20200129_0445/4.mp4
 http://archive.org/download/John_S-MRvs60_1-2/05.avi
 #EXTINF:-1 group-title="VOD COMEDIA",EuroTrip (2004)
 http://archive.org/download/john_s-1dmpm/11.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Familia Instantanea 2018 (Dual Audio + Sub Esp)
-http://archive.org/download/juan18/Sub1d0_p4r4_5tr34ming_A85v4r1a5/17.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Fin de semana con el muerto
 http://archive.org/download/gebavuta_sandcars_Udr4/subid0_para_5tre4ming_A85/f1ns.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Friday 1995
@@ -237,40 +211,20 @@ http://archive.org/download/PjxbssjbCjsjcjdcJfjdjcb/pjxbssjb%20cjsjcjdc%20jfjdjc
 http://archive.org/download/000_20200127/1.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Guru de Bodas
 http://archive.org/download/terugi_newairmail_11/11.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Hazme el Favor (2023)
-http://archive.org/download/RK779HCT/NOHAFE23.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",Heroe de centro comercial 2 2015 (Dual Audio + Sub Esp)
-http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/2.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",Heroe de centro comercial 2009 (Dual Audio + Sub Esp)
-http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/1.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",Heroe del centro comercial 2 (opcion 2) 2015 (Dual Audio + Sub Esp)
-http://archive.org/download/vodaya2/Sub1d0_p4r4_5tr34ming_A85_V4R145_9/3.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",Inactividad Paranormal 2 (2014)
-http://archive.org/download/JH6C22V1/INAPRN14.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Infiltrados en la universidad 2
 http://archive.org/download/000_20200306_202003/01.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Irene yo y mi otro yo (2000)
 http://archive.org/download/QpkfbcfHjxxjdix/qpkfbcf%20hjxxjdix.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Jack y Jill 2003
 http://archive.org/download/T81818M8787B87L544672p/J42k%2B4n60%2B2111.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Juego de Gemelas (1998)
-http://archive.org/download/I87A13LM/JUDEGE98.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",Junior 1994
 http://archive.org/download/PskfcjdjdJffcjkdr/pskfcjdjd%20jffcjkdr.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",Kung Pow: El maestro de la kung fusión
 http://archive.org/download/jum055/Jum055.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",Kung-Fusión (2004)
-http://archive.org/download/14D91796/KGUS11A5.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",La boda de la abuela
 http://archive.org/download/000_20200122_202001/3.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",La Boda De Mi Mejor Amiga
 http://archive.org/download/20220122_20220122_0417/Watch%202ef82d5f0c5fca8b499ecc762b96b656%20mp4_%20Original.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",La Calle de la Navidad (2023)
-http://archive.org/download/U591C5VX/LCDNAV23.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",La Calle de la Navidad (2023) (360p)
-http://archive.org/download/04UT1P21/LCDNAV23L.mkv
-#EXTINF:-1 group-title="VOD COMEDIA",La Fiesta de las Salchichas (2016)
-http://archive.org/download/John_S-MRvs60_1-2/30.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",La india maria - El Coyote Emplumado (360p)
 http://archive.org/download/00_20201006/00010.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",La india maria - El miedo no anda en burro (360p)
@@ -283,8 +237,6 @@ http://archive.org/download/00_20201006/00021.mp4
 http://archive.org/download/LaMansionEmbrujadaDisney2003/La%20Mansion%20Embrujada%20Disney%202003.ogv
 #EXTINF:-1 group-title="VOD COMEDIA",La maravilla 2019
 http://archive.org/download/000_20200127_202001/1.mp4
-#EXTINF:-1 group-title="VOD COMEDIA",La Máscara (1994)
-http://archive.org/download/G7Y4L24F/LMSCRA94.mkv
 #EXTINF:-1 group-title="VOD COMEDIA",La Máscara 2 (2005)
 http://archive.org/download/d237f2823dbd840e2ded1f14e9a32c1-480p/d237f2823dbd840e2ded1f14e9a32c1-480p.mp4
 #EXTINF:-1 group-title="VOD COMEDIA",La peor semana (2018)
@@ -1507,8 +1459,6 @@ http://archive.org/download/00000_20200928/000006.mp4
 http://archive.org/download/00000_20200928/000007.mp4
 #EXTINF:-1 group-title="Ungrouped",Hombres De Negro Internacional (480P HD )
 http://archive.org/download/00000_20200928/000004.mp4
-#EXTINF:-1 group-title="Ungrouped",Hombres de negro: Internacional 2019 (480P)
-http://archive.org/download/kehe1/Sub1d0_p4r4_5tr34ming_A85_V4R1_4/5.mkv
 #EXTINF:-1 group-title="Ungrouped",Hulk 2008 (480p HD)
 http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
 #EXTINF:-1 group-title="Ungrouped",I AM MOTHER 2019(480p HD)
@@ -1517,8 +1467,6 @@ http://archive.org/download/0o2b38sn29s1/0a7wbs51b00.mp4
 http://archive.org/download/ziduyaliri_mail-register_05/05.mp4
 #EXTINF:-1 group-title="Ungrouped",In the cloud 2018 opc 2 (480p HD)
 http://archive.org/download/000_20191205_201912/4.mp4
-#EXTINF:-1 group-title="Ungrouped",Indiana Jones y el Dial del Destino (2023)
-http://archive.org/download/K4HT516J/IJHEDD23.mkv
 #EXTINF:-1 group-title="Ungrouped",Interstellar (480p HD)
 http://archive.org/download/in1_20200902/in1.mp4
 #EXTINF:-1 group-title="Ungrouped",Ip man 4 2019 (480p HD)
@@ -1539,8 +1487,6 @@ http://archive.org/download/000_20191216/5.mp4
 http://archive.org/download/000_20191225/5.mp4
 #EXTINF:-1 group-title="Ungrouped",John Wick 3 2019 (480p)
 http://archive.org/download/000_20191225/1.mp4
-#EXTINF:-1 group-title="Ungrouped",John Wick 4 (2023)
-http://archive.org/download/NX0F33EZ/JWCP4023.mkv
 #EXTINF:-1 group-title="Ungrouped",Joker 2019 (480p HD)
 http://archive.org/download/000_20191221/3.mp4
 #EXTINF:-1 group-title="Ungrouped",Juego letal (480p HD)
@@ -1563,16 +1509,12 @@ http://archive.org/download/69_20201012/sub1d0_p4r4_5tr34ming_A85/69.mp4
 http://tinyurl.com/2upbc39s
 #EXTINF:-1 group-title="Ungrouped",Kill Bill: Volumen 2 (2004)
 http://tinyurl.com/2v6zkhfp
-#EXTINF:-1 group-title="Ungrouped",La Emboscada (1999) (Trial Audio)
-http://archive.org/download/John_S-5L-V_3X7/27.mkv
 #EXTINF:-1 group-title="Ungrouped",La estafa maestra 2003 - (480p HD)
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/8.avi
 #EXTINF:-1 group-title="Ungrouped",La Gran Estafa - (480p HD)
 http://archive.org/download/hoyivuc_mailprotech_1_201902/1.mp4
 #EXTINF:-1 group-title="Ungrouped",La jungla un buen dia para morir 2013 (480p HD)
 http://archive.org/download/5_20191128_201911/8.mp4
-#EXTINF:-1 group-title="Ungrouped",La Mujer Rey (2022)
-http://archive.org/download/14D91796/LMRL2022.mkv
 #EXTINF:-1 group-title="Ungrouped",La Roca 1996 (Accion)
 http://archive.org/download/20230409_20230409_1421/L.4%20R.0.c.4%20%281996%29.mp4
 #EXTINF:-1 group-title="Ungrouped",La trampa de la araña 2019 (480p HD)
@@ -1581,14 +1523,6 @@ http://archive.org/download/000_20200304_20200304_2245/03.mp4
 http://archive.org/download/1_20191127_20191127_1730/11.mp4
 #EXTINF:-1 group-title="Ungrouped",Looper 2016 (480p HD)
 http://archive.org/download/2_20191128_20191128_1720/15.mp4
-#EXTINF:-1 group-title="Ungrouped",Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023)
-http://archive.org/download/I60JQ293/KNOFTZ23.mkv
-#EXTINF:-1 group-title="Ungrouped",Los Caballeros del Zodiaco: Saint Seiya - El inicio (2023) (360p)
-http://archive.org/download/YD4EL83E/KNOFTZ23L.mkv
-#EXTINF:-1 group-title="Ungrouped",Los Indestructibles 4 (2023)
-http://archive.org/download/V67Q9VIN/LINST423.mkv
-#EXTINF:-1 group-title="Ungrouped",Los Indestructibles 4 (2023) (360p)
-http://archive.org/download/V67Q9VIN/LINST423L.mkv
 #EXTINF:-1 group-title="Ungrouped",Los juegos del hambre - Sinsajo - Parte 2 (480p HD)
 http://archive.org/download/7H3.HU7/7H3.HUN639.64M35.M0CKIN6J4Y.P497.2-ES-360.mp4
 #EXTINF:-1 group-title="Ungrouped",los violentos de kelly 1970 (DVD-RIP)
@@ -1607,26 +1541,12 @@ http://archive.org/download/5_20191128_201911/5.mp4
 http://archive.org/download/000_20200321_20200321/02.mp4
 #EXTINF:-1 group-title="Ungrouped",Maquinas mortales (480p HD)
 http://archive.org/download/000_20191203/3.mp4
-#EXTINF:-1 group-title="Ungrouped",Maquinas Mortales. 2018 (Dual Audio+Sub) (480p HD)
-http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/2.mkv
 #EXTINF:-1 group-title="Ungrouped",Matar o morir ( CALIDAD HD )
 http://archive.org/download/000_20191202_20191202/2.mp4
-#EXTINF:-1 group-title="Ungrouped",Maze Runner 2014 (HD)
-http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/5.mkv
-#EXTINF:-1 group-title="Ungrouped",Maze Runner: La cura mortal 2018 HD
-http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/7.mkv
-#EXTINF:-1 group-title="Ungrouped",Maze Runner: Prueba de fuego 2015 (HD)
-http://archive.org/download/xativesatu1/Sub1d0_p4r4_5tr34ming_A85_V4r145_61/6.mkv
-#EXTINF:-1 group-title="Ungrouped",Megalodón (2018)
-http://archive.org/download/X4564Z9Z/MGLDN118.mkv
-#EXTINF:-1 group-title="Ungrouped",Megalodón 2: El Gran Abismo (2023)
-http://archive.org/download/CY944F7O/MGLDN223.mkv
 #EXTINF:-1 group-title="Ungrouped",Messi la Pelicula (Futbol)
 http://archive.org/download/tt-3538766-1/tt3538766%20%281%29.mp4
 #EXTINF:-1 group-title="Ungrouped",Misión de Rescate (2020)
 http://archive.org/download/mision-rescate-2020-720-latino-1/Mision%20rescate%202020%20720%20latino~1.ia.mp4
-#EXTINF:-1 group-title="Ungrouped",Misión de Rescate 2 (2023)
-http://archive.org/download/6D6H86WL/MIDRE223.mkv
 #EXTINF:-1 group-title="Ungrouped",Mision Imposible 2 (2000)
 http://archive.org/download/2-2000/Mision%20Imposible%202%202000.mp4
 #EXTINF:-1 group-title="Ungrouped",Mision Imposible 3 (2006)
@@ -1635,8 +1555,6 @@ http://archive.org/download/3-2006_202208/Mision%20Imposible%203%202006.mp4
 http://archive.org/download/2011_20220816/Mision%20Imposible%20Protocolo%20Fantasma%202011.mp4
 #EXTINF:-1 group-title="Ungrouped",Misión imposible repercusión (2018)
 http://archive.org/download/2018_20220816/Misi%C3%B3n%20Imposible%20Repercusi%C3%B3n%202018.mp4
-#EXTINF:-1 group-title="Ungrouped",Misión: Imposible - Sentencia Mortal - Parte 1 (2023)
-http://archive.org/download/T72Q124E/TMISP123.mkv
 #EXTINF:-1 group-title="Ungrouped",Mortal Kombat uno (DVD-RIP)
 http://archive.org/download/m1995/m1995.mp4
 #EXTINF:-1 group-title="Ungrouped",Mulan 2020 ESTRENO (480p HD)
@@ -1649,30 +1567,14 @@ http://archive.org/download/000_20201026/00007.mp4
 http://archive.org/download/operacion-trueno-1995-jackie-chan/Operacin%20Trueno%201995%20Jackie%20Chan%20.mp4
 #EXTINF:-1 group-title="Ungrouped",Ovni no estamos solos (480p HD)
 http://archive.org/download/000_20191205_201912/2.mp4
-#EXTINF:-1 group-title="Ungrouped",Pantera Negra: Wakanda Por Siempre (2022)
-http://archive.org/download/566YFD7U/PNWKFO22.mkv
 #EXTINF:-1 group-title="Ungrouped",Parker 2013 (Accion)
 http://archive.org/download/20230415_20230415_1419/P.4.r.k3r%202013.mp4
-#EXTINF:-1 group-title="Ungrouped",Pearl Harbor (2001)
-http://archive.org/download/3Y3DDZ2Q/PEAHRB01.mkv
-#EXTINF:-1 group-title="Ungrouped",Plan de Escape 2: Hades 2018HD
-http://archive.org/download/ayojahuviw2/Sub1d0_p4r4_5tr34ming_A85_v4r145_13/4.mkv
-#EXTINF:-1 group-title="Ungrouped",Plan de escape 3: El rescate. 2019 (Dual Audio+Sub)HD
-http://archive.org/download/ayojahuviw2/Sub1d0_p4r4_5tr34ming_A85_v4r145_13/5.mkv
-#EXTINF:-1 group-title="Ungrouped",Poder sin limites 2012 (Dual Audio + Sub)(480P HD)
-http://archive.org/download/juan18/Sub1d0_p4r4_5tr34ming_A85v4r1a5/11.mkv
 #EXTINF:-1 group-title="Ungrouped",Pompeya
 http://archive.org/download/jum065/Jum065.mp4
 #EXTINF:-1 group-title="Ungrouped",Por unos dolares mas (DVD-RIP)
 http://archive.org/download/por-unos-dolares-mas/Por%20Unos%20Dolares%20Mas.mp4
 #EXTINF:-1 group-title="Ungrouped",Por unos dolares mas 2 (DVD-RIP)
 http://archive.org/download/00000_202009/00000004.mp4
-#EXTINF:-1 group-title="Ungrouped",Prey (2022) (Dual Audio)
-http://archive.org/download/John_S-MRvs60_1-2/18.mkv
-#EXTINF:-1 group-title="Ungrouped",Primal. 2019 (Dual Audio+Sub)HD
-http://archive.org/download/mafaki1/Sub1d0_p4r4_5tr34ming_A85_v4r8/5.mkv
-#EXTINF:-1 group-title="Ungrouped",Proyecto Géminis 2019 (Dual Audio Sub)(HD)
-http://archive.org/download/pedoxor2/Sub1d0_p4r4_5tr34ming_A85%20_v4r145_8/3.mkv
 #EXTINF:-1 group-title="Ungrouped",Proyecto Géminis 2019 (SUB) (480p HD)
 http://archive.org/download/vodaya19/Sub1d0_p4r4_5tr34ming_A85_V4R145_91/5.mp4
 #EXTINF:-1 group-title="Ungrouped",Proyecto power 2020 (480p HD)
@@ -1687,26 +1589,6 @@ http://archive.org/download/54_20200929/sub1d0_p4r4_5tr34ming_A85/54.mp4
 http://archive.org/download/jum057/Jum057.mp4
 #EXTINF:-1 group-title="Ungrouped",Rambo last blood (480p HD)
 http://archive.org/download/0000_20200103/1.mp4
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 1 2001
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/1.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 2 2003
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/2.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 3 Reto Tokyo 2006
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/3.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 4 2009
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/4.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 5 5in Control 2011
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/5.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 6 2013
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/6.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 7 2015
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/7.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos 8 2017
-http://archive.org/download/nujupezus7/Sub1d0_p4r4_5tr34ming_A85_v4r145_8/8.mkv
-#EXTINF:-1 group-title="Ungrouped",Rápidos y Furiosos X (2023)
-http://archive.org/download/1XD112HB/RAPYFX23.mkv
-#EXTINF:-1 group-title="Ungrouped",Rapidos y Furiosos: Hobbs & Shaw 2019
-http://archive.org/download/yofasih1/Sub1d0_p4r4_5tr34ming_A85_A2/4.mkv
 #EXTINF:-1 group-title="Ungrouped",Rascacielos (DVD-RIP)
 http://archive.org/download/ElRascacielos/Rascacielos.mp4
 #EXTINF:-1 group-title="Ungrouped",Rendel 2017 (480p HD)
@@ -1721,8 +1603,6 @@ http://archive.org/download/000_20200524/03.mp4
 http://archive.org/download/01_20200320_20200320_2010/Sub_p4ara_Str34m_AB8/01.mp4
 #EXTINF:-1 group-title="Ungrouped",Robocop 1987 (DVD-RIP)
 http://archive.org/download/meyize_hurify1_R0b/r0b.mp4
-#EXTINF:-1 group-title="Ungrouped",RoboCop 2014 (Dual Audio+Sub) (480p HD)
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/9.mkv
 #EXTINF:-1 group-title="Ungrouped",Rocky  V 1990 (DVD-RIP
 http://archive.org/download/01_20200905_20200905_1538/sub1d0_p4r4_5tr34ming_A85/05.mp4
 #EXTINF:-1 group-title="Ungrouped",Rocky I 1976 (DVD-RIP)
@@ -1747,12 +1627,8 @@ http://archive.org/download/20230415_20230415_1412/L.0.s%20s.1.3t3%20p3c4d0s%20c
 http://archive.org/download/ttjum044/ttjum044.mp4
 #EXTINF:-1 group-title="Ungrouped",Shark 2017 ( 480p HD)
 http://archive.org/download/000_20200106/4.mp4
-#EXTINF:-1 group-title="Ungrouped",Shazam
-http://archive.org/download/butih1/Sub1d0_p4r4_5tr34ming_A85_v4r145_11/11.mkv
 #EXTINF:-1 group-title="Ungrouped",Sin Escape 2013 (Accion)
 http://archive.org/download/20230415_20230415_1450/S.1.n%203.sc4p3%202013.mp4
-#EXTINF:-1 group-title="Ungrouped",Sin Novedad en el Frente (2022)
-http://archive.org/download/AHA06T45/9Z7O91X2.mkv
 #EXTINF:-1 group-title="Ungrouped",Spencer confidencial (480p HD)
 http://archive.org/download/00000_20200410_2219/06.mp4
 #EXTINF:-1 group-title="Ungrouped",Spider-Man 1 (480p HD)
@@ -1769,10 +1645,6 @@ http://archive.org/download/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombr
 http://archive.org/download/00000_20200930/000007.mp4
 #EXTINF:-1 group-title="Ungrouped",Spider-Man: Homecoming 2017 opc2 (480P HD)
 http://archive.org/download/4505f-4b-1dbaccd-4524e-0344a-74b-8cc-59-480p/4505f4b1dbaccd4524e0344a74b8cc59-480p.mp4
-#EXTINF:-1 group-title="Ungrouped",Spider-Man: Lejos de Casa 2019 (Dual Audio+Sub) (480P)
-http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/10.mkv
-#EXTINF:-1 group-title="Ungrouped",Spider-Man: Sin Camino a Casa (2022 - Versión Extendida)
-http://archive.org/download/WAAC909V/SPMNWHX21.mkv
 #EXTINF:-1 group-title="Ungrouped",STRAIGHT OUTTA COMPTOM (480p HD)
 http://archive.org/download/sst_20200905/sst.mp4
 #EXTINF:-1 group-title="Ungrouped",Street Fighter La Leyenda 2009 (Accion)
@@ -1787,14 +1659,10 @@ http://archive.org/download/1987_20220816/Superman%204%20En%20Busca%20De%20La%20
 http://archive.org/download/2006_20220816/Superman%20Regresa%202006.mp4
 #EXTINF:-1 group-title="Ungrouped",Taxi driver (480p HD)
 http://archive.org/download/130683/130683.mp4
-#EXTINF:-1 group-title="Ungrouped",Taxi: Derrape total 2004 (Dual Audio+Sub)(480P HD)
-http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/9.mkv
 #EXTINF:-1 group-title="Ungrouped",Terminator Dark fate 2019 opC 2(480p HD)
 http://archive.org/download/46_20200923/sub1d0_p4r4_5tr34ming_A85/44.mp4
 #EXTINF:-1 group-title="Ungrouped",Terminator destino oscuro 2019 (480p HD)
 http://archive.org/download/000_20200117_202001/01.mp4
-#EXTINF:-1 group-title="Ungrouped",The Covenant (2023) (Sub)
-http://archive.org/download/2Q25W7ZP/TCOVNT23.mkv
 #EXTINF:-1 group-title="Ungrouped",The Punisher 2 (480p HD)
 http://archive.org/download/1_20190828_20190828_1938/atte_sd_sdsad/1.mp4
 #EXTINF:-1 group-title="Ungrouped",The warriors (480p HD)
@@ -1805,18 +1673,10 @@ http://archive.org/download/00000_20200930/000008.mp4
 http://archive.org/download/00000_20200930/000009.mp4
 #EXTINF:-1 group-title="Ungrouped",THOR RAGNAROK (480p HD)
 http://archive.org/download/000_20200225_202002/07.mp4
-#EXTINF:-1 group-title="Ungrouped",Transformers: El Despertar de las Bestias (2023)
-http://archive.org/download/93BGW8F0/TRRODB23.mkv
 #EXTINF:-1 group-title="Ungrouped",Trauma center 2019 (480p HD)
 http://archive.org/download/000_20191209/01.mp4
 #EXTINF:-1 group-title="Ungrouped",Tren Bala (2022)
 http://archive.org/download/tren-bala-1/Tren%20Bala~1.ia.mp4
-#EXTINF:-1 group-title="Ungrouped",Triple Frontera (2019)
-http://archive.org/download/O31I0EVY/TRLFRN19.mkv
-#EXTINF:-1 group-title="Ungrouped",Triple Frontera (2019) (360p)
-http://archive.org/download/54CTO6JV/TRLFRN19L.mkv
-#EXTINF:-1 group-title="Ungrouped",Trol (2022)
-http://archive.org/download/9Y62PBHN/R46I36O7.mkv
 #EXTINF:-1 group-title="Ungrouped",Tron el legado (480p HD)
 http://archive.org/download/46_20200923/sub1d0_p4r4_5tr34ming_A85/47.mp4
 #EXTINF:-1 group-title="Ungrouped",Un dia mas para morir (2021)
