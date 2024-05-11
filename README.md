@@ -1906,6 +1906,14 @@ http://ia801501.us.archive.org/29/items/000_20200317_20200317/03.mp4
 http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/12.mp4
 #EXTINF:-1 group-title="ANIMACION",Constantino - Ciudad de los demonios
 http://ia601505.us.archive.org/17/items/sagifaj_zdenka_03/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Alien Swarm. 2009 (Live Action)
+http://archive.org/download/beceno12/Sub1d0_p4r4_5tr34ming_A85_B3N_3x2/13.mp4
+#EXTINF:-1 group-title="ANIMACION",Ben 10 Alien Force: The Game
+http://archive.org/download/beceno14/Sub1d0_p4r4_5tr34ming_A85_B3N_64m35/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Ben 10 Alien Force: The Rise of Hex
+http://archive.org/download/beceno14/Sub1d0_p4r4_5tr34ming_A85_B3N_64m35/5.mp4
+#EXTINF:-1 group-title="ANIMACION",Ben 10: Alien Force: Vilgax Attacks
+http://archive.org/download/gobevok281/Sub1d0_p4r4_5tr34ming_A85_B3N_64m351/4.mp4
 #EXTINF:-1 group-title="ANIMACION",Crossover Toriko One Piece DBZ PT1 - SUB
 http://archive.org/download/mda1s8/mda1s8.mp4
 #EXTINF:-1 group-title="ANIMACION",Crossover Toriko One Piece DBZ PT2 - SUB
