@@ -1833,7 +1833,8 @@ https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
 #EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg",Muerte en Tombstone 2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
-#EXTM3U
+#EXTINF:-1 group-title="ANIMACION", tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Animal_Crossing_Fink_Heavy.png",Animal Crossing La pelicula
+https://archive.org/download/Peliculas-wii/Animal%20Crossing%20La%20pelicula.mp4
 #EXTINF:-1 group-title="ANIMACION",5 Centímetros por segundo
 http://archive.org/download/5CentimetrosPorSegundo/subid0_para_5tre4ming_A85/5%20centimetros%20por%20segundo.mp4
 #EXTINF:-1 group-title="ANIMACION",Ahi Viene El Cascarrabias
