@@ -1833,6 +1833,734 @@ https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
 #EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg",Muerte en Tombstone 2
 https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
+#EXTINF:-1 group-title="ANIMACION",¡Patos! (2023) (Lat/Ing)
+http://ia801308.us.archive.org/25/items/MK3046XS/PTSMOV23.mkv
+#EXTINF:-1 group-title="ANIMACION",¡Scooby-Doo y Krypto al Rescate! (2023)
+http://ia800501.us.archive.org/13/items/JR3LZ7C4/SDAKPT23.mkv
+#EXTINF:-1 group-title="ANIMACION",5 Centímetros por segundo
+http://ia902803.us.archive.org/8/items/5CentimetrosPorSegundo/subid0_para_5tre4ming_A85/5%20centimetros%20por%20segundo.mp4
+#EXTINF:-1 group-title="ANIMACION",Ahi Viene El Cascarrabias
+http://ia802902.us.archive.org/33/items/yevadi_jbnote_00/00.mp4
+#EXTINF:-1 group-title="ANIMACION",Akeelah y Las Letras
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Aladdin 2019
+http://ia801900.us.archive.org/35/items/00000_20200528_2157/005.mp4
+#EXTINF:-1 group-title="ANIMACION",Aladdin 2019 opc2
+http://ia801702.us.archive.org/23/items/36ab-9b-9b-0ec-326385896d-0fcc-54cde-3d-480p/36ab9b9b0ec326385896d0fcc54cde3d-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Alicia En El Pais de Las Maravillas 1951
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Angry Birds
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Angry Birds 2
+http://ia803209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/4.mp4
+#EXTINF:-1 group-title="ANIMACION",Animal Crossing (2006)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Animal%20Crossing%20La%20pelicula.mp4
+#EXTINF:-1 group-title="ANIMACION",Aviones - Pixar 2013
+http://ia802905.us.archive.org/16/items/1_20200419_20200419_2319/sub1d0_p4r4_5t3aming_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Barbie en un mundo de videojuegos
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/5.mp4
+#EXTINF:-1 group-title="ANIMACION",Barbie: Princess Adventure 2020
+http://ia803204.us.archive.org/0/items/00000_20200918/000003.mp4
+#EXTINF:-1 group-title="ANIMACION",Bat Cat (+15)
+http://ia802901.us.archive.org/5/items/sagifaj_zdenka_03/04.mp4
+#EXTINF:-1 group-title="ANIMACION",batman vs las tortugas ninja 2019
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/6.mp4
+#EXTINF:-1 group-title="ANIMACION",Batman y Superman: La Batalla de los Superhijos (2022)
+http://ia801500.us.archive.org/32/items/SE99F473/0S3R0S80.mkv
+#EXTINF:-1 group-title="ANIMACION",Bayonetta Bloody Fate
+http://ia601900.us.archive.org/9/items/1_20200429_20200429_1922/5ub1d0w11mc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Beethoven 2 La familia crece 1993
+http://ia800905.us.archive.org/18/items/mojo_alexbox_1/wiimc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Beethoven uno mas de la familia 1992
+http://ia600906.us.archive.org/27/items/pukiyic_alexbox_1/wiimc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Blame 2017
+http://ia903000.us.archive.org/15/items/ariga37/Sub1d0_p4r4_5tr34ming_A85_PA/3.mkv
+#EXTINF:-1 group-title="ANIMACION",Bob Esponja La PelIcula
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/7.mp4
+#EXTINF:-1 group-title="ANIMACION",Bob Esponja: Un heroe fuera del agua 2015
+http://ia803209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/8.mp4
+#EXTINF:-1 group-title="ANIMACION",Buscando a Dory 2016
+http://ia903209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/10.mp4
+#EXTINF:-1 group-title="ANIMACION",Buscando a Nemo 2003
+http://ia803209.us.archive.org/33/items/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/9.mp4
+#EXTINF:-1 group-title="ANIMACION",Cars 1
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Cars%201.mp4
+#EXTINF:-1 group-title="ANIMACION",Cars 3
+http://ia802505.us.archive.org/35/items/20220602123/Cars.3.mp4
+#EXTINF:-1 group-title="ANIMACION",chantecler en busca del rey sol
+http://ia902802.us.archive.org/21/items/3n8u5c4D37R3y507_201809/3n%208u5c4%20d37%20r3y%20507.mp4
+#EXTINF:-1 group-title="ANIMACION",Charlie y la fabrica de chocolate
+http://ia802905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/13.mp4
+#EXTINF:-1 group-title="ANIMACION",Cheque en blanco 1994 )
+http://ia601806.us.archive.org/34/items/00002_202101/00018.mp4
+#EXTINF:-1 group-title="ANIMACION",Chicken Litle 2005
+http://ia902905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Christopher robin Un reencuentro inolvidable 2018
+http://ia600308.us.archive.org/2/items/suwigaf_acucre_01/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Cigueñas
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Cigue%C3%B1as.mp4
+#EXTINF:-1 group-title="ANIMACION",Club de los Villanos de Mickey Mouse
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4
+#EXTINF:-1 group-title="ANIMACION",Coco Disney
+http://ia803204.us.archive.org/0/items/00000_20200918/000006.mp4
+#EXTINF:-1 group-title="ANIMACION",Como Entrenar a tu Dragon 2 2014
+http://ia802909.us.archive.org/8/items/000_20200317_20200317/002.mp4
+#EXTINF:-1 group-title="ANIMACION",Como Entrenar a tu Dragon 2010
+http://ia802909.us.archive.org/8/items/000_20200317_20200317/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Como entrenar a tu dragon 3 2019
+http://ia802909.us.archive.org/8/items/000_20200317_20200317/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Condorito La Pelicula
+http://ia802905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/12.mp4
+#EXTINF:-1 group-title="ANIMACION",Constantino - Ciudad de los demonios
+http://ia802901.us.archive.org/5/items/sagifaj_zdenka_03/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Crossover Toriko One Piece DBZ PT1 - SUB
+http://ia803108.us.archive.org/19/items/mda1s8/mda1s8.mp4
+#EXTINF:-1 group-title="ANIMACION",Crossover Toriko One Piece DBZ PT2 - SUB
+http://ia903101.us.archive.org/17/items/nmd1s9/nmd1s9.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - (Especial) El cuerpo de bomberos de Goku (DVD-RIP)
+http://ia803103.us.archive.org/10/items/nmas2/nmas2.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - (Especial) Seguridad vial (DVD-RIP)
+http://ia601008.us.archive.org/24/items/msad1/msad1.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - Aventura mística (DVD-RIP)
+http://ia903107.us.archive.org/35/items/nooos3/nooos3.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - El camino hacia el poder (DVD-RIP)
+http://ia803104.us.archive.org/27/items/smas4/smas4.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - Freezer vs el padre de Goku (Ova) (480p HD)
+http://ia601007.us.archive.org/34/items/nas1d5/nas1d5.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - Goku y sus amigos regresan (DVD-RIP)
+http://ia803109.us.archive.org/32/items/pipin1dr/pipin1dr.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - La leyenda de Shen long (DVD-RIP)
+http://ia803103.us.archive.org/4/items/mnsdf1/mnsdf1.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - La Princesa Durmiente del Castillo Embrujado (DVD-RIP)
+http://ia803100.us.archive.org/21/items/poms2/poms2.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - Los guerreros del futuro (Ova) (480p HD)
+http://ia903109.us.archive.org/7/items/men1s6mp4/men1s6mp4.mp4
+#EXTINF:-1 group-title="ANIMACION",DB - Un viaje mágico live action (DVD-RIP)
+http://ia803108.us.archive.org/18/items/mon1gh/mon1gh.mp4
+#EXTINF:-1 group-title="ANIMACION",DB GT - 100 años después (Ova)  (480p HD)
+http://ia903100.us.archive.org/3/items/nms1d4/nms1d4.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - (Especial) Goku viaja al pasado (DVD-RIP)
+http://ia801002.us.archive.org/23/items/sadm9/sadm9.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Devuélveme a mi gohan (DVD-RIP)
+http://ia601004.us.archive.org/2/items/mjasnf/mjasnf.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El ataque del dragón (DVD-RIP)
+http://ia803106.us.archive.org/1/items/nam1n3/nam1n3.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El combate final (DVD-RIP)
+http://ia803103.us.archive.org/11/items/nam1m1/nam1m1.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El episiodio de bardock (DVD-RIP)
+http://ia903101.us.archive.org/14/items/mei1s7/mei1s7.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El hombre más fuerte del mundo (DVD-RIP)
+http://ia601002.us.archive.org/13/items/smasjd2/smasjd2.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El poder invencible (DVD-RIP)
+http://ia903100.us.archive.org/0/items/nams8/nams8.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El regreso de cooler (DVD-RIP)
+http://ia803102.us.archive.org/19/items/mobd6/mobd6.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - El regreso del guerrero legendario (DVD-RIP)
+http://ia903105.us.archive.org/12/items/nam1g0/nam1g0.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Goku es un súper Saiyan (DVD-RIP)
+http://ia903100.us.archive.org/12/items/mbd4g/mbd4g.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - la batalla de los dioses (480p HD)
+http://ia802901.us.archive.org/16/items/sub1d0_p4ra_str3am1ng_A85/l4b4tall4del0sdi0s3s.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - La batalla más grande del mundo está por comenzar (DVD-RIP)
+http://ia803102.us.archive.org/23/items/mdb3g/mdb3g.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - La fusión de Goku y Vegeta (DVD-RIP)
+http://ia801006.us.archive.org/14/items/nam1s2/nam1s2.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - La galaxia corre peligro (DVD-RIP)
+http://ia903107.us.archive.org/29/items/nams9/nams9.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - La pelea de los tres saiyan (DVD-RIP)
+http://ia803105.us.archive.org/5/items/nams7/nams7.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - La resurrección de Freezer (480p HD)
+http://ia802806.us.archive.org/1/items/SUB1DO_PAR4_STR3AM1NG_A85/SUB1DO_PAR4_STR3AM1NG_A85.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Los rivales más poderosos (DVD-RIP)
+http://ia903102.us.archive.org/15/items/mobd5/mobd5.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Super Broly (Sub  opc2 (DVD-RIP)
+http://ia800903.us.archive.org/4/items/pokub_netmail-pro_Br6/br6.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Super Broly (Sub) (DVD-RIP)
+http://ia600905.us.archive.org/29/items/pokub_netmail-pro_Br7/br7.mp4
+#EXTINF:-1 group-title="ANIMACION",DBZ - Super Broly 2018 (Dual Audio+Sub)(DVD-RIP)
+http://ia903000.us.archive.org/15/items/ariga37/Sub1d0_p4r4_5tr34ming_A85_PA/2.mkv
+#EXTINF:-1 group-title="ANIMACION",DBZ - Super Broly 2018 (DVD-RIP)
+http://ia800905.us.archive.org/33/items/DB5BR0/5UB1R%20P4RA%2057R34M1NG/DB5BR0.mp4
+#EXTINF:-1 group-title="ANIMACION",DC - Deathstroke: caballeros y dragones 2020
+http://ia801702.us.archive.org/5/items/00000_202008/0001.mp4
+#EXTINF:-1 group-title="ANIMACION",DC - Superman: man of tomorrow 2020
+http://ia801702.us.archive.org/5/items/00000_202008/00014.mp4
+#EXTINF:-1 group-title="ANIMACION",DC Liga de Súpermascotas (2022)
+http://ia601406.us.archive.org/3/items/AHA06T45/9Z7O91X3.mkv
+#EXTINF:-1 group-title="ANIMACION",DC super hero girls Legends of atlantis
+http://ia802901.us.archive.org/33/items/sototo_patonce_01/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Descendientes 2 2017
+http://ia601708.us.archive.org/32/items/f018ad2a1f9b725c52ab5de67d32de7b-480p2/f018ad2a1f9b725c52ab5de67d32de7b-480p2.mp4
+#EXTINF:-1 group-title="ANIMACION",Descendientes 2015
+http://ia801708.us.archive.org/22/items/99260caa-0c-104b-672293b-4925a-29dde-6-480p/99260caa0c104b672293b4925a29dde6-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Descendientes 3 2019
+http://ia801708.us.archive.org/32/items/f018ad2a1f9b725c52ab5de67d32de7b-480p2/sjs862hkGs773jdkm00ekye3.mp4
+#EXTINF:-1 group-title="ANIMACION",Detective Pikachu 2019
+http://ia803004.us.archive.org/28/items/ivivekek1/Sub1d0_p4r4_5tr34ming_A85_D3T_P1k2/1.mkv
+#EXTINF:-1 group-title="ANIMACION",Digimon Tamers Battle of Adventurers 2001(Sub)
+http://ia601804.us.archive.org/19/items/kirby-s_hotmail_12_201905/06.mp4
+#EXTINF:-1 group-title="ANIMACION",Digimon X Evolution 2005 (Sub)
+http://ia801804.us.archive.org/19/items/kirby-s_hotmail_12_201905/12.mp4
+#EXTINF:-1 group-title="ANIMACION",Dragon Quest: Your Story 2019
+http://ia902806.us.archive.org/7/items/000_20200210_20200210_0313/10.mp4
+#EXTINF:-1 group-title="ANIMACION",El buen amigo gigante
+http://ia802905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/10.mp4
+#EXTINF:-1 group-title="ANIMACION",El Cadaver De La Novia 2015
+http://ia800900.us.archive.org/8/items/rilin_heximail_1/wiimc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",El Fantastico Sr Zorro 2009
+http://ia903105.us.archive.org/18/items/18092064327status5752751c537e4dd6a1fd54293b37e439_20191221rrrrrr/3lf4nt45t1c05r20rr0.mp4
+#EXTINF:-1 group-title="ANIMACION",El Gato con Botas
+http://ia902905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/8.mp4
+#EXTINF:-1 group-title="ANIMACION",El Gato con botas: Los 3 diablos
+http://ia902905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/9.mp4
+#EXTINF:-1 group-title="ANIMACION",El gigante de hierro 1999
+http://ia803103.us.archive.org/9/items/elgigantedehierro1999720pdual.www.seireshd.com/El%20Gigante%20de%20Hierro%20%281999%29%20720p%20Dual.Www.SeiresHD.Com.dash
+#EXTINF:-1 group-title="ANIMACION",El libro de la vida
+http://ia600904.us.archive.org/27/items/kevomisig_directmail24_0002/0002.mp4
+#EXTINF:-1 group-title="ANIMACION",El Lorax: En busca de la trufula perdida 2012
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/18.mp4
+#EXTINF:-1 group-title="ANIMACION",El Mago de Oz (1939)
+http://ia600506.us.archive.org/18/items/G7Y4L24F/ELMDOZ39.mkv
+#EXTINF:-1 group-title="ANIMACION",El pajaro loco 2017
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/14.mp4
+#EXTINF:-1 group-title="ANIMACION",El plan para erradicar a los saiyan
+http://ia803109.us.archive.org/1/items/man1ds/man1ds.mp4
+#EXTINF:-1 group-title="ANIMACION",El planeta del tesoro 2002
+http://ia903104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/10.mkv
+#EXTINF:-1 group-title="ANIMACION",El profesor Layton y la diva eterna
+http://ia800207.us.archive.org/19/items/guyusowe_voltaer_1/1.mp4
+#EXTINF:-1 group-title="ANIMACION",El Puño de la Estrella del Norte (Castellano)
+http://ia800908.us.archive.org/19/items/wujede_getcoolmail_7/sub1da_p0r_arn0ld1985/6.mp4
+#EXTINF:-1 group-title="ANIMACION",El Rey Leon 2: El Reino de Simba 1998
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/2.mp4
+#EXTINF:-1 group-title="ANIMACION",El Rey Leon 2019
+http://ia803104.us.archive.org/0/items/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/5.mkv
+#EXTINF:-1 group-title="ANIMACION",El Rey León 2019
+http://ia903101.us.archive.org/0/items/00copia_20191122/v.mp4
+#EXTINF:-1 group-title="ANIMACION",El Rey Leon 3: Hakuna Matata 2004
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/3.mp4
+#EXTINF:-1 group-title="ANIMACION",El Señor de los Anillos -ANIMACION 1978 DVD-RIP(dual audio +subtitulos)
+http://ia802902.us.archive.org/5/items/01_20200301_20200301/Sub1do_p4r4_Str34m_AB5/01.mkv
+#EXTINF:-1 group-title="ANIMACION",Elementos (2023)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Elementos.mp4
+#EXTINF:-1 group-title="ANIMACION",Emoji: La pelicula 2017
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/1.mp4
+#EXTINF:-1 group-title="ANIMACION",En este rincón del mundo
+http://ia902809.us.archive.org/30/items/34657ujfgjd/4.mp4
+#EXTINF:-1 group-title="ANIMACION",Encanto (2021)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Encanto.mp4
+#EXTINF:-1 group-title="ANIMACION",Entrenando a papa 2007
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/4.mp4
+#EXTINF:-1 group-title="ANIMACION",Epic: El reino secreto 2013
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/21.mp4
+#EXTINF:-1 group-title="ANIMACION",Escandalosos: La pelicula 2020 )
+http://ia801806.us.archive.org/34/items/00002_202101/00017.mp4
+#EXTINF:-1 group-title="ANIMACION",Espias Con Disfraz 2019
+http://ia902902.us.archive.org/18/items/000_20200301_202003/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Evangelion Death and Rebirth SUB
+http://ia800708.us.archive.org/21/items/correoicfes2016_gmail_45/evamr.mp4
+#EXTINF:-1 group-title="ANIMACION",Evangelion: The end of evangelion (Final alternativo)
+http://ia600701.us.archive.org/24/items/correoicfes2016_gmail_5/evafa.mp4
+#EXTINF:-1 group-title="ANIMACION",Extraordinario 2017
+http://ia601903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/2.mp4
+#EXTINF:-1 group-title="ANIMACION",FernGully: Las Aventuras de Zak y Crysta (1992)
+http://ia800302.us.archive.org/26/items/3B745FJV/ZAKCRY92.mkv
+#EXTINF:-1 group-title="ANIMACION",Fire works
+http://ia802807.us.archive.org/9/items/nigexe_patonce_01/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Frozen 2
+http://ia802803.us.archive.org/27/items/0_20200218_20200218/301.mp4
+#EXTINF:-1 group-title="ANIMACION",Frozen una aventura congelada 2013
+http://ia800701.us.archive.org/4/items/mubiredol_next2cloud_1_20190122/wiimc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Grandes Heroes
+http://ia801708.us.archive.org/26/items/e0be10b1b8a58ca1683b94f291114605-480p/e0be10b1b8a58ca1683b94f291114605-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Halo the fall of reach
+http://ia802801.us.archive.org/8/items/sototo_patonce_03/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Heavelyn sword
+http://ia802900.us.archive.org/0/items/yevadi_jbnote_03/03.mp4
+#EXTINF:-1 group-title="ANIMACION",Hey Arnold - La pelicula 2002
+http://ia902800.us.archive.org/19/items/tuvinuv_poly-swarm_Ham/ham.mp4
+#EXTINF:-1 group-title="ANIMACION",Hey Arnold La pelicula op2
+http://ia902905.us.archive.org/16/items/1_20200419_20200419_2319/sub1d0_p4r4_5t3aming_A85/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Home: No hay lugar como el hogar 2015
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/17.mp4
+#EXTINF:-1 group-title="ANIMACION",Hotel Transylvania 3
+http://ia902901.us.archive.org/34/items/yawo_cre3465nisa_14/sub1d0_p0r_arn0ld1985/14.mp4
+#EXTINF:-1 group-title="ANIMACION",Hulk-where-monsters-dwell
+http://ia801004.us.archive.org/13/items/MusicaParaEstudiar/P3L1CUL4S/WHLWHRE-18p.mp4
+#EXTINF:-1 group-title="ANIMACION",Jorge el furioso: royal monkey 2019
+http://ia601900.us.archive.org/35/items/00000_20200528_2157/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Jovenes titanes en Acción La Pelicula 2018 Alt2
+http://ia902900.us.archive.org/27/items/sagifaj_zdenka_01/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Jóvenes Titanes en Acción vs JOvenes Titanes 2019
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/10.mp4
+#EXTINF:-1 group-title="ANIMACION",Jóvenes Titanes en Acción: La pelIcula
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/9.mp4
+#EXTINF:-1 group-title="ANIMACION",Jugando Con Fuego 2019
+http://ia902801.us.archive.org/26/items/000_20200122_202001/5.mp4
+#EXTINF:-1 group-title="ANIMACION",Justin el caballero valiente 2013
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/13.mp4
+#EXTINF:-1 group-title="ANIMACION",Katy la Oruga 1983
+http://ia803108.us.archive.org/35/items/vid20191213wa0015/K4tyl40ru94.mp4
+#EXTINF:-1 group-title="ANIMACION",KND: Los chicos del barrio: Op CERO 2006
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Kono Subarashii Sekai ni Shukufuku wo! la pelicula 2019
+http://ia801901.us.archive.org/23/items/00000_20200414_0248/07.mp4
+#EXTINF:-1 group-title="ANIMACION",Kung Fu Panda 2 2011
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/6.mp4
+#EXTINF:-1 group-title="ANIMACION",Kung Fu Panda 2008
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/5.mp4
+#EXTINF:-1 group-title="ANIMACION",Kung Fu Panda 3 2016
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/24.mp4
+#EXTINF:-1 group-title="ANIMACION",Kung Fu Panda 4 (2024)
+http://ia800301.us.archive.org/17/items/ZO3H5S4M/KFPNIV24.mkv
+#EXTINF:-1 group-title="ANIMACION",Kuroshitsuji Movie Book of the Atlantic )
+http://ia801702.us.archive.org/24/items/000_20201114/00009.mp4
+#EXTINF:-1 group-title="ANIMACION",La Chica Literaria
+http://ia800606.us.archive.org/25/items/LaChicaLiterariaCompletaHDSubEspanol/La%20Chica%20Literaria%20%28Completa%29%20HD%20Sub%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="ANIMACION",La chica que saltaba a través del tiempo Sub
+http://ia601007.us.archive.org/20/items/LaChicaQueSaltabaATravsDelTiempo_201804/toki.mp4
+#EXTINF:-1 group-title="ANIMACION",La dama y el bagabundo 1955
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/19.mp4
+#EXTINF:-1 group-title="ANIMACION",La dama y el vagabundo II - Las aventuras de Scamp 2001
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/4.mp4
+#EXTINF:-1 group-title="ANIMACION",La era de hielo 2
+http://ia803006.us.archive.org/27/items/H13L1EO200643A1K32MSND/H13L1EO200643A.mp4
+#EXTINF:-1 group-title="ANIMACION",La era de hielo 5
+http://ia601005.us.archive.org/13/items/2me2n31n3SMnqNMME23O392420/242me2nSWMESSNDEBH13L1EO392420M.mp4
+#EXTINF:-1 group-title="ANIMACION",La gran aventura de Barney
+http://ia803204.us.archive.org/0/items/00000_20200918/0000005.mp4
+#EXTINF:-1 group-title="ANIMACION",La gran aventura Lego 1
+http://ia802704.us.archive.org/24/items/Peliculas-wii/La%20gran%20aventura%20Lego%201.mp4
+#EXTINF:-1 group-title="ANIMACION",La gran aventura Lego 2 2019
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/8.mp4
+#EXTINF:-1 group-title="ANIMACION",La gran película de Piglet
+http://ia802704.us.archive.org/24/items/Peliculas-wii/La%20gran%20pelicula%20de%20Piglet.mp4
+#EXTINF:-1 group-title="ANIMACION",La historia sin fin 1984
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/26.mp4
+#EXTINF:-1 group-title="ANIMACION",La Leyenda De Klaus 2019 peli de la gran N
+http://ia802906.us.archive.org/20/items/000_20200306_20200306_0448/07.mp4
+#EXTINF:-1 group-title="ANIMACION",LA LEYENDA DEL CHARRO NEGRO
+http://ia601001.us.archive.org/27/items/e4dg1me/LLY.mp4
+#EXTINF:-1 group-title="ANIMACION",La liga de la justicia vs los fatal five
+http://ia902906.us.archive.org/20/items/000_20200306_20200306_0448/08.mp4
+#EXTINF:-1 group-title="ANIMACION",La Oveja Shaun - La pelicula
+http://ia802704.us.archive.org/24/items/Peliculas-wii/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4
+#EXTINF:-1 group-title="ANIMACION",La película de Stitch
+http://ia802704.us.archive.org/24/items/Peliculas-wii/La%20pelicula%20de%20Stitch.mp4
+#EXTINF:-1 group-title="ANIMACION",La película de Tigger
+http://ia802704.us.archive.org/24/items/Peliculas-wii/La%20pelicula%20de%20Tigger.mp4
+#EXTINF:-1 group-title="ANIMACION",La Princesa y el Sapo (2009)
+http://ia801600.us.archive.org/3/items/I87A13LM/LPYELS09.mkv
+#EXTINF:-1 group-title="ANIMACION",La Princesita 1995
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/11.mp4
+#EXTINF:-1 group-title="ANIMACION",La razon de estar contigo 2017
+http://ia601903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/1.mp4
+#EXTINF:-1 group-title="ANIMACION",La sirenita 1
+http://ia800901.us.archive.org/29/items/silonuber_mozej_0/1.mp4
+#EXTINF:-1 group-title="ANIMACION",La sirenita 2
+http://ia800901.us.archive.org/29/items/silonuber_mozej_0/2.mp4
+#EXTINF:-1 group-title="ANIMACION",La sirenita 3
+http://ia800901.us.archive.org/29/items/silonuber_mozej_0/3.mp4
+#EXTINF:-1 group-title="ANIMACION",La vida secreta de tus Mascotas 2 (2019)
+http://ia903101.us.archive.org/14/items/0_20191217_201912/M45c0t45%20D05.mp4
+#EXTINF:-1 group-title="ANIMACION",La vida secreta de tus mascotas 2016
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/21.mp4
+#EXTINF:-1 group-title="ANIMACION",Las aventuras de Sharkboy y Lavagirl 2005
+http://ia601902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/20.mp4
+#EXTINF:-1 group-title="ANIMACION",Las aventuras del Capitan Calzoncillos 2017
+http://ia802905.us.archive.org/23/items/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Las aventuras del doctor Dolittle 2020  HD480P AUDIO DVD-RIP)
+http://ia802902.us.archive.org/18/items/000_20200301_202003/02.mp4
+#EXTINF:-1 group-title="ANIMACION",Las grandes aventuras de Winnie Pooh (Redoblaje)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
+#EXTINF:-1 group-title="ANIMACION",LAS MOMIAS DE GUANAJUATO
+http://ia601001.us.archive.org/27/items/e4dg1me/LAMMM.mp4
+#EXTINF:-1 group-title="ANIMACION",LEGO Batman: La Película (2017)
+http://ia800507.us.archive.org/34/items/Y7H127R5/LEBALP17.mkv
+#EXTINF:-1 group-title="ANIMACION",LEGO Disney Princesas: Aventura en el Castillo (2023)
+http://ia800506.us.archive.org/18/items/G7Y4L24F/LDPAEC23.mkv
+#EXTINF:-1 group-title="ANIMACION",LEGO Marvel Avengers: Código Rojo (2023)
+http://ia801805.us.archive.org/3/items/JH6C22V1/LGMADD23.mkv
+#EXTINF:-1 group-title="ANIMACION",LEGO Marvel Avengers: Código Rojo (2023) (360p)
+http://ia601205.us.archive.org/16/items/YD4EL83E/LGMADD23L.mkv
+#EXTINF:-1 group-title="ANIMACION",Leroy y Stitch
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Leroy%20y%20Stitch.mp4
+#EXTINF:-1 group-title="ANIMACION",Liga de la Justicia Oscura: Apokolips War
+http://ia601901.us.archive.org/15/items/0_20200507/001.mp4
+#EXTINF:-1 group-title="ANIMACION",Liga de la justicia: Crisis en las dos tierras
+http://ia903109.us.archive.org/9/items/LigaDeLaJusticiaCrisisEn2tierras/Liga%20de%20la%20justicia_crisis%20en%202tierras.mp4
+#EXTINF:-1 group-title="ANIMACION",Lilo y Stitch 2
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Lilo%20y%20Stitch%202.mp4
+#EXTINF:-1 group-title="ANIMACION",Linterna Verde: Caballeros Esmeralda
+http://ia902802.us.archive.org/35/items/meyize_hurify1_F1n/l1n.mp4
+#EXTINF:-1 group-title="ANIMACION",Los aristogatos 1970
+http://ia903109.us.archive.org/17/items/Losatos/Losatos.mp4
+#EXTINF:-1 group-title="ANIMACION",Los caballeros del zodiaco (alma de oro)
+http://ia802800.us.archive.org/4/items/sototo_patonce_00/00.mp4
+#EXTINF:-1 group-title="ANIMACION",Los caballeros del zodiaco abertura del cielo
+http://ia802907.us.archive.org/21/items/00_20200423/05.mp4
+#EXTINF:-1 group-title="ANIMACION",Los caballeros del zodiaco La Leyenda de los jóvenes carmesí 1988
+http://ia600906.us.archive.org/26/items/killerscorpion_09_hotmail_1_201902/Sub1d0_p4r4_5tr34ming_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",los héroes unidos 2020 )
+http://ia601806.us.archive.org/34/items/00002_202101/00016.mp4
+#EXTINF:-1 group-title="ANIMACION",Los Increibles 2004
+http://ia803106.us.archive.org/23/items/2_20191116_201911/4RTUR0_4P0RT35/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Los Locos Addams (2019)
+http://ia803105.us.archive.org/20/items/000_20191221/4.mp4
+#EXTINF:-1 group-title="ANIMACION",Los Minions (2015)
+http://ia601707.us.archive.org/3/items/000_20201007/00017.mp4
+#EXTINF:-1 group-title="ANIMACION",Los mundos de Coraline
+http://ia800906.us.archive.org/7/items/tosey_freehotmail_01/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Luca (2021)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Luca.mp4
+#EXTINF:-1 group-title="ANIMACION",Macross la película: ¿Recuerdas el amor?
+http://ia800908.us.archive.org/19/items/wujede_getcoolmail_7/sub1da_p0r_arn0ld1985/7.mp4
+#EXTINF:-1 group-title="ANIMACION",Mamá soy un Pez 2000
+http://ia803105.us.archive.org/7/items/pasantiayofrin/M4m450yunp32.mp4
+#EXTINF:-1 group-title="ANIMACION",Marley y yo
+http://ia600807.us.archive.org/2/items/marleyyyo2008/marleyyyo2008.mp4
+#EXTINF:-1 group-title="ANIMACION",Mas Barato por Docena 2 - 2003
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/20.mp4
+#EXTINF:-1 group-title="ANIMACION",Matilda 1996
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/19.mp4
+#EXTINF:-1 group-title="ANIMACION",Mi primer gran combate 2020 -
+http://ia902909.us.archive.org/30/items/0000_20200416_202004/02.mp4
+#EXTINF:-1 group-title="ANIMACION",Mi Villano favorito 1
+http://ia903407.us.archive.org/33/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00001.mp4
+#EXTINF:-1 group-title="ANIMACION",Mi Villano favorito 2
+http://ia803407.us.archive.org/33/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00002.mp4
+#EXTINF:-1 group-title="ANIMACION",Mi Villano favorito 3
+http://ia803407.us.archive.org/33/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00003.mp4
+#EXTINF:-1 group-title="ANIMACION",Mickey Donald y Goofy - Los tres mosqueteros
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4
+#EXTINF:-1 group-title="ANIMACION",Mickey Salva la Navidad (2022)
+http://ia801504.us.archive.org/22/items/5C5V827R/MSXMAS22.mkv
+#EXTINF:-1 group-title="ANIMACION",Mickey y sus Amigos Juntos Otra Navidad
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
+#EXTINF:-1 group-title="ANIMACION",Mini espias 2: la isla de los sueños perdidos 2002
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/16.mp4
+#EXTINF:-1 group-title="ANIMACION",Mini Espias 2001
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/15.mp4
+#EXTINF:-1 group-title="ANIMACION",Mini espias 4: los ladrones del tiempo 2011
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/18.mp4
+#EXTINF:-1 group-title="ANIMACION",Moana
+http://ia601906.us.archive.org/12/items/03a-833e-6b-7c-8447b-0047eb-69cca-1afdd-480p/03a833e6b7c8447b0047eb69cca1afdd-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Monsters Inc. (2001)
+http://ia801205.us.archive.org/35/items/IQL8075M/MSTIC101.mkv
+#EXTINF:-1 group-title="ANIMACION",Monsters Inc. (2001) (360p)
+http://ia601205.us.archive.org/35/items/IQL8075M/MSTIC01L.mkv
+#EXTINF:-1 group-title="ANIMACION",Mortal Kombat legenda de scorpions 2020 (+16)
+http://ia801700.us.archive.org/16/items/00000_20200926/000012.mp4
+#EXTINF:-1 group-title="ANIMACION",Mortal Kombat legenda de scorpions SUB 2020 OPC2(+16)
+http://ia802905.us.archive.org/34/items/0000_20200416/01.mp4
+#EXTINF:-1 group-title="ANIMACION",My Hero Academia: Two Heroes (Sub)
+http://ia600902.us.archive.org/28/items/osgutierrezm_gmail_4/4.mp4
+#EXTINF:-1 group-title="ANIMACION",My Hero Academia: Two Heroes 2018
+http://ia903000.us.archive.org/15/items/ariga37/Sub1d0_p4r4_5tr34ming_A85_PA/1.mkv
+#EXTINF:-1 group-title="ANIMACION",Nacido para ser rey 2019
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/12.mp4
+#EXTINF:-1 group-title="ANIMACION",Ni No Kuni 2019 pelicula de la gran N
+http://ia802800.us.archive.org/22/items/000_20200127/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Nivel intrepido 2020
+http://ia903204.us.archive.org/0/items/00000_20200918/000004.mp4
+#EXTINF:-1 group-title="ANIMACION",Ole el viaje de Ferdinand 2017
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/13.mp4
+#EXTINF:-1 group-title="ANIMACION",One Piece - Film Gold 2016
+http://ia800902.us.archive.org/28/items/MaltratoInfantilEnLasEscuelas360p/0n3%20p13c3%20F1lm%2090ld%204ud10%20L471n0.mp4
+#EXTINF:-1 group-title="ANIMACION",One Piece Episode Of East Blue
+http://ia800906.us.archive.org/5/items/xereg_maillink_01/s7b1d0_p4r4_str34m1ng_A85/01.mp4
+#EXTINF:-1 group-title="ANIMACION",One Piece Episode of Skypiea
+http://ia800901.us.archive.org/26/items/hufidilip_freehotmail_1_20190221/s4bido_p4ra_5tr34m1ng_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",One Punch Man - Ova 1
+http://ia800905.us.archive.org/0/items/xereg_maillink_1_201902/s7b1d0_p4r4_str34m1mg_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",One Punch Man - Ova 2
+http://ia800905.us.archive.org/0/items/xereg_maillink_1_201902/s7b1d0_p4r4_str34m1mg_A85/2.mp4
+#EXTINF:-1 group-title="ANIMACION",One Punch Man - Ova 3
+http://ia800905.us.archive.org/0/items/xereg_maillink_1_201902/s7b1d0_p4r4_str34m1mg_A85/3.mp4
+#EXTINF:-1 group-title="ANIMACION",One Punch Man - Ova 5
+http://ia600905.us.archive.org/0/items/xereg_maillink_1_201902/s7b1d0_p4r4_str34m1mg_A85/5.mp4
+#EXTINF:-1 group-title="ANIMACION",One Punch Man - Ova 6
+http://ia800905.us.archive.org/0/items/xereg_maillink_1_201902/s7b1d0_p4r4_str34m1mg_A85/6.mp4
+#EXTINF:-1 group-title="ANIMACION",Parque magico 2019
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/15.mp4
+#EXTINF:-1 group-title="ANIMACION",Paw Patrol mighty pups 2019
+http://ia801900.us.archive.org/35/items/00000_20200528_2157/08.mp4
+#EXTINF:-1 group-title="ANIMACION",Playmobil la pelicula 2019
+http://ia801900.us.archive.org/35/items/00000_20200528_2157/10.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokemon Mewtwo contraataca 2019
+http://ia902902.us.archive.org/18/items/000_20200301_202003/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 1: la película
+http://ia902902.us.archive.org/27/items/p0k3m0n1_dejaderobarstephensonprieto/p0k3m0n1.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 10 : El surgimiento de Darkrai
+http://ia800702.us.archive.org/1/items/sub1d0_p4ra_str3am1ng_A85_206812/p0k3m0n10.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 11: Giratina y el guerrero celestial
+http://ia600701.us.archive.org/24/items/sub1do_p4ra_str3am1ng_A85_20181129/p0k3m0n11.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 12: Arceus y la joya de la vida
+http://ia600704.us.archive.org/18/items/sub1d0_p4ra_str3am1ng_A85_201812/sub1d0_p4ra_str3am1ng_A85/p0k3m0n12.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 13: Zoroark el maestro de ilusiones
+http://ia800704.us.archive.org/18/items/sub1d0_p4ra_str3am1ng_A85_201812/sub1d0_p4ra_str3am1ng_A85/p0k3m0n13.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 2: El poder de uno
+http://ia902901.us.archive.org/16/items/P0k3m0n2_sthepenson_sucio_ladron/P0k3m0n2.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 3: El hechizo de los Unown
+http://ia802901.us.archive.org/8/items/stephenson_ladron_cochino/p0k3m0n3.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 4: celebi la voz del bosque
+http://ia803102.us.archive.org/35/items/sub1do_p4ra_estr3am1ng_a85/p0k3m0n4.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 5: Héroes pokm Latios y Latias
+http://ia600307.us.archive.org/6/items/p0k3m0n5/Sub1do_P4ra_Str3am1ng_A85.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 6: Jirachi y los deseos
+http://ia600703.us.archive.org/31/items/sub1do_p4ra_str3am1ng_A85/p0k3m0n6.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 7: El destino de Deoxys
+http://ia903102.us.archive.org/25/items/sub1d0_p4ra_str3am1ng_a85_201810/p0k3m0n7.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 8: Lucario y el misterio de Mew
+http://ia600704.us.archive.org/23/items/sub1d0_p4ra_str3aming_a85/p0k3m0n8.mp4
+#EXTINF:-1 group-title="ANIMACION",Pokm 9: pokm Ranger y el Templo Del Mar
+http://ia800702.us.archive.org/5/items/sub1d0_p4ra_str3am1ng_A85_20181030/p0k3m0n9.mp4
+#EXTINF:-1 group-title="ANIMACION",Power Rangers: Ayer Hoy y Siempre (2023)
+http://ia802604.us.archive.org/9/items/D91V3LS6/PWRAHS23.mkv
+#EXTINF:-1 group-title="ANIMACION",Puella Magi Madoka Magica:Beginnings
+http://ia902900.us.archive.org/24/items/1_20200421_20200421_1724/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Puella Magi Madoka Magica:Eternal
+http://ia802907.us.archive.org/9/items/2_20200427_20200427_0639/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Puella Magi Madoka Magica:Rebelión
+http://ia802907.us.archive.org/34/items/1_20200412_20200412_2020/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Ralph el Demoledor (2012)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Ralph%20el%20demoledor%201.mp4
+#EXTINF:-1 group-title="ANIMACION",Ralph el Demoledor 2 (Wifi Ralph)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Ralph%20el%20demoledor%202.mp4
+#EXTINF:-1 group-title="ANIMACION",Ranma 1/2 - 1 - La Gran Aventura En Nekonron
+http://ia802800.us.archive.org/23/items/ungirungi_gmail_9/sub1d0_p0r_arn0ld1985/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Ranma 1/2 La isla de las doncellas
+http://ia802800.us.archive.org/23/items/ungirungi_gmail_9/sub1d0_p0r_arn0ld1985/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Ratchet & Clank
+http://ia902805.us.archive.org/2/items/RCLAT/R%26CLAT.mp4
+#EXTINF:-1 group-title="ANIMACION",Red (2022)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Red.mp4
+#EXTINF:-1 group-title="ANIMACION",Rio 2 2014
+http://ia601903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/4.mp4
+#EXTINF:-1 group-title="ANIMACION",Rio 2011
+http://ia601903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Robot 7723 2018
+http://ia801902.us.archive.org/8/items/ceccvas2/5ub1d0_p4ra_str3am1ng_A852/16.mp4
+#EXTINF:-1 group-title="ANIMACION",Robotech - Película resumen serie
+http://ia600908.us.archive.org/19/items/wujede_getcoolmail_7/sub1da_p0r_arn0ld1985/8.mp4
+#EXTINF:-1 group-title="ANIMACION",Rock Dog: El perro rockero 2016
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/5.mp4
+#EXTINF:-1 group-title="ANIMACION",Ron da error
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Ron%20da%20error.mp4
+#EXTINF:-1 group-title="ANIMACION",scooby doo y el fantasma gourmet AGRANDAR LA PANTALLA B+CRUZ DERECHA-
+http://ia903208.us.archive.org/12/items/00000_202006/001.mp4
+#EXTINF:-1 group-title="ANIMACION",Scooby Doo! y el monstro de la luna
+http://ia601903.us.archive.org/34/items/31954/31953/31955.mp4
+#EXTINF:-1 group-title="ANIMACION",Scooby-Doo y el abominable hombre de las nieves 2007
+http://ia801702.us.archive.org/23/items/36ab-9b-9b-0ec-326385896d-0fcc-54cde-3d-480p/ccabe8872ea3656d4535740b776ff47d-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Scooby-Doo y los Hermanos Boo
+http://ia903109.us.archive.org/26/items/SCOOBYDOO_201805/SCOOBY%20DOO.mp4
+#EXTINF:-1 group-title="ANIMACION",Scooby-Doo! El conflicto de Shaggy 2017
+http://ia601903.us.archive.org/34/items/31954/31953/31956.mp4
+#EXTINF:-1 group-title="ANIMACION",Scooby-Doo! Frankencreepy 2014
+http://ia601903.us.archive.org/34/items/31954/31953/31954.mp4
+#EXTINF:-1 group-title="ANIMACION",Shrek 1
+http://ia801708.us.archive.org/26/items/e0be10b1b8a58ca1683b94f291114605-480p/jsiuwuwu.mp4
+#EXTINF:-1 group-title="ANIMACION",Shrek 2
+http://ia801708.us.archive.org/26/items/e0be10b1b8a58ca1683b94f291114605-480p/jdjdkdkke.mp4
+#EXTINF:-1 group-title="ANIMACION",Shrek 3
+http://ia801708.us.archive.org/26/items/e0be10b1b8a58ca1683b94f291114605-480p/jdjdjje.mp4
+#EXTINF:-1 group-title="ANIMACION",Shrek 4 ever after
+http://ia801900.us.archive.org/35/items/00000_20200528_2157/004.mp4
+#EXTINF:-1 group-title="ANIMACION",Sing: Ven y Canta 2016
+http://ia601903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/6.mp4
+#EXTINF:-1 group-title="ANIMACION",Sonic 2020
+http://ia801708.us.archive.org/26/items/e0be10b1b8a58ca1683b94f291114605-480p/aac5bb82cc48fc92d6e9a485569f2b31-480p.mp4
+#EXTINF:-1 group-title="ANIMACION",Sonic 2020 (subtitulada)
+http://ia802907.us.archive.org/5/items/safon2/Sub1d0_p4r4_5tr34ming_A85_A7/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Sonic la pelicula 2020
+http://ia902909.us.archive.org/7/items/fabewey2/Sub1d0_p4r4_5tr34ming_A85_50n1c/1.mkv
+#EXTINF:-1 group-title="ANIMACION",Spider-Man: Un nuevo universo 2018
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/10.mp4
+#EXTINF:-1 group-title="ANIMACION",Spirit: el corcel indomable
+http://ia903105.us.archive.org/20/items/000_20191221/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Spy Kids 3-D: Game Over 2003
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/17.mp4
+#EXTINF:-1 group-title="ANIMACION",spycies 2020
+http://ia601900.us.archive.org/35/items/00000_20200528_2157/07.mp4
+#EXTINF:-1 group-title="ANIMACION",Street Fighter II: La película animada
+http://ia800908.us.archive.org/19/items/wujede_getcoolmail_7/sub1da_p0r_arn0ld1985/9.mp4
+#EXTINF:-1 group-title="ANIMACION",Super Mario Bros - La Película (2023)
+http://gluvu.atspace.cc/Peliculas/files/Super_Mario_Bros_Movie.m3u
+#EXTINF:-1 group-title="ANIMACION",Suzumiya Haruhi no Shoushitsu
+http://ia803100.us.archive.org/10/items/1_20191203/Subid0_p4r4_stream1ng_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Sword Art Online - Extra Edition
+http://ia803101.us.archive.org/7/items/SAOExtraEdition_201805/SAO_Extra%20Edition.mp4
+#EXTINF:-1 group-title="ANIMACION",Sword Art Online - Ordinal Scale
+http://ia803104.us.archive.org/29/items/SAOOrdinalScale/SAO%20Ordinal%20Scale.mp4
+#EXTINF:-1 group-title="ANIMACION",Tarzán (1999)
+http://ia600205.us.archive.org/29/items/37T5P6H4/PELTZN99.mkv
+#EXTINF:-1 group-title="ANIMACION",The last: naruto la pelicula 2014
+http://ia803100.us.archive.org/23/items/000_20191210/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Tinker Bell 5: Hadas y Piratas 2014
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/10.mp4
+#EXTINF:-1 group-title="ANIMACION",Tinker Bell 6 y la bestia de Nunca Jamas 2014
+http://ia801902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/12.mp4
+#EXTINF:-1 group-title="ANIMACION",Tinker Bell y el secreto de las hadas 2012
+http://ia601902.us.archive.org/14/items/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/14.mp4
+#EXTINF:-1 group-title="ANIMACION",Tortugas Ninja 2: Fuera de las sombras (2016)
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/8.mp4
+#EXTINF:-1 group-title="ANIMACION",Tortugas Ninja 2014
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/7.mp4
+#EXTINF:-1 group-title="ANIMACION",Tortugas Ninja: Caos Mutante (2023)
+http://ia601507.us.archive.org/10/items/CY944F7O/TNMJCM23.mkv
+#EXTINF:-1 group-title="ANIMACION",Toy-320.Story (cortometraje)- Vida de lampara 2020
+http://ia902806.us.archive.org/7/items/000_20200210_20200210_0313/3.mp4
+#EXTINF:-1 group-title="ANIMACION",Toy-story 1 1996
+http://ia600706.us.archive.org/2/items/xoye_2mailnext_3/wiimc/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Toy-Story 2 1999
+http://ia600706.us.archive.org/2/items/xoye_2mailnext_3/wiimc/2.mp4
+#EXTINF:-1 group-title="ANIMACION",Toy-Story 3 2010
+http://ia600706.us.archive.org/2/items/xoye_2mailnext_3/wiimc/3.mp4
+#EXTINF:-1 group-title="ANIMACION",TOY-STORY 4 2019
+http://ia803109.us.archive.org/28/items/t0y2t0r7/t0y2t0r7.mp4
+#EXTINF:-1 group-title="ANIMACION",Trolls 2
+http://ia902909.us.archive.org/30/items/0000_20200416_202004/04.mp4
+#EXTINF:-1 group-title="ANIMACION",Turbo 2013
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/9.mp4
+#EXTINF:-1 group-title="ANIMACION",Ugly dolls
+http://ia802905.us.archive.org/34/items/0000_20200416/04.mp4
+#EXTINF:-1 group-title="ANIMACION",Un Jefe en Pañales
+http://ia803109.us.archive.org/28/items/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
+#EXTINF:-1 group-title="ANIMACION",Un Jefe en Pañales 2: Negocios de Familia (2021)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-%20Negocios%20de%20Familia.mp4
+#EXTINF:-1 group-title="ANIMACION",Unidos 2020
+http://ia802909.us.archive.org/16/items/0_20200402/01.mp4
+#EXTINF:-1 group-title="ANIMACION",Unidos 2020
+http://ia803205.us.archive.org/11/items/1_20200610_20200610_0710/sub1d0_p4r4_5tr34ming_a85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Up 2009
+http://ia802800.us.archive.org/20/items/sototo_patonce_05/05.mp4
+#EXTINF:-1 group-title="ANIMACION",WALL-E
+http://ia802509.us.archive.org/30/items/ttjum046/ttjum046.mp4
+#EXTINF:-1 group-title="ANIMACION",Winnie Pooh - Una primavera con Rito
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4
+#EXTINF:-1 group-title="ANIMACION",Winnie Pooh (2011)
+http://ia802704.us.archive.org/24/items/Peliculas-wii/Winnie%20Pooh%20%282011%29.mp4
+#EXTINF:-1 group-title="ANIMACION",Wish: El Poder de los Deseos (2023)
+http://ia800700.us.archive.org/25/items/KH8XL05B/WHEPDD23.mkv
+#EXTINF:-1 group-title="ANIMACION",Your name (Latino 2)
+http://ia800701.us.archive.org/31/items/nigexe_patonce_02/02.mp4
+#EXTINF:-1 group-title="ANIMACION",Your Name (Latino)
+http://ia800906.us.archive.org/27/items/Youhdhsbsme_201902/your%20name.mp4
+#EXTINF:-1 group-title="ANIMACION",Your Name (Sub 2)
+http://ia801006.us.archive.org/13/items/kimi-no-na-wa-sub-espanol/kimi-no-na-wa-sub-espanol.mp4
+#EXTINF:-1 group-title="ANIMACION",Yu-Gi-Oh! El lado oscuro de las dimensiones (SUB)
+http://ia600907.us.archive.org/12/items/hufidilip_freehotmail_1_20190219/s4b4d0_p4r4_str3am1ng_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Yu-Gi-Oh! La piramide de la luz (Lat)
+http://ia800903.us.archive.org/27/items/hufidilip_freehotmail_1_201902/sylvido_p4r4_str4ming_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Yu-Gi-Oh! Lazos Más Allá Del Tiempo (Lat)
+http://ia800905.us.archive.org/17/items/xereg_maillink_1_20190215/syv1do_p4ra_str34m1ng_A85/1.mp4
+#EXTINF:-1 group-title="ANIMACION",Zathura: Una aventura espacial 2005
+http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/11.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Alberto (2021)
+http://archive.org/download/13513151/Ciao%20Alberto%20%282021%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino%20HD1080P.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Anohana: La flor que vimos ese día
+http://ia801501.us.archive.org/9/items/AnoHanaPelicula/ano%20hana%20pelicula.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Bichos: Una Aventura en Miniatura (1998)
+http://archive.org/download/yo001an23m3/Bchsnvntrmntr.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Bright Samurai Soul (2021)
+http://archive.org/download/termico04/04.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Cars 2
+http://archive.org/download/2011_20220911/Cars%202%202011.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Ed Edd y Eddy La pelicula Todos contra los Eds
+http://ia801507.us.archive.org/26/items/EdEddNEddyLaPeliculaD3ja-D3-robar-Pu3rc0TodosContraLosEds/Ed,%20Edd%20n%20Eddy%20La%20Pelicula%20Todos%20contra%20los%20Eds.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - El Bart y El Loki
+http://archive.org/download/th3.g00d.th3.b4rt.l4nd.th3.l0k1.2021.hdrip.720p.latino/th3.g00d.th3.b4rt.l4nd.th3.l0k1.2021.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - el dragon de los Deseos (2021)
+http://ia601505.us.archive.org/23/items/tt5562070/tt5562070.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - El Extraño Mundo de Jack (1993)
+http://archive.org/download/ediB1u3ytados004/psdllntsdnvdd.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - El libro de la selva (live action)
+http://ia801207.us.archive.org/10/items/7H3.JUN6_201608/7H3.JUN613.800K-ES-360.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - El mundo de Coraline (2009) 360p
+http://archive.org/download/002_20220802/001.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - El mundo de Coraline (2009) 480p
+http://archive.org/download/002_20220802/002.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Enredados
+http://ia801500.us.archive.org/1/items/3NR3D4D0S2010/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Extintos (2021)
+http://archive.org/download/ediB1u3ytados004/xtnct21.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Happy Feet 1
+http://archive.org/download/tt0366548/tt0366548.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Happy Feet 2
+http://archive.org/download/tt1402488/tt1402488.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Hey Arnold: La pelicula de la selva
+http://ia801501.us.archive.org/33/items/4RN0LUN4P3L1JUNGL4/4RN0LUN4P3L1JUNGL4480.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Injustice (2021)
+http://archive.org/download/tt5012504/tt5012504.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Abeja Maya y El Orbe de Oro
+http://archive.org/download/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La era de hielo 3
+http://archive.org/download/H13LO13AEww5343lmalA745/H13LO3AEwwlmalA745.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La era de hielo 4
+http://archive.org/download/L2J31MVAm41nME3R43AH13LO4/L24J3MAAmwnME3R43AH13LIO4.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Familia Mitchell vs Las Máquinas (2021)
+http://archive.org/download/tt7979580/tt7979580.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Familia Monster 2 (2021)
+http://archive.org/download/13513151/4N4%20F4M1L14.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Leyenda de Ladydragón (2021)
+http://archive.org/download/miraculous-shanghai/tt12816634.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Patrulla Canina La Pelicula (2021)
+http://archive.org/download/p4ull4/p4ull4.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Las Chicas Superpoderosas
+http://www.mediafire.com/file/eyzai6omalb5kc5/L45Ch1c455up3rp0d3r0545.mp4/file
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego DC shazam magia y monstruos
+http://ia601409.us.archive.org/20/items/04_20200503/04.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego Hidden Side el devorador de mundos (2021)
+http://archive.org/download/termico03/02.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego monkie kid (2021)
+http://archive.org/download/termico03/01.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - LEGO Stars Wars Cuentos Escalofriantes (2021)
+http://archive.org/download/tt11125620/tt15164924.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los hermanos willoughby 2020 Pelicula de la gran N
+http://ia601501.us.archive.org/32/items/02_20200426_20200426_2008/03.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Jovenes Titanes en Acción! ven Space Jam
+http://archive.org/download/tt14851194/tt14851194.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Locos Addams 2 La Gran Escapada (2021)
+http://archive.org/download/tt11125620/tt11125620.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Simpson en Plusniversario (2021)
+http://archive.org/download/13513151/Los%20Simpson%20en%20Plusniversario%20%282021%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Mi pobre Angelito 1
+http://ia801507.us.archive.org/4/items/01_20201210/sub1d0_p4r4_5tre4m1ng/01.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Mi pobre Angelito 2
+http://ia801500.us.archive.org/7/items/01_20201210_20201210_1923/sub1d0_p4r4_5tre4m1ng/01.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - My Little Pony: Nueva Generación (2021)
+http://archive.org/download/tt10101702/tt10101702.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Nanatsu no Taizai 2 La Maldición De La Luz (2021)
+http://archive.org/download/tt11125620/tt13884144.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Nanatsu no Taizai Prisioneros Del Cielo (2018)
+http://archive.org/download/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com/th3.s3v3n.d34dly.s1ns.curs3d.by.l1ght.2021.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Pokemon: Los Secretos de la Selva
+http://archive.org/download/p0k3m0n.th3.m0v13.s3cr3ts.0f.th3.jungl3.2021.hdrip.720p.latino/p0k3m0n.th3.m0v13.s3cr3ts.0f.th3.jungl3.2021.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Raya y El Ultimo Dragon (2021)
+http://ia601407.us.archive.org/35/items/tt5109280/tt5109280.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - ROCK DOG 2: Renace Una Estrella
+http://archive.org/download/tt11207240_202111/tt11207240.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Space Jam: Nuevas Leyendas (2021)
+http://archive.org/download/tt3554046/tt3554046.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Spirit: el indomable (2021)
+http://archive.org/download/DSVSFD/DSVSFD.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - The Witcher: La pesadilla del lobo (2021)
+http://archive.org/download/ttRW11657662/ttRW11657662.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Tom y Jerry (2021)
+http://ia601506.us.archive.org/5/items/tt1361336/tt1361336.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Trollhunters: El despertar de los titanes (2021)
+http://archive.org/download/tr0llhunt3rs.r1s3.0f.th3.t1t4ns.2021.hdrip.720p.latino/tr0llhunt3rs.r1s3.0f.th3.t1t4ns.2021.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Trolls 2016
+http://ia801508.us.archive.org/12/items/Trolls.2016.BDRip.SPA.XviD/Trolls.2016.BDRip.SPA.XviD.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Una Casa de Locos: La Pelicula (2021)
+http://archive.org/download/tt6714432/tt6714432.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Uuups! 2 La aventura continua
+http://archive.org/download/35335535343/ooops-the-adventure-continues_2.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Vecinos Invasores (2006)
+http://archive.org/download/ediB1u3ytados004/V3c!n0s1nv@50r35.mp4
+#EXTINF:-1 group-title="ANIMACION", OFFLINE - Vivo (2021)
+http://archive.org/download/tt6338498/tt6338498.mp4
 #EXTINF:-1 group-title="ANIMACION",Los J�venes Titanes: Misi�n Tokio
 http://archive.org/download/solof1/733n_7174n5/14.mp4
 #EXTINF:-1 group-title="ANIMACION", tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Animal_Crossing_Fink_Heavy.png",Animal Crossing La pelicula
