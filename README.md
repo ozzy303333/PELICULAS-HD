@@ -1559,8 +1559,6 @@ http://archive.org/download/2018_20220816/Misi%C3%B3n%20Imposible%20Repercusi%C3
 http://archive.org/download/m1995/m1995.mp4
 #EXTINF:-1 group-title="Ungrouped",Mulan 2020 ESTRENO (480p HD)
 http://archive.org/download/00000_20200906/0000002.mp4
-#EXTINF:-1 group-title="Ungrouped",Offline: La vida no es un videojuego (DVD-RIP)
-http://archive.org/download/1_20191127_20191127_1730/10.mp4
 #EXTINF:-1 group-title="Ungrouped",Oigenes Desconocidos 2020 pelicula de la gran N (480p HD)
 http://archive.org/download/000_20201026/00007.mp4
 #EXTINF:-1 group-title="Ungrouped",Operación Trueno 1995 Jackie Chan
@@ -2457,110 +2455,6 @@ http://ia800903.us.archive.org/27/items/hufidilip_freehotmail_1_201902/sylvido_p
 http://ia800905.us.archive.org/17/items/xereg_maillink_1_20190215/syv1do_p4ra_str34m1ng_A85/1.mp4
 #EXTINF:-1 group-title="ANIMACION",Zathura: Una aventura espacial 2005
 http://ia801903.us.archive.org/35/items/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/11.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Alberto (2021)
-http://archive.org/download/13513151/Ciao%20Alberto%20%282021%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino%20HD1080P.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Anohana: La flor que vimos ese día
-http://ia801501.us.archive.org/9/items/AnoHanaPelicula/ano%20hana%20pelicula.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Bichos: Una Aventura en Miniatura (1998)
-http://archive.org/download/yo001an23m3/Bchsnvntrmntr.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Bright Samurai Soul (2021)
-http://archive.org/download/termico04/04.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Cars 2
-http://archive.org/download/2011_20220911/Cars%202%202011.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Ed Edd y Eddy La pelicula Todos contra los Eds
-http://ia801507.us.archive.org/26/items/EdEddNEddyLaPeliculaD3ja-D3-robar-Pu3rc0TodosContraLosEds/Ed,%20Edd%20n%20Eddy%20La%20Pelicula%20Todos%20contra%20los%20Eds.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - El Bart y El Loki
-http://archive.org/download/th3.g00d.th3.b4rt.l4nd.th3.l0k1.2021.hdrip.720p.latino/th3.g00d.th3.b4rt.l4nd.th3.l0k1.2021.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - el dragon de los Deseos (2021)
-http://ia601505.us.archive.org/23/items/tt5562070/tt5562070.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - El Extraño Mundo de Jack (1993)
-http://archive.org/download/ediB1u3ytados004/psdllntsdnvdd.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - El libro de la selva (live action)
-http://ia801207.us.archive.org/10/items/7H3.JUN6_201608/7H3.JUN613.800K-ES-360.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - El mundo de Coraline (2009) 360p
-http://archive.org/download/002_20220802/001.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - El mundo de Coraline (2009) 480p
-http://archive.org/download/002_20220802/002.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Enredados
-http://ia801500.us.archive.org/1/items/3NR3D4D0S2010/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Extintos (2021)
-http://archive.org/download/ediB1u3ytados004/xtnct21.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Happy Feet 1
-http://archive.org/download/tt0366548/tt0366548.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Happy Feet 2
-http://archive.org/download/tt1402488/tt1402488.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Hey Arnold: La pelicula de la selva
-http://ia801501.us.archive.org/33/items/4RN0LUN4P3L1JUNGL4/4RN0LUN4P3L1JUNGL4480.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Injustice (2021)
-http://archive.org/download/tt5012504/tt5012504.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Abeja Maya y El Orbe de Oro
-http://archive.org/download/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La era de hielo 3
-http://archive.org/download/H13LO13AEww5343lmalA745/H13LO3AEwwlmalA745.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La era de hielo 4
-http://archive.org/download/L2J31MVAm41nME3R43AH13LO4/L24J3MAAmwnME3R43AH13LIO4.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Familia Mitchell vs Las Máquinas (2021)
-http://archive.org/download/tt7979580/tt7979580.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Familia Monster 2 (2021)
-http://archive.org/download/13513151/4N4%20F4M1L14.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Leyenda de Ladydragón (2021)
-http://archive.org/download/miraculous-shanghai/tt12816634.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - La Patrulla Canina La Pelicula (2021)
-http://archive.org/download/p4ull4/p4ull4.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Las Chicas Superpoderosas
-http://www.mediafire.com/file/eyzai6omalb5kc5/L45Ch1c455up3rp0d3r0545.mp4/file
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego DC shazam magia y monstruos
-http://ia601409.us.archive.org/20/items/04_20200503/04.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego Hidden Side el devorador de mundos (2021)
-http://archive.org/download/termico03/02.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Lego monkie kid (2021)
-http://archive.org/download/termico03/01.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - LEGO Stars Wars Cuentos Escalofriantes (2021)
-http://archive.org/download/tt11125620/tt15164924.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los hermanos willoughby 2020 Pelicula de la gran N
-http://ia601501.us.archive.org/32/items/02_20200426_20200426_2008/03.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Jovenes Titanes en Acción! ven Space Jam
-http://archive.org/download/tt14851194/tt14851194.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Locos Addams 2 La Gran Escapada (2021)
-http://archive.org/download/tt11125620/tt11125620.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Los Simpson en Plusniversario (2021)
-http://archive.org/download/13513151/Los%20Simpson%20en%20Plusniversario%20%282021%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Mi pobre Angelito 1
-http://ia801507.us.archive.org/4/items/01_20201210/sub1d0_p4r4_5tre4m1ng/01.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Mi pobre Angelito 2
-http://ia801500.us.archive.org/7/items/01_20201210_20201210_1923/sub1d0_p4r4_5tre4m1ng/01.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - My Little Pony: Nueva Generación (2021)
-http://archive.org/download/tt10101702/tt10101702.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Nanatsu no Taizai 2 La Maldición De La Luz (2021)
-http://archive.org/download/tt11125620/tt13884144.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Nanatsu no Taizai Prisioneros Del Cielo (2018)
-http://archive.org/download/m4y4.y.3l.0rb3.d0r4d0.2021.hd.1080p.latino-verepeliculas.com/th3.s3v3n.d34dly.s1ns.curs3d.by.l1ght.2021.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Pokemon: Los Secretos de la Selva
-http://archive.org/download/p0k3m0n.th3.m0v13.s3cr3ts.0f.th3.jungl3.2021.hdrip.720p.latino/p0k3m0n.th3.m0v13.s3cr3ts.0f.th3.jungl3.2021.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Raya y El Ultimo Dragon (2021)
-http://ia601407.us.archive.org/35/items/tt5109280/tt5109280.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - ROCK DOG 2: Renace Una Estrella
-http://archive.org/download/tt11207240_202111/tt11207240.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Space Jam: Nuevas Leyendas (2021)
-http://archive.org/download/tt3554046/tt3554046.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Spirit: el indomable (2021)
-http://archive.org/download/DSVSFD/DSVSFD.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - The Witcher: La pesadilla del lobo (2021)
-http://archive.org/download/ttRW11657662/ttRW11657662.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Tom y Jerry (2021)
-http://ia601506.us.archive.org/5/items/tt1361336/tt1361336.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Trollhunters: El despertar de los titanes (2021)
-http://archive.org/download/tr0llhunt3rs.r1s3.0f.th3.t1t4ns.2021.hdrip.720p.latino/tr0llhunt3rs.r1s3.0f.th3.t1t4ns.2021.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Trolls 2016
-http://ia801508.us.archive.org/12/items/Trolls.2016.BDRip.SPA.XviD/Trolls.2016.BDRip.SPA.XviD.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Una Casa de Locos: La Pelicula (2021)
-http://archive.org/download/tt6714432/tt6714432.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Uuups! 2 La aventura continua
-http://archive.org/download/35335535343/ooops-the-adventure-continues_2.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Vecinos Invasores (2006)
-http://archive.org/download/ediB1u3ytados004/V3c!n0s1nv@50r35.mp4
-#EXTINF:-1 group-title="ANIMACION", OFFLINE - Vivo (2021)
-http://archive.org/download/tt6338498/tt6338498.mp4
 #EXTINF:-1 group-title="ANIMACION",Los J�venes Titanes: Misi�n Tokio
 http://archive.org/download/solof1/733n_7174n5/14.mp4
 #EXTINF:-1 group-title="ANIMACION", tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Animal_Crossing_Fink_Heavy.png",Animal Crossing La pelicula
